@@ -87,7 +87,6 @@ trojan://1234567890@164.92.178.103:443?security=tls&sni=kfm-bn0.pages.dev&type=w
 trojan://1234567890@79.137.205.162:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@144.31.120.120:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@91.107.246.122:2096?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-trojan://trojan@54.46.72.234:8025?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://1234567890@178.236.243.101:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@194.87.77.2:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@109.122.198.64:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
@@ -149,6 +148,7 @@ trojan://BxceQaOe@18.162.142.234:45947?allowInsecure=1&sni=t.me%2Fripaojiedian#�
 trojan://telegram-id-privatevpns@13.39.66.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls&sni=uk-1.fishchipsexpress.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+trojan://trojan@54.46.72.234:8025?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://f976ac58-b52a-4a54-9c8e-3d49fd365232@220.130.58.136:35501?allowInsecure=0&sni=green2.cdntencentmusic.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://11cfbea5-eae4-4654-8aa9-a9481f38dc42@220.130.58.136:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://852a0251-7fbd-4a07-a365-352695af950c@220.130.58.136:31103?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
@@ -185,7 +185,7 @@ trojan://BxceQaOe@57.180.10.241:4945?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://BxceQaOe@3.112.236.46:6313?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
-trojan://187dda4498be9ac4f28db939d5940185@160.16.85.33:4019?allowInsecure=0&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://1774240c00db2b77d5a99f6540c47b69@160.16.72.205:4019?security=tls&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://BxceQaOe@43.198.86.230:2960?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://telegram-id-privatevpns@3.124.229.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@51.44.109.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

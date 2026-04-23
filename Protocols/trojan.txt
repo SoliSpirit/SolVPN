@@ -29,7 +29,6 @@ trojan://BxceQaOe@54.46.4.240:38780?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#🇮🇸 Join+Telegram:@SolVPN 🇮🇸
 trojan://1234567890@77.110.96.220:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@72.56.111.177:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-trojan://1234567890@213.176.77.231:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@172.86.92.227:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@64.188.70.233:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
@@ -69,6 +68,7 @@ trojan://RmhZQ47pEm@180.131.145.169:18718?security=reality&sni=www.tesla.com&fp=
 trojan://1234567890@92.51.36.219:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://1234567890@103.228.171.213:2053?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@72.56.111.177:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://1234567890@77.110.117.248:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@148.253.215.61:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://1234567890@138.124.240.36:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://1234567890@2.27.35.199:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

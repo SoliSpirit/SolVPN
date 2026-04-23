@@ -1,10 +1,10 @@
-# 🌐 SolVPN - Free V2Ray Configs
+# 🌐 SolVPN - Бесплатные конфиги для V2Ray
 
-🔥 Fast, stable and secure connections
+🔥 Быстрые, стабильные и безопасные подключения
 
 ---
 
-## 📡 Subscription Links
+## 📡 Ссылки ссылок для подключения
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ Protocols
+## ⚙️ Протоколы
 
 - VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
 - VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
@@ -30,54 +30,54 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries Configs
+## 🌍 Конфиги для каждой страны
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
 ---
 
-## ✨ Features
+## ✨ Особенности
 
-- ✔️ Free & premium-like configs
-- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
-- ✔️ High speed optimized servers
-- ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
-- ✔️ One-click subscription support
-
----
-
-## 🚀 How to Use
-
-1. Open your V2Ray client (V2Box recommended)
-2. Go to Subscriptions
-3. Paste any link
-4. Click Update / Refresh
-5. Connect and enjoy
+- ✔️ Беслпатные конфиги премиум-качества
+- ✔️ Поддержка нескольких протоколов (VLESS / VMESS / SS / Trojan)
+- ✔️ Высокоскоростные оптимизированные сервера
+- ✔️ Регулярные обновлениы
+- ✔️ Легкое импортирование (V2Box / V2RayNG / Shadowrocket)
+- ✔️ Подписка по одному клику
 
 ---
 
-## ❓ FAQ
+## 🚀 Как использовать
 
-**Q: Is it free?**  
-A: Yes, completely free.
-
-**Q: Does it work on all apps?**  
-A: Yes, V2Box, V2RayNG, Shadowrocket supported.
-
-**Q: Why some links are slow?**  
-A: Servers vary by region and load.
+1. Откройте свой клиент V2Ray (рекомендуем V2Box)
+2. Перейдите в "Подключения"
+3. Вставьте любую ссылку
+4. Нажмите "Обновить"
+5. Подключайтесь и наслаждайтесь!
 
 ---
 
-## ⚠️ Disclaimer
+## ❓ FAQ (ЧаВО)
 
-- Publicly collected configs  
-- Performance may vary  
-- Use responsibly  
+**Q: Это беслпатно?**  
+A: Да, конечно, это беслпатно полностью!
+
+**Q: Это работает на всех приложения**  
+A: Да, поддерживаются V2Box, V2RayNG, Shadowrocket и другие.
+
+**Q: Почему некоторые ссылки работают плохо?**  
+A: Сервера для каждой страны разные и нагрузка тоже разная.
 
 ---
 
-## 🌐 Languages
+## ⚠️ ВНИМАНИЕ 
+
+- Эти конфиги найдены в публичном доступе 
+- Скорость может сильно варьироваться 
+- Используйте на свой страх и риск
+
+---
+
+## 🌐 Languages / Версии на других языках
 
 [English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | Русский | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | [Українська](README.uk.md)

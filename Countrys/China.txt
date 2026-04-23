@@ -125,3 +125,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06
 ss://YWVzLTI1Ni1nY206STRwMTFBNnZFSWNo@91.149.237.102:8388#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://83564060-4069-40b4-e657-adccef9c4b62@hk1.zywm.eu.org:443?&security=tls&fp=chrome&sni=hk1.zywm.eu.org&type=ws&headerType=none&host=hk1.zywm.eu.org&path=%2Fhhk#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@91.149.237.36:19081#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiI0My4xMzIuMTkyLjE2IiwicG9ydCI6Ijk1MjciLCJ0eXBlIjoibm9uZSIsImlkIjoiYWU4NjJlMWQtM2I4Yy00NDNhLTAyN2ItMzdjNmM2OWVmNDNjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

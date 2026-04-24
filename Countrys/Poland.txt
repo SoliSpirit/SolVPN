@@ -74,3 +74,4 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@51.68.155.153:443?encryption=none&f
 vless://4484eae9-e195-4adf-b2b5-ad0b9132162b@45.15.128.183:603?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek&security=reality&sni=www.amd.com&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmE2YTM3ZC04NzE1LTQ0MGQtOTQyYS1hM2U2YzIzYTkyOTA@43.199.59.218:42295#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@185.241.208.70:30047?&type=ws&headerType=none&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

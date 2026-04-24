@@ -127,3 +127,4 @@ ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@54.169.105.64:80#🇸🇬 Join+Telegram:@SolVPN
 ss://YWVzLTI1Ni1nY206OHlQRWgxemFRNmkx@192.124.176.82:8388#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.229.199.217:80#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://1774240c00db2b77d5a99f6540c47b69@160.16.124.17:32876?allowInsecure=0&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYXdfZldIZTFOODhLN01vbG55VV9R@172.236.152.96:62443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

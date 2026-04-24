@@ -5,7 +5,7 @@ vless://727193c6-2bee-44bf-bea4-089538c4e530@dashh.dashti.cyou:50711?type=tcp&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.33:7443?encryption=none&security=tls&sni=2026.hhhhh.eu.org&type=ws&host=2026.hhhhh.eu.org&path=%2F222.167.202.33%3A7443#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.2:7443?&security=tls&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.2%3A7443#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.60:7443?&security=tls&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.60%3A7443#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.45:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.45%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.23%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.14:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.14:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 trojan://1234567890@167.17.182.98:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

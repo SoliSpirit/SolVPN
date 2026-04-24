@@ -100,7 +100,6 @@ vless://fd8972d9-cf5e-11f0-9970-45e1d80c4039@5.253.59.44:8443?encryption=none&fl
 vless://Fluffy_VPN-r5G43YVg@145.249.115.14:443?security=reality&encryption=none&pbk=jOqD1rq73oQPoC1JEfFjHcOb85ezSdxKsd3Pb8UUMBY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=very-mega-best.top#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.91.202.224:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://1234567890@92.51.36.219:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
-trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://4bc1f812-c4a5-4085-8e86-270061cdc1c8@95.163.210.159:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

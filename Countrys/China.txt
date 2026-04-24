@@ -72,7 +72,6 @@ trojan://BxceQaOe@57.180.10.241:388?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨
 trojan://BxceQaOe@3.112.236.46:6313?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.2:443?allowInsecure=0&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@58.152.25.253:443?sni=t.me/ripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@83.229.121.78:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/@OnNetVpn&security=tls&encryption=none&insecure=0&host=powered-by-surena.configfarsi695fcee895881.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=powered-by-surena.configfarsi695fcee895881.workers.dev#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://26524cce-d514-4014-a426-365fb266a14d@188.209.141.114:56047?&security=tls&fp=chrome&sni=snippet.gfw.qzz.io&type=ws&headerType=none&host=snippet.gfw.qzz.io&path=%2Fdanfeng#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@hk.darknet.run:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk.darknet.run&fp=chrome&pbk=Jz86eEP-mzz7mV-S1YBmg05eeOeeezxTEOLoKlLjSXE&sid=a1b223d4&spx=/&type=tcp&headerType=none#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

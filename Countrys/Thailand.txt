@@ -4,3 +4,4 @@ vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&h
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZWQiLCJhZGQiOiIxNDMuMTQuMTA1LjE0MCIsInBvcnQiOiI4NDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjYyZDVmMTc4LWRhZWMtNDRmNy1kN2VkLWQ0MGI2Yzc4NmQ2ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@mangu1.zqjsqapi.com:443?encryption=none&security=tls&sni=mangu1.zqjsqapi.com&type=ws&host=mangu1.zqjsqapi.com&path=%2Fproxy#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3eWpmajY1bXlTUTJ3bk9rQjZFbDNE@150.95.85.12:22867#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
+vless://26524cce-d514-4014-a426-365fb266a14d@168.222.21.218:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#🇹🇭 Join+Telegram:@SolVPN 🇹🇭

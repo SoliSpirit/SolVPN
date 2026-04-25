@@ -417,7 +417,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://BxceQaOe@18.167.134.238:44386?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://ea8d14d4-ca12-4cd1-bcad-f0fa72f6eadc@us.vpnhi.ru:443?allowInsecure=1&encryption=none&host=us.vpnhi.ru&path=%2Fvpnws&security=tls&sni=us.vpnhi.ru&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-trojan://1234567890@82.21.117.137:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?allowInsecure=1&sni=ord2.edge-command.click#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@us2.404-it.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iJQK0wDw5QuWz00zl6H1j_10x7Y2RVcBntvF7KL3l1g&security=reality&sid=6308ee39a9dd2b3b&sni=google.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

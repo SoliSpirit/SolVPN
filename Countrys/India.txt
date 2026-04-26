@@ -19,3 +19,4 @@ vmess://eyJhZGQiOiJndG0xLmt0bXdhbi5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTRhNmZkMjIwOWY2MmE3@185.67.125.109:11201#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@65.0.104.223:80#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+vless://6810a725-9f09-4e44-89b1-0db4ad5003d1@38.76.205.24:16196?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=www.mysql.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=JZ-wjnzrf0Kr25tKSyDd8-iX4ciruu2bcdnEY8M7aT8&encryption=none#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

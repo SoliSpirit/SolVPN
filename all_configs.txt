@@ -1612,7 +1612,6 @@ vless://4fd2d5f6-d417-07d0-9331-e20afde2fcd2@109.120.189.91:443?encryption=none&
 vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@109.120.189.223:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b3da836c-d6d8-03e8-ba4a-0a7a54491924@5.188.140.35:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@173.249.210.53:17750?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳 @WangCai2#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇭🇺 Join+Telegram:@SolVPN 🇭🇺
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳@freev2configs#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
@@ -3140,3 +3139,5 @@ ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@35.178.239.196:80#🇬🇧 Join+Telegram:@SolVP
 ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ@46.17.40.12:60290#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg@195.58.49.26:40210#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv190.towersflowerss.com:443?allowInsecure=0&sni=srv190.towersflowerss.com&type=ws&host=srv190.towersflowerss.com&path=/#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://7f6a8bf3-e8fc-473e-8acb-acee6321ec40@8.6.112.6:443?allowInsecure=1&encryption=none&fp=chrome&host=tbp.zuhn.ir&path=/test&security=tls&sni=tbp.zuhn.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://YWVzLTI1Ni1nY206RE92TVhBWUdHN3U0Z2I2OEZJWVFDU2ZMZWJxMUJPakJ3ejA5am5qbVdR@134.199.149.225:8388#🇦🇺 Join+Telegram:@SolVPN 🇦🇺

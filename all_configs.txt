@@ -3124,3 +3124,4 @@ vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?Telegram=@Gozarg
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?encryption=none&path=/&security=none&type=ws#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 vless://913c6074-a747-492b-a7e9-5abfcad6369d@lv.milas.click:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=&fp=chrome&flow=xtls-rprx-vision&sid=4fa44664f6a566d3&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv162.towersflowerss.com:443?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@15.236.78.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

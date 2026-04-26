@@ -75,3 +75,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmE2YTM3ZC04NzE1LTQ0MGQtOTQyYS1hM2U2YzIzYTk
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@185.241.208.70:30047?&type=ws&headerType=none&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.87:52006?sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv2.towersflowerss.com:443?#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?sni=193.34.212.80.vhub.pro&alpn=h2&type=grpc&serviceName=/sequre/grpc/&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

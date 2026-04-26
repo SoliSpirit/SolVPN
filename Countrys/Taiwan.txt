@@ -160,3 +160,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 vless://bfa61a19-30d7-4292-89fe-e76d2dd5c5de@taipei1.ap221.com:443?sni=taipei.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.72.189:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.45.129.72:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.148.40:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼

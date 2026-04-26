@@ -441,3 +441,4 @@ trojan://telegram-id-privatevpns@63.181.194.157:22222?security=tls&alpn=http/1.1
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv162.towersflowerss.com:443?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3ae99729-5326-4f70-937d-fcdc6910f9c7@freeyx.cloudflare88.eu.org:443?allowInsecure=1&sni=do-fra1.862400.xyz&type=ws&host=do-fra1.862400.xyz&path=/announcement?ed=2048fp=random&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.87:52006?allowInsecure=0&sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7f6a8bf3-e8fc-473e-8acb-acee6321ec40@8.6.112.6:443?allowInsecure=1&encryption=none&fp=chrome&host=tbp.zuhn.ir&path=/test&security=tls&sni=tbp.zuhn.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

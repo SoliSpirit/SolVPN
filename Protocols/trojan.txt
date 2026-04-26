@@ -340,3 +340,4 @@ trojan://BxceQaOe@43.199.206.175:4886?allowInsecure=1&sni=t.me%2Fripaojiedian#�
 trojan://gRhMxPMmod@cc.websooj.site:443?security=tls&sni=cc.websooj.site&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/heh#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://e4756f1c-5ee3-487d-8a98-82bbc81f7e6b@jp.co2.vn:443?allowInsecure=1&sni=www.linemo.jp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://7212418a-c4e9-4378-8722-b34bda5f0467@t1.entrance.app.tdns.men:56401?allowInsecure=1&sni=work.weixin.qq.com&type=grpc&serviceName=weixin#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://telegram-id-privatevpns@15.236.78.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

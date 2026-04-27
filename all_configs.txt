@@ -3146,3 +3146,4 @@ trojan://13d29042-ab82-4195-9cd4-2bafc518e201@23.227.38.178:443?allowInsecure=1&
 vless://344caaec-e3ce-4113-ab72-db2b59f9b5c4@gtmaws.zfym.online:12507?allowInsecure=1&sni=live.bilibili.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 trojan://b5c64cdc-ec6b-47c6-83b3-732e6f31e150@56.155.89.207:12308?allowInsecure=1&sni=jp02.ulifeai.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?encryption=none&path=%2F&security=none&type=ws#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
+trojan://telegram-id-privatevpns@13.39.77.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

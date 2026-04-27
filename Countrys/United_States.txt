@@ -388,7 +388,6 @@ vless://e384913f-8863-47b4-8858-a84b68abb4a6@104.167.197.59:23335?encryption=non
 vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@158.51.99.69:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s394.ccgfw.top&path=&flow=&security=tls&sni=u710948u85f7s394.ccgfw.top&serviceName=ssp&mode=gun&alpn=#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://BxceQaOe@3.112.191.104:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://4e607c90-e3cf-4e02-9d3e-5aa5a5567f71@38.150.1.229:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sni=www.icloud.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@143.20.207.149:8443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.de5.net&type=ws&headerType=none&host=snippet.fgfw.de5.net&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c6690e9f-95e2-42ff-dae2-39616aedf451@107.174.155.79:2052?&type=ws&headerType=none&path=%2Fvideo#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://fac62eac-1eec-4260-a991-0cac2f8745a3@partner.zoom.us:80?&fp=chrome&type=ws&headerType=none&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://3ac6a6ca99f74941b1eaf892818e2ddb@194.33.45.157:443?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

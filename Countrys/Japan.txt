@@ -94,3 +94,4 @@ trojan://e4756f1c-5ee3-487d-8a98-82bbc81f7e6b@jp.co2.vn:443?allowInsecure=1&sni=
 ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.120:30312#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTI1Ni1nY206TE5meFR4cDlQeFpH@185.141.219.2:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://b5c64cdc-ec6b-47c6-83b3-732e6f31e150@56.155.89.207:12308?allowInsecure=1&sni=jp02.ulifeai.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?type=ws&path=/a12b0d31#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

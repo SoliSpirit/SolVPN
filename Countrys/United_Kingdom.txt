@@ -168,3 +168,4 @@ ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@35.178.239.196:80#🇬🇧 Join+Telegram:@SolVP
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv190.towersflowerss.com:443?allowInsecure=0&sni=srv190.towersflowerss.com&type=ws&host=srv190.towersflowerss.com&path=/#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.231.210:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.50.122.36:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://f1b31d32-0dc9-4141-9818-45a0e8dd213b@uk.baqi.indevs.in:39001?&type=ws&headerType=none&host=d0a6b4d945dbfc846b18fade7d631883.mobgslb.tbcache.com&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

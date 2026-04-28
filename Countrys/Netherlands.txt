@@ -280,3 +280,4 @@ vless://f392ccbe-6287-4cf8-97fc-243d91e8db57@node5.telegavpn.org:443?encryption=
 vless://cb1691ad-49cc-46a9-b734-91c109200c32@151.247.25.103:47030?security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.92.1.37:30047?encryption=none&path=%2F&security=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6fd9f786-d974-49d0-b5c4-397678de69a2@185.214.74.210:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://f3d64e7d-f7a8-4810-bace-46284a5ee1ce@104.20.6.134:443?encryption=none&security=tls&sni=cdna.fifacoin.top&type=ws&host=cdna.fifacoin.top&path=%2Fdownloader%2F13571#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

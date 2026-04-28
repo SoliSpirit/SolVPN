@@ -71,7 +71,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIEpvaW4rVGVsZWdyYW06
 vless://38d77ed6-9b7c-423d-a31e-27d1f625ad00@5.129.206.231:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jrKoM3Aiyeo-EnOxDsabEeIddFvfVpP3HOj0_bZ8dio&security=reality&sid=28a69741f82508c7&sni=ru.moktana.digital&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q21jUTZkRjhMRXlaVTBZc01qZ3U4@77.73.68.155:54106#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@vk.grizzlyvpn.work:443?type=tcp&security=reality&sni=vk.grizzlyvpn.work&fp=chrome&flow=xtls-rprx-vision&pbk=5VRdrOjXKSEfzv0b-rEeYA4B9azYQYC30NZK7y3ciCk&sid=225dd584800cd049#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
-ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@45.140.169.225:10974#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.225:40412#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@109.120.180.65:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=yandex.ru&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

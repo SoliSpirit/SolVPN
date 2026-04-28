@@ -1884,3 +1884,5 @@ vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?sni=finl9
 vless://26524cce-d514-4014-a426-365fb266a14d@195.54.170.66:8443?sni=e43zyc.cdn-edge-jp.fgfw.qzz.io&alpn=http/1.1%0A&type=ws&host=e43zyc.cdn-edge-jp.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#🇩🇰 Join+Telegram:@SolVPN 🇩🇰
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?sni=nlety.ksnodes.net&alpn=http/1.1%2Ch2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
 vless://bf263367-bb63-4663-b4a1-34946107a72e@gr-1.illusion-proxy.ru:443?security=reality&encryption=none&pbk=I-ltGSV73Fd08VfuP_XZ-mAAb2ZE3Ag4a_8ftaX0bz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gr-1.illusion-proxy.ru&sid=fe28038a#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=%2F#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://ab01acf6-1861-4db2-ae25-9d83fb3f7384@47.243.112.38:20221?&type=ws&headerType=none&path=%2Fab01acf6#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

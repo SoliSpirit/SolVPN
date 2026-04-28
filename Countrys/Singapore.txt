@@ -134,3 +134,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06
 vless://3ae99729-5326-4f70-937d-fcdc6910f9c7@ct.877774.xyz:443?allowInsecure=1&sni=do-sgp1.862400.xyz&type=ws&host=do-sgp1.862400.xyz&path=/announcement?ed=2048fp=random&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cHVZYVliYTkxRHlfbmhqUG5PbE1R@172.236.150.119:51515#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://77b19c69-9840-443d-a66b-f08c81b6950a@141.193.213.107:443?sni=sgeofho04.bpsg2026.top&type=ws&host=sgeofho04.bpsg2026.top&path=/images#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://63d7155f-a53a-4573-84cf-532d35c8127c@139.59.125.84:42821?type=ws&host=m.zoom.us&path=/FREE by Tharuwa (0767597317)#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

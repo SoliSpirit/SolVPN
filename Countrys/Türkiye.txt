@@ -54,3 +54,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjM1Njk2ZC03ODczLTRiMTUtOWIyMi03ZGFlM2EwYjY
 vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5ODU1ZjFmMC1hODAwLTQwZDQtOGIzOC1jN2QzZWI3OTMwMmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv18.datatowers.net:64534?fp=qq#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+ss://YWVzLTI1Ni1nY206SEdsenNLVXFhVGlDMFBTTEhuNmpUODNPWnZHaUxucEk@185.39.204.196:7918#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

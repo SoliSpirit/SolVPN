@@ -12,3 +12,4 @@ vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@87.236.146.32:443?encryption=none&f
 vless://d0436b64-3355-11f1-a772-ee3d4fb45757@45.12.109.68:8443?encryption=none&fp=chrome&pbk=ptB0MNa4af00sliOI07Lvz2yqw_jjay67tDgiDXzcg8&security=reality&sni=dropbox.com&type=tcp#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
 vless://53e6a6e2-3c4b-40b6-b2d2-5b3a1509011b@cz.unit-digital.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BCCiE78UurkweOYuNRHfrjyoHUjJ938X6VqN-mcTMnQ&security=reality&sid=47&sni=www.oracle.com&type=tcp#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
+trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?sni=ch-2.bexum.fun#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

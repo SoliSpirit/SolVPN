@@ -6,4 +6,4 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@139.84.235.99:443?type=ws&encryptio
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@139.84.235.99:443?type=ws&encryption=none&host=1-jk1.pages.dev&path=/&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=1-jk1.pages.dev#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0hhRnlENElwVzhXMkxD@102.37.237.190:443#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzWmtCWTNCWXl4OFU4d3My@20.87.107.99:443#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#🇿🇦 Join+Telegram:@SolVPN 🇿🇦

@@ -3179,3 +3179,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJhZGQiOiJzZy0yemEzbi5rbm90aWMuc3BhY2UiLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjdiN2MyOGU0LWY1NzAtNGI0ZS1iYTMzLWZlMjcxZDNlNjgyOCIsInNuaSI6InNnLTJ6YTNuLmtub3RpYy5zcGFjZSIsImhvc3QiOiJzZy0yemEzbi5rbm90aWMuc3BhY2UiLCJwYXRoIjoiL2Rvd25sb2FkIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vless://feca2089-d231-4f5f-9ec7-e745ab289518@sg.baqi.indevs.in:39001?&type=ws&headerType=none&host=d0a6b4d945dbfc846b18fade7d631883.mobgslb.tbcache.com&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://YWVzLTEyOC1nY206MGZhZTBjZWItNGI2ZC00YmFiLTlkM2MtNjEyYzc3YWU5YjJm@172.238.15.102:37769#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://b24484be-a335-472c-8dff-060ccd2b8f3b@xn-dns.onlineblog.ir:2083?&security=tls&sni=xn-de.shakhle.ir.&type=ws&headerType=none&host=xn-de.shakhle.ir.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

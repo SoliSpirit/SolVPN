@@ -107,6 +107,7 @@ vless://8c4604ef-749c-4b56-adf1-7da405002a21@franklinandwillow.com:2053?ed=2048&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.42:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@172.66.3.201:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://26524cce-d514-4014-a426-365fb266a14d@112.165.88.232:10002?&security=tls&fp=chrome&sni=mug.support.gfw.hidns.co&type=ws&headerType=none&host=mug.support.gfw.hidns.co&path=%2Fdanfeng%3Fed%3D2560#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@173.230.151.159:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fstream%2Fads&security=tls&sni=edt2.btxst.eu.cc&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://1234567890@167.17.182.98:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

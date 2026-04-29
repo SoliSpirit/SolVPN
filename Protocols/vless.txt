@@ -1910,3 +1910,4 @@ vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?security=realit
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.100:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.fh-aachen.de#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?allowInsecure=1&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://feca2089-d231-4f5f-9ec7-e745ab289518@sg.baqi.indevs.in:39001?&type=ws&headerType=none&host=d0a6b4d945dbfc846b18fade7d631883.mobgslb.tbcache.com&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://b24484be-a335-472c-8dff-060ccd2b8f3b@xn-dns.onlineblog.ir:2083?&security=tls&sni=xn-de.shakhle.ir.&type=ws&headerType=none&host=xn-de.shakhle.ir.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

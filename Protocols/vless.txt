@@ -995,7 +995,6 @@ vless://26524cce-d514-4014-a426-365fb266a14d@43.213.148.173:443?allowInsecure=0&
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.23%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.94.162:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=c8597fb67d55d9c4#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.210.196.158:36414?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://de73ea62-68e4-45e2-8cc3-87c6d4b23aa0@141.11.21.219:53458?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=a.sezar.top#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.59.217:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

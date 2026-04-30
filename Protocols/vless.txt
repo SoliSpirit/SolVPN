@@ -1031,7 +1031,6 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@108.162.198.166:443?&security=tls&f
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.58.46.132:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.sheilabelinda.ndjp.net&type=ws&headerType=none&host=snippet.sheilabelinda.ndjp.net&path=%2Fdanfeng#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=/vpnjantit#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://26524cce-d514-4014-a426-365fb266a14d@91.184.248.250:443?sni=e43zyc.cdn-edge-jp.fgfw.qzz.io&alpn=http/1.1%0A&type=ws&host=e43zyc.cdn-edge-jp.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@54.193.53.75:10002?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.indevs.in&type=ws&headerType=none&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10004?path=/vpnjantit&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c67f81df-34e8-4cb3-ab43-599585775fa9@144.31.128.137:443?type=tcp&security=reality&sni=fae.subv.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=8610a7e10fe0e931#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
 vless://c67f81df-34e8-4cb3-ab43-599585775fa9@144.31.129.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&security=reality&sid=28de1c8633d681dd&sni=fby.subv.ru&type=tcp#🇧🇾 Join+Telegram:@SolVPN 🇧🇾

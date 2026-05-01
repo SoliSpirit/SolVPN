@@ -1289,7 +1289,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.246.152.159:443?allowInsecure=1
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@7.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@hwefesw.aloiacs.shop:2087?mode=gun&security=tls&encryption=none&alpn=h3,h2&authority=&type=grpc&serviceName=&sni=TxLiD9gF4r.InDoSoXr.InFo#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@gyeisv.aloiacs.shop:2087?allowInsecure=1&alpn=h3,h2&encryption=none&security=tls&sni=Y6lGfTpXg7.TrAmVoKeLi.InFo&type=grpc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
-vless://47702dbb-6607-4d76-80e9-cd75327be3e7@162.159.38.119:443?allowInsecure=1&encryption=none&host=zrf-623.pages.dev&path=/proxyip=sjc.o00o.ooo:443&security=tls&sni=zrf-623.pages.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://26524cce-d514-4014-a426-365fb266a14d@38.76.149.214:39738?&security=tls&fp=chrome&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&headerType=none&host=xfxl35a.node-edge.gfw.hidns.co&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&path=%2Fassignment#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@64.186.239.78:443?&security=tls&fp=chrome&sni=snippet.danfeng.ee.cd&type=ws&headerType=none&host=snippet.danfeng.ee.cd&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.39.18:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -3254,3 +3254,4 @@ vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@62.50.146.35:9443?mode=multi&securi
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://dc17386d-4383-49f8-b11c-d9ea04ca2f7f@svip-hg.xiaobaivpn.icu:28808?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

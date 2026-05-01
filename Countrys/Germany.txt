@@ -422,3 +422,4 @@ vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?&type=ws&header
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdExWOXpKZDFyQ2dvRFFKY3llR0tSenNHRlBnLU5ZYg@87.120.187.107:9999#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b24484be-a335-472c-8dff-060ccd2b8f3b@xn-dns.onlineblog.ir:2083?&security=tls&sni=xn-de.shakhle.ir.&type=ws&headerType=none&host=xn-de.shakhle.ir.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@63.179.8.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@63.184.147.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

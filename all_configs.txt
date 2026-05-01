@@ -1844,7 +1844,7 @@ vless://ef092640-433a-4f17-99bd-d5d206435606@high-speed-test-01.linkpc.net:61234
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.185.28:2053?type=ws&security=tls&encryption=none&sni=zgtwylnhh.cc.cd&path=Telegram🇨🇳&host=zgtwylnhh.cc.cd#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://a0d9fda7-3694-4c6f-8486-b06f292b06a2@cf1.redforever.top:2087?security=tls&type=ws&headerType=&path=//ws?ed=2560&host=cdn.harchihast.com&sni=cdn.harchihast.com&fp=#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=%2Fdanfeng&security=tls&encryption=none&insecure=0&host=snippet.fgfw.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=snippet.fgfw.indevs.in#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
-trojan://BxceQaOe@16.163.150.32:5823?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@18.167.12.200:5823?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@43.198.185.44:9211?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@43.199.43.18:29666?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?security=tls&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=chrome#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
@@ -2886,7 +2886,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGM4ZWVkYS1mZGZiLTQ2NjAtOGNlYi0zZTg3Mjk1NmN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ@82.117.225.66:20003#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 trojan://BxceQaOe@18.183.212.72:39507?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@16.163.106.216:11097?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://BxceQaOe@16.163.106.216:49534?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://BxceQaOe@18.162.96.119:49534?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://telegram-id-privatevpns@51.102.234.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@144.31.220.136:25565?encryption=none&fp=chrome&pbk=n00VSaVEImUfNI-8882Ecum-Er2KIHLg32Y-MWQGeh8&security=reality&sni=hypixel.net&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@40.120.41.82:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
@@ -3236,3 +3236,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJjcC5wYWVhZGl5LmNvbSIsInBvcnQiOiIyMTUwMiIsInR5cGUiOiJub25lIiwiaWQiOiI3ZjNkYmM2MS1mMTQwLTM3YzQtOWZiZC1lYzY0OWVhMmQ3OTIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiY3AucGFlYWRpeS5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJjcC5wYWVhZGl5LmNvbSIsInBvcnQiOiIyNTAxIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdmM2RiYzYxLWYxNDAtMzdjNC05ZmJkLWVjNjQ5ZWEyZDc5MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJjcC5wYWVhZGl5LmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://telegram-id-privatevpns@63.184.147.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://69ecb45889d99f31b8ccc10bf8f76a72@18.163.99.54:53018?allowInsecure=1&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@18.163.116.37:4203?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vmess://eyJhZGQiOiJjZi5zY3BuYi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InNlZ21lbnQtc2VsZi11bml0ZWQtdmFyaWF0aW9uLnRyeWNsb3VkZmxhcmUuY29tIiwiaWQiOiI3NDBhMGIxZS1mODk0LTRjZTctOTllZC0zNzJkNzk2MTkzN2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNzQwYTBiMWUtZjg5NC00Y2U3LTk5ZWQtMzcyZDc5NjE5MzdjLXZtIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJzY3kiOiJhdXRvIiwic25pIjoic2VnbWVudC1zZWxmLXVuaXRlZC12YXJpYXRpb24udHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=

@@ -180,7 +180,6 @@ trojan://WF42809561@nearby-muskrat.rooster465.autos:443?allowInsecure=0&sni=near
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@54.168.243.160:21413?allowInsecure=0&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://telegram-id-privatevpns@13.37.210.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://telegram-id-privatevpns@51.44.121.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://1234567890@95.164.123.131:8443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1774240c00db2b77d5a99f6540c47b69@160.16.132.38:4380?sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@16.162.188.208:25675?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@18.167.134.238:44386?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

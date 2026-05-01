@@ -333,7 +333,6 @@ vless://0ca20960-99aa-4c92-b44d-e08829ef1a69@193.23.211.125:30385?encryption=non
 vless://816be889-2d68-4941-acf5-94662015811c@vpn5.osaku.ru:12436?encryption=none&fp=chrome&pbk=8hRsFW43gU0_uB-RhXw0N4Q8gXVlNjlIAWmFnltm6gg&security=reality&sid=41eccb&sni=yahoo.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7d40449f-92df-4256-9607-679241455d49@144.31.197.250:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xFK9hFrgSLkNeStFFk3gi9BLxWxFNHSd8ID9SyHCAAo&security=reality&sni=n.sni-347-default.ssl.fastly.net&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMDJYOXA5Q3FuM0ljNGw2UHlKTUY4@185.223.82.82:10021#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-trojan://1234567890@95.164.123.131:8443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?security=tls&sni=fra35.chasem2026sud.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://43e322c8-e044-4625-a560-9bfec45e0eae@37.221.125.16:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

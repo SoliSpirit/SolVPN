@@ -283,3 +283,4 @@ vless://f3d64e7d-f7a8-4810-bace-46284a5ee1ce@104.20.6.134:443?encryption=none&se
 vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?allowInsecure=1&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@62.50.146.35:9443?mode=multi&security=reality&encryption=none&type=grpc&flow=&pbk=GdCtxJAti3DA8oTu9KkFHjCz1yRGGZB_4NZIBuQxc28&sid=abc5168218c8749c&sni=raw.githubusercontent.com&servername=raw.githubusercontent.com&spx=/&fp=chrome&serviceName=www.apple.com:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?allowInsecure=0&sni=HL-FREEDOM-1.UNDEF.NETWORK&ws=1&wspath=%2Ff2fc2a1f#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -92,7 +92,6 @@ trojan://BxceQaOe@58.152.25.253:443?sni=t.me/ripaojiedian#🇨🇳 Join+Telegram
 trojan://1774240c00db2b77d5a99f6540c47b69@160.16.106.99:3057?sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
 trojan://1234567890@167.17.182.98:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-trojan://1234567890@82.21.117.137:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://trojan@152.53.45.251:8888?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F%2F#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

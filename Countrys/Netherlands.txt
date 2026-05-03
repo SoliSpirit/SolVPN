@@ -286,3 +286,6 @@ vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@62.50.146.35:9443?mode=multi&securi
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?allowInsecure=0&sni=HL-FREEDOM-1.UNDEF.NETWORK&ws=1&wspath=%2Ff2fc2a1f#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEiLCJhZGQiOiJ2MzAuaGRhY2QuY29tIiwicG9ydCI6IjMwODMwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJicGJnLmFuZ3Vzd2VuLnRvcCIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.92.1.35:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.68:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.67:30047?encryption=none&path=/&security=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

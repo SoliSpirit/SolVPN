@@ -767,7 +767,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=%2F&securit
 vless://60c4d55d-bee3-4719-9568-aabf45153f9f@c6y.0c0.ccwu.cc:80?encryption=none&security=none&sni=c6y.0c0.ccwu.cc&type=ws&host=c6y.0c0.ccwu.cc&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.14:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
-vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de3.teleport.lat&fp=chrome&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.86:8443?&security=tls&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?telegram#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@23.94.61.157:34237?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fforum%2Fhot&security=tls&sni=edt2.btxst.eu.cc&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.251.43:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
@@ -3273,3 +3273,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.45.170.27:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.216:40412#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ==@46.17.42.114:40129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@20.90.187.128:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

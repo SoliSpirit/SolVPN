@@ -3287,3 +3287,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.182.30:52006?allowInsecure=1&sni=cl-de-1.edgeflux.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.110:30312#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@103.136.150.207:40210#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://Y2hhY2hhMjAtcG9seTEzMDU6RnpuRVRTOERVODBNU3czbnlTM2hRU25V@199.195.254.136:23851#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

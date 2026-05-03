@@ -1953,3 +1953,4 @@ vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.68:30086?encryption=none&
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.67:30047?encryption=none&path=/&security=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.141.215.51:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

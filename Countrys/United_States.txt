@@ -271,7 +271,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.177.165.17:443?security=tls&typ
 vless://26524cce-d514-4014-a426-365fb266a14d@platform.wise.com:2053?&security=tls&fp=chrome&sni=m834s7cv.chinam.eu.org&type=ws&headerType=none&host=m834s7cv.chinam.eu.org&path=%2Fdanfeng%3Fed%3D2560#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://26524cce-d514-4014-a426-365fb266a14d@198.41.219.192:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUkdycDZabmRwZUxuc2Nr@104.211.63.232:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@129.146.48.121:2052?&security=tls&sni=snippet.danfeng.dedyn.io&type=ws&headerType=none&host=snippet.danfeng.dedyn.io&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@146.235.199.164:443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@150.230.33.247:19131?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://1774240c00db2b77d5a99f6540c47b69@160.16.72.205:4019?security=tls&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

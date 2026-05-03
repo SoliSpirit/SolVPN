@@ -3274,3 +3274,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.216:40412#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ==@46.17.42.114:40129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@20.90.187.128:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+trojan://telegram-id-privatevpns@52.57.232.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.92.1.35:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.68:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.67:30047?encryption=none&path=/&security=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.141.215.51:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

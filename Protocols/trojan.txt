@@ -285,3 +285,4 @@ trojan://39edcbab-49dd-4326-9f77-305c2e45d45c@svip-sg.xiaobaivpn.icu:28815?secur
 trojan://telegram-id-privatevpns@52.57.232.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://telegram-id-privatevpns@15.236.94.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://telegram-id-privatevpns@13.39.30.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

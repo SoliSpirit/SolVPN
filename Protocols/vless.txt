@@ -814,7 +814,6 @@ vless://add14a5b-f648-4423-8a1f-8b8f54c0daef@195.154.200.13:17401?encryption=non
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=/39427/Nextlife&security=none&encryption=none&host=telewebion.com&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.220.88.180:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/techbod?ed=2560&Telegram🇨🇳@techbod#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@61.79.126.130:15018?&security=tls&fp=random&alpn=http/1.1&sni=snippet.chinav.eu.cc&type=ws&headerType=none&host=snippet.chinav.eu.cc&path=%2Fdanfeng#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?encryption=none&security=none&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://10f11182-a46e-42fc-9fec-f81baa39fa3a@140.248.165.204:80?path=/containers/fi&security=none&encryption=none&host=wellcome-losangles.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

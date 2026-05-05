@@ -267,6 +267,7 @@ vless://26524cce-d514-4014-a426-365fb266a14d@192.3.127.51:8443?&security=tls&fp=
 trojan://BxceQaOe@54.199.30.7:28680?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.204.227.171:2053?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v6.carwashipdir.shop&alpn=h2&insecure=1&allowInsecure=1&type=grpc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://26524cce-d514-4014-a426-365fb266a14d@149.248.36.162:443?sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfengfp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.19.131:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.177.165.17:443?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳+@WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://26524cce-d514-4014-a426-365fb266a14d@platform.wise.com:2053?&security=tls&fp=chrome&sni=m834s7cv.chinam.eu.org&type=ws&headerType=none&host=m834s7cv.chinam.eu.org&path=%2Fdanfeng%3Fed%3D2560#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

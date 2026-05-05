@@ -7,3 +7,4 @@ vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-27.de-nfast.com
 vmess://eyJhZGQiOiIyMTYuMjM4Ljg2LjE1OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5MGJlMjE0ZC0wNDhjLTRlYTItYTYwMi1iOGU0ZDRlNTFlMzYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDQ2MCIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmQiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?encryption=none&path=/&security=none&type=ws#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv189.towersflowerss.com:65000?encryption=none&path=%2F&security=none&type=ws#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#🇲🇽 Join+Telegram:@SolVPN 🇲🇽

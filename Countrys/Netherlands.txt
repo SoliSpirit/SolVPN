@@ -290,3 +290,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🇳�
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.92.1.35:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.68:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.67:30047?encryption=none&path=/&security=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8f59feef-aab9-4e0b-924c-2a31bb8f446f@94.156.117.239:30086?type=grpc&serviceName=gprc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

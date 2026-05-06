@@ -292,3 +292,4 @@ vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.68:30086?encryption=none&
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.67:30047?encryption=none&path=/&security=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8f59feef-aab9-4e0b-924c-2a31bb8f446f@94.156.117.239:30086?type=grpc&serviceName=gprc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@polsha.pineappled.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com&spx=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSzEyN21PQ3U2Q0NpaFFTYVlRdHZx@5.253.59.156:32140#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

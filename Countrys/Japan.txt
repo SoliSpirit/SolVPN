@@ -110,3 +110,4 @@ trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.110:30312#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://ba62c023f9bce796ae334fecb20ef7cc@18.179.108.192:11541?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://ba62c023f9bce796ae334fecb20ef7cc@18.162.168.19:8066?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://BxceQaOe@bb.bejkn.cn:6463?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

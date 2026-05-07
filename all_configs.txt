@@ -3354,3 +3354,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.134:8
 trojan://telegram-id-privatevpns@3.123.135.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@50.7.113.162:443?type=grpc&security=reality&fp=chrome&pbk=6_rpeumu-IKDzYPxNBgBJ0NT9ReeApZMLguTppqTs1Q&sni=steamcommunity.com#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 trojan://BxceQaOe@54.248.66.236:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://telegram-id-privatevpns@15.224.94.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

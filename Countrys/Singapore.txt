@@ -152,3 +152,4 @@ vless://fac62eac-1eec-4260-a991-0cac2f8745a3@141.193.213.21:80?type=ws&host=free
 trojan://ba62c023f9bce796ae334fecb20ef7cc@54.46.2.55:4840?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://ba62c023f9bce796ae334fecb20ef7cc@18.179.108.192:2511?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@43.199.253.121:2074?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://74988350-8b14-4924-b8a2-c3aac967bf28@sg1.ap221.com:443?sni=sg.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

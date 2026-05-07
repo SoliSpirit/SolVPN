@@ -3356,3 +3356,4 @@ trojan://BxceQaOe@54.248.66.236:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://telegram-id-privatevpns@15.224.94.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://74988350-8b14-4924-b8a2-c3aac967bf28@sg1.ap221.com:443?sni=sg.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://4e7bd311-d91e-4a85-aa08-121313cf50d9@ohio1.ap221.com:443?sni=ohio.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=/&security=none&type=ws#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

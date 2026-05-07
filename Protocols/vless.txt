@@ -1992,3 +1992,4 @@ vless://2bfea3fd-6826-480c-917d-e3bc99b47a0f@193.233.133.55:443?encryption=none&
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@50.7.113.162:443?type=grpc&security=reality&fp=chrome&pbk=6_rpeumu-IKDzYPxNBgBJ0NT9ReeApZMLguTppqTs1Q&sni=steamcommunity.com#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://74988350-8b14-4924-b8a2-c3aac967bf28@sg1.ap221.com:443?sni=sg.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://4e7bd311-d91e-4a85-aa08-121313cf50d9@ohio1.ap221.com:443?sni=ohio.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=/&security=none&type=ws#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

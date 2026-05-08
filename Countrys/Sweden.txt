@@ -50,3 +50,4 @@ vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@tr-1.illusion-vpn.ru:52000?type=tcp
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@193.23.200.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl2-gws4.onnstreaming.ru&fp=chrome&pbk=fN3l3mYSDO44IWNPHWOQo2JMUw2isUGoOqrS6hCFfBQ&sid=d1f93724859d75ac&type=tcp&headerType=none#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?allowInsecure=0&sni=yespaintstudio.rav-kraski.ru#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0T0xjaVcyc1FIVTJZQ0tQWkpQVklI@46.246.93.107:12138#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

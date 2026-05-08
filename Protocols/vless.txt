@@ -2006,3 +2006,4 @@ vless://0b89c53e-1d55-463f-90d7-f28b0e17b8a7@45.15.160.132:443?security=reality&
 vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.45:443?security=reality&encryption=none&echfq=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=23#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.154:2083?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@84.32.129.194:8443?&security=tls&sni=1-aym.pages.dev&type=ws&headerType=none&host=1-aym.pages.dev&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a@s298.okgg.top:443?sni=3556s298.okgg.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

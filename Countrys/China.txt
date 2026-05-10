@@ -154,3 +154,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.78:40210#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a@s298.okgg.top:443?sni=3556s298.okgg.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://dbc8a309-f85a-492b-a044-fc8aa374fac4@18.162.112.209:443?allowInsecure=1&sni=hk.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://9f1d6cb6-b2fb-4813-8351-383b72749e2c@hkcn2.baqi.indevs.in:39001?type=ws&host=d0a6b4d945dbfc846b18fade7d631883.mobgslb.tbcache.com&path=/#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

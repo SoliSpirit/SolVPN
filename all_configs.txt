@@ -3429,3 +3429,6 @@ vless://9f1d6cb6-b2fb-4813-8351-383b72749e2c@malaysia.baqi.indevs.in:39010?type=
 vless://1235d730-707c-4a11-8ce3-ebb17561564b@45.12.133.207:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=4dd1&pbk=0T96I8dvAUF7BxhbwTp0PfFfy9AHFDsXXpwDnP0i224#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJtLmNubWppbi5uZXQiLCJwb3J0IjoiMTY2MTciLCJ0eXBlIjoibm9uZSIsImlkIjoiZjM2NTYzMGQtMTViNS00YmQ0LWFkNTUtYWE2Mjg0ZDdiZTMwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiOGE2ODdkYTk0NThjYzQ2ZTgwYWJjODVlYzhkOGFkYTcubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@15.206.82.205:80#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.229.61.103:80#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.90.251.133:80#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

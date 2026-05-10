@@ -153,3 +153,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiJ3d3cudmlzYS5jb20iLCJwb3J0Ijo0NDMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjY3ZjRiOGZmLTE1Y2YtM2VjOS1iMDlkLWMzMWE0NzI4YzY1MiIsInNuaSI6ImRvd25sb2FkLndpbmRvd3MxMS5kcGRucy5vcmciLCJob3N0IjoiZG93bmxvYWQud2luZG93czExLmRwZG5zLm9yZyIsInBhdGgiOiIvZGF0YSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.78:40210#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a@s298.okgg.top:443?sni=3556s298.okgg.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://dbc8a309-f85a-492b-a044-fc8aa374fac4@18.162.112.209:443?allowInsecure=1&sni=hk.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

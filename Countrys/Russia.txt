@@ -104,3 +104,4 @@ ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.216:40412#🇷🇺 Join
 ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ==@46.17.42.114:40129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206OWNhMjgwM2MxNmRlNzJjZA@46.17.41.191:60129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ@185.22.154.104:9012#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.72:52006?sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

@@ -161,3 +161,4 @@ vless://39039c78-41a2-45f1-a64d-f6818efcae03@172.104.161.138:27420?path=/FREE By
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.229.61.103:80#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@47.128.72.35:80#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@43.206.119.178:5159?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://abb011d5-2749-4fba-9a66-0eb7b1b14d1e@lt-sin.ltdns.top:37043?allowInsecure=1&sni=www.ithome.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

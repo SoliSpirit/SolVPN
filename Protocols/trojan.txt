@@ -310,3 +310,5 @@ trojan://BxceQaOe@116.80.61.236:443?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://BxceQaOe@43.206.119.178:5159?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://7ebc402f3383366fe4f554abd8625439@54.249.141.77:6604?allowInsecure=1&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://telegram-id-privatevpns@13.37.161.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://9c851606-9722-42fc-a1c1-175c3c82a7ae@jp3.998998.best:443?allowInsecure=1&sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=/w4e5yh0p945y3?ed=2560#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://abb011d5-2749-4fba-9a66-0eb7b1b14d1e@lt-sin.ltdns.top:37043?allowInsecure=1&sni=www.ithome.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

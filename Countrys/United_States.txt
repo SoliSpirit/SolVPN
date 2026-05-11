@@ -541,3 +541,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.228.135.238:2053?allowInsecure=
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@54.196.98.148:80#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.90.251.133:80#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://7ebc402f3383366fe4f554abd8625439@54.249.141.77:6604?allowInsecure=1&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@100.52.237.113:80#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -2035,3 +2035,4 @@ vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@46.149.66.90:443?security=reality&e
 vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.72:52006?sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?type=tcp&security=reality&fp=chrome&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb&sni=yahoo.com#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -260,7 +260,7 @@ vless://4262ba73-f5ba-03e8-9714-a2a8a19ae6d8@109.120.191.8:443?flow=xtls-rprx-vi
 vless://a0d9fda7-3694-4c6f-8486-b06f292b06a2@cf1.redforever.top:2087?security=tls&type=ws&headerType=&path=//ws?ed=2560&host=cdn.harchihast.com&sni=cdn.harchihast.com&fp=#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@52.57.221.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@porno.vles.space:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vPIZ0IepAniEqo1RIMOc_8RuRpE6bshUm5kPE4baiFk&security=reality&sni=cdn.vkvideo.ru&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://249839ff-2a99-4ecb-a81d-b7e4d6c397b8@72.56.121.206:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sni=5post-gate.x5.ru&spx=/&echfq=none&allowinsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.87.24.107:8443?encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-21.userapi.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.87.24.101:8443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

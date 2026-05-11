@@ -2034,3 +2034,4 @@ vless://8f25d191-c31c-4d07-86ec-db01fe1085d9@london1.ap221.com:443?sni=london.ap
 vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@46.149.66.90:443?security=reality&encryption=none&echfq=none&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.72:52006?sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

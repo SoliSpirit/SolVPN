@@ -162,3 +162,4 @@ ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.229.61.103:80#🇸🇬 Join+Telegram:@SolVPN
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@47.128.72.35:80#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@43.206.119.178:5159?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://abb011d5-2749-4fba-9a66-0eb7b1b14d1e@lt-sin.ltdns.top:37043?allowInsecure=1&sni=www.ithome.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://70b2ab78-b430-4455-a172-dd2ab0bee668@shadownetxfree.zorox.store:443?allowInsecure=1&sni=netflix.com&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

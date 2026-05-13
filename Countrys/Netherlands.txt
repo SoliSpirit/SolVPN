@@ -301,3 +301,4 @@ vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vruaz.mostserv.xyz:443?encryption=n
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&security=tls&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&fp=chrome&sni=cdn.tracker.yandex.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptdFo2UllvYUZaMW9keUFSazktWU5wU0pvd0VKdVA0Ng@45.12.62.62:1234#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

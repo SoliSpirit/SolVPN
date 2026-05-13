@@ -138,7 +138,7 @@ vless://ad29665d-4900-4e67-8059-a1cec75c7502@172.67.141.105:443?allowInsecure=1&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:2096?encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ilop.uk2033.ccwu.cc:443?path=/XCLcnSashhgSVE3HOw1VI85y&security=tls&host=ilop.uk2033.ccwu.cc&type=ws&sni=ilop.uk2033.ccwu.cc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b0491d8b-be53-4e6c-96ea-67aa5c7ff83b@104.21.41.72:443?encryption=none&security=tls&sni=s-t-y-u-i-o.956.pp.ua&type=ws&host=s-t-y-u-i-o.956.pp.ua&path=%2FeWavAKwTbFBQfXxcM5Layut#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-ss://YWVzLTI1Ni1nY206U003V1l0QXd2Qk9SWEtqSQ@154.53.63.42:80#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206U003V1l0QXd2Qk9SWEtqSQ@154.53.63.42:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://60c4d55d-bee3-4719-9568-aabf45153f9f@c6y.0c0.ccwu.cc:80?encryption=none&security=none&sni=c6y.0c0.ccwu.cc&type=ws&host=c6y.0c0.ccwu.cc&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de3.teleport.lat&fp=chrome&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://26524cce-d514-4014-a426-365fb266a14d@149.248.36.162:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfengfp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -43,7 +43,7 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@5.253.41.52:8443?security=reality&e
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@52.195.220.53:21508?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?security=reality&encryption=none&pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&headerType=none&fp=chrome&type=tcp&sni=www.autodesk.com&sid=860705e716cbe6ed#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
-vless://42add63b-deda-4e71-aa48-ddd288181858@140.238.51.35:443?encryption=none&security=tls&sni=edtunnel-eiz.pages.dev&type=ws&host=edtunnel-eiz.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://162534@43.165.178.147:8443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@52.194.222.108:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://26524cce-d514-4014-a426-365fb266a14d@168.93.214.126:24411?allowInsecure=0&sni=mug.support.gfw.hidns.co&type=ws&host=mug.support.gfw.hidns.co&path=/danfengfp=chrome&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTI1Ni1nY206MDY5MDY1OTc0Njk4MGM0Ng@167.17.179.197:60129#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

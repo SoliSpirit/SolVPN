@@ -547,3 +547,4 @@ vmess://eyJhZGQiOiJmcmVlLXY3LTA5LmVsYnJ1c3dheS5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiI2NC4xODYuMjMzLjEzMSIsInBvcnQiOiIxMDA4NiIsInR5cGUiOiJub25lIiwiaWQiOiIxZWViNTVmMi04NTE2LTQ2ZjMtOGM3Yi0xN2RiMWRlMWRmOWIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@2.27.7.250:8388#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoazFTZHlSV2JZaTNJZ3hlb3c5SmRO@142.93.73.182:45389#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@34.136.119.149:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@Pirimod#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -4,6 +4,7 @@ trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&ho
 trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?security=tls&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://795ef99b-3260-4d18-ac98-5130bba9f168@nji9768.006660666.xyz:443?security=tls&sni=nji9768.006660666.xyz&alpn=http/1.1&type=ws&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1&allow_insecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?security=tls&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:1281?security=tls&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?security=tls&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

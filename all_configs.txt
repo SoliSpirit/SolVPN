@@ -3603,3 +3603,4 @@ trojan://BxceQaOe@52.195.173.99:44079?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@54.46.53.9:2702?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://9d59677e-df00-4918-bb03-e428cfc7c606@de6.safepass.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@usvless.yydzx.xyz:17965?allowInsecure=0&sni=usvless.yydzx.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.60.96:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.dynv6.net&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

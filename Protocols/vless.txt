@@ -2070,3 +2070,4 @@ vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@144.31.207.111:443?encryption=none&
 vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@sgvless.yydzx.xyz:16460?allowInsecure=0&sni=sgvless.yydzx.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?allowInsecure=0&sni=pl194.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://9d59677e-df00-4918-bb03-e428cfc7c606@de6.safepass.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@usvless.yydzx.xyz:17965?allowInsecure=0&sni=usvless.yydzx.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -3602,3 +3602,4 @@ trojan://telegram-id-privatevpns@35.156.35.32:22222?security=tls&alpn=http/1.1&h
 trojan://BxceQaOe@52.195.173.99:44079?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@54.46.53.9:2702?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://9d59677e-df00-4918-bb03-e428cfc7c606@de6.safepass.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@usvless.yydzx.xyz:17965?allowInsecure=0&sni=usvless.yydzx.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

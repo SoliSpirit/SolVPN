@@ -97,3 +97,4 @@ vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=rea
 vless://aef7716a-d0a5-4a85-9cb0-fda41d9f34b0@109.172.54.70:2040?encryption=none&fp=chrome&pbk=b6DZwkKAeXf3wjXrL6iV6dTt1Crpv2o88LRDJRgFglE&security=reality&sid=b589db8f02882bae&sni=eh.vk.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@152.89.244.75:8443?security=reality&type=tcp&sni=www.vk.ru&fp=chrome&sid=421f9e3c&pbk=lfN9fmmMeh4znL74ZdEelvszEqf7600g3oeZMQc6G0Q&encryption=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aUY1bll5VE1TUU5BYlBCREVjRWRr@109.107.182.229:51544#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?type=tcp&encryption=none&security=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

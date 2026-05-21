@@ -89,3 +89,4 @@ vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv181.towersflowerss.com:443?type=
 vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv181.towersflowerss.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&path=/&security=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@bsex.serv00.net:50401?encryption=none&path=/&security=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv181.towersflowerss.com:443?encryption=none&path=%2F&security=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@beichuan.serv00.net:9815?encryption=none&host=beichuan.serv00.net&path=/&security=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

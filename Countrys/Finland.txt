@@ -95,3 +95,4 @@ vless://0eab3e6d-7202-40b4-9577-a01ef670a368@138.124.99.126:443?flow=xtls-rprx-v
 vless://b296d621-d830-4bee-8433-bd940e89a25a@chatgpt.com:8443?alpn=http/1.1&encryption=none&fp=chrome&host=dl.mincroft.top&path=/&security=tls&sni=dl.mincroft.top&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&type=tcp&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=88acba&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&encryption=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://aef7716a-d0a5-4a85-9cb0-fda41d9f34b0@109.172.54.70:2040?encryption=none&fp=chrome&pbk=b6DZwkKAeXf3wjXrL6iV6dTt1Crpv2o88LRDJRgFglE&security=reality&sid=b589db8f02882bae&sni=eh.vk.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@152.89.244.75:8443?security=reality&type=tcp&sni=www.vk.ru&fp=chrome&sid=421f9e3c&pbk=lfN9fmmMeh4znL74ZdEelvszEqf7600g3oeZMQc6G0Q&encryption=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

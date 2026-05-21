@@ -456,3 +456,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06
 vless://846e2fc1-0910-4459-b364-1859900e0bcc@83.147.255.191:8443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@35.156.35.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://9d59677e-df00-4918-bb03-e428cfc7c606@de6.safepass.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://57565f1e-d42a-49a0-a909-5fff0f07b146@91.107.188.182:443?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

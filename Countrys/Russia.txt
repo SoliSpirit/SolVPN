@@ -108,3 +108,4 @@ vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.181.72:52006?sni=cluster-eur
 ss://YWVzLTEyOC1nY206Njc4NGFlZTItMGRmZS00NzRmLTg0NDYtNDgwMjU5ZmY5OTE4@45.139.25.43:442#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@72.56.247.198:443?security=reality&type=tcp&sni=eh.vk.com&fp=qq&flow=xtls-rprx-vision&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&encryption=none#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@72.56.235.141:8388#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@45.140.169.244:30129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

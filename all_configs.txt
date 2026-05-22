@@ -3636,3 +3636,4 @@ vless://4649d681-7f26-4959-a3f2-02eb8866230f@159.195.82.187:9443?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011499tl.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@tr1.datatowers.net:64534?security=none&type=tcp&encryption=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.tencentapp.cn:443?encryption=none&security=tls&sni=tptpss.pages.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tptpss.pages.dev&path=/https://50.184.176.222:8090#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSYklzaTdRbXB3YllZRzlDYk40MEJT@195.133.2.2:34898#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

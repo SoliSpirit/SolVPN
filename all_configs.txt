@@ -3640,3 +3640,5 @@ vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?type=tcp&sec
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@45.140.169.244:30129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NmlBUFVIeXlBM1l4QmIzRG1sb1R1QXJNMElpUGVZMkhDb0gzbQ@92.118.112.203:41348#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b198c7e4-b6a5-4309-ac0e-0783cf8b129c@193.168.197.76:2443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=Pyn-CZrKJEIoM7mcj__Eosc4F03CpqvwRZEqlJzqOnQ&security=reality&sid=e6df8954df22&sni=www.ya.ru&type=raw#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmNyVVlPMXE3eU81RnBpRGxtMDFU@51.241.246.228:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼

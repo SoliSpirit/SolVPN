@@ -3656,3 +3656,4 @@ vless://dc540911-cd1d-41e9-9301-ecb5a507b788@ru3.banovano.space:443?encryption=n
 vless://26524cce-d514-4014-a426-365fb266a14d@154.205.159.78:443?allowInsecure=0&sni=vfa9.cdn-stream.fgfw.indevs.in&type=ws&host=vfa9.cdn-stream.fgfw.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#🇮🇩 Join+Telegram:@SolVPN 🇮🇩
 trojan://I0shjZ@xxxmg1.xiaoliebao.club:4433?allowInsecure=0&sni=xxxmg1.xiaoliebao.club#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.30:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFp2TkJ5TjdtMlpBbHAwQjFZVkNRZGFlaFpzZm5TTDMzaEJPWldzWkREak4wR0s@103.106.228.177:31348#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

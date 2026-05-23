@@ -8,3 +8,4 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flo
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.180.11.15:443?&security=tls&fp=chrome&sni=3-7v4.pages.dev&type=ws&headerType=none&host=3-7v4.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=c906f73d3ba8211f&sni=www.alibaba.com&type=tcp#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzA2OWQyMjZmMDAzZmFi@154.205.147.166:11201#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
+vless://26524cce-d514-4014-a426-365fb266a14d@185.126.237.11:443?allowInsecure=0&sni=w9rw8g1k.node-c.danfeng.gv.uy&type=ws&host=w9rw8g1k.node-c.danfeng.gv.uy&path=/danfeng?ed=2560fp=firefox&security=tls#🇴🇲 Join+Telegram:@SolVPN 🇴🇲

@@ -3650,3 +3650,4 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6cc31d90-74b7-4547-b2e9-b68527935979@213.165.38.36:30084?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ibZCndxJvnfj-CyjdeRvw4ljFJCE2Dsv6wT09Of1eEs&security=reality&sid=837277ea&sni=www.apple.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@96.9.226.188:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://dc540911-cd1d-41e9-9301-ecb5a507b788@ru3.banovano.space:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=JbxZQuL2t4eews1QuA8O4jpsU_NXPMpmzKwlxSQj5Sk&sni=www.icloud.com&sid=f690c1046814dc9d#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

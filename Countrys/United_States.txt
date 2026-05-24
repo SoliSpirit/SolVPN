@@ -577,3 +577,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.tencentapp.cn:443?encryption=none&security=tls&sni=tptpss.pages.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tptpss.pages.dev&path=/https://50.184.176.222:8090#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NmlBUFVIeXlBM1l4QmIzRG1sb1R1QXJNMElpUGVZMkhDb0gzbQ@92.118.112.203:41348#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://I0shjZ@xxxmg1.xiaoliebao.club:4433?allowInsecure=0&sni=xxxmg1.xiaoliebao.club#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://BxceQaOe@13.114.188.23:8359?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag==@154.53.57.143:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

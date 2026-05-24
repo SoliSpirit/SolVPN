@@ -311,3 +311,4 @@ vless://00492f4b-95d1-46d9-837a-ebf9c881d81e@144.31.233.81:9443?security=reality
 vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@nl1.skysafe.online:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=f1kpVFY3EHaR41TCKGqSWzZq7HG-WpyE2g_tlMm2US0&security=reality&sid=844dfa3681e4c4&sni=nl1.skysafe.online&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://caac3212-6cc2-4ff4-8165-aec107f50826@178.208.81.81:42597?type=tcp&encryption=none&security=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6cc31d90-74b7-4547-b2e9-b68527935979@213.165.38.36:30084?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ibZCndxJvnfj-CyjdeRvw4ljFJCE2Dsv6wT09Of1eEs&security=reality&sid=837277ea&sni=www.apple.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.112.69.234:443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=chrome&sid=1f1fe6&pbk=egwErhlyJ9EW_XDHj4WlPZux80d6Qc6E4vZHYf4QMC8&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -58,3 +58,4 @@ ss://YWVzLTI1Ni1nY206SEdsenNLVXFhVGlDMFBTTEhuNmpUODNPWnZHaUxucEk@185.39.204.196:
 vless://ee68ff88-9433-4f5e-8193-993bd8c016b7@185.234.66.94:443?security=reality&sni=node-936dfb.binngo.online&fp=chrome&pbk=AmlgZjBVKLpYPHXdfz_ylYnj-pEHI7Gb0El_yYI-mQI&sid=9954ce6f&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@194.87.39.215:8388#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@tr1.datatowers.net:64534?security=none&type=tcp&encryption=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

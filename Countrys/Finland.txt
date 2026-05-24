@@ -99,3 +99,4 @@ vless://69a2af58-d74a-44ca-864a-e09b493f4274@152.89.244.75:8443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aUY1bll5VE1TUU5BYlBCREVjRWRr@109.107.182.229:51544#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?type=tcp&encryption=none&security=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSYklzaTdRbXB3YllZRzlDYk40MEJT@195.133.2.2:34898#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

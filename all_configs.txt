@@ -3659,3 +3659,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFp2TkJ5TjdtMlpBbHAwQjFZVkNRZGFlaFpzZm5TTDM
 vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://telegram-id-privatevpns@63.179.19.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.112.69.234:443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=chrome&sid=1f1fe6&pbk=egwErhlyJ9EW_XDHj4WlPZux80d6Qc6E4vZHYf4QMC8&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@45.140.168.54:50129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

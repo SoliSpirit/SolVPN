@@ -104,3 +104,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 vless://0c9c3d36-c93c-4d1b-bdff-8038c3ed78a2@fl-7-direct.djarbnet.ru:443?encryption=none&host=fl-7-direct.djarbnet.ru&path=/getupdates&security=tls&sni=fl-7-direct.djarbnet.ru&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://72c319bb-577f-481c-8fc7-0364d72a395d@ip.bv24.net:2083?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=fn.bv24.net&path=/&security=tls&sni=fn.bv24.net&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://72c319bb-577f-481c-8fc7-0364d72a395d@ip2.bv24.org:2083?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=fi2.bv24.org&path=/&security=tls&sni=fi2.bv24.org&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://4259cd49-5ad0-432d-a078-29159dc999d0@fl-3-direct.djarbnet.ru:443?encryption=none&host=fl-3-direct.djarbnet.ru&path=/getupdates&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

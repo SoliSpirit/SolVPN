@@ -3695,3 +3695,5 @@ vmess://eyJhZGQiOiJjZzFjMDIud2FpbWFvamQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6
 trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@43.207.110.128:5224?allowInsecure=1&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@swed.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=swed.o4ka-internet.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://b6096ffb-656a-4fec-8840-0d032089a3e0@xsus.xs-us.net:29876?sni=sni.eos-suzhou-4.cmecloud.cn&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪

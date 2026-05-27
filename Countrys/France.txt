@@ -2,7 +2,7 @@ vless://5fad3ad2-1a94-40d0-85bb-51eb83f5c7df@109.172.55.232:13760?encryption=non
 vless://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?security=reality&encryption=none&pbk=-zsPOGrZY1Dlb6eypa5V_OPaLBpT66FX3cSo0mNX8SI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=47ee5c592c1672cf#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.30:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.9:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@104.18.139.67:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E@195.154.202.112:18292#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

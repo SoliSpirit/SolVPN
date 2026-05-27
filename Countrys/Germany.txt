@@ -17,3 +17,6 @@ vless://4dc0eec9-f0e1-4755-be7e-7ba628522d1b@91.99.145.207:443?path=/&security=n
 vless://ac195240-6005-412b-9829-1e56e5d5c52a@ddfs.ummapeople.online:443?security=reality&encryption=none&pbk=NPt7NbrWjFl5Uq8xIuolxDDJFTzj5x5jwmiSTRPuuD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ddfs.ummapeople.online#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?path=%2F&security=&encryption=none&host=sidipv.naxd.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://d4305704-a108-4ce0-8ef0-66076e6227e9@3.66.32.10:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9270ef77-592f-11f1-98cc-54db13ea7d40@172.86.95.189:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.akamai.com&fp=chrome&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&flow=xtls-rprx-vision#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=a1b2c3d4e5f67890&sni=www.booking.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

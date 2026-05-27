@@ -466,3 +466,5 @@ vless://c9424b66-67dd-4dbf-ddbc-752514cc04a5@93.123.84.128:777?encryption=none&s
 trojan://telegram-id-privatevpns@63.176.15.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vmess://eyJhZGQiOiJzMjQ0LmF5eGoudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiczI0NC5heXhqLnRvcCIsImlkIjoiNmQ0OWZhZTEtMzc0ZC0zMTNlLWIzNjAtMTIyN2IwZWE4ZGVhIiwibW9kZSI6IiIsIm5ldCI6IndzIiwicGF0aCI6InNzcC13cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoiczI0NC5heXhqLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://t-me-kinsta_service@net.kakakakaka.dpdns.org:47411?type=tcp&encryption=none&security=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?path=/&security=none&encryption=none&host=Asaaabi.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

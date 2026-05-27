@@ -316,3 +316,4 @@ vless://be0e7d89-9c35-4950-a460-d3bf5aae5f91@frnl.locklance.lol:443?encryption=n
 vless://200290dc-8698-4284-a6e5-0ffd91be8589@45.89.244.210:35750?security=reality&type=raw&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=01f43c37b8&pbk=rtqKOfjHLaN8qzlOOGHXrxWnEoqzQKQLSi8ZGIMjVlQ&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.233.236:7443?encryption=none&fp=chrome&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&security=reality&sid=0199436dd359351b&sni=apple.com&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxVGE2TDAzQkZoSG95QTNwc0w5eHBW@185.207.136.67:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?sni=sub.sbrf-cdn342.ru&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

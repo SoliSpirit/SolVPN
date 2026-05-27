@@ -160,3 +160,4 @@ trojan://telegram-id-privatevpns@15.188.165.183:22222?security=tls&alpn=http/1.1
 vless://162f984d-811f-4faa-b200-b15460731ad6@45.192.12.15:2223?security=reality&type=raw&sni=www.ya.ru&fp=chrome&flow=xtls-rprx-vision&sid=09&pbk=5xLCwB8j2l-oqOLyzDyjhJYrHxWrhpU-4QSkLyhh720&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&security=reality&sid=b8aa&sni=yahoo.com&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGV0FVS2hNcmVjMDM4bWlkaXBqNW9H@89.117.2.218:443#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

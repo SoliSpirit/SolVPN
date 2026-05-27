@@ -1,11 +1,4 @@
-vless://c0d4ebce-a832-4fe6-94b3-de3ba1203de0@77.91.74.84:44148?security=reality&encryption=none&pbk=03p9kJxTSoiEEQXtQPtCfPijrPFjRH2pMaMLQbrusiI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=fb1e6bf864b50297#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.30:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&type=tcp&packetEncoding=none&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision-udp443&type=raw&headerType=none&security=tls&fp=edge&sni=r1.mizulina.top#🇬🇪 Join+Telegram:@SolVPN 🇬🇪

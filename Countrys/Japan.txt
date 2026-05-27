@@ -6,3 +6,4 @@ ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.38.183:2083?encryption=none&fp=chrome&host=pagescm.freen12.cc.cd&path=/edu/store&security=tls&sni=pagescm.freen12.cc.cd&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

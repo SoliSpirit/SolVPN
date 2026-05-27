@@ -1,10 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540app_bedal%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
-vless://42a7df85-0739-4760-a248-32a491abfa2a@bgr01-vlr01.tcp-reset-club.net:15443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZWMiLCJhZGQiOiJjbjAyLjM2NWNsb3VkNTg3OC5jb20iLCJwb3J0IjoiNjA1MCIsInR5cGUiOiJub25lIiwiaWQiOiI5ZjFlY2ZjYS0xM2E5LTQ4OGQtYWM4NC1hYWViNzNhOGQ1NzQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiY24wMi4zNjVjbG91ZDU4NzguY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Sjc1NGVlNklUanlmRHlzaTc4dXFK@194.68.225.52:65232#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@bg1.cyphervpn.pro:443?encryption=none&fp=chrome&pbk=mjyodFglgnFdQFt4F-b1-ckI9y5f1h9IpI5lSiOwdRQ&security=reality&sid=5bfa0c&sni=bg1.cyphervpn.pro&type=tcp#🇧🇬 Join+Telegram:@SolVPN 🇧🇬

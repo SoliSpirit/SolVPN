@@ -50,3 +50,5 @@ vless://6ad4bf15-3b06-4a01-ef71-cd366de98120@47.82.151.234:26866?encryption=none
 vless://9fe5f13e-a1b2-469d-fe5d-e41e0d933b49@47.82.148.244:8080?encryption=none&security=none&type=tcp&headerType=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.61.94:443?path=%2Fhelp%2Fjumping&security=tls&encryption=none&insecure=0&host=pagescm.freen6.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen6.de5.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.16.79.73:443?path=/play/settings&security=tls&encryption=none&insecure=0&host=pagescm.freen32.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen32.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@198.41.223.119:443?path=/season/sort/specialfp=chrome&security=tls&encryption=none&host=pagescm.freen6.de5.net&type=ws&sni=pagescm.freen6.de5.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -2134,3 +2134,10 @@ vless://3af11c26-c589-4a9c-b811-f068d741a877@193.163.203.76:50580?encryption=non
 vless://4259cd49-5ad0-432d-a078-29159dc999d0@fl-3-direct.djarbnet.ru:443?encryption=none&host=fl-3-direct.djarbnet.ru&path=/getupdates&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?path=%2F&security=&encryption=none&host=sidipv.naxd.ir&type=ws#🇮🇷 Join+Telegram:@SolVPN 🇮🇷
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=&encryption=none&headerType=none&type=tcp#🇮🇷 Join+Telegram:@SolVPN 🇮🇷
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://e0a98968-eb18-417a-87e7-c8933aac5f13@31.59.40.53:52729?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?sni=sub.sbrf-cdn342.ru&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

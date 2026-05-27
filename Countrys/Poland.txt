@@ -6,3 +6,4 @@ vless://b1b24586-cccf-458d-b125-d621c3710676@pl1.astrocore.cloud:443?encryption=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=/&security=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?encryption=none&fp=chrome&headerType=none&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&security=reality&sid=08bf&sni=yahoo.com&type=raw#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -16,3 +16,4 @@ vless://e550f63f-7975-455d-a5d8-e11a120a519d@s31588.asancall.cloud:8443?path=%2F
 vless://4dc0eec9-f0e1-4755-be7e-7ba628522d1b@91.99.145.207:443?path=/&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ac195240-6005-412b-9829-1e56e5d5c52a@ddfs.ummapeople.online:443?security=reality&encryption=none&pbk=NPt7NbrWjFl5Uq8xIuolxDDJFTzj5x5jwmiSTRPuuD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ddfs.ummapeople.online#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?path=%2F&security=&encryption=none&host=sidipv.naxd.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

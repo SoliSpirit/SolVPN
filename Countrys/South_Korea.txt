@@ -37,3 +37,4 @@ vless://26524cce-d514-4014-a426-365fb266a14d@221.145.251.131:20201?&security=tls
 ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.24:40120#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://dc17386d-4383-49f8-b11c-d9ea04ca2f7f@svip-hg.xiaobaivpn.icu:28808?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://4e7bd311-d91e-4a85-aa08-121313cf50d9@seoul1.ap221.com:443?sni=seoul.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjciLCJhZGQiOiJ3b3JsZC50LjUxZ3Vhbmd0YW9iYW8uY29tIiwicG9ydCI6OTAyMCwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjFkM2Q4NjhlLWFlN2ItMzc2Mi1iOWQ5LWE3ZjI2NzQ5NGM3ZSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

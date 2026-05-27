@@ -1,1 +1,2 @@
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=&encryption=none&headerType=none&type=tcp#🇮🇷 Join+Telegram:@SolVPN 🇮🇷
+vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?path=%2F&security=&encryption=none&host=sidipv.naxd.ir&type=ws#🇮🇷 Join+Telegram:@SolVPN 🇮🇷

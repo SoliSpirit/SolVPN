@@ -15,3 +15,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWRUZGVUdaa050YlRHQUdkZTR2VVFqcW5HU1QtYmdUUA@
 vless://e550f63f-7975-455d-a5d8-e11a120a519d@s31588.asancall.cloud:8443?path=%2Fws%2Fapps%2Fzoomit&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4dc0eec9-f0e1-4755-be7e-7ba628522d1b@91.99.145.207:443?path=/&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ac195240-6005-412b-9829-1e56e5d5c52a@ddfs.ummapeople.online:443?security=reality&encryption=none&pbk=NPt7NbrWjFl5Uq8xIuolxDDJFTzj5x5jwmiSTRPuuD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ddfs.ummapeople.online#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?path=%2F&security=&encryption=none&host=sidipv.naxd.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

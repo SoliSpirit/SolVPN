@@ -8,3 +8,4 @@ ss://YWVzLTI1Ni1nY206YTc0MmJkODUtMGY5Ny00MmJkLTg5MWYtYWEwMGRiZDFhNDYx@84.200.91.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://384e0806-fcee-4f92-b671-bfc6a4794148@speedtest.net:80?encryption=none&type=ws&path=%2F&host=oijji.global.ssl.fastly.net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

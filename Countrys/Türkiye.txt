@@ -60,3 +60,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@
 vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@tr1.datatowers.net:64534?security=none&type=tcp&encryption=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?type=ws&path=/#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://a0ae4e44-480c-4282-b526-f1bdf749e0d1@104.16.7.70:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

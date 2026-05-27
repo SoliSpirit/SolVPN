@@ -3,3 +3,4 @@ vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?security
 vless://43488128-319e-f480-64ea-0acdc712e2a8@45.82.254.107:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pBuXpWQ1Owy-fOEJZPUzYd-8xBsJB_1S05sLp_YMwzE&security=reality&sid=4929ddcb86e785f7&sni=www.booking.com&type=tcp#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.16.7.70:8443?encryption=none&security=tls&sni=Kingdom.turbooo-server.com&insecure=0&allowInsecure=0&type=ws&host=Kingdom.turbooo-server.com&path=/#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

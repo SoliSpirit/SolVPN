@@ -27,3 +27,4 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.62:443?allowInsecure=1&sn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@208.103.161.12:443?allowInsecure=1&sni=afrcloud2.c01.kr&type=ws&host=afrcloud2.c01.kr&path=/2.56.206.114:8443fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.150.224:443?sni=pagescm.freen15.cc.cd&type=ws&host=pagescm.freen15.cc.cd&path=/album/btfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@www.visa.com.tw:443?encryption=none&host=pagescm.freen32.cc.cd&path=/play/settings&security=tls&sni=pagescm.freen32.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ip.sb:443?allowInsecure=1&encryption=none&fp=chrome&host=3-7ny.pages.dev&path=%2F&security=tls&sni=3-7ny.pages.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

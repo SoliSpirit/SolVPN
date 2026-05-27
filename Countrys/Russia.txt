@@ -1,2 +1,3 @@
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.100:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://d18a0f18-d5bd-43c1-bc08-e208473f30d8@193.163.203.76:50573?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NcouT_UbeS3uAcbckd8QXzoTFpiFdlglgHOnhwy76Cg&security=reality&sid=7b873acc934a727d&sni=api-maps.yandex.ru&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

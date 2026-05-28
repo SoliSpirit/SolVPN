@@ -1,6 +1,8 @@
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@store.ubi.com:443?sni=pagescm.freen8.de5.net&type=ws&host=pagescm.freen8.de5.net&path=/productsfp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://humanity@95.38.189.135:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.17.177.143:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=www.ignitelimit.com&%3Btype=ws&%3BallowInsecure=0&%3Bsni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

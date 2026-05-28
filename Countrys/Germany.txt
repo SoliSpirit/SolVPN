@@ -29,3 +29,4 @@ vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?sni=sub.sbrf-cdn34
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.147:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.146:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://bf9d0315-23fb-4cfb-b262-cec2da2a3abc@modem.yellow1v.store:32311?security=reality&encryption=none&pbk=qWgso4aQ3_gGK2-ta89aOwU9Vy3wpLcIHrOxPWBhPCs&headerType=none&fp=chrome&type=tcp&sni=faradars.org&sid=708a4e04e6#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -275,3 +275,4 @@ vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@ali.nonull.pp.ua:443?sni=pagescm.freen19.cc.cd&type=ws&host=pagescm.freen19.cc.cd&path=/go.htmlfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

@@ -13,3 +13,4 @@ trojan://humanity@172.64.229.75:443?path=/assignment&security=tls&alpn=http/1.1&
 trojan://BxceQaOe@140.235.140.105:443?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://telegram-id-privatevpns@3.122.176.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://d30ab83dbde4480082048fb315bedebd@5.180.78.22:443?allowInsecure=1&sni=5.180.78.22#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

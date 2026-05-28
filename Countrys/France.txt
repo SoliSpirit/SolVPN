@@ -17,3 +17,4 @@ vless://231a569a-55f0-4d31-94ac-dbe4bed3efdb@gzrefad01.odxxplay.com:60396?allowI
 trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://23752996-3600-4ab8-a4d3-a7f4efc1f349@145.239.173.214:2053?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

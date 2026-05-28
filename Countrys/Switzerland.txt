@@ -4,3 +4,4 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@45.82.254.107:443?encryption=none&f
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.16.7.70:8443?encryption=none&security=tls&sni=Kingdom.turbooo-server.com&insecure=0&allowInsecure=0&type=ws&host=Kingdom.turbooo-server.com&path=/#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=yahoo.com&sid=94f9&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&spx=/&headerType=none#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

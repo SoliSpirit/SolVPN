@@ -1,3 +1,4 @@
 vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.166.143:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tboI265nKvT77HoZPyA6bgZNuLap_Jy-XvAx2-4Rcwk&security=reality&sid=0c1553316a645758&sni=store.steampowered.com&type=tcp#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakkzTQ==@us1.ssobfs.site:8388#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+vless://8cddd533-9611-4fc4-adda-7d629743b4b2@karabas.cxhub.su:8443?encryption=none&security=reality&sni=cloud.mail.ru&fp=chrome&pbk=P0fQAbHaRJ6aF8yExwqISCB0ClTrGFhZe7hGDO8YnX4&sid=1413cc6a376b5257&type=grpc&authority=&serviceName=cloud&mode=multi#🇮🇱 Join+Telegram:@SolVPN 🇮🇱

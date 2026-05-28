@@ -523,3 +523,4 @@ vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.140:443?sni=sub.sbrf-cdn3
 vless://e0b4566b-3333-4c50-9381-ba3570bee83f@95.182.83.251:2082?type=ws&host=95.182.83.251&path=/OninOShop#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://23752996-3600-4ab8-a4d3-a7f4efc1f349@145.239.173.214:2053?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://47030ea3-4e8c-4dd6-b440-418a7a54c1a0@47.82.87.196:50724?security=none&encryption=none&headerType=none&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://d65efb8e-8bbb-42f6-adbe-f68c1bac7939@panel.testspeedpro.ir:443?encryption=none&security=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

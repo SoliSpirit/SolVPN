@@ -16,3 +16,4 @@ vless://baf498db-7039-4ba5-90df-d5f5e5c75331@107.181.147.22:443?encryption=none&
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?encryption=none&type=ws&path=/&host=sidipv.naxd.ir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://8cddd533-9611-4fc4-adda-7d629743b4b2@sex.vles.space:7702?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=WyUUOJJujjHHSsFFaftoOSE63GorNX_oMeduiInnpxQ&type=tcp&headerType=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://180a65ce-f309-47ec-b8ee-2f7a9a8a0fe2@45.15.152.167:443?type=tcp&security=reality&fp=chrome&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&sid=4b1b&sni=yahoo.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://594d466e-8ac3-4fda-b1d1-eeb817853518@107.181.151.241:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5a018643df03&sni=www.microsoft.com&path=/#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

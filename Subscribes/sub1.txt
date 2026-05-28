@@ -37,3 +37,5 @@ vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://9d27a374-26d9-46df-9895-312a2062bc47@104.18.32.47:443?encryption=none&host=uin-ape.pages.dev&path=/&security=tls&sni=uin-ape.pages.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#🇭🇺 Join+Telegram:@SolVPN 🇭🇺

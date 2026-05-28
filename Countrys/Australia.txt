@@ -1,1 +1,2 @@
 vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=1b665f78655294&spx=%2F&pbk=uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8&encryption=none#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+vless://231a569a-55f0-4d31-94ac-dbe4bed3efdb@gzrefad01.odxxplay.com:3414?allowInsecure=1&sni=au1.fun88linkvn.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇦🇺 Join+Telegram:@SolVPN 🇦🇺

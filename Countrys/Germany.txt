@@ -33,3 +33,4 @@ vless://bf9d0315-23fb-4cfb-b262-cec2da2a3abc@modem.yellow1v.store:32311?security
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.140:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?security=reality&encryption=none&pbk=tcGias3ywS5uxXzg5Bv-TNtxclCganaj3iFSjjHgMSQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany2.stardevs.top&sid=f37fb7531c60780d#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://43488128-319e-f480-64ea-0acdc712e2a8@213.202.223.72:443?security=reality&encryption=none&pbk=gch4w4OXSvfllKqDfUuk4S-waCqmPfKvLaqnu0qKkiI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=5eb59ee7bbb4b114#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -506,3 +506,7 @@ vless://bf9d0315-23fb-4cfb-b262-cec2da2a3abc@modem.yellow1v.store:32311?security
 vless://2e1429b8-7729-4bc8-9d6f-4211f489d781@uk.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk.connectv.net#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://47777915-7325-44c1-8122-251f701f5cb0@empty-dust.ru:443?security=reality&encryption=none&pbk=5yR0iloe8gXWX6PghzeZoxy2j1IC0gC-1Rduw4fUzG8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bitter-voice.empty-dust.ru&sid=5c472469282af031#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80?encryption=none&type=ws&path=/&host=sidipv.naxd.ir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=none&encryption=none&host=net.hostingdata.ir&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇳🇮 Join+Telegram:@SolVPN 🇳🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@ali.nonull.pp.ua:443?sni=pagescm.freen19.cc.cd&type=ws&host=pagescm.freen19.cc.cd&path=/go.htmlfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

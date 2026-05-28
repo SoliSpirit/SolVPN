@@ -56,3 +56,4 @@ trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chr
 vless://47777915-7325-44c1-8122-251f701f5cb0@empty-dust.ru:443?security=reality&encryption=none&pbk=5yR0iloe8gXWX6PghzeZoxy2j1IC0gC-1Rduw4fUzG8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bitter-voice.empty-dust.ru&sid=5c472469282af031#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=none&encryption=none&host=net.hostingdata.ir&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTllSZlUxTHNuUDJUVjRxMGJUNEtK@5.253.59.156:32140#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

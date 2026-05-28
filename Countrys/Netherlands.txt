@@ -57,3 +57,5 @@ vless://47777915-7325-44c1-8122-251f701f5cb0@empty-dust.ru:443?security=reality&
 vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=none&encryption=none&host=net.hostingdata.ir&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTllSZlUxTHNuUDJUVjRxMGJUNEtK@5.253.59.156:32140#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://43b3130a-7dd2-4b8e-a13b-98016e935616@172.67.68.237:2052?path=%2F&security=&encryption=none&host=cdn.noafra.ir&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

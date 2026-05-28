@@ -63,3 +63,4 @@ trojan://d30ab83dbde4480082048fb315bedebd@5.180.78.22:443?allowInsecure=1&sni=5.
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@ali.nonull.pp.ua:443?sni=pagescm.freen19.cc.cd&type=ws&host=pagescm.freen19.cc.cd&path=/go.htmlfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://9d27a374-26d9-46df-9895-312a2062bc47@104.18.32.47:443?encryption=none&host=uin-ape.pages.dev&path=/&security=tls&sni=uin-ape.pages.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@84.32.22.143:443?security=reality&type=tcp&sni=maps.apple.com&fp=random&flow=xtls-rprx-vision&sid=2da4299da566b7&pbk=fS59W37_i8457GqkbB9_kdCfLCtWbl14qmVRnm2ty2I&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -28,3 +28,4 @@ trojan://ESYEIBhqTR@138.124.182.202:39141?mode=gun&security=reality&pbk=Fs_7mopO
 trojan://f58cd113-a3b1-319d-a993-331481731e82@a.twodnwnpoe.xyz:23655?allowInsecure=1&sni=water.waittomorrow.top#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=78.159.131.12#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
+trojan://lpfAiPjB00@193.168.197.76:39425?type=tcp&security=reality&pbk=DoKBudC7Cd1TXpRPWAu7ClkqwEzEPVgfteqs7c0XwXk&fp=chrome&sni=www.amazon.com&sid=8d0e8a871f53&spx=/#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

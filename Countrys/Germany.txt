@@ -52,3 +52,4 @@ vless://6992f972-39ab-41e3-9d2e-39efc00ced3d@104.17.121.129:2096?mode=gun&securi
 vless://730e55b2-7e76-4d70-b1dd-481b714d7270@195.149.93.92:30933?security=reality&encryption=none&pbk=ZhyrdqoRLMo-2re0ufdrtUy8ca14Vm3NDnBcs0p1c34&headerType=none&fp=chrome&spx=%2FF3WsEezkL15YAOl&type=tcp&sni=www.microsoft.com&sid=6cbc9d#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@3.78.211.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://787b481b-06c1-40f6-83fe-9077924f078c@91.107.179.62:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4649d681-7f26-4959-a3f2-02eb8866230f@159.195.82.187:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&security=reality&sid=2344766a270a6298&sni=yahoo.com&type=raw#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -332,3 +332,4 @@ vless://2042c7c4-f0c8-48ec-926b-65112b064e2c@89.117.94.111:54495?security=realit
 vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.61.94:443?path=%2Fhelp%2Fjumping&security=tls&encryption=none&insecure=0&host=pagescm.freen6.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen6.de5.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://787b481b-06c1-40f6-83fe-9077924f078c@91.107.179.62:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?path=/blog/news&security=tls&encryption=none&insecure=1&host=pagescm.freen18.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen18.cc.cd#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

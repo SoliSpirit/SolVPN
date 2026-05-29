@@ -22,3 +22,4 @@ trojan://telegram-id-privatevpns@3.78.211.9:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@15.224.25.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://telegram-id-privatevpns@15.188.222.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://BxceQaOe@116.80.61.236:443?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

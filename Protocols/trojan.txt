@@ -26,3 +26,4 @@ trojan://BxceQaOe@116.80.61.236:443?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&headerType=none&allowInsecure=0&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ESYEIBhqTR@138.124.182.202:39141?mode=gun&security=reality&pbk=Fs_7mopOjYhbST1UIfhkwMEMG4d60WT7P6RiJLCvqBE&fp=chrome&type=grpc&sni=www.sony.com&sid=fd46#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
 trojan://f58cd113-a3b1-319d-a993-331481731e82@a.twodnwnpoe.xyz:23655?allowInsecure=1&sni=water.waittomorrow.top#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

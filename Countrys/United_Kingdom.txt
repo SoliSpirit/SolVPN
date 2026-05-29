@@ -23,3 +23,4 @@ vless://26524cce-d514-4014-a426-365fb266a14d@138.68.150.145:443?allowInsecure=0&
 vless://26524cce-d514-4014-a426-365fb266a14d@134.209.183.227:443?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://26524cce-d514-4014-a426-365fb266a14d@188.166.171.1:20202?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

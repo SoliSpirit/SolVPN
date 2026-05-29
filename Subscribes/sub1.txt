@@ -1,1 +1,2 @@
 vless://26524cce-d514-4014-a426-365fb266a14d@188.166.171.1:20202?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?path=%2F&security=tls&encryption=none&insecure=1&host=backend.parhamm2.ir&type=ws&allowInsecure=1&sni=backend.parhamm2.ir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

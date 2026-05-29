@@ -30,3 +30,4 @@ vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@152.53.224.29:7443?security=reality
 ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@it5.taskflowhub.org:2083#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZTI4NzYzMWRjNGZjOGZj@62.146.231.112:12012#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://ESYEIBhqTR@138.124.182.202:39141?mode=gun&security=reality&pbk=Fs_7mopOjYhbST1UIfhkwMEMG4d60WT7P6RiJLCvqBE&fp=chrome&type=grpc&sni=www.sony.com&sid=fd46#🇱🇻 Join+Telegram:@SolVPN 🇱🇻

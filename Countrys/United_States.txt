@@ -89,3 +89,6 @@ vless://d98e6ac5-e873-402a-bcce-78e2887c936b@170.205.37.59:443?security=reality&
 vless://26524cce-d514-4014-a426-365fb266a14d@184.72.235.33:443?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://26524cce-d514-4014-a426-365fb266a14d@54.161.135.70:443?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://2042c7c4-f0c8-48ec-926b-65112b064e2c@89.117.94.111:54495?security=reality&type=tcp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=5e8c37215982&pbk=50IjQtR9zJG_3pXrbQDalYy_D4c7C_A8EEwVx0EfOjM#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

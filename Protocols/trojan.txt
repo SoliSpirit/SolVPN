@@ -18,3 +18,7 @@ trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://telegram-id-privatevpns@3.78.211.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@15.224.25.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://telegram-id-privatevpns@15.188.222.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -94,3 +94,4 @@ vless://2042c7c4-f0c8-48ec-926b-65112b064e2c@89.117.94.111:54495?security=realit
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?path=/blog/news&security=tls&encryption=none&insecure=1&host=pagescm.freen18.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen18.cc.cd#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&headerType=none&allowInsecure=0&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZTI4NzYzMWRjNGZjOGZj@62.146.231.112:12012#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

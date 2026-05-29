@@ -7,3 +7,4 @@ vmess://eyJhZGQiOiIyMTIuODcuMTk4Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://231a569a-55f0-4d31-94ac-dbe4bed3efdb@38.182.116.73:16603?allowInsecure=1&sni=tr1.fun88linkvn.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=&encryption=none&headerType=none&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?path=%2Fws&security=&encryption=none&host=185.255.95.247&type=ws#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

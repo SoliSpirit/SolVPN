@@ -27,3 +27,4 @@ trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&allowInsecure=
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=78.159.131.12#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
 trojan://lpfAiPjB00@193.168.197.76:39425?type=tcp&security=reality&pbk=DoKBudC7Cd1TXpRPWAu7ClkqwEzEPVgfteqs7c0XwXk&fp=chrome&sni=www.amazon.com&sid=8d0e8a871f53&spx=/#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 trojan://Mitivpn@45.130.125.76:2053?path=/?ed=2048&security=tls&alpn=http/1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://8f3a2b1c9d4e5f6a7b8c9d0e1f2a3b4c@202.91.33.175:8443?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

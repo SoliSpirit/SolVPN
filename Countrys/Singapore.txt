@@ -47,3 +47,5 @@ vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=t
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ip.sb:443?allowInsecure=1&encryption=none&fp=chrome&host=3-7ny.pages.dev&path=%2F&security=tls&sni=3-7ny.pages.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://Mitivpn@45.130.125.76:2053?path=/?ed=2048&security=tls&alpn=http/1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://b2fe41d5-a1b4-44e8-908a-84c59a70a3d8@18.140.170.243:27307?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=dIAHCrK3tbiMaFFKoPh89_eSpe8ws-rhT0rXV-RHxQQ&sid=64a35319e5db75&sni=www.tesla.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?encryption=none&host=pagescm.freen18.cc.cd&path=/blog/news&security=tls&sni=pagescm.freen18.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

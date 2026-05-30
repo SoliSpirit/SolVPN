@@ -54,3 +54,5 @@ vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?#🇩🇪 Joi
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.140:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@63.185.71.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@63.185.3.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://5f4e864a-3c52-4a63-a870-a935965ed966@185.143.232.201:80?path=/&security=none&encryption=none&host=down.speedtell.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@ger-nnn.prostosetup.org:443?security=reality&encryption=none&pbk=y3ZMu-ium5mBqE_h3xJ66vT0Z6HCIlTDti9emCQjDjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=bcb6b0217a1206b3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

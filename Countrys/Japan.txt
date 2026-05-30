@@ -26,3 +26,6 @@ trojan://BxceQaOe@116.80.61.236:443?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&;security=tls&;encryption=none&;insecure=0&;host=2-ee1.pages.dev&;type=ws&;allowInsecure=0&;sni=2-ee1.pages.dev#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vmess://eyJhZGQiOiJndG0tc2ctY2M1NHE3ZDFxMDEuMzY1Y2xvdWQwMjg1LmNvbSIsImFpZCI6MCwiaWQiOiJhMDMwODQyYS1kMjlhLTRlYTktYTc3Ni0xNGZjNGI5ZTEwMmQiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo2MDAzLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://BxceQaOe@13.231.192.34:53307?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:3135?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:24184?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

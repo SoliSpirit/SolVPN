@@ -56,3 +56,5 @@ trojan://telegram-id-privatevpns@63.185.71.248:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.185.3.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5f4e864a-3c52-4a63-a870-a935965ed966@185.143.232.201:80?path=/&security=none&encryption=none&host=down.speedtell.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@ger-nnn.prostosetup.org:443?security=reality&encryption=none&pbk=y3ZMu-ium5mBqE_h3xJ66vT0Z6HCIlTDti9emCQjDjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=bcb6b0217a1206b3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwicG9ydCI6MjA1MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+trojan://Q40WHz2g1k-dqYqraBP6Ow@178.63.244.9:8443?security=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

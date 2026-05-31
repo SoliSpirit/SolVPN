@@ -517,3 +517,8 @@ trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?Telegram=@Gozarg
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?allowInsecure=1&encryption=none&security=tls&sni=proxy.wastech.org&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@198.41.223.119:443?encryption=none&host=pagescm.freen6.de5.net&path=/season/sort/specialfp=chrome&security=tls&sni=pagescm.freen6.de5.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=/&security=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&security=reality&sid=0f4dacf62211e75f&sni=by.api-yandex.net&type=tcp#🇧🇾 Join+Telegram:@SolVPN 🇧🇾
+vless://e4ec0319-a924-42eb-84a5-9bff93d91d60@107.161.174.68:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=www.microsoft.com&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&security=reality&sid=5ea7e22e889dabc5&sni=yahoo.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://21f1af13-f6e9-4483-8a17-a521a665b335@germany.samanidempire.org:443?encryption=none&host=germany.samanidempire.org&path=%2Freteweef&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -12,3 +12,4 @@ trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.166.208.219:53018?allowInsecure=1&s
 trojan://BxceQaOe@13.231.192.34:50712?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?type=tcp&security=tls&headerType=none&sni=www.static-cast.click&fp=chrome&allowInsecure=1#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://47030ea3-4e8c-4dd6-b440-418a7a54c1a0@47.82.87.196:50724?security=none&encryption=none&headerType=none&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vmess://eyJhZGQiOiI4LjIxMC4yMzkuNTgiLCJhaWQiOjAsImhvc3QiOiJuMTc2MTI5Njg4OS40dTltYS5pY3UiLCJpZCI6IjVmZGM2YWIxLTgzNDctNDExYy05YmJmLWZiYzNlYTg1M2QyZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJuMTc2MTI5Njg4OS40dTltYS5pY3UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9

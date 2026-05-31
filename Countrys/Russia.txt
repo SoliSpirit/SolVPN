@@ -9,3 +9,4 @@ vless://a1b19834-a5e3-4d49-9301-aaa3fb248f49@185.14.46.20:443?sni=185.14.46.20.b
 vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?mode=gun&security=reality&encryption=none&authority=&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=5post-gate.x5.ru&sid=1fad87#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@gwapp-ru01.freenets.store:443?sni=gwapp-ru01.freenets.store&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.216:30129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?security=reality&encryption=none&echfq=none&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vruaz.mostserv.xyz&sid=226509f017e4c36d#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

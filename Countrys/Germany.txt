@@ -44,3 +44,4 @@ trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?Telegram=@Gozarg
 vless://21f1af13-f6e9-4483-8a17-a521a665b335@germany.samanidempire.org:443?encryption=none&host=germany.samanidempire.org&path=%2Freteweef&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@35.158.230.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=172.236.220.10#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

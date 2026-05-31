@@ -19,3 +19,4 @@ trojan://BxceQaOe@13.231.192.34:53307?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:3135?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:24184?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

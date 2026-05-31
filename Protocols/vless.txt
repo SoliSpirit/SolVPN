@@ -315,3 +315,4 @@ vless://6fd9f786-d974-49d0-b5c4-397678de69a2@185.214.74.210:443?encryption=none&
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&encryption=none&headerType=none&type=tcp#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?security=reality&encryption=none&echfq=none&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vruaz.mostserv.xyz&sid=226509f017e4c36d#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

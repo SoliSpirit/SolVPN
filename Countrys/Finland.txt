@@ -8,3 +8,4 @@ vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&
 vless://180a65ce-f309-47ec-b8ee-2f7a9a8a0fe2@45.15.152.167:443?type=tcp&security=reality&fp=chrome&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&sid=4b1b&sni=yahoo.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&type=tcp&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=88acba&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&encryption=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzYkpaUDVqRWNXVmdOZlZHNnNINzZ6@195.133.2.2:34898#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

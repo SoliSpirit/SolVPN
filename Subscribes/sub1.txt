@@ -26,3 +26,7 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?path=/tsghdws&secu
 trojan://mitivpn@188.114.97.6:443?Telegram=@kurdconfig&Telegram=@kurdconfig&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://telegram-id-privatevpns@13.39.205.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://9acc2508-1e6e-9f22-4db8-363f85c02759@turkeyeah.pou-ria.com:8084?security=reality&encryption=none&pbk=-g0bzNFN2Of9vbBXL5ZWXQ5GIrwS1uZlFPcmphN0PiI&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=bbcdcac5#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:40017?allowInsecure=1&sni=water.waittomorrow.top#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?allowInsecure=0&sni=s646.okgg.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:52225?allowInsecure=1&sni=i.comfortableyou.top#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:40015?allowInsecure=1&sni=1.lossyesterday.xyz#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

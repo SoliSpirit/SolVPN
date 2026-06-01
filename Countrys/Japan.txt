@@ -21,3 +21,4 @@ trojan://BxceQaOe@43.199.61.178:47655?allowInsecure=1&sni=t.me%252Fripaojiedian#
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp%3Drandom&packetEncoding=xudp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?allowInsecure=0&sni=s646.okgg.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

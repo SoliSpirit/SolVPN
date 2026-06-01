@@ -320,3 +320,4 @@ vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=no
 vless://a1b19834-a5e3-4d49-9301-aaa3fb248f49@185.14.46.20:443?sni=185.14.46.20.blanesik.space&type=grpc&serviceName=/sequre/grpc&fp=chrome&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://9acc2508-1e6e-9f22-4db8-363f85c02759@turkeyeah.pou-ria.com:8084?security=reality&encryption=none&pbk=-g0bzNFN2Of9vbBXL5ZWXQ5GIrwS1uZlFPcmphN0PiI&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=bbcdcac5#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=a1b2c3d4e5f67890&sni=www.booking.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?allowInsecure=0&sni=s646.okgg.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

@@ -50,3 +50,4 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&h
 vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?security=reality&encryption=none&pbk=-psPIZaOXQOuX1O1BpZ0_zyXEvx1YwW6ouBIkYGb2Dg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=sni4.streisand.lt&sid=612d8fa72c#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://af194c0e-95c3-417b-85bf-9ac3027f903e@146.0.73.104:8443?security=reality&encryption=none&pbk=xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.5ka.ru&sid=612d8fa72c#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

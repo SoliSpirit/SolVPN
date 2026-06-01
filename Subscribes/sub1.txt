@@ -30,3 +30,4 @@ trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:40017?allowInsecu
 vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?allowInsecure=0&sni=s646.okgg.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:52225?allowInsecure=1&sni=i.comfortableyou.top#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:40015?allowInsecure=1&sni=1.lossyesterday.xyz#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://rYuChHcwQZskq9E0zdoR@125.7.24.251:443?security=tls&type=ws&sni=vpn5.rnmcnm.com&path=/ws-79dffb8106db&host=vpn5.rnmcnm.com#🇦🇺 Join+Telegram:@SolVPN 🇦🇺

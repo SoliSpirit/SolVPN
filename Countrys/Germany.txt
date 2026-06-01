@@ -51,3 +51,4 @@ trojan://telegram-id-privatevpns@35.157.253.93:22222?security=tls&alpn=http/1.1&
 trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://135893cc-262f-4c45-a012-2f0eaf8ec73a@46.225.51.154:33370?mode=gun&security=reality&encryption=none&pbk=8hgQskZvVw5syDPO9dGVVeH3zXm4BtOExU6fKZUKc38&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=8b3c34e7#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&sni=d.primarymaster.online#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=a1b2c3d4e5f67890&sni=www.booking.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -65,3 +65,4 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@198.41.223.119:443?encryption=none&
 trojan://BxceQaOe@43.206.130.64:10478?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2SjRMckJxa3FDWWdHTU8wOFltbXNNalEzWk10SjdFeTZTeGZwZQ@5.34.177.228:41348#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

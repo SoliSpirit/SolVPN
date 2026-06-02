@@ -275,3 +275,5 @@ vless://e277ac9b-3225-4381-a9fb-3585419f7142@kobe.ns.cloudflare.com:443?&securit
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&type=raw&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision&encryption=none#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.112:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://54327070-1d45-42ac-9ebb-8dffcb343c93@95.179.251.232:443?security=tls&type=ws&path=/hZvWArgsaxqa&host=germany2.samanidempire.org&sni=germany2.samanidempire.org&fp=chrome#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?allowInsecure=1&encryption=none&security=tls&sni=proxy.wastech.org&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

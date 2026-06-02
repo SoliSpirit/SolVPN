@@ -41,3 +41,5 @@ vless://135893cc-262f-4c45-a012-2f0eaf8ec73a@46.225.51.154:33370?mode=gun&securi
 vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&sni=d.primarymaster.online#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=a1b2c3d4e5f67890&sni=www.booking.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaU3pDWHhNYzBVOGdSTmN0ajZOYmZE@62.133.60.6:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@63.185.9.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@3.67.118.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

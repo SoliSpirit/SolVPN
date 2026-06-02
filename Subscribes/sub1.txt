@@ -40,3 +40,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaU3pDWHhNYzBVOGdSTmN0ajZOYmZE@62.133.60.6:44
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&type=tcp&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 trojan://telegram-id-privatevpns@63.185.9.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@3.67.118.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a6dd0cc9-eeb0-4226-9623-b3fc6e1b0b98@172.237.90.117:14573?type=ws&host=m.zoom.us&path=/FREE By Tharuwa (0767597317)#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

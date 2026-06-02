@@ -46,3 +46,5 @@ trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:40017?allowInsecu
 trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:52225?allowInsecure=1&sni=i.comfortableyou.top#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:40015?allowInsecure=1&sni=1.lossyesterday.xyz#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://rYuChHcwQZskq9E0zdoR@125.7.24.251:443?security=tls&type=ws&sni=vpn5.rnmcnm.com&path=/ws-79dffb8106db&host=vpn5.rnmcnm.com#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+trojan://telegram-id-privatevpns@63.185.9.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@3.67.118.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -1,5 +1,5 @@
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-trojan://mitivpn@188.114.97.6:443?Telegram=@kurdconfig&Telegram=@kurdconfig&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.4.130:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.47.168:2096?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.56.154:443?path=%2Fresource%2Flinksfp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen8.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen8.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

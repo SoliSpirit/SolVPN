@@ -576,3 +576,4 @@ vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&type=tcp&headerType=none#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#🇬🇪 Join+Telegram:@SolVPN 🇬🇪

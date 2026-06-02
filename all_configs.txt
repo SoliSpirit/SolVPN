@@ -603,3 +603,6 @@ trojan://rYuChHcwQZskq9E0zdoR@125.7.24.251:443?security=tls&type=ws&sni=vpn5.rnm
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+ss://YWVzLTI1Ni1nY206ZmVuZzNkQHNzMjAyNQ==@li.feng3d.com:8388#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

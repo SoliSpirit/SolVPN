@@ -59,3 +59,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06
 trojan://d84665c37878196ecf983cf6910e3b44@16.163.157.108:1180?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@52.69.79.73:29440?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://YWVzLTI1Ni1nY206Yzc3MGEyNG5aSll2@194.87.10.139:8388#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://a6dd0cc9-eeb0-4226-9623-b3fc6e1b0b98@172.237.90.117:14573?type=ws&host=m.zoom.us&path=/FREE By Tharuwa (0767597317)#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

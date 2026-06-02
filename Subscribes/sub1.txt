@@ -35,3 +35,6 @@ vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&e
 ss://YWVzLTI1Ni1nY206ZmVuZzNkQHNzMjAyNQ==@li.feng3d.com:8388#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
+ss://YWVzLTI1Ni1nY206Yzc3MGEyNG5aSll2@194.87.10.139:8388#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaU3pDWHhNYzBVOGdSTmN0ajZOYmZE@62.133.60.6:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&type=tcp&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@SolVPN 🇬🇪

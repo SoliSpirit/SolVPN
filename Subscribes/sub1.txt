@@ -38,3 +38,5 @@ vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reali
 ss://YWVzLTI1Ni1nY206Yzc3MGEyNG5aSll2@194.87.10.139:8388#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaU3pDWHhNYzBVOGdSTmN0ajZOYmZE@62.133.60.6:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&type=tcp&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+trojan://telegram-id-privatevpns@63.185.9.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@3.67.118.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -45,3 +45,4 @@ trojan://telegram-id-privatevpns@63.185.9.141:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.67.118.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://54327070-1d45-42ac-9ebb-8dffcb343c93@95.179.251.232:443?security=tls&type=ws&path=/hZvWArgsaxqa&host=germany2.samanidempire.org&sni=germany2.samanidempire.org&fp=chrome#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@bero-1.bexum.fun:9443?security=tls&type=tcp&sni=bero-1.bexum.fun&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@3.126.169.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

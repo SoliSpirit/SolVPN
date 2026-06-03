@@ -43,3 +43,4 @@ trojan://telegram-id-privatevpns@63.185.173.123:22222?security=tls&alpn=http/1.1
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@chatgpt.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=dl-pack.motionbetter.ir&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUUhLNG10dWd5N3hNTkNoSmpCOUpt@185.129.84.12:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://56f389ce-8e0f-42fd-889d-5c4b698b534f@45.77.67.185:443?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&type=tcp&packetEncoding=none&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ddcac8ed&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

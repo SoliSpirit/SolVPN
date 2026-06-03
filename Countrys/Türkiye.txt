@@ -1,6 +1,4 @@
 vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBUUiAxIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoyMjMyNCwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGx9
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
-vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=&encryption=none&headerType=none&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
-vless://9acc2508-1e6e-9f22-4db8-363f85c02759@turkeyeah.pou-ria.com:8084?security=reality&encryption=none&pbk=-g0bzNFN2Of9vbBXL5ZWXQ5GIrwS1uZlFPcmphN0PiI&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=bbcdcac5#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

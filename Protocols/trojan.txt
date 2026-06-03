@@ -65,3 +65,6 @@ trojan://telegram-id-privatevpns@35.181.10.177:22222?security=tls&alpn=http/1.1&
 trojan://rYuChHcwQZskq9E0zdoR@125.7.24.251:443?security=tls&type=ws&sni=vpn5.rnmcnm.com&path=/ws-79dffb8106db&host=vpn5.rnmcnm.com#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 trojan://ba62c023f9bce796ae334fecb20ef7cc@18.179.108.192:2511?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://d84665c37878196ecf983cf6910e3b44@16.163.157.108:6604?allowInsecure=1&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

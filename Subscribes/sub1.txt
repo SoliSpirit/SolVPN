@@ -6,6 +6,7 @@ trojan://Config0plus@45.130.125.69:443?path=%2Fid-tksi&security=tls&insecure=0&h
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@95.40.4.37:2520?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&sni=d.primarymaster.online#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
@@ -47,4 +48,3 @@ vless://d87234a4-2a6c-4f0c-87f0-300942338207@151.101.110.219:443?Telegram=@Gozar
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@riga-node.datamove.online:2040?encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@bero-1.bexum.fun:9443?security=tls&type=tcp&sni=bero-1.bexum.fun&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-trojan://telegram-id-privatevpns@13.39.178.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

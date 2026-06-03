@@ -67,3 +67,4 @@ vless://e258977b-e413-4718-a3af-02d75492c349@172.64.47.168:2096?path=%2F&securit
 trojan://ba62c023f9bce796ae334fecb20ef7cc@18.179.108.192:2511?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.68.237:443?path=%2F&security=tls&encryption=none&insecure=0&host=pagescm.freen1.de5.net&type=ws&allowInsecure=0&sni=pagescm.freen1.de5.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@e1-f55.pages.dev:443?allowInsecure=1&encryption=none&host=e1-f55.pages.dev&path=%2F&security=tls&sni=e1-f55.pages.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.32.185:2096?path=%2Fcontact%2Flib%2Facg&security=tls&encryption=none&insecure=0&host=pagescm.freen28.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen28.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

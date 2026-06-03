@@ -261,3 +261,6 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.47.168:2096?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@chatgpt.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=dl-pack.motionbetter.ir&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
+vless://3421a66c-0bd3-4eeb-8bb1-d50b35afd110@us-pro.ct-sub.ir:2073?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision-udp443&type=raw&headerType=none&security=tls&fp=edge&sni=r1.mizulina.top#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://56f389ce-8e0f-42fd-889d-5c4b698b534f@45.77.67.185:443?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

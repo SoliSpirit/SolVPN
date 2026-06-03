@@ -519,3 +519,9 @@ trojan://telegram-id-privatevpns@13.36.49.197:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@35.181.10.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://rYuChHcwQZskq9E0zdoR@125.7.24.251:443?security=tls&type=ws&sni=vpn5.rnmcnm.com&path=/ws-79dffb8106db&host=vpn5.rnmcnm.com#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUUhLNG10dWd5N3hNTkNoSmpCOUpt@185.129.84.12:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://ba62c023f9bce796ae334fecb20ef7cc@18.179.108.192:2511?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://d84665c37878196ecf983cf6910e3b44@16.163.157.108:6604?allowInsecure=1&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://3421a66c-0bd3-4eeb-8bb1-d50b35afd110@us-pro.ct-sub.ir:2073?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision-udp443&type=raw&headerType=none&security=tls&fp=edge&sni=r1.mizulina.top#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://56f389ce-8e0f-42fd-889d-5c4b698b534f@45.77.67.185:443?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

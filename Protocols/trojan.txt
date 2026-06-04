@@ -8,7 +8,6 @@ vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=/sg-melbi&sec
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.17.177.143:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=www.ignitelimit.com&%3Btype=ws&%3BallowInsecure=0&%3Bsni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@141.193.213.30:443?security=tls&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-trojan://Config0plus@45.130.125.69:443?security=tls&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?type=ws&security=tls&path=%2Fid-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://429f43ca-087a-4fbc-9d88-9d9007bf30bc@188.114.97.6:443?path=%2Fmy-wbv&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

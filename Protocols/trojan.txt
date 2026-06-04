@@ -67,3 +67,4 @@ trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chr
 trojan://BxceQaOe@140.235.140.105:443?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:3135?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://8b45d379-702f-41b3-a6b2-9c87a01dcd5c@23.227.38.178:443?allowInsecure=1&sni=q6clkp794liy3y90.hktimecsgo.xyz&type=ws&host=q6clkp794liy3y90.hktimecsgo.xyz&path=/images#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

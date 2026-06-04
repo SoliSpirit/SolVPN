@@ -21,3 +21,4 @@ vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoianAwMS5hMGEueHl6Iiwi
 trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://E_hUHrn0+6VeZO=v9=fLgoPDXZWGfcrejg@172.238.19.11:443?fp=chrome&security=tls&sni=172.238.19.11&type=raw#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:3135?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

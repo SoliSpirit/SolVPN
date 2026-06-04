@@ -50,3 +50,4 @@ trojan://telegram-id-privatevpns@52.29.147.115:22222?security=tls&alpn=http/1.1&
 vless://43b8ccaf-05ea-427c-a5f0-9faa0d6e0267@sourceforge.net:2087?fp=chrome&host=bots.filezone.cfd&path=%2Fc&security=tls&sni=bots.filezone.cfd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTRjYjU3NS0xNWJkLTQ2NjQtYjk0ZC0yZTZhNmI0Y2NkYTg@109.120.138.95:28655#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://6af0d18d-30ac-4002-a25e-0a16ba00d637@91.107.160.147:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mrsibil.ezgateway.net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?allowInsecure=0&sni=de-1.hysteria.ltd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -523,3 +523,5 @@ trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:3135?allowInsecure=1&sni
 vless://43b8ccaf-05ea-427c-a5f0-9faa0d6e0267@sourceforge.net:2087?fp=chrome&host=bots.filezone.cfd&path=%2Fc&security=tls&sni=bots.filezone.cfd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTRjYjU3NS0xNWJkLTQ2NjQtYjk0ZC0yZTZhNmI0Y2NkYTg@109.120.138.95:28655#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://8b45d379-702f-41b3-a6b2-9c87a01dcd5c@23.227.38.178:443?allowInsecure=1&sni=q6clkp794liy3y90.hktimecsgo.xyz&type=ws&host=q6clkp794liy3y90.hktimecsgo.xyz&path=/images#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@162.217.249.72:443?security=reality&encryption=none&pbk=MFedImeNi-4keZx_rkV8WL6jjY6sLncSaXgNjpUBPGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nether1cxc.chickenkiller.com&sid=8917bfb9900788d5#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://6af0d18d-30ac-4002-a25e-0a16ba00d637@91.107.160.147:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mrsibil.ezgateway.net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

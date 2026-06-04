@@ -63,3 +63,4 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.68.237:443?path=%2F&security
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.32.185:2096?path=%2Fcontact%2Flib%2Facg&security=tls&encryption=none&insecure=0&host=pagescm.freen28.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen28.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.61.94:443?path=%2Fhelp%2Fjumping&security=tls&encryption=none&insecure=0&host=pagescm.freen6.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen6.de5.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@140.235.140.105:443?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

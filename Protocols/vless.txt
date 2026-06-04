@@ -96,7 +96,6 @@ vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?path=/blog/news&security=tls&encryption=none&insecure=1&host=pagescm.freen18.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen18.cc.cd#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?encryption=none&host=pagescm.freen18.cc.cd&path=%2Fblog%2Fnews&security=tls&sni=pagescm.freen18.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://IR_NETLIFY@89.22.236.213:54346?encryption=none&security=none&type=tcp&headerType=none#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.16.79.73:443?path=%2Fplay%2Fsettings&security=tls&encryption=none&insecure=0&host=pagescm.freen32.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen32.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🇸🇦 Join+Telegram:@SolVPN 🇸🇦
 vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://3e0c34a4-1c38-4d93-88c6-5155e81f8b52@144.31.157.56:443?security=reality&encryption=none&pbk=D-7qX4fqUFKDS2dQWFgGT4fXJnABnpM6IkU8SDHLMC0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=saorg.ir&sid=6ba85179e30d4fc2#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
@@ -256,3 +255,4 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.61.94:443?path=%2Fhelp%2Fjumping&security=tls&encryption=none&insecure=0&host=pagescm.freen6.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen6.de5.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&type=tcp&packetEncoding=none&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

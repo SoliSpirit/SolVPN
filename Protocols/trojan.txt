@@ -14,8 +14,8 @@ trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tks
 vless://429f43ca-087a-4fbc-9d88-9d9007bf30bc@188.114.97.6:443?path=%2Fmy-wbv&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=%2Fid-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://Config0plus@45.130.125.69:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&headerType=none&allowInsecure=0&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://Config0plus@104.16.75.127:443?security=tls&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
@@ -26,6 +26,7 @@ trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?allowInsecure=0&sni=www.directorypipeline.click#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click&fp=chrome&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&sni=edu.ruangguru.com.cyylr.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?type=ws&security=tls&path=%2Fid-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=tls&headerType=none&sni=&fp=chrome&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@54.178.81.79:3842?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=172.236.220.10#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
@@ -42,6 +43,7 @@ trojan://d84665c37878196ecf983cf6910e3b44@16.163.157.108:1180?allowInsecure=1&sn
 trojan://BxceQaOe@95.40.4.37:2520?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&headerType=none&type=tcp&sni=www.registry-monitor.click#🇵🇰 Join+Telegram:@SolVPN 🇵🇰
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.166.208.219:53018?allowInsecure=1&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@13.231.192.34:50712?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
@@ -60,6 +62,7 @@ trojan://d84665c37878196ecf983cf6910e3b44@16.163.157.108:6604?allowInsecure=1&sn
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://Mitivpn@45.130.125.76:2053?path=/?ed=2048&security=tls&alpn=http/1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@95.40.68.150:2702?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

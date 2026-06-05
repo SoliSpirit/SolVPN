@@ -57,3 +57,4 @@ trojan://telegram-id-privatevpns@15.236.157.22:22222?security=tls&alpn=http/1.1&
 trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://Config0plus@45.130.125.160:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

@@ -181,10 +181,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@172.66.3.201:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://Config0plus@45.130.125.160:443?type=ws&security=tls&path=%2Fid-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&sid=52a6&spx=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@198.41.223.119:443?path=/season/sort/specialfp=chrome&security=tls&encryption=none&host=pagescm.freen6.de5.net&type=ws&sni=pagescm.freen6.de5.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

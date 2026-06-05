@@ -33,6 +33,7 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@www.visa.com.tw:443?Telegram=@Gozar
 vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.166.143:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tboI265nKvT77HoZPyA6bgZNuLap_Jy-XvAx2-4Rcwk&security=reality&sid=0c1553316a645758&sni=store.steampowered.com&type=tcp#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@172.66.3.201:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.17.189:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.49.198:443?encryption=none&host=pagescm.freen14.cc.cd&path=/shop&security=tls&sni=pagescm.freen14.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.49.198:443?encryption=none&host=pagescm.freen14.cc.cd&path=/shop&security=tls&sni=pagescm.freen14.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.56.154:443?path=%2Fresource%2Flinksfp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen8.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen8.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@www.visa.com.hk:443?encryption=none&host=pagescm.freen22.cc.cd&path=/&security=tls&sni=pagescm.freen22.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

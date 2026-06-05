@@ -49,3 +49,4 @@ trojan://telegram-id-privatevpns@63.185.199.92:22222?security=tls&alpn=http/1.1&
 vless://927164c0-0fde-5540-b4ce-96fa12a53aec@probabblynot.fazelextremeisreal.com:18034?encryption=none&fp=chrome&pbk=ph_rbwXTPE724CilY2K21PHfgfj32QL2oApFve6s1nQ&security=reality&sid=ef6a0ec24e7f&sni=refersion.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://a06565e7-b96a-41f0-91af-dea4dab20e54@64.188.91.26:443?security=reality&encryption=none&pbk=lOCJA77F2V7AfA1aEvq32aYrXXuBoH-TM2q_gAe2b2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4649d681-7f26-4959-a3f2-02eb8866230f@159.195.82.187:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&security=reality&sid=2344766a270a6298&sni=yahoo.com&type=raw#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -55,3 +55,4 @@ trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&host=www.mult
 vless://d87234a4-2a6c-4f0c-87f0-300942338207@151.101.110.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=speedtest.net&allowInsecure=1&type=ws&host=jookeji.global.ssl.fastly.neT&path=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6f9de7a7-e303-4056-b9ff-96a610ebdee9@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

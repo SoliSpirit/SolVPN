@@ -1,5 +1,4 @@
 vless://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://Config0plus@104.17.121.71:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?type=ws&security=tls&path=%2Fid-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@141.193.213.30:443?security=tls&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
@@ -48,3 +47,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSakdfUGQ1MzRaVkpSTWRPRGpDTk1B@45.92.218.56:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzTFF6OGpPVXRiRVhWSjFx@20.164.211.148:443#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 trojan://telegram-id-privatevpns@52.57.204.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://47e16bc6-7a69-4450-a7ce-9971c14aec4f@sibilgg.opik.net:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

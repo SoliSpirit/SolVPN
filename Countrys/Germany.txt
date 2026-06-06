@@ -44,3 +44,5 @@ trojan://telegram-id-privatevpns@3.69.202.177:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.181.210.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ab268dc7-510f-4fb9-ace4-b7305a59c7bb@78.17.103.57.blanesik.space:443?sni=78.17.103.57.blanesik.space&alpn=h2&type=grpc&serviceName=/sequre/grpc&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://fdab366a-367e-4996-ae05-aebd594f92dc@151.101.108.223:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.175.169.174:443?path=%2F16838%2Fc89d26b724fe%2F&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

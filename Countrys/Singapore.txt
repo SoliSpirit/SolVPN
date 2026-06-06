@@ -60,3 +60,5 @@ trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&ho
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://Config0plus@45.130.125.160:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@140.235.140.105:443?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://d84665c37878196ecf983cf6910e3b44@95.40.35.52:12143?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://d84665c37878196ecf983cf6910e3b44@18.167.42.231:6357?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

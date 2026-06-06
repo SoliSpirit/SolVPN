@@ -34,3 +34,4 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?encryption=none&
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@www.visa.com.hk:443?path=%2F&security=tls&encryption=none&insecure=0&host=pagescm.freen22.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen22.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.61:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://ce69190e-935a-4394-9e5e-2ab2872ba242@up2-df6.pages.dev:443?encryption=none&host=up2-df6.pages.dev&path=/uTZSXPBI2IfoxF86&security=tls&sni=up2-df6.pages.dev&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

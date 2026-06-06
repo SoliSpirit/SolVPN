@@ -319,3 +319,5 @@ vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?type=tcp&securit
 vless://fdab366a-367e-4996-ae05-aebd594f92dc@151.101.108.223:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ab268dc7-510f-4fb9-ace4-b7305a59c7bb@193.178.226.177.blanesik.space:443?allowInsecure=0&sni=193.178.226.177.blanesik.space&alpn=h2&type=grpc&serviceName=/sequre/grpc&fp=edge&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://2703cda8-5cf4-019d-c4bd-6cf0c2261946@122.8.44.3:993?security=reality&encryption=none&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
+vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.175.169.174:443?path=%2F16838%2Fc89d26b724fe%2F&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

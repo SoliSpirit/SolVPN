@@ -51,3 +51,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:44
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.156.197:8443?sni=cdn3-87.vk-cdnvideo.com&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

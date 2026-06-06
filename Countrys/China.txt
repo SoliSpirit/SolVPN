@@ -19,3 +19,5 @@ vmess://eyJhZGQiOiJndG0tc2ctY2M1NHE3ZDFxMDEuMzY1Y2xvdWQwMjg1LmNvbSIsImFpZCI6IjAi
 trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.12.98:20129#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTI1Ni1nY206czlJS0FMd3ZKTXZZ@212.192.15.248:8388#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.166.208.219:53018?allowInsecure=1&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@52.196.69.56:4327?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

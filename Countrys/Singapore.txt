@@ -37,7 +37,7 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@69.84.182.62:443?allowInsecure=1&sn
 vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?encryption=none&host=pagescm.freen18.cc.cd&path=/blog/news&security=tls&sni=pagescm.freen18.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=%2Fae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.16.79.73:443?path=/play/settings&security=tls&encryption=none&insecure=0&host=pagescm.freen32.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen32.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://Config0plus@104.16.75.127:443?security=tls&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.26.6.89:443?path=%2Fchina%2Fpage%2Fclips&security=tls&encryption=none&insecure=0&host=pagescm.freen12.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen12.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
@@ -45,6 +45,7 @@ vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?encryption=none
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.44.117:2096?path=%2Fvod&security=tls&encryption=none&insecure=1&host=pagescm.freen14.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen14.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@208.103.161.12:443?allowInsecure=1&sni=afrcloud2.c01.kr&type=ws&host=afrcloud2.c01.kr&path=/2.56.206.114:8443fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.64.229.181:2087?path=/comic&security=tls&encryption=none&insecure=0&host=pagescm.freen10.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen10.de5.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=%2Fae-bo&security=tls&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ip.sb:443?allowInsecure=1&encryption=none&fp=chrome&host=3-7ny.pages.dev&path=%2F&security=tls&sni=3-7ny.pages.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.55:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.241:443?path=%2Ffriend&security=tls&encryption=none&insecure=0&host=pagescm.freen11.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen11.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

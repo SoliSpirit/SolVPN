@@ -32,3 +32,4 @@ vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?security=reality&t
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@202.85.76.170:13223#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.34:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

@@ -313,3 +313,4 @@ vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?security=rea
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.34:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=%2F&security=none&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?type=tcp&security=reality&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&path=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=&encryption=none&headerType=none&type=tcp#🇮🇷 Join+Telegram:@SolVPN 🇮🇷

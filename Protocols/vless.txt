@@ -276,3 +276,5 @@ vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?allowInsecure
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&type=raw&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision&encryption=none#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#🇩🇰 Join+Telegram:@SolVPN 🇩🇰
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.156.197:8443?sni=cdn3-87.vk-cdnvideo.com&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

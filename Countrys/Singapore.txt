@@ -42,7 +42,6 @@ vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.55:443?allowInsecure=1&e
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?&security=tls&fp=chrome&alpn=http/1.1&sni=m.udemy.com.cyylr.eu.cc&type=ws&headerType=none&host=m.udemy.com.cyylr.eu.cc&path=%2Fid-tksi#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.61.94:443?encryption=none&fp=chrome&host=pagescm.freen6.de5.net&path=/help/jumping&security=tls&sni=pagescm.freen6.de5.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@198.41.223.119:443?encryption=none&host=pagescm.freen6.de5.net&path=/season/sort/specialfp=chrome&security=tls&sni=pagescm.freen6.de5.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://e258977b-e413-4718-a3af-02d75492c349@172.64.47.168:2096?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@e1-f55.pages.dev:443?allowInsecure=1&encryption=none&host=e1-f55.pages.dev&path=%2F&security=tls&sni=e1-f55.pages.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@140.235.140.105:443?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://d84665c37878196ecf983cf6910e3b44@95.40.35.52:12143?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

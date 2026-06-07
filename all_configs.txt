@@ -530,3 +530,6 @@ ss://YWVzLTI1Ni1nY206NDQ0ZWMxYmI1Yjc3ZGY4Yw@166.1.228.19:50128#🇪🇬 Join+Tel
 ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@46.29.163.200:20129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@185.22.154.170:30129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ip.sb:443?allowInsecure=1&encryption=none&fp=chrome&host=3-7ny.pages.dev&path=%2F&security=tls&sni=3-7ny.pages.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

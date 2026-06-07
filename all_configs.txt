@@ -541,3 +541,4 @@ trojan://telegram-id-privatevpns@18.156.210.131:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@13.36.204.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&security=tls&sni=r1.mizulina.top&type=raw#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?host=S4-f45.pAGeS.DeV&path=%2F&security=tls&sni=S4-f45.pAGeS.DeV&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -50,3 +50,4 @@ trojan://telegram-id-privatevpns@18.156.210.131:22222?security=tls&alpn=http/1.1
 vless://Telegram-Parsashonam-12@188.114.97.6:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&type=tcp&packetEncoding=none&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ddcac8ed&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

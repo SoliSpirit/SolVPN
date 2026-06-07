@@ -1,7 +1,7 @@
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.152.23:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://3b91d95b-0478-451a-a372-4f417417f650@216.24.57.6:443?path=%2Fbr-orcl&security=tls&insecure=0&host=unnes.ac.id.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.r3xxe.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@3.1.116.161:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
@@ -12,6 +12,7 @@ vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.17.189:443?allowInsecure=1&
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.49.198:443?encryption=none&host=pagescm.freen14.cc.cd&path=/shop&security=tls&sni=pagescm.freen14.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.56.154:443?path=%2Fresource%2Flinksfp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen8.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen8.cc.cd#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@www.visa.com.hk:443?encryption=none&host=pagescm.freen22.cc.cd&path=/&security=tls&sni=pagescm.freen22.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.152.23:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F%2B%40ProxyVPN11&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@52.77.224.71:443?allowInsecure=1&encryption=none&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@52.77.224.71:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

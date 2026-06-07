@@ -339,7 +339,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dEVZMVc5dENZQjZSNVkyMjM3OGRKOXloNEg0UEFabEF
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0=@49.13.3.249:23997#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
-vless://e258977b-e413-4718-a3af-02d75492c349@172.64.47.168:2096?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?security=reality&encryption=none&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=19ffa83bd83eb32d#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
@@ -571,3 +570,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#
 vless://2be7b933-c720-4838-a35a-740ae50987ee@hyperlink-free.poweredproyuz.com:443?path=%2Fhyperlink-hyperlink-join-to-hyperlink-hyperlink_ch-hyperlink-hlink_robot-hyperlink&security=tls&encryption=none&host=hyperlink-free.poweredproyuz.com&allowinsecure=0&type=ws&sni=hyperlink-free.poweredproyuz.com#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://b852270a-1283-4ea8-8a2f-5bae8e644a3e@38.55.146.153:13000?encryption=none&security=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&type=tcp&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@SolVPN 🇬🇪

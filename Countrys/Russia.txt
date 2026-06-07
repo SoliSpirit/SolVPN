@@ -1,4 +1,3 @@
 vless://5e8ee155-0962-4307-98f2-b65f6bbbd5bb@213.108.2.130:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c9eCHF41FReFLIdarpg8M5edw4_E133EJBzrvYS02Ck&security=reality&sid=cd9a5f0edff48da4&sni=cloudflare.com&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
-vless://906a8afb-0508-001e-8926-7a754dd62db5@ru01.goodmaximum.com:443?encryption=none&type=tcp&security=reality&sni=ru-cloud.221131513.xyz&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=31181028b56c8704#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.58.49.104:20129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg@45.140.169.244:20981#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

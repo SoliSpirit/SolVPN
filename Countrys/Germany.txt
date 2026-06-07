@@ -51,3 +51,4 @@ vless://Telegram-Parsashonam-12@188.114.97.6:443?path=%2F&security=tls&alpn=http
 vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&type=tcp&packetEncoding=none&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ddcac8ed&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?encryption=none&fp=chrome&headerType=none&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&security=reality&sid=478dc6&sni=eh.vk.com&type=raw#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

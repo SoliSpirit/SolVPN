@@ -29,3 +29,4 @@ vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?type=tcp&securit
 vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://telegram-id-privatevpns@52.47.65.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://telegram-id-privatevpns@13.36.204.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://103571d2-d1c2-40d1-b156-c5ba2450b86c@em-9.speedmizban.net:2044?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -61,3 +61,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?type=tcp&encryp
 vless://bae2fd3a-55fb-4094-99f6-c94e25d7d15d@141.98.6.113:603?mode=gun&security=reality&encryption=none&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek&fp=chrome&type=grpc&sni=www.amd.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@157.22.181.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&security=reality&sid=86b80f1e713a33ad&sni=www.google.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@nid.pink-perfect.ru:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.google.com&fp=chrome&allowInsecure=1&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

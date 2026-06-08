@@ -45,3 +45,5 @@ vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=realit
 vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?encryption=none&fp=chrome&headerType=none&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&security=reality&sid=478dc6&sni=eh.vk.com&type=raw#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3e72a68f-e40d-44c6-a73d-13b99d0d1d50@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://SoftNetConnect@178.104.213.121:443?security=reality&pbk=bVGtj0cRMfC-VapbrAa97IjYqjMoxODMOqsN0eGBDmI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=e0c7dbaa7dc2#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@104.18.155.229:80?path=%2F&security=none&encryption=none&host=sRv74.hAMiIbaR.CoM&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -9,3 +9,4 @@ vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?encryp
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=%2F&security=none&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://4a1b6409-c3a5-496d-86ec-d4060c31dfca@95.182.99.249:55237?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 trojan://SoftNetConnect@46.62.201.63:443?security=reality&pbk=7QujZCFY-5FCBpHciv7YuzmE0eoqqkH3UyPKoW9ny1E&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=53#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://594d466e-8ac3-4fda-b1d1-eeb817853518@107.181.151.241:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5a018643df03&sni=www.microsoft.com&path=/#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

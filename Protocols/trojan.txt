@@ -34,3 +34,5 @@ trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.24.24:49277?allowInsecure=1&sni=
 trojan://BxceQaOe@18.166.29.119:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://SoftNetConnect@46.62.201.63:443?security=reality&pbk=7QujZCFY-5FCBpHciv7YuzmE0eoqqkH3UyPKoW9ny1E&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=53#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=78.159.131.12#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
+trojan://telegram-id-privatevpns@51.102.66.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@18.159.127.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

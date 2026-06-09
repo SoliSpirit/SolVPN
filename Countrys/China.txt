@@ -9,3 +9,4 @@ vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&se
 trojan://l64tlWoGT6USQr=3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allowInsecure=1&sni=www.rolll.click#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTI1Ni1nY206czlJS0FMd3ZKTXZZ@212.192.15.248:8388#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321?security=none&encryption=none&headerType=none&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

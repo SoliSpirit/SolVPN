@@ -12,3 +12,4 @@ trojan://SoftNetConnect@46.62.201.63:443?security=reality&pbk=7QujZCFY-5FCBpHciv
 vless://594d466e-8ac3-4fda-b1d1-eeb817853518@107.181.151.241:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5a018643df03&sni=www.microsoft.com&path=/#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://5481bfe3-bf42-425c-b561-cb9d64bff7ff@w6.homestorage.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sni=5post-gate.x5.ru#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=%2F&security=none&encryption=none&host=api.aramonlineshop.ir&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

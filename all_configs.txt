@@ -580,3 +580,4 @@ trojan://GedH5PTxP5F4oP4kZ5opF3PWgPPCwYw3kfHMN9ZZTEXFbz9c@kr2.bw8848.org:443?all
 trojan://cczQCxQBdYzynosgqLVSmUnZzwjJcWEnpWnMAjZQUy94hDdN@gm2.bw8848.org:443?allowInsecure=0&sni=gm2.bw8848.org&type=ws&path=/gm2-gm2-mo9ag9#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.24.7.239:2096?sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http/1.1&type=ws&host=cd.rxteamonbtop.qzz.io&path=/eyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?security=tls&sni=az.01.naiun.bilibili.com#🇦🇿 Join+Telegram:@SolVPN 🇦🇿

@@ -43,3 +43,5 @@ vless://c931f737-cafe-4e4f-998a-a65517941256@node-de.dostup-est.info:8444?encryp
 trojan://telegram-id-privatevpns@51.102.66.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@18.159.127.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJubHQucmVhdGEuaXIiLCJwb3J0IjoiMTAyMCIsInR5cGUiOiJub25lIiwiaWQiOiI2MjQ0YzQxYS1mNGMxLTQ3MzMtYTY1NC1jMzhmNzcyOWIxM2MiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0Ijoibmx0LnJlYXRhLmlyIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

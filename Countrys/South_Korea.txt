@@ -5,3 +5,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.175.77.73:10333?host=sni.111000.v6.army&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.army&type=ws#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://00000000-0000-4000-8000-000000000000@140.245.75.37:627?allowInsecure=1&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.14.130:443?encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&security=reality&sni=api.company-target.com&type=tcp#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://GedH5PTxP5F4oP4kZ5opF3PWgPPCwYw3kfHMN9ZZTEXFbz9c@kr2.bw8848.org:443?allowInsecure=0&sni=kr2.bw8848.org&type=ws&path=/kr2-kr2-g9xjmv#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

@@ -581,3 +581,8 @@ trojan://cczQCxQBdYzynosgqLVSmUnZzwjJcWEnpWnMAjZQUy94hDdN@gm2.bw8848.org:443?all
 vless://e42eb18a-6620-49b2-a578-820da4adcee8@104.24.7.239:2096?sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http/1.1&type=ws&host=cd.rxteamonbtop.qzz.io&path=/eyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?security=tls&sni=az.01.naiun.bilibili.com#🇦🇿 Join+Telegram:@SolVPN 🇦🇿
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision-udp443&type=raw&headerType=none&security=tls&fp=edge&sni=r1.mizulina.top#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2SjRMckJxa3FDWWdHTU8wOFltbXNNalEzWk10SjdFeTZTeGZwZQ@5.34.177.228:41348#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=%2Fvless&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

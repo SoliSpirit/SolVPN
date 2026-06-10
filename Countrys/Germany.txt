@@ -41,3 +41,5 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&en
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@18.196.209.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@3.70.90.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

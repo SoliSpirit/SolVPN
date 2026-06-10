@@ -9,3 +9,4 @@ trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiIxMDMuMTQzLjIzOC4xOTYiLCJwb3J0IjoiMjE4NzkiLCJ0eXBlIjoibm9uZSIsImlkIjoiMWUxYTZiM2ItMTRiMi00YWU0LTlhYTktODgwYmE1ZGZmNmZhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzc3dzcyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 trojan://d02e3bb7e6b3333e818d36866d40de6e@18.163.193.177:2008?allowInsecure=1&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@18.163.120.29:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?security=tls&sni=www.ws-converter.click&type=tcp&headerType=none&path=%2f&allow_insecure=1#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

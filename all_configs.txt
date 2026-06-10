@@ -503,3 +503,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTS11WWJUUzg0QXpCS2ZvU1N0WDBVNV9xNllKWHFIMw@
 trojan://SoftNetConnect@167.233.99.208:2083?mode=gun&security=reality&authority=77.110.126.179&pbk=n8Fu8cwHAewTgsS-QHBl9KobDMR5W-dGwiE73p4vjxc&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=1b8d4593#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://09548571-364e-4876-8e92-98f423e73913@static.cloudflareinsights.com:443?security=tls&sni=aaa.r-o-o-t2.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=aaa.r-o-o-t2.ir&path=%2FI1P2U8JP51av1yhmNbaBgIw8#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

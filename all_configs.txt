@@ -519,3 +519,8 @@ ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y
 trojan://SoftNetConnect@167.233.105.87:2083?mode=gun&security=reality&authority=77.110.126.179&pbk=n8Fu8cwHAewTgsS-QHBl9KobDMR5W-dGwiE73p4vjxc&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=1b8d4593#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWk5Sd3pZTjJxR3NQN2pxVGR2cHE1azZqM2c3aFUyZGJNNExrZDNuOVVveDMyNGluZjZQUFVpaDJRbzl3ZlhFb0dOQ0JoZERzclZ1dExtbXZVWmloTXNtc3VHcE11N1I=@94.131.127.154:48877#🇲🇪 Join+Telegram:@SolVPN 🇲🇪
 vless://26524cce-d514-4014-a426-365fb266a14d@173.242.113.185:443?&security=tls&fp=chrome&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDAwIiwicHMiOiJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmUgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+trojan://BxceQaOe@43.199.207.202:16712?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://96sc719vi2gtuqp6@178.83.46.50:51117?alpn=h2,http/1.1&fp=chrome&host=&path=/&security=tls&sni=&type=httpupgrade#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

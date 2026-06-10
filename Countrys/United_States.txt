@@ -88,3 +88,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.158.90:443?ed=2560&eh=Sec-We
 vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@172.104.110.10:14673?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&host=2026060522.yja.de5.net&type=ws&sni=2026060522.yja.de5.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.24.24:49277?allowInsecure=1&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://BxceQaOe@43.199.229.84:17801?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://26524cce-d514-4014-a426-365fb266a14d@173.242.113.185:443?&security=tls&fp=chrome&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

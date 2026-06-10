@@ -25,3 +25,5 @@ trojan://BxceQaOe@54.178.8.69:6737?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?security=reality&encryption=none&pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=450d60a09ffb65#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://d02e3bb7e6b3333e818d36866d40de6e@18.162.187.222:3743?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://d84665c37878196ecf983cf6910e3b44@18.167.42.231:5701?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

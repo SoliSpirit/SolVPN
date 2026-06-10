@@ -62,3 +62,4 @@ trojan://telegram-id-privatevpns@51.44.146.0:22222?security=tls&alpn=http/1.1&he
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:48697?security=tls&sni=gh.01.naiun.bilibili.com#🇬🇭 Join+Telegram:@SolVPN 🇬🇭
 trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?security=tls&sni=www.ws-converter.click&type=tcp&headerType=none&path=%2f&allow_insecure=1#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://SoftNetConnect@167.233.99.208:2083?mode=gun&security=reality&authority=77.110.126.179&pbk=n8Fu8cwHAewTgsS-QHBl9KobDMR5W-dGwiE73p4vjxc&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=1b8d4593#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://09548571-364e-4876-8e92-98f423e73913@static.cloudflareinsights.com:443?security=tls&sni=aaa.r-o-o-t2.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=aaa.r-o-o-t2.ir&path=%2FI1P2U8JP51av1yhmNbaBgIw8#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?allowInsecure=0&sni=buh-ro-01.fromblancwithlove.com&security=tls#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#🇴🇲 Join+Telegram:@SolVPN 🇴🇲

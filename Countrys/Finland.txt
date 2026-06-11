@@ -8,3 +8,4 @@ vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=&encr
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBQm9FcHhlVTlGYlFyN19KbjdLVTRzVXFEN1JLakJzMg==@85.192.49.179:51523#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://d4d234ea-80ea-4820-ac5e-05d653960579@ru2.cdn-global.pro:443?security=reality&encryption=none&pbk=FaFJaC1LA4xpzdDY1e0suuH8IBDYdRbjUFH3c-BgRBY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru2.cdn-global.pro&sid=c8b5e9595f818d04#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&security=reality&sid=88ce6b586fcaf681&sni=cdnjs.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

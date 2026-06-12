@@ -481,3 +481,8 @@ vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?allowInsecure=0&type
 vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&path=%2Ffp%3Drandomized&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://telegram-id-privatevpns@18.192.188.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@18.198.224.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

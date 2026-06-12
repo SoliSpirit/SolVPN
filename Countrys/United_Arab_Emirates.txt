@@ -1,1 +1,1 @@
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?security=reality&type=tcp&sni=download.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&sid=d1e9faa1b2c3&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&encryption=none#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip2.feywebsite.ir:2096?sni=hhh.hozheen.ir&type=ws&host=hhh.hozheen.ir&path=/ws?ed=2560fp=chrome&security=tls#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

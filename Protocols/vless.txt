@@ -249,3 +249,6 @@ vless://5729c1fc-c7cf-41b7-8c17-f9b5f59772da@186.246.2.119:443?flow=xtls-rprx-vi
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?type=ws&host=vms.lifetime54.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?security=reality&encryption=none&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&headerType=none&fp=chrome&spx=%2FisNXq1mwk6vPGYQ&type=tcp&sni=varzesh3.com&sid=accd8c#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

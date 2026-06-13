@@ -19,3 +19,7 @@ vless://8ea0665e-dee3-418c-8822-1f70f350f2db@sw.pink-perfect.ru:443?security=rea
 vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?encryption=none&fp=chrome&headerType=none&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&security=reality&sid=08bf&sni=yahoo.com&type=raw#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://aa3be851-9f8b-4aec-973b-879247847656@169.40.32.242:8080?path=%2FPath&security=none&encryption=none&host=169.40.32.242&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?type=ws&host=&path=/#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@13.135.172.147:80#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@35.176.239.59:80#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@3.27.212.11:80#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.31.113.248:443?security=tls&type=ws&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&host=dxy1h.twiladaphne.ndjp.net&fp=chrome&sni=dxy1h.twiladaphne.ndjp.net&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&encryption=none#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

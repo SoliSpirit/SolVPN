@@ -72,3 +72,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.8.66:443?sni=t1s1.rittbo.kdn
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.233.100:443?sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vmess://eyJhZGQiOiI2NjU0YzczNGNjYWI4ZjQ0MGZmMDgyNWViNDQzZGM3Zi5xb3Mub25sIiwiYWlkIjowLCJhbGxvd0luc2VjdXJlIjoiMCIsImFsbG93X2luc2VjdXJlIjoiMCIsImhvc3QiOiJ2MnByOWZlb2gwejg2YW5qMmd6OW9ubmpnOXZpdWV2MGoubW9iZ3NsYi50YmNhY2hlLmNvbSIsImlkIjoiNTJmOWNiZmItNWJiMy0zZGQzLWI5NDctNzI1ZTM2NWM1OWYzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjEwMDExLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 trojan://BxceQaOe@43.198.12.196:17801?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@16.146.46.236:80#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

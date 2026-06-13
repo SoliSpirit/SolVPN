@@ -1,1 +1,2 @@
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:41943?security=tls&sni=az.01.naiun.bilibili.com#🇦🇿 Join+Telegram:@SolVPN 🇦🇿
+vless://d15cce83-9de9-4e37-98bc-ea5a8882f213@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net%26#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

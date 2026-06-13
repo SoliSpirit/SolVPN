@@ -7,3 +7,4 @@ vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?flow=xtls-rprx-v
 vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?security=reality&encryption=none&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&headerType=none&fp=chrome&spx=%2FisNXq1mwk6vPGYQ&type=tcp&sni=varzesh3.com&sid=accd8c#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

@@ -56,3 +56,5 @@ trojan://BxceQaOe@18.181.230.17:5408?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://BxceQaOe@43.198.12.196:17801?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://telegram-id-privatevpns@35.181.198.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:45619?security=tls&sni=fr.01.naiun.bilibili.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://telegram-id-privatevpns@35.181.194.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

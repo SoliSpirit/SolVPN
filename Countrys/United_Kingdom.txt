@@ -31,3 +31,4 @@ vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@167.104.223.68:7443?encryption=none
 vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?type=ws&host=&path=/#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@13.135.172.147:80#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@35.176.239.59:80#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://8faf6e38-0531-4d63-91f0-2aba5b9ff864@1.sdwan.realm-sync.com:5457?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swcdn.apple.com&fp=chrome&pbk=8Ct9wBZLha-ePZMWbSau9ViKgbwlCgEsbGMjNnoVDzw&sid=9da3779ceafd&type=tcp&headerType=none#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

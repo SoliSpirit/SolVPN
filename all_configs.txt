@@ -521,3 +521,6 @@ trojan://BxceQaOe@43.198.12.196:17801?allowInsecure=1&sni=t.me%2Fripaojiedian#�
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://telegram-id-privatevpns@35.181.198.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:45619?security=tls&sni=fr.01.naiun.bilibili.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://8faf6e38-0531-4d63-91f0-2aba5b9ff864@1.sdwan.realm-sync.com:5457?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swcdn.apple.com&fp=chrome&pbk=8Ct9wBZLha-ePZMWbSau9ViKgbwlCgEsbGMjNnoVDzw&sid=9da3779ceafd&type=tcp&headerType=none#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+trojan://telegram-id-privatevpns@35.181.194.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

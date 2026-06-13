@@ -56,3 +56,4 @@ vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none
 vless://8ea0665e-dee3-418c-8822-1f70f350f2db@sw.pink-perfect.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=86b80f1e713a33ad#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://aa3be851-9f8b-4aec-973b-879247847656@169.40.32.242:8080?path=%2FPath&security=none&encryption=none&host=169.40.32.242&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@3.121.6.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4649d681-7f26-4959-a3f2-02eb8866230f@159.195.82.187:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&security=reality&sid=2344766a270a6298&sni=yahoo.com&type=raw#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

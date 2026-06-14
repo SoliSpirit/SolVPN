@@ -555,3 +555,6 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.43:46424?security=tls&sni=de.01.naiun.bilibili.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ac81eae5-3f36-4832-a4e3-9d1d18180c94@ips.it.mobileemdad.top:42538?security=none&encryption=none&host=ips.it.mobileemdad.top&headerType=http&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?security=tls&sni=www.toughapp.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:46424?security=tls&sni=de.01.naiun.bilibili.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

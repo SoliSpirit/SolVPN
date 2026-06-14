@@ -575,3 +575,6 @@ vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&s
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=a1b2c3d4e5f67890&sni=www.booking.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@195.58.48.56:20129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

@@ -578,3 +578,4 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@195.58.48.56:20129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -59,3 +59,4 @@ vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?sni=sub.sbrf-cdn3
 vless://e592c66c-7dda-4cbe-b26d-93a365b431c3@top395200747.mwscdn.ru:80?encryption=none&security=none&type=ws&host=top395200747.mwscdn.ru&path=/zuuvpn#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.43:46424?security=tls&sni=de.01.naiun.bilibili.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:46424?security=tls&sni=de.01.naiun.bilibili.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.117:10443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

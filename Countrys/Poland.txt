@@ -7,3 +7,4 @@ trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@ar
 vless://5e6cd281-2d03-4e72-9bb2-b38ce2da7cc7@pl.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=pl.moktana.app&sid=51e9fd4ba43f64d7#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.99:4443?security=&encryption=none&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?path=%2Fstream&security=&encryption=none&host=panel.dibaux.ir&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

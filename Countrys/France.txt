@@ -22,3 +22,4 @@ trojan://telegram-id-privatevpns@35.181.194.45:22222?security=tls&alpn=http/1.1&
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?security=reality&type=tcp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=8897c56a495b26cc&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://telegram-id-privatevpns@51.45.49.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

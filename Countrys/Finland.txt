@@ -12,3 +12,4 @@ vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:8443?mode=multi&secur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bmRDUDJEZjktUFR4X0owc1plb0htVGR2a2cwdzRLdg@144.31.7.129:51523#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=b76dcf9e1183fe1b#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDR2thSlRiOEhWMGpNQTQzZkE5RmMz@195.133.2.2:34898#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

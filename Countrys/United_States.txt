@@ -79,3 +79,4 @@ vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?Telegram=@Goz
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&path=%2f#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@198.41.219.218:443?sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws&host=zyzzzoao.xn--fiqv8j.eu.org&path=/?ed=2048fp=randomized&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbFR1bzczRnNRd085MEViTG85NlZl@45.55.40.127:49726#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

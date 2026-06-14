@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇧🇪 Join+Telegram:@SolVPN 🇧🇪
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZWEiLCJhZGQiOiJjbjAyLjM2NWNsb3VkNTg3OC5jb20iLCJwb3J0IjoiNjAyNyIsInR5cGUiOiJub25lIiwiaWQiOiI5ZjFlY2ZjYS0xM2E5LTQ4OGQtYWM4NC1hYWViNzNhOGQ1NzQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiY24wMi4zNjVjbG91ZDU4NzguY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243396643.camry-perma.info&path=/phnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#🇧🇪 Join+Telegram:@SolVPN 🇧🇪
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇧🇪 Join+Telegram:@SolVPN 🇧🇪
+vless://394f6981-a782-4779-9a85-e6cf22935d93@207.211.214.42:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#🇧🇪 Join+Telegram:@SolVPN 🇧🇪

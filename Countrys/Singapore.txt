@@ -34,3 +34,4 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&s
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

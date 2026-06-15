@@ -375,3 +375,4 @@ vless://89dd47b1-5677-44e6-85fc-7e52d4a2addc@45.144.52.70:443?encryption=none&fl
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443?path=%2Fudfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com&brand=@Arvand_soul#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=%2Fvless&security=&encryption=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#🇱🇻 Join+Telegram:@SolVPN 🇱🇻

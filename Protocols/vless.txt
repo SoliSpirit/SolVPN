@@ -319,3 +319,4 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?encryption=none
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?path=%2Ftsghdws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.210:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

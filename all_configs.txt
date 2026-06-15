@@ -623,3 +623,5 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&f
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@185.212.117.118:1020?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://89dd47b1-5677-44e6-85fc-7e52d4a2addc@45.144.52.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&security=reality&sni=fl-modx.webedg.net&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443?path=%2Fudfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -55,3 +55,4 @@ trojan://telegram-id-privatevpns@15.188.45.5:22222?security=tls&alpn=http/1.1&he
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?security=tls&sni=az.01.naiun.bilibili.com#🇦🇿 Join+Telegram:@SolVPN 🇦🇿
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

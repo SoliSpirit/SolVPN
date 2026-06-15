@@ -49,3 +49,4 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45553?security=tls&s
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.88:47909?security=tls&sni=is.01.naiun.bilibili.com#🇮🇸 Join+Telegram:@SolVPN 🇮🇸
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:47909?security=tls&sni=is.01.naiun.bilibili.com#🇮🇸 Join+Telegram:@SolVPN 🇮🇸
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:41943?security=tls&sni=az.01.naiun.bilibili.com#🇦🇿 Join+Telegram:@SolVPN 🇦🇿
+trojan://267a9de0-6776-11f1-a9ea-1239d0255272@news.microsoft.com:443?path=/howdy&security=tls&insecure=0&host=usa.test3.net&type=ws&allowInsecure=0&sni=usa.test3.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

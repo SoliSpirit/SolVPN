@@ -7,3 +7,4 @@ vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&
 vless://8ea0665e-dee3-418c-8822-1f70f350f2db@sw.pink-perfect.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=86b80f1e713a33ad#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=bdac121c7debdaba&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?encryption=none&security=none&type=ws&path=%2Fvless#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYldOQzh6WjBlWG9rSU91VzVyTDhvTnJYbVhnNXFBdUwwNVI0ZkdOS0NTN0lHMHU=@46.246.97.3:31348#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

@@ -349,3 +349,4 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&s
 vless://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@host.rent-home-now.com:443?security=reality&encryption=none&pbk=gJjDGu05qCVpcJMcBJKwNmUgueWgr9-6SdTrZieuVwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=6186#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@139.162.3.14:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=sahanwickramasinghevip.shop#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://29b2695f-dcc2-489c-bc43-5b6be1c06bc6@91.107.174.146:14815?security=&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&type=tcp&packetEncoding=none&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@SolVPN 🇬🇪

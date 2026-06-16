@@ -1,1 +1,1 @@
-vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&security=reality&sid=0f4dacf62211e75f&sni=by.api-yandex.net&type=tcp#🇧🇾 Join+Telegram:@SolVPN 🇧🇾
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@144.31.131.3:443?security=reality&type=tcp&packetEncoding=xudp&sni=by.buycloud.app&fp=chrome&flow=xtls-rprx-vision&sid=711f03b16c322124&pbk=OwcO1frlUKi0De7XLo3OmD1qK8Y2HYgJ19WZV8Xzk2E&encryption=none#🇧🇾 Join+Telegram:@SolVPN 🇧🇾

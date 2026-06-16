@@ -71,3 +71,4 @@ vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality
 vless://a8da758c-510d-4827-83cf-2f2b51c49c5b@download.lastilhame.monster:443?security=reality&encryption=none&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=faa900664bad#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=/vless/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

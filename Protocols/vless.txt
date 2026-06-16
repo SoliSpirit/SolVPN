@@ -359,3 +359,6 @@ vless://ff19693c-11f3-4df9-8713-79a85a5ca090@109.236.57.68:443?encryption=none&f
 vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@144.31.131.3:443?security=reality&type=tcp&packetEncoding=xudp&sni=by.buycloud.app&fp=chrome&flow=xtls-rprx-vision&sid=711f03b16c322124&pbk=OwcO1frlUKi0De7XLo3OmD1qK8Y2HYgJ19WZV8Xzk2E&encryption=none#🇧🇾 Join+Telegram:@SolVPN 🇧🇾
 vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

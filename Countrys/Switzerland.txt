@@ -13,3 +13,4 @@ vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.85.93.51:443?security=reality&en
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://e6f9ad6e-4166-4b98-85c8-53d75ec3832f@83.228.225.29:30781?security=reality&encryption=none&pbk=FVbLgN2sj_1WrbMhsh_vltW1NOX84WNC6x8Ed_DQSB0&headerType=none&fp=chrome&spx=%2FoEGgDrGwGC5HR0H&type=tcp&sni=www.yahoo.com&sid=94d8#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

@@ -349,3 +349,5 @@ vless://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@host.rent-home-now.com:443?security
 vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@139.162.3.14:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=sahanwickramasinghevip.shop#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://29b2695f-dcc2-489c-bc43-5b6be1c06bc6@91.107.174.146:14815?security=&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&type=tcp&packetEncoding=none&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@81.177.213.232:1020?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#🇲🇩 Join+Telegram:@SolVPN 🇲🇩

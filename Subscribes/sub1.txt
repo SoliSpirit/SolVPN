@@ -33,3 +33,8 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@130.162.130.105:443?security=tls&s
 trojan://BxceQaOe@43.199.65.165:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@13.158.2.187:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?sni=hhcm.hhxaf.cc.cd&type=ws&host=hhcm.hhxaf.cc.cd&path=/#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://be5abe11-1c65-4289-b581-a5121a8719a1@87.120.104.81:1443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Yia0S6CECYzcz4e6kq0Gzhc_9i_PP--eM0FrEPdQ1WY&security=reality&sid=73a7f33d0731e53c&sni=no.snowfall.top&type=tcp#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
+vless://665c11ef-4723-4396-a8a1-45d013e68e6b@144.31.171.249:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=bootpl1.strangerwhale.fun&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.78:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://db9bbff2-224b-4017-b756-31dc7783a7be@81.29.146.82:443?encryption=none&fp=chrome&mode=gun&pbk=%2DSzGn-eWCRi_84ngEx3V4ogiu3OzjzeSx8ae_I0yhxA&security=reality&sni=yahoo.com&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@130.162.130.105:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=/#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

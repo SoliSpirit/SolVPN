@@ -50,3 +50,4 @@ trojan://telegram-id-privatevpns@63.184.57.98:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.176.115.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://db9bbff2-224b-4017-b756-31dc7783a7be@81.29.146.82:443?encryption=none&fp=chrome&mode=gun&pbk=%2DSzGn-eWCRi_84ngEx3V4ogiu3OzjzeSx8ae_I0yhxA&security=reality&sni=yahoo.com&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:46424?security=tls&sni=de.01.naiun.bilibili.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

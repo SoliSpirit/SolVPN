@@ -18,3 +18,4 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:48697?security=tls&s
 ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=/da&host=s3.aananas.ir#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vmess://eyJhZGQiOiJ1ay52cG5qYW50aXQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjMDVlZjllLTY1ODItMTFmMS1hNmU1LTE3MjcwNTljZmY2MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92cG5qYW50aXQiLCJwb3J0IjoiMTAwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?&security=tls&sni=dcsrzh.ccwu.cc&type=ws&headerType=none&host=dcsrzh.ccwu.cc&path=%2Ffp%3Dchromefp%3Dchrome#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

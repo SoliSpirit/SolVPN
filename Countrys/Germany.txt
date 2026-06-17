@@ -53,3 +53,5 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:46424?security=tls&s
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=/da&host=s3.aananas.ir#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@148.253.208.76:3478#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://245a420e-7811-4296-b347-59bf12bcfc5b@ger39.vlessgroup.com:8443?path=%2Fimages&security=tls&encryption=none&insecure=1&host=ger39.vlessgroup.com&type=ws&allowInsecure=1&sni=ger39.vlessgroup.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

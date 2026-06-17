@@ -24,3 +24,5 @@ vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?type=tcp&securit
 trojan://telegram-id-privatevpns@13.38.149.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSC9KZ0VpSWJvcGk5MEZCMEU1RldHalRzbXJTdlVPUUtrTEdQd1dEMDY4PQ@e1.cover20.ir:51570#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.232:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://telegram-id-privatevpns@15.188.218.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://telegram-id-privatevpns@15.188.67.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -554,3 +554,4 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?encrypt
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSC9KZ0VpSWJvcGk5MEZCMEU1RldHalRzbXJTdlVPUUtrTEdQd1dEMDY4PQ@e1.cover20.ir:51570#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=78.159.131.12#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSC9KZ0VpSWJvcGk5MEZCMEU1RldHalRzbXJTdlVPUUtrTEdQd1dEMDY4PQ@e1.cover20.ir:51570#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -326,3 +326,4 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.113:8443?security=tls&en
 vless://deecd21a-a24f-444d-b92a-2c8e41a6b05b@191.44.118.101:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=69_I9Wm_vP5wQUbiQhdejWS9yLlNYLFjcnF59G-0GAU&security=reality&sid=31e36d0ac3355472&sni=www.microsoft.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://ed8bf251-4a29-4cb3-ae88-dcb74fe7f2e0@blubank.ir:80?path=%2F&security=none&encryption=none&host=po.masterdadeh.ir&type=ws#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://fce343d5-188f-4a5a-a508-830f39090909@blubank.ir:80?path=%2F&security=none&encryption=none&host=s3.tehranionliine.ir&type=ws#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

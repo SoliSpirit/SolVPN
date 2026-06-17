@@ -26,3 +26,6 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.16:443?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@148.253.208.76:3478#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.21.104:443?type=ws&security=tls&path=/&host=tjsp.hhxaf.cc.cd&sni=tjsp.hhxaf.cc.cd&insecure=0&allowInsecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://245a420e-7811-4296-b347-59bf12bcfc5b@ger39.vlessgroup.com:8443?path=%2Fimages&security=tls&encryption=none&insecure=1&host=ger39.vlessgroup.com&type=ws&allowInsecure=1&sni=ger39.vlessgroup.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?security=reality&encryption=none&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e8d2a1b4c39f8877#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -12,3 +12,5 @@ vless://ZoRoVpN@zorovpn.opik.net:50420?security=reality&encryption=none&pbk=WmB1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.78:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://ed8bf251-4a29-4cb3-ae88-dcb74fe7f2e0@blubank.ir:80?path=%2F&security=none&encryption=none&host=po.masterdadeh.ir&type=ws#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://fce343d5-188f-4a5a-a508-830f39090909@blubank.ir:80?path=%2F&security=none&encryption=none&host=s3.tehranionliine.ir&type=ws#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

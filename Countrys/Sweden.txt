@@ -2,10 +2,8 @@ vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&enc
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.101:4443?security=&encryption=none&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?security=&encryption=none&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443?security=&encryption=none&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
-vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://8ea0665e-dee3-418c-8822-1f70f350f2db@sw.pink-perfect.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=86b80f1e713a33ad#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=bdac121c7debdaba&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?encryption=none&security=none&type=ws&path=%2Fvless#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYldOQzh6WjBlWG9rSU91VzVyTDhvTnJYbVhnNXFBdUwwNVI0ZkdOS0NTN0lHMHU=@46.246.97.3:31348#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@81.177.212.231:1020?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

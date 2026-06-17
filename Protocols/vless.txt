@@ -317,3 +317,4 @@ vless://be5abe11-1c65-4289-b581-a5121a8719a1@87.120.104.81:1443?encryption=none&
 vless://665c11ef-4723-4396-a8a1-45d013e68e6b@144.31.171.249:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=bootpl1.strangerwhale.fun&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.78:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://db9bbff2-224b-4017-b756-31dc7783a7be@81.29.146.82:443?encryption=none&fp=chrome&mode=gun&pbk=%2DSzGn-eWCRi_84ngEx3V4ogiu3OzjzeSx8ae_I0yhxA&security=reality&sni=yahoo.com&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796?type=tcp&encryption=none&security=reality&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&fp=chrome&sni=www.sony.com&sid=804d6574da9180&spx=/&flow=xtls-rprx-vision#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

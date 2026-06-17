@@ -638,3 +638,4 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.21.104:443?sni=tjsp.hhxaf.cc
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=/rdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSC9KZ0VpSWJvcGk5MEZCMEU1RldHalRzbXJTdlVPUUtrTEdQd1dEMDY4PQ@e1.cover20.ir:51570#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

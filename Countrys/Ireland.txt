@@ -1,3 +1,1 @@
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
-vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&encryption=none&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=e6#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

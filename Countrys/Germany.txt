@@ -48,3 +48,4 @@ vless://024c5ef7-e927-41a9-abdf-e628a3359411@185.204.168.149:2083?security=reali
 vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@63.184.57.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@63.176.115.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://db9bbff2-224b-4017-b756-31dc7783a7be@81.29.146.82:443?encryption=none&fp=chrome&mode=gun&pbk=%2DSzGn-eWCRi_84ngEx3V4ogiu3OzjzeSx8ae_I0yhxA&security=reality&sni=yahoo.com&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

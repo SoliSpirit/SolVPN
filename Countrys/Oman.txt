@@ -5,3 +5,4 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?security=reality&t
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.86:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.113:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.120:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#🇴🇲 Join+Telegram:@SolVPN 🇴🇲

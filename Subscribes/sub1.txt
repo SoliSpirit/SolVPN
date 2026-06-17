@@ -20,3 +20,6 @@ vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&securi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSC9KZ0VpSWJvcGk5MEZCMEU1RldHalRzbXJTdlVPUUtrTEdQd1dEMDY4PQ@e1.cover20.ir:51570#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=78.159.131.12#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSC9KZ0VpSWJvcGk5MEZCMEU1RldHalRzbXJTdlVPUUtrTEdQd1dEMDY4PQ@e1.cover20.ir:51570#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://024c5ef7-e927-41a9-abdf-e628a3359411@185.204.168.149:2083?security=reality&encryption=none&pbk=Ed5yexAbpTFkIr5a1OhlGUOj_JZGz3RZ4S3CdTYYoDs&headerType=none&fp=chrome&spx=%2F%3Fguccounter%3D1&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=9cb5#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.232:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://ZoRoVpN@zorovpn.opik.net:50420?security=reality&encryption=none&pbk=WmB10FrLwg_rM6bDUYibXOOWv2fWGzwrz_Ju-8ld9XA&headerType=&fp=chrome&spx=%2FCn5Z1RCrSzWzdo6&type=tcp&sni=www.yahoo.com&sid=295edc09#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

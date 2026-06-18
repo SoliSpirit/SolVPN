@@ -11,3 +11,4 @@ vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=%2Fvless&s
 vless://665c11ef-4723-4396-a8a1-45d013e68e6b@144.31.171.249:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=bootpl1.strangerwhale.fun&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://21784e1c-392e-4c5f-b50a-9f8a49f87e9a@2.144.5.90:8443?type=ws&host=bama.ir&path=/Stream#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?path=%2Fdda12c57317ed12178061db1b799ebd2&security=&encryption=none&host=progressiya-vpn.online&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?path=%2Fstream&security=&encryption=none&host=panel.dibaux.ir&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -31,3 +31,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vmess://eyJhZGQiOiJ1ay52cG5qYW50aXQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjMDVlZjllLTY1ODItMTFmMS1hNmU1LTE3MjcwNTljZmY2MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92cG5qYW50aXQiLCJwb3J0IjoiMTAwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

@@ -18,6 +18,7 @@ trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com
 trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?security=tls&sni=node1.bw8848.org&type=ws&host=node1.bw8848.org&path=/node1-node1-5sczzi#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://MiTiVPN@104.21.18.41:443?type=ws&security=tls&path=/cdn=mitivpn&host=linkkon-w.ir&sni=linkkon-w.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?security=tls&sni=az.01.naiun.bilibili.com#🇦🇿 Join+Telegram:@SolVPN 🇦🇿
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

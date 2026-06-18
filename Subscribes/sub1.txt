@@ -4,3 +4,4 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.212:8443?security=tls&en
 vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?security=&encryption=none&headerType=none&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://252e7311-477b-4713-96ec-30ee8bb5f694@www.sibzam-poshak.ir:21363?security=reality&encryption=none&pbk=oDCfMgVSNZlcSkT7ZT1d1ZFRUSsEV1-m2FSuYNm0PWo&host=yahoo.com&headerType=http&fp=chrome&spx=%2FeYbandb4IlVCUBY&type=tcp&sni=yahoo.com&sid=5ea602e3d2#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@46.29.163.195:20129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

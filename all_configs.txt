@@ -585,3 +585,4 @@ vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?path=%2Fstream&s
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://252e7311-477b-4713-96ec-30ee8bb5f694@www.sibzam-poshak.ir:21363?security=reality&encryption=none&pbk=oDCfMgVSNZlcSkT7ZT1d1ZFRUSsEV1-m2FSuYNm0PWo&host=yahoo.com&headerType=http&fp=chrome&spx=%2FeYbandb4IlVCUBY&type=tcp&sni=yahoo.com&sid=5ea602e3d2#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@46.29.163.195:20129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

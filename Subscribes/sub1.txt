@@ -20,3 +20,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06
 trojan://telegram-id-privatevpns@13.39.52.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://telegram-id-privatevpns@15.188.249.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?path=%2FeyJqdW5rIjoiUHVXcXFjYTJGVGI3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=confighaye.mokhaberatebinzon.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=coNFIghayE.moKhaBeraTebInZON.workErS.deV#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@91.208.75.251:3478#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
+vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?security=reality&encryption=none&pbk=PEPivzCg5cBehVQUMVJLNPx3A9hy719Fq7HQsXMp4Ro&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

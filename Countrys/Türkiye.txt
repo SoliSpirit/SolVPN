@@ -13,3 +13,4 @@ vless://fce343d5-188f-4a5a-a508-830f39090909@blubank.ir:80?path=%2F&security=non
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://SoftNetConnect@194.5.193.58:42549?allowInsecure=1&sni=www.speedtest.net#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://7698de4e-2882-4fee-967b-8db030ced1dc@91.216.104.45:8443?security=reality&encryption=none&pbk=YYaCVY336aMluO0Q7kXOTzpMqZ5Yegb_kDBaXG_VNig&headerType=&fp=edge&spx=%2FkIwDeLhLt4uDy3B&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=26e7#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

@@ -54,3 +54,5 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=no
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?sni=bero-3.bexum.fun&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv2.ir5ive.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://f614df48-afb1-4ab4-a43e-088607ce1433@91.107.154.73:7010?security=reality&encryption=none&pbk=WmqD1Ek-eJLaxLGWOgTktqaopw9-0EN_jsVmR-lKJ3g&headerType=none&fp=chrome&spx=%2FOwniGe6RQdX0TBa&type=tcp&sni=wiredminds.de&sid=29c9#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:2053?encryption=none&host=&path=%2Fws&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@194.87.24.181:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

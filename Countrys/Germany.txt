@@ -47,3 +47,4 @@ vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter.qeshmdiyar.ir:443?sec
 trojan://telegram-id-privatevpns@63.178.57.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@18.195.157.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=%2Fvless&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn4-35.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79&flow=xtls-rprx-vision#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

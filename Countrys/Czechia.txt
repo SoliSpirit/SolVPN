@@ -1,3 +1,2 @@
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
-vless://2fe6e253-c49a-43f1-b720-44b6c88a54a4@real.netbox.dpdns.org:2083?mode=gun&security=reality&encryption=none&pbk=c4lbYJuHePZflANAySSltpFD6yH3xsRlWqumAwVudU8&fp=chrome&spx=%2Fdbni7QOHxWaqrWU&type=grpc&serviceName=grpc&sni=www.cloudflare.com&sid=ae48baef39#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

@@ -25,3 +25,5 @@ vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.232:443?encryption=none&sec
 trojan://telegram-id-privatevpns@13.39.52.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://telegram-id-privatevpns@15.188.249.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://8d264b9f-4f18-4deb-902a-4ead1741b72d@152.89.253.156:443?encryption=none&type=tcp&headerType=http&host=www.play.google.com&path=/&security=reality&fp=chrome&sni=play.google.com&pbk=1zoR5vrMXPj7USVt9xkmD41KGLKpmX6rb_DxZ3sf9So&sid=18a7747246bb58fd&spx=/WA9W5qkjUJaNKSt#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiam5ySW5zbnlObGJZb3RTdjl5a2d5@51.254.142.162:8388#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

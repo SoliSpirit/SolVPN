@@ -35,6 +35,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.20.214:443?path=%2F&security=tls&encryption=none&insecure=0&host=refighehosein.salamdadash123.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=refighehosein.salamdadash123.workers.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://9e66ec7d24874c17@ezaccess-project-d193bb.ez-8deb91.workers.dev:443?path=/eyJqdW5rIjoicHFkODJncDAiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=ezaccess-project-d193bb.ez-8deb91.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=eZaCCEss-projECt-d193bB.Ez-8DEb91.workers.DEV#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:29642?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@16.162.87.106:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

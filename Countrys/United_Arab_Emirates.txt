@@ -1,1 +1,1 @@
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip2.feywebsite.ir:2096?sni=hhh.hozheen.ir&type=ws&host=hhh.hozheen.ir&path=/ws?ed=2560fp=chrome&security=tls#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
+vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?security=reality&%3Bencryption=none&%3Bpbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=www.microsoft.com&%3Bsid=ad041ff6#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

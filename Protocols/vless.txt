@@ -105,6 +105,7 @@ vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&secur
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?security=&encryption=none&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443?security=&encryption=none&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F&security=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.177:80?type=ws&host=icy-darkness-8ff1.farzambia12mo.workers.dev&path=/eyJqdW5rIjoibHFUM0pwRHZXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19?ed=2560#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&host=vms.lifetime50.workers.dev&path=#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
@@ -359,3 +360,4 @@ vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?allowInsecur
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv2.ir5ive.ir&type=ws#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://a2fde8c9-00ee-4f7f-af28-38b669623b99@91.186.215.199:443?security=reality&encryption=none&pbk=3crBPZzqZ_QFzPD0mde5jmuqkVokupWB8Nz_xehlmic&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=972f5c0c231aaeab#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://e274d81c-6118-44cf-8864-06b3dc83e0c0@95.85.231.0:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l7.l-itx.info:7443?security=reality&encryption=none&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

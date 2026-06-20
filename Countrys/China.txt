@@ -13,3 +13,4 @@ ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#🇨🇳 Join+Telegram:@SolVPN 🇨
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@43.199.65.165:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://9f5fe7e9-33fa-430e-b51d-39367042ad73@156.248.10.58:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=hk-atlas.besnow.xyz&sid=54fc3827c8&fp=safari&pbk=EXIEsAJq-s30mA0r997iwrR8ijvGLZ7DOTkr_R39QCE&headerType=none#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.53.120:2008?allowInsecure=1&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

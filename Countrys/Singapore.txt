@@ -46,3 +46,5 @@ vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.20.214:443?path=%2F&security
 trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:29642?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@18.162.50.252:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.212.204.27:443?security=reality&encryption=none&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&headerType=none&fp=firefox&spx=%2Fis7UqNeUm5nh8rQ&type=tcp&sni=play.google.com&sid=ed41#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ==@103.136.150.192:30129#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

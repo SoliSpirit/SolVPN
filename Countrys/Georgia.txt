@@ -9,3 +9,4 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&type=tcp&packetEncoding=none&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#🇬🇪 Join+Telegram:@SolVPN 🇬🇪

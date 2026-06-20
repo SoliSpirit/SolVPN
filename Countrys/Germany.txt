@@ -57,3 +57,4 @@ vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?path=%2FeyJqdW5r
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFkzQmRKbXBtV2R5OVJKbWd4ZmFB@217.179.5.162:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e274d81c-6118-44cf-8864-06b3dc83e0c0@95.85.231.0:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:46424?security=tls&sni=de.01.naiun.bilibili.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?mode=gun&security=reality&encryption=none&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com&sid=3f5684#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

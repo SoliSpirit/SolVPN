@@ -28,7 +28,6 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45619?
 vless://abd3678b-f654-404c-adc7-1355865197e1@vmess.a-amr79.workers.dev:8880?allowInsecure=0&type=ws&host=vless.a-amr79.workers.dev&path=/eyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=mitivpn-s2.global.ssl.fastly.net&type=ws&sni=global.fastly.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@152.67.210.234:443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

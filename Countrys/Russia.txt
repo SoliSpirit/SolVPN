@@ -1,4 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
-vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?security=reality&encryption=none&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e8d2a1b4c39f8877#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
-ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@46.29.163.195:20129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

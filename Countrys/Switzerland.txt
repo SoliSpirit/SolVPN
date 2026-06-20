@@ -5,3 +5,4 @@ vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?encryption=none
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://SoftNetConnect@83.228.230.226:42549?allowInsecure=1&sni=www.speedtest.net&alpn=h2%2Chttp/1.1%2Ch3#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

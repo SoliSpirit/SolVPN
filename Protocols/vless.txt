@@ -412,3 +412,4 @@ vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.209:57820?encryption=no
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.224:8443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1&host=splash.ariyuz.org&sni=splash.ariyuz.org&insecure=0&allowInsecure=0#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&type=grpc&security=tls&sni=gco1.afterdomain.shop&alpn=h2&insecure=0&allowInsecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.174:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=ams1.fromblancwithlove.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?allowInsecure=0&sni=assets.trorays.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇱🇻 Join+Telegram:@SolVPN 🇱🇻

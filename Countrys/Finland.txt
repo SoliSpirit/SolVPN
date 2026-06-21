@@ -18,3 +18,4 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.10:8443?security=tls&encr
 vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.174:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=ams1.fromblancwithlove.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDR2thSlRiOEhWMGpNQTQzZkE5RmMz@195.133.2.2:34898#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@fin.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@130.49.148.134:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

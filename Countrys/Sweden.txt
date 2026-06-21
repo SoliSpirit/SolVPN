@@ -19,3 +19,4 @@ vless://ed3e860f-c97d-45be-a56b-47b77da11059@sw-3.coinbridge.nl:443?mode=gun&sec
 vless://31216f81-3139-0021-bac4-646680314264@sw.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=6a2b5c9d&type=tcp&headerType=none#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?type=tcp&headerType=none&security=reality&encryption=none&sni=stockholmresilience.org&fp=firefox&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&sid=b378&spx=%2F&flow=xtls-rprx-vision#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@70.34.194.57:443?fp=firefox&sid=5e841fab&sni=yastatic.net&security=reality&type=tcp&pbk=F7NZa0wqjlz9zHlFUUW8rnh9j9GwX7e2rq3CynO3s1o#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

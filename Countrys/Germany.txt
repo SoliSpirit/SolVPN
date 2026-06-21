@@ -72,3 +72,5 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=no
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?allowInsecure=0&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

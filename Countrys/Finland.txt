@@ -14,3 +14,5 @@ ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk=@77.83.247.206:18284#🇫🇮 J
 vless://bb789aaa-c07a-47ae-987f-5adba035e8c7@65.109.219.2:110?#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://09d8ebf3-c4bb-4597-91e4-5cebfa593b7c@109.248.161.206:443?security=reality&encryption=none&pbk=oqrU5jM7qTRqjb1N-cakTOyTtVU3Zs9lmet-irbr8TU&headerType=&fp=chrome&spx=%2FabJKOaPacyi1dli&type=tcp&sni=www.yahoo.com&sid=6443cb87ea#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.10:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.174:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=ams1.fromblancwithlove.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

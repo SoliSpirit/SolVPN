@@ -2,3 +2,4 @@ vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFi
 vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

@@ -9,3 +9,4 @@ vless://b2a290df-fafc-4f69-a529-3900fe479ac1@212.237.217.152:443?encryption=none
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80?encryption=none&host=speedtest.com&path=%2Fnotbin&security=none&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://612c872d-1370-4109-8644-f0755f97e33f@83.97.78.13:443?security=reality&encryption=none&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=16#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw==@77.42.33.181:1085#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

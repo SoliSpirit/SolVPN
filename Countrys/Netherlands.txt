@@ -85,3 +85,5 @@ vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?type=tcp&headerT
 vless://967064b5-3272-431e-8dce-9519acfb94be@150.241.102.175:443?security=reality&type=tcp&packetEncoding=xudp&sni=usa.zestful.bond&fp=firefox&flow=xtls-rprx-vision&sid=823257b7b9ab9d02&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.209:57820?encryption=none&fp=chrome&pbk=YgVq_pYLd-NOCGUo0nftxYMwip15wAg8Z_23MrbVNiI&security=reality&sid=ecc903f84bce67fc&sni=www.yahoo.com&spx=%2FaS8mwojwSwPZ7Xd&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSmVBamlKNDBGMklsMTdFbHYyODVX@141.227.152.129:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@nl.oplatasite.ru:8443?sni=vpn.oplatasite.ru&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&sni=www.game-bridge.click#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

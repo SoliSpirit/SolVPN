@@ -95,3 +95,4 @@ vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?encryption=none&
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTEyOC1nY206OVlhNVE2eFhha281MUVGWnRPV0RYbWJFczRHanc5SVU@45.82.67.38:16485#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://4760f592-045d-4f13-a49f-7984eae1a9a8@37.49.224.93:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dev.max.ru&fp=safari&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

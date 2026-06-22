@@ -92,3 +92,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=realit
 vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@79.137.195.157:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amazon.de&fp=chrome&pbk=G8SING6Ibc_igZ5vI5578fXCT_mBMRuq_o8_Ymnj2SQ&sid=eba1498e012ef580&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?encryption=none&type=tcp&security=reality&fp=random&sni=www.ozon.ru&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -20,3 +20,4 @@ vless://e52fedb7-befe-4615-a53e-89d446f74bf4@130.49.148.134:8880?encryption=none
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?security=none&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.232.204.90:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://a500be68-4ff6-433b-9968-472be69fab14@finland01.azotvpn.xyz:443?security=reality&encryption=none&pbk=DbDMO81H0vjk1yfrluu2-AWPn4gpDHnUxt3jq-M4zlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=finland01.azotvpn.xyz&sid=56d03777813654b1#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NHBGd3VsMXBrNXh1RnI2VDA1UzVT@109.107.182.229:51544#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

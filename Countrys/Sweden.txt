@@ -1,7 +1,6 @@
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?security=&encryption=none&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443?security=&encryption=none&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYldOQzh6WjBlWG9rSU91VzVyTDhvTnJYbVhnNXFBdUwwNVI0ZkdOS0NTN0lHMHU=@46.246.97.3:31348#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.191:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.9:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

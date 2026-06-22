@@ -39,6 +39,7 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&secu
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?path=/a12b0d31&security=none&encryption=none&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://54a83fbb-c966-4bb2-bed6-a808b2fc3913@de1.gamelistak.com:443?alpn=h2%2Chttp/1.1&fp=chrome&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?Telegram=@armindone,@armindone,@armindone,@armindone&Telegram=@armindone,@armindone,@armindone,@armindone,@armindone,@armindone,@armindone&security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

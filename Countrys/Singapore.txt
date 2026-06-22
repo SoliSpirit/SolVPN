@@ -48,3 +48,4 @@ ss://YWVzLTI1Ni1nY206aHhveFZZbEdYSkRx@194.87.10.155:8388#🇸🇬 Join+Telegram:
 vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@54.254.57.203:443?encryption=none&fp=firefox&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&security=reality&sid=ed41&sni=play.google.com&spx=%2Fis7UqNeUm5nh8rQ&type=tcp#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.213.16.53:443?encryption=none&fp=firefox&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&security=reality&sid=ed41&sni=play.google.com&spx=%2Fis7UqNeUm5nh8rQ&type=tcp#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.213.13.5:443?encryption=none&fp=firefox&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&security=reality&sid=ed41&sni=play.google.com&spx=%2Fis7UqNeUm5nh8rQ&type=tcp#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://860c3c2c89a1c7515792be1c5295d21e@18.162.41.225:6357?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

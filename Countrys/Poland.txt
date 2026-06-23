@@ -14,3 +14,4 @@ vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?security=reality&
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@pl1.vitok.cc:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=prdfZ4GRS4MHS9eNXPD4FAeSkQ7drFQ9s8F7VhDPaGQ&sid=5e841fab&sni=ozon.ru#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://0fdbacfb-428b-4d49-adb4-dd629e7c52e2@185.68.185.212:50029?security=reality&type=tcp&allowInsecure=1&sni=www.nvidia.com&fp=chrome&sid=4e7f150d&pbk=7f483yCE9Bohsk5FkHta5FYQF0BN96EzAHoUuEACB3I#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.144.48.187:443?security=reality&encryption=none&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=c0#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

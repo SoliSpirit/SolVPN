@@ -103,3 +103,5 @@ vless://71b03803-5dfe-4dac-8406-a06e94b1bd70@176.109.94.202:9443?path=%2Fws&secu
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dev.max.ru&fp=safari&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@5.129.236.132:443?security=reality&encryption=none&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ams-01.gni-daed.ru&sid=a8399289e18af5f4#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?path=%2F&security=&encryption=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8f8a4b5f-2656-450e-95a6-6fb5e628bfb7@noderu1.plan-vpn.ru:443?security=&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

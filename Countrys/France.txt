@@ -32,3 +32,4 @@ vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&
 trojan://telegram-id-privatevpns@35.181.236.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://f12a5e31-05b8-4520-b3a4-e9da1f08ceb6@104.17.147.22:2087?path=/&%3Bsecurity=tls&%3Balpn=http/1.1&%3Bencryption=none&%3Binsecure=0&%3Bhost=newq.newappdominfastlogin4.com&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=newq.newappdominfastlogin4.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://telegram-id-privatevpns@15.237.161.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

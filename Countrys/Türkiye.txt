@@ -15,3 +15,4 @@ vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@turkey.shabtaban.ir:443?security=re
 vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&spx=%2F&type=tcp&headerType=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://06287fd2-c6af-49ab-9e48-451bd0eee1d4@85.198.10.213:5050?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://b92ed761-7503-40fc-ab5d-b7d164cf9758@194.116.236.15:56584?encryption=none&fp=chrome&pbk=OTQdqm_AcrDUCFAoGE8ilnMje70ZBSwjwOytYsIZvBY&security=reality&sid=f16e3628b752cc&sni=varzesh3.com&spx=%2FoClrMCDMoVnfYxS&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@turk.izumii.ir:8443?security=reality&encryption=none&pbk=OEHoHvaXXeJm6cPlP4k1QOK783bjWvxMBzle3PB0dnw&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=a5c9ff6ce1aebf81#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

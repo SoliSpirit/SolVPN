@@ -81,3 +81,7 @@ vless://7dc8bd4d-5c5d-4391-82d9-2424b16ec2a3@46.151.26.41:443?security=&encrypti
 vless://9d1f3567-232f-4a02-bf50-4028f5d9a8ca@96.62.74.138:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=qq&pbk=zMuLYURvrPXeNU39XaN9FZN5PUDQdyffei01IugpZwk&sid=e32354adc83bd772#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://037db5a7-051f-4ac9-844d-703d087a3984@167.99.214.123:2083?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=/vless/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://26524cce-d514-4014-a426-365fb266a14d@20.229.252.162:443?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -74,3 +74,4 @@ trojan://telegram-id-privatevpns@52.57.203.89:22222?security=tls&alpn=http/1.1&h
 vless://be88d265-a268-4ce1-ba06-516fa5c8471d@134.255.252.76:9999?security=reality&%3Bencryption=none&%3Bpbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&%3BheaderType=none&%3Bfp=chrome&%3Bspx=/3LB8Ys42AC9wwHz&%3Btype=tcp&%3Bsni=varzesh3.com&%3Bsid=02#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=%2Fvless&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

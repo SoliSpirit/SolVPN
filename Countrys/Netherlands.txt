@@ -78,3 +78,5 @@ vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@5.129.236.132:443?security=reality&
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?path=%2F&security=&encryption=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8f8a4b5f-2656-450e-95a6-6fb5e628bfb7@noderu1.plan-vpn.ru:443?security=&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://7dc8bd4d-5c5d-4391-82d9-2424b16ec2a3@46.151.26.41:443?security=&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://9d1f3567-232f-4a02-bf50-4028f5d9a8ca@96.62.74.138:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=qq&pbk=zMuLYURvrPXeNU39XaN9FZN5PUDQdyffei01IugpZwk&sid=e32354adc83bd772#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://037db5a7-051f-4ac9-844d-703d087a3984@167.99.214.123:2083?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

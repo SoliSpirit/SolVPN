@@ -32,3 +32,4 @@ vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb1.oneokapp.com:443?security=tls&e
 vmess://eyJhZGQiOiIyLjI2LjIzMS44NyIsImlkIjoiNmQ2NTk1YjUtZmY3Zi00OTk1LWFiZGUtYjExODcyOTlhNjNkIiwibmV0IjoidGNwIiwicG9ydCI6MTEwLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic2N5IjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all27.allenshop100.ir:443?security=reality&%3Bencryption=none&%3Bpbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&%3BheaderType=none&%3Bfp=firefox&%3Btype=tcp&%3Bsni=play.google.com&%3Bsid=98fa0b00d09419f7#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

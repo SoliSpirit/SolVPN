@@ -68,3 +68,4 @@ vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&%3Bsecur
 vless://60631b26-691b-40dc-9255-436a9b612754@46.101.172.168:2087?path=%2F&security=tls&encryption=none&insecure=0&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d6695105-8e40-4a45-a87e-d3cf561c9fa4@91.98.3.186:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.127:443?security=tls&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://673c6260-9d1c-4520-8729-55ed458092a2@ok.miyuu6.top:6060?encryption=none&headerType=http&host=Ponisha.ir&path=%2F&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -701,3 +701,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZ
 vless://db1b568f-8847-42bf-84e5-a51e2e49a786@212.74.39.42:17524?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://db1b568f-8847-42bf-84e5-a51e2e49a786@91.216.104.233:41930?encryption=none&security=none&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.127:443?security=tls&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#🇱🇺 Join+Telegram:@SolVPN 🇱🇺

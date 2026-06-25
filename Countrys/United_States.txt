@@ -96,3 +96,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?alpn=h2&%3Bencrypti
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://928d8e01-289f-4a8b-91ea-2689ec62aed1@arvancloud.ir:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=sinimoo.com&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vless://a1667f69-6ef0-4f4c-a4e6-3fe555d6da71@37.152.190.242:49194?path=%2F&security=&encryption=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

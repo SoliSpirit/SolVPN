@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ==@45.129.96.62:41348#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:62800?encryption=none&type=grpc&serviceName=grpc&mode=gun&security=reality&sni=yandex.ru&fp=firefox&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&spx=%2F#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

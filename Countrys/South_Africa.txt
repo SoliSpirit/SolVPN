@@ -1,3 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&security=tls&headerType=none&sni=38.54.64.247&fp=chrome&insecure=1&allowInsecure=1#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
+vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?security=reality&encryption=none&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.alibaba.com&sid=8d17b7ebab7b99d7#🇿🇦 Join+Telegram:@SolVPN 🇿🇦

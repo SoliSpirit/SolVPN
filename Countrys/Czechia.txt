@@ -1,2 +1,1 @@
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

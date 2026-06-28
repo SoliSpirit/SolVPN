@@ -13,3 +13,4 @@ vmess://eyJhZGQiOiJ5ZzEueWdra2suZHBkbnMub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6
 trojan://e0195c73018d597b1c2f0ea89d8676ae@35.77.34.38:53012?allowInsecure=1&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@54.46.109.132:20744?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://f8e32ccb-7e0b-4966-837a-2a9503bc3d82@64.49.45.57:15540?encryption=none&%3Bflow=xtls-rprx-vision&%3Bsecurity=reality&%3Bsni=www.intel.com&%3Bfp=chrome&%3Bpbk=Yg0SBHkbrgAxsRKnsNXn4SStVURNYMiPor2oMSRTblA&%3Bsid=3a81ee2c998d0e&%3Btype=tcp&%3BheaderType=none#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@18.163.56.230:3941?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

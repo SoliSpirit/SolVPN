@@ -63,3 +63,4 @@ vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=%2F
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=/da&host=s3.aananas.ir#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -1,3 +1,4 @@
 vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016&flow=xtls-rprx-vision#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=cf9d145ad8f1ea55&sni=storage.yandex.net&type=tcp#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://SoftNetConnect@37.156.44.215:42549?allowInsecure=1&sni=www.speedtest.net&alpn=h2%2Chttp/1.1%2Ch3#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.250.119:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

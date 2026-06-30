@@ -64,3 +64,4 @@ vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-
 trojan://telegram-id-privatevpns@18.156.10.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@3.78.10.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=qeztrg7u.akscasx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=qeztrg7u.akscasx.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://612c872d-1370-4109-8644-f0755f97e33f@85.208.139.100:443?security=reality&encryption=none&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=16#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

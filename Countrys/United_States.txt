@@ -104,3 +104,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.9.157.150:57783?encryption=none
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@147.182.229.237:443?&security=tls&fp=random&sni=snippet.danfeng.gv.uy&type=ws&headerType=none&host=snippet.danfeng.gv.uy&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://f188ec3b-e055-4eed-ae62-97403931d4e2@174.129.45.76:2053?security=reality&encryption=none&pbk=L0bhr3K-aQCLq4aVrDTBQa6N62T7XbCsFhWnbStdWyc&headerType=none&fp=chrome&spx=%2FPLrixVCDuf2x7bu&type=tcp&sni=www.intel.com&sid=835db5c67c00#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@144.202.83.188:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?encryption=none&type=ws&security=tls&path=%2Fsea&host=imblo.fastcitylab-byte.info&sni=imblo.fastcitylab-byte.info&insecure=1&allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

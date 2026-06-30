@@ -18,3 +18,4 @@ ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#🇬�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnV0JnbUtiOEFMMXVSSzBqWjQ0QW9PUGFDNWxWVE9IWm1p@91.108.254.104:13683#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all32.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA==@141.133.175.194:8388#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?sni=gb7.univesalsrv.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&fp=chrome&security=tls#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

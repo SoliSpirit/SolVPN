@@ -103,3 +103,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&encryp
 trojan://MiTiVPN@151.101.110.219:443?security=tls&type=ws&sni=global.fastly.com&path=/nl=mitivpn&host=cdn2-mitivpn.global.ssl.fastly.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=%2F&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.9.157.150:57783?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram??@WangCai2#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@147.182.229.237:443?&security=tls&fp=random&sni=snippet.danfeng.gv.uy&type=ws&headerType=none&host=snippet.danfeng.gv.uy&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

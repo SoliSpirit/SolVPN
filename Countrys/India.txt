@@ -5,3 +5,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZ
 trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20035?security=tls&headerType=none&type=tcp&sni=hk.catxstar.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20035?security=tls&sni=hk.catxstar.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20035?allowInsecure=1&sni=hk.catxstar.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+vmess://eyJhZGQiOiIxMzguMjUyLjEwMC44NSIsImhvc3QiOiIiLCJpZCI6IjVjYWU3NzE0LTljNjEtNGM1Yy04NzZlLWM0NWExY2IxM2JlNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoxODc0Niwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

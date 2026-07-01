@@ -68,3 +68,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplenllSDIyaUdTMVVEZWV3NXp6YlRpbXFlY3JHQktTUzF
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://3da8ec10-c083-45b4-9c42-2ce3c5128f82@52.222.136.195:443?encryption=none&security=tls&sni=moon.nocturnbit.online&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=moon.nocturnbit.online&path=%2Fxray#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://037db5a7-051f-4ac9-844d-703d087a3984@167.99.214.123:2083?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

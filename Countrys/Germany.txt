@@ -69,3 +69,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.166.243:443?path=%2F&securi
 trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=/da&host=s3.aananas.ir#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?security=&encryption=none&headerType=&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://501c1f83-a390-4b93-99db-7f57d0111573@nr.cnkstore.ru:8443?security=reality&encryption=none&pbk=v9tl1F7ZGdPeudN3tsHw02vvOpLOvhGBUEjgeCtsvQk&headerType=none&fp=firefox&type=tcp&sni=iv.kommersant.ru&sid=fe74a5e0a6#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a90f60c0-6566-44cf-a99f-5aaf213b72dc@nex1.liiliil.ir:2053?security=reality&encryption=none&pbk=8_j56AZHntUSXrvIhdensgf1VhC0S9lxizLkec4zX00&headerType=none&fp=ios&spx=%2FHpBSTEEFl9XaNwx&type=tcp&sni=play.google.com&sid=d40e7c9920906dbd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -20,3 +20,4 @@ vless://b6f29f8d-016e-4f30-b57f-c0cdafab2a40@141.133.175.194:443?security=realit
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?sni=gb7.univesalsrv.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&fp=chrome&security=tls#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gbw40.moyvpns.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=grpc-api&allowInsecure=0&sni=gbw40.moyvpns.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

@@ -29,3 +29,4 @@ trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&ho
 vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&type=tcp&headerType=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.244.3:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@francet1.sorcepack.ir:56626?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.109.21:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

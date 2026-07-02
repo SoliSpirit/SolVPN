@@ -66,3 +66,4 @@ vless://501c1f83-a390-4b93-99db-7f57d0111573@nr.cnkstore.ru:8443?security=realit
 vless://a90f60c0-6566-44cf-a99f-5aaf213b72dc@nex1.liiliil.ir:2053?security=reality&encryption=none&pbk=8_j56AZHntUSXrvIhdensgf1VhC0S9lxizLkec4zX00&headerType=none&fp=ios&spx=%2FHpBSTEEFl9XaNwx&type=tcp&sni=play.google.com&sid=d40e7c9920906dbd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e9ab53ab-5607-4ec2-8e01-e6e76ce9443d@209.250.235.53:56021?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ef5e8ad2-9f17-4337-b4b3-9a91ea96f115@45.95.0.219:46292?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.252:443?path=%2Fapi%2Fv1%2Fstream&security=tls&encryption=none&insecure=0&host=sync.amordad.xyz&type=ws&allowInsecure=0&sni=sync.amordad.xyz#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

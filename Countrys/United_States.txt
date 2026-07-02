@@ -95,3 +95,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&f
 trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?allowInsecure=1&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.17.8.84:443?sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

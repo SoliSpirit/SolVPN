@@ -407,3 +407,4 @@ vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&
 vless://dd0ea052-da1d-463a-8892-0fba98024c2c@ehvip.93at.com:443?sni=Wallweb.hydradllcloud.info&type=ws&host=Wallweb.hydradllcloud.info&path=/?ed=2048fp=randomized&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.228.243:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

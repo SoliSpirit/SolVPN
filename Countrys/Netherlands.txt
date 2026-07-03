@@ -84,3 +84,4 @@ vless://afd62d3d-22df-457b-88e3-ec705466d095@109.207.170.8:26783?path=%2Fstore&s
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dUV1M3hRTXhCVEwwUFNNYk9tMERSOUVsRXVSY3ZWM3JhQzlsVmpXUDVuND0@net12.shaygan.site:2095#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.47.161:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@152.53.200.72:8443?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

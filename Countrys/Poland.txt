@@ -9,3 +9,4 @@ trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@ar
 trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@95.85.253.109:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://ee7de6e8-e73d-4878-adaa-8a2e99dc768a@46.8.209.184:2099?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gate.esimpson.org&fp=firefox&security=reality&pbk=FTVQSLe_kSxKly4fa1JFkhYUzpJywK6HRC0xEk0BAlQ&sid=1b73426e#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

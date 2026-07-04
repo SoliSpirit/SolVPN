@@ -10,3 +10,4 @@ vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5ODU1ZjFm
 vless://dd0ea052-da1d-463a-8892-0fba98024c2c@ehvip.93at.com:443?sni=Wallweb.hydradllcloud.info&type=ws&host=Wallweb.hydradllcloud.info&path=/?ed=2048fp=randomized&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3032?security=reality&encryption=none&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=abadbb95be30dccf#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://3ffd3381-b733-4f39-a7e5-516018b4b4d6@tekno.fusetea.ir:555?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

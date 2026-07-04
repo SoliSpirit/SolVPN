@@ -62,3 +62,4 @@ vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@194.67.102.65:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.germany.nexusdataroute.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.18.153.10:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

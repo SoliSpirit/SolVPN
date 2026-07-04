@@ -4,3 +4,4 @@ vless://52b71b75-4b77-4cec-990b-046ec1938e1f@ru.bvps.cloud:443?type=tcp&security
 ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg==@46.29.163.176:20129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOXZyU2otVDhOYzN3dVJ1V0NwOVJn@88.218.170.50:1080#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@45.146.166.249:443?type=tcp&headerType=none&security=reality&encryption=none&sni=github.com&fp=chrome&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&flow=xtls-rprx-vision#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

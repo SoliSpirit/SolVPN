@@ -94,3 +94,4 @@ vless://ed6297aa-aa75-46b8-fea7-98074fd0a482@192.166.82.165:80?type=ws&host=skyr
 vless://0d9cc99b-d11a-43b8-8613-dc8ef04a326b@44.223.17.190:2053?encryption=none&fp=chrome&pbk=-dvaet5vTdRvWpkf_1wY2HcWuHDMHK_A_19tUq3QQRQ&security=reality&sid=a8434c33&sni=www.inel.com&spx=%2Ff6jRSVG0fvHWE7y&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA=@us04.network-cdn-gw-yd.net:44404#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

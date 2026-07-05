@@ -30,3 +30,4 @@ trojan://telegram-id-privatevpns@13.39.35.22:22222?security=tls&alpn=http/1.1&he
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@francet1.sorcepack.ir:56626?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://332b3cc2-21dc-4ffa-9ab7-7d46a665b5fe@193.42.61.231:47664?security=none&allowInsecure=1&flow=&type=ws&fp=&pbk=&sid=&sni=fr.navid.my&serviceName=&path=%2F&host=#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn6-49.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd&type=tcp&headerType=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

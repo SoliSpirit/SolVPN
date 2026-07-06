@@ -86,3 +86,5 @@ vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=%2F%3Fu%3D737
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80?type=ws&host=de4.niekotin.de&path=/vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@3.78.136.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?path=%2FeyJqdW5rIjoiUHVXcXFjYTJGVGI3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=confighaye.mokhaberatebinzon.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=coNFIghayE.moKhaBeraTebInZON.workErS.deV#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -8,3 +8,4 @@ vless://681314c5-b3ee-41f1-a959-fa42841f5383@askwodf.foot8all.ir:50567?encryptio
 vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443?#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://4330361d-41c0-4f5b-920a-472a360a142c@se-arn-2.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se-arn-2.blook.network&fp=firefox&pbk=4_6L715q33OQgaQ5to4ZQe_U1C3uXADtMP8V31F1BFY&sid=e5d360c3&type=tcp&headerType=none#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@5.42.106.202:9878?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://3afa7da8-d2d8-4fd9-a18e-af20aec9015d@45.80.229.3:443?security=reality&encryption=none&pbk=HytUHg9GrbMLmfnwqCqIIa0RbZFd3xAIhAE4XNpZFxI&headerType=none&fp=chrome&spx=%2Fnl%2Foffer&type=tcp&sni=www.samsung.com&sid=98e8c2fe#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

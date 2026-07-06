@@ -92,3 +92,4 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=n
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan2.mashkestan.com:2087?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@161.35.217.79:2087?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?mode=gun&security=reality&encryption=none&pbk=l_C0QQhMVDqhDT3-_AS8cBoOOhKksv8ubX4cf4EVjwo&fp=chrome&spx=%2F5QFfdWJo6AMdStV&type=grpc&serviceName=grpc-ru-2053-4f7b2a&sni=www.amazon.com&sid=17#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

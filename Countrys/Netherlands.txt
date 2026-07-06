@@ -94,3 +94,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@165.232.81.187:2053?encryption=none
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.144:8090?type=ws&host=rukr.speedload.ru&path=/ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv12.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rezerv7.yunus.guru&fp=firefox&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

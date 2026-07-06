@@ -22,3 +22,4 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.directdnsai.shop:8880?mode=gu
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.directdnsai.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.directdnsai.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.directdnsai.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

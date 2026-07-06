@@ -442,3 +442,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.152.227:2053?allowInsecure=1
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@138.199.233.214:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@57.129.47.10:2053?path=/proxyip%3D94.131.123.74%3Fu%3D135bd1e8e1&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=ez-01eeff.ezaccess19f879f.workers.dev&%3Bfp=chrome&%3Btype=ws&%3Bsni=ez-01eeff.ezaccess19f879f.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://8e62a80b-83ee-4eb8-9852-e8f8c7a6c4fa@fast2.screw.page:443?sni=fast2.screw.page&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c777e5b5-9904-4644-947a-e4208a0329d0@es204.mechvpn.online:443?alpn=h3%2Ch2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

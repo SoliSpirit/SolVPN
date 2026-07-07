@@ -740,3 +740,4 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&typ
 vless://a5b5a5a1-c293-4351-8e45-c6d90f8727b0@coco.sorix-home.ir:38733?mode=gun&security=reality&encryption=none&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&fp=chrome&type=grpc&sni=play.google.com&sid=09e78c1d381f98ed#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a6614783-b5d3-44f0-b4c3-88b4aacbceec@91.107.176.17:54224?security=&encryption=none&headerType=&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3a5aa494-e481-4fa4-bc0b-5961a94f89a4@162.19.181.194:56548?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://449b7dd6-6ad2-4ce6-b4aa-6c7060e143fb@87.120.106.52:8081?type=tcp&encryption=none&path=%2FELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray&host=Chess.com&headerType=http&security=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

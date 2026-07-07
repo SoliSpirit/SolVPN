@@ -1,1 +1,1 @@
-vless://39a7fe2d-41dc-46f5-bb76-f07707994885@84.201.144.254:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=web.max.ru&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
+vless://e9496c4c-95a7-491d-9c46-68c7395c7ac3@95.182.90.252:2082?path=%2F&security=&encryption=none&host=95.182.90.252&type=ws#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

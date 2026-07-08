@@ -793,3 +793,4 @@ vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?security=reality
 vless://df542c98-1ceb-40ff-9d21-6ac78ff8b173@46.4.230.210:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ef48d9a3-add0-40a1-8367-ea6a88dc2a92@108.162.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=node-6796348943-048136.amingtav1341.workers.dev&sni=node-6796348943-048136.amingtav1341.workers.dev&fp=chrome&insecure=0&allowInsecure=0#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf4.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼

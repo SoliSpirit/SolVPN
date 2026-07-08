@@ -101,3 +101,4 @@ vmess://eyJhZGQiOiIxMDQuMjEuODkuMTgxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@144.202.83.188:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://BxceQaOe@16.162.220.240:11353?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://3bdb8c70-da05-483a-aa56-0e252c767f16@143.14.22.32:443?sni=cache-5673.atlanta-games.com&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://XG59623478@adjusted-orca.rooster465.autos:443?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

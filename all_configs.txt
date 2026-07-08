@@ -168,7 +168,6 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?security=reality&t
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://6e8f5055-1020-4a3e-8223-556818d18fde@animal.nuaa.tech:2083?sni=s.f.3.y.h.j.x.3.q.w.9.n.g.6.h.x.660696.xyz&type=ws&host=s.f.3.y.h.j.x.3.q.w.9.n.g.6.h.x.660696.xyz&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://abd3678b-f654-404c-adc7-1355865197e1@vmess.a-amr79.workers.dev:8880?allowInsecure=0&type=ws&host=vless.a-amr79.workers.dev&path=/eyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://86768774-70b2-4c15-80c3-02066fb1e3b6@104.21.39.202:443?path=%2F152.32.181.246-44070&security=tls&insecure=0&host=zholli90.biggestqut.workers.dev&type=ws&allowInsecure=0&sni=zholli90.biggestqut.workers.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

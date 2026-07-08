@@ -93,3 +93,5 @@ vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://f4f1c142-6676-67cc-fe52-0d0e61ff9493@production-8c98.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-8c98.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-8c98.up.railway.app&path=/ws/f4f1c142-6676-67cc-fe52-0d0e61ff9493#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://b3eed393-e990-40a0-978c-689d40be9da4@77.74.123.132:448?security=reality&encryption=none&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=52a74e01683e9173#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.211.140:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -102,3 +102,4 @@ trojan://BxceQaOe@16.162.220.240:11353?allowInsecure=1&sni=t.me%2Fripaojiedian#�
 vless://3bdb8c70-da05-483a-aa56-0e252c767f16@143.14.22.32:443?sni=cache-5673.atlanta-games.com&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://XG59623478@adjusted-orca.rooster465.autos:443?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://XG59623478@next-ringtail.rooster465.autos:443?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xNi4wLjAiLCJwb3J0IjoiNDQzIiwiaWQiOiI5NWQyYzQ2MS02MWY1LTRkYWUtYmM3NC00ZDEwY2UxZjYyMzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6Imdvbmd5aWxtLmRwZG5zLm9yZyIsInBhdGgiOiIvd3MtZ29uZ3lpIiwiaG9zdCI6Imdvbmd5aWxtLmRwZG5zLm9yZyIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

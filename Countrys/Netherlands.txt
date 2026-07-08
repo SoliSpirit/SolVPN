@@ -89,3 +89,4 @@ vless://da694b2e-e844-4b72-a5b1-611f2f6dce2a@hayabusa.proxy.rlwy.net:18786?encry
 vless://95658876-8b22-4bbf-9ab3-39dc9375b69f@185.31.200.203:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_QEZLSCXLgEaGDdqBuKS6NZF4aGK0hY7k2CejeIlTxQ&security=reality&sid=578d5f58d4&sni=www.cloudflare.com&spx=%2FZmG5I4bPQthRcb4&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://33c23181-92e3-4f7c-8c66-f62d1ea6c55b@185.28.172.123:443?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a5b5a5a1-c293-4351-8e45-c6d90f8727b0@coco.sorix-home.ir:38733?mode=gun&security=reality&encryption=none&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&fp=chrome&type=grpc&sni=play.google.com&sid=09e78c1d381f98ed#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&type=ws&allowInsecure=0&sni=amooaliii.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

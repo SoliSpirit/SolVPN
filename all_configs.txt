@@ -810,3 +810,8 @@ vless://578c8541-16a0-40b7-bf72-9508d547f856@185.174.136.206:443?security=realit
 vless://36644091-0cec-47fe-9955-97c3f424baf7@162.19.156.170:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&allowinsecure=1&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://564397f8-4805-4433-ab5b-a24aa133bac2@104.167.24.21:443?encryption=none&security=reality&sni=hub.oneoknews.com&fp=firefox&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&sid=064c2d37308aeeb6&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=api.v1.StreamService#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://36644091-0cec-47fe-9955-97c3f424baf7@51.89.117.21:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+trojan://XG59623478@rational-joey.rooster465.autos:443?allowInsecure=1&sni=rational-joey.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://XG59623478@wise-rhino.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://XG59623478@allowing-ram.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://XG59623478@immense-eagle.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://XG59623478@dashing-bedbug.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

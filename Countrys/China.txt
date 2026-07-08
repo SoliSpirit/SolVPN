@@ -18,3 +18,4 @@ vless://c3f8992b-c174-4fc0-bfde-87ae88c88da2@38.180.149.55:49875?encryption=none
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://4cda4ebf-06b7-4f21-a1ca-95b73f1f7163@103.97.201.171:57468?#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

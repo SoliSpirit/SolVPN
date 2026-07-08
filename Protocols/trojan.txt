@@ -148,3 +148,8 @@ trojan://XG59623478@rich-gelding.rooster465.autos:443?allowInsecure=1#🇰🇷 J
 trojan://XG59623478@wealthy-bengal.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://telegram-id-privatevpns@63.176.232.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=78.159.131.12#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
+trojan://XG59623478@rational-joey.rooster465.autos:443?allowInsecure=1&sni=rational-joey.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://XG59623478@wise-rhino.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://XG59623478@allowing-ram.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://XG59623478@immense-eagle.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://XG59623478@dashing-bedbug.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

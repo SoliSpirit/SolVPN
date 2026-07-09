@@ -95,3 +95,4 @@ vless://b521cf5a-91a8-7fad-3702-698a57b8a50e@ansooyefilter-production.up.railway
 vless://ac7f22d1-066b-4355-dd3e-c5cfdc8ab19f@154.29.147.127:11102?type=ws&host=&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=shegeftihaaa.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@198.41.219.218:443?sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws&host=zyzzzoao.xn--fiqv8j.eu.org&path=/?ed=2048fp=randomizedfp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

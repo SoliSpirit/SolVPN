@@ -27,3 +27,4 @@ trojan://XG59623478@rested-seahorse.rooster465.autos:443?allowInsecure=1#🇰�
 trojan://XG59623478@exotic-chicken.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://XG59623478@rich-gelding.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://XG59623478@wealthy-bengal.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.175:443?allowInsecure=0&sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyipfp=chrome&security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

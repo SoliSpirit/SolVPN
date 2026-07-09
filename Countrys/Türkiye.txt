@@ -10,3 +10,4 @@ vmess://eyJhZGQiOiIxNTUuMTAzLjcxLjE2MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://449b7dd6-6ad2-4ce6-b4aa-6c7060e143fb@87.120.106.52:8081?type=tcp&encryption=none&path=%2FELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray&host=Chess.com&headerType=http&security=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://e1c7f7ce-5bf8-41a8-87d5-896d2659f08a@turki.gelqino.ir:17830?&type=ws&headerType=none&host=turki.gelqino.ir&path=%2Fvless#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNythdDJTbnk3ek9EeUhTMU9TNlFSZXBMOC01bWFOVUZG@130.94.0.150:21376#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

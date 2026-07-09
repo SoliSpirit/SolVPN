@@ -146,3 +146,4 @@ trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chr
 trojan://BxceQaOe@18.162.144.111:29449?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@16.162.87.106:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?allowInsecure=1&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://zK=0KfL3IG+sNNZL-J7d0Nonu4wFBx8MOy@172.235.229.227:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

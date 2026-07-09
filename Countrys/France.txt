@@ -42,3 +42,4 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encrypt
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=%2Frsedgws&security=tls&encryption=none&host=shegeftihaaa.net&type=ws&sni=shegeftihaaa.net#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.9:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

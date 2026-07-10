@@ -118,3 +118,4 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://Telegram-CNT-Cafe@185.92.180.178:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZDn8_M2k8Mvkk1z22VN_2c8TCmAPqC1KXVrLMcel9zk&security=reality&sid=387ccd902b&sni=www.yahoo.com&spx=/TyVH7X0uNk4Eh8s&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@38.207.169.105:443?sni=stx4x.gyvz.kj2.hh.hhyf.kdns.fr&type=ws&host=stx4x.gyvz.kj2.hh.hhyf.kdns.fr&path=/glasspanel/guest000_0_5de14443985f/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@u-cvds-s-vfdsds-a-dc.codesystem.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

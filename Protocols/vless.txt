@@ -459,3 +459,8 @@ vless://11dda7fb-aef6-430f-8dff-6ddffe0a966b@kakoolnewse.up.railway.app:443?encr
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=/&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@cand.appcodes.ir:2026?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ca930e5d4a603c6a#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://ca792b0f-013c-45d0-98e9-3b10ac713c82@69.46.46.74:443?path=/unicorn&security=tls&encryption=none&insecure=0&host=unicorn1.up.railway.app&type=ws&allowInsecure=0&sni=unicorn1.up.railway.app#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://ef61d287-1771-71f0-211a-474478346d4f@x4g-production-7c77.up.railway.app:443?path=/ws/ef61d287-1771-71f0-211a-474478346d4f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-7c77.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-7c77.up.railway.app#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://58e4a4f4-a84e-48d1-ba68-65a4aebb6df0@64.90.7.33:443?&type=tcp&headerType=none&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@argg6.auragg.org:443?sni=argg6.auragg.org&alpn=h2%2Chttp/1.1&type=grpc&serviceName=media.session.poll&fp=firefox&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

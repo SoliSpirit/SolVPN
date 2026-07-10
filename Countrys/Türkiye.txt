@@ -9,3 +9,4 @@ vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5ODU1ZjFm
 vmess://eyJhZGQiOiIxNTUuMTAzLjcxLjE2MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMmZjYzc3NS0xNTc5LTRiNGItOWZlOC1mOGRkZTc3MWM4NjEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMjYiLCJwcyI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://e1c7f7ce-5bf8-41a8-87d5-896d2659f08a@turki.gelqino.ir:17830?&type=ws&headerType=none&host=turki.gelqino.ir&path=%2Fvless#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNythdDJTbnk3ek9EeUhTMU9TNlFSZXBMOC01bWFOVUZG@130.94.0.150:21376#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

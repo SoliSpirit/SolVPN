@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.9.181:3306#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

@@ -469,3 +469,4 @@ vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@38.207.169.105:443?sni=stx4x.gyvz.k
 vless://7f547a00-bc25-4512-baeb-5a3983c118d3@chatgpt.com:8443?encryption=none&type=ws&host=uk.hknetapp.com&path=%2F&security=tls&sni=uk.hknetapp.com&alpn=http%2F1.1#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@u-cvds-s-vfdsds-a-dc.codesystem.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

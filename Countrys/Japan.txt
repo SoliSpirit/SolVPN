@@ -74,3 +74,4 @@ trojan://PI36027154@large-baboon.rooster465.autos:443?security=tls#🇯🇵 Join
 trojan://BxceQaOe@18.183.199.219:54411?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://HW85960347@happy-monkfish.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?encryption=none&type=ws&security=tls&path=/fp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

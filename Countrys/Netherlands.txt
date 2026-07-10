@@ -75,3 +75,5 @@ vless://6e475ace-9410-5f61-8ea9-f05fadd1f604@x4g-production-213b.up.railway.app:
 vless://39dfd8b4-47a8-158c-80e9-e80a747828fc@rare-creation-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=rare-creation-production.up.railway.app&path=/ws/39dfd8b4-47a8-158c-80e9-e80a747828fc&sni=rare-creation-production.up.railway.app&fp=ios&alpn=http/1.1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZ3BtWXZ1M2IyQ0RVdzY1U2tlbVZj@5.253.59.156:32140#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8308c669-4ee7-46a2-9813-f2da27ceabcb@x4g1.up.railway.app:443?encryption=none&security=tls&sni=x4g1.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=x4g1.up.railway.app&path=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.202.117:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=g2.steptofsvo.com&sid=6d6f13013d3e1d0c#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=%2F&security=none&encryption=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -466,3 +466,6 @@ vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc
 vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@argg6.auragg.org:443?sni=argg6.auragg.org&alpn=h2%2Chttp/1.1&type=grpc&serviceName=media.session.poll&fp=firefox&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://Telegram-CNT-Cafe@185.92.180.178:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZDn8_M2k8Mvkk1z22VN_2c8TCmAPqC1KXVrLMcel9zk&security=reality&sid=387ccd902b&sni=www.yahoo.com&spx=/TyVH7X0uNk4Eh8s&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@38.207.169.105:443?sni=stx4x.gyvz.kj2.hh.hhyf.kdns.fr&type=ws&host=stx4x.gyvz.kj2.hh.hhyf.kdns.fr&path=/glasspanel/guest000_0_5de14443985f/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://7f547a00-bc25-4512-baeb-5a3983c118d3@chatgpt.com:8443?encryption=none&type=ws&host=uk.hknetapp.com&path=%2F&security=tls&sni=uk.hknetapp.com&alpn=http%2F1.1#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@u-cvds-s-vfdsds-a-dc.codesystem.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -1,3 +1,4 @@
 vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016&flow=xtls-rprx-vision#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://06462f62-5f9c-4632-9041-d35fedd0df97@fast.motorbazan.com:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://6d4d70ed-de4d-4938-af65-72e1cef81cf3@yui.kosmojoy.ru:8443?security=reality&encryption=none&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=ce2491dd#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@sw-5.hysteria.ltd:9443?&security=tls&fp=qq&sni=sw-5.hysteria.ltd&type=ws&headerType=none&host=sw-5.hysteria.ltd&path=%2Fws#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

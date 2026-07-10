@@ -55,3 +55,4 @@ vless://8a4d32e8-ab02-4398-84a7-8d7672426ad6@grm.janaj.space:443?encryption=none
 vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=srv10.perfectbulk.info&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=srv10.perfectbulk.info#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZnJFUGt4VVJuRlFpMDB1TWxRd09B@188.245.87.3:2096#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c9f992e1-e838-4130-a2cd-81997b62f65e@185.249.199.100:8585?path=%2Fspammers&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

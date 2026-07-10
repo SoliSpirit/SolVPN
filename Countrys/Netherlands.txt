@@ -98,3 +98,4 @@ vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.89:443?type=tcp&security=r
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?path=%2Fvip1&security=tls&encryption=none&insecure=1&host=hamshahriesfahan.com&type=ws&allowInsecure=1&sni=speedtest.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://11dda7fb-aef6-430f-8dff-6ddffe0a966b@kakoolnewse.up.railway.app:443?encryption=none&security=tls&sni=kakoolnewse.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=kakoolnewse.up.railway.app&path=/kakoolnews#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://ca792b0f-013c-45d0-98e9-3b10ac713c82@69.46.46.74:443?path=/unicorn&security=tls&encryption=none&insecure=0&host=unicorn1.up.railway.app&type=ws&allowInsecure=0&sni=unicorn1.up.railway.app#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

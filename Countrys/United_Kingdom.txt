@@ -6,7 +6,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 Join+Telegram:
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTciLCJhZGQiOiI2OS44NC4xODIuNDkiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?encryption=none&fp=chrome&security=tls&serviceName=grpc-api&sni=gbos2.osvp.online&type=grpc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

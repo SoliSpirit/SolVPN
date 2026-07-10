@@ -1,3 +1,2 @@
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
-vless://4262c320-5080-4e93-904a-cb77d7fa1d70@dex.mpzdev.ir:16656?security=reality&encryption=none&pbk=JU2RSU2sL-MAlzjOqLOYr-cDpg5ystXrF9Pdk2GWPhM&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=cfad2da14133#🇧🇬 Join+Telegram:@SolVPN 🇧🇬

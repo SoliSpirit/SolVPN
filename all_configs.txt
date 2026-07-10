@@ -711,3 +711,4 @@ trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#🇯�
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c1709670-114d-4c1a-84c6-452db9981c08@135.125.168.129:18169?type=tcp&encryption=none&security=reality&pbk=Bn5ziIYYKffPJjUd3diIvdmfLJgbo76mVSEcrgY0k08&fp=chrome&sni=www.icloud.com&sid=339e6fe3f9&spx=/naranv2ray#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@95.85.253.109:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

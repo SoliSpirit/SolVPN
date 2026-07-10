@@ -72,3 +72,5 @@ vmess://eyJhZGQiOiIxNTcuODUuMjMwLjI0NyIsImFpZCI6MCwiaG9zdCI6Ind3dy5iaW5nLmNvbSIs
 trojan://PI36027154@rich-mule.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PI36027154@large-baboon.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@18.183.199.219:54411?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@happy-monkfish.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

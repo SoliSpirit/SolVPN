@@ -6,7 +6,6 @@ trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#🇨�
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@172.64.152.23:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Bfp=chrome&%3Btype=ws&%3Bsni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&brand=@Arvand_soul#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/nctesNoRBmMFXBj&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

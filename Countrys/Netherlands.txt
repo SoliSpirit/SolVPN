@@ -110,3 +110,4 @@ vless://ad8173e7-c717-42a8-a87f-d573783e6efc@netazad1-production.up.railway.app:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.199.186:8090?&type=ws&headerType=none&host=rukr.speedload.ru&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://3aedf221-f6c5-9f8d-49da-2547c302cb03@rvg-production-aa24.up.railway.app:443?&security=tls&type=ws&headerType=none&host=rvg-production-aa24.up.railway.app&path=%2Fws%2F3aedf221-f6c5-9f8d-49da-2547c302cb03#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

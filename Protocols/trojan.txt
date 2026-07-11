@@ -47,3 +47,4 @@ trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#🇨🇳
 trojan://XG59623478@singular-lark.rooster465.autos:443?allowInsecure=0&sni=singular-lark.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://BxceQaOe@18.162.144.111:29449?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:27111?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/hjagyfwlYKkjwFz&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=bf725cdd#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://CFvS99VcEv82u3XFr36EPbumLPadKXT6@trojan-tcp-tls-test.hysteria.ltd:9443?security=tls#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

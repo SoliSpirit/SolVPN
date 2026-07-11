@@ -75,3 +75,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@109.120.138.15:2053?encryption=none
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@217.154.94.41:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22222?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@xucigi.mbcloudynias.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=qq&type=grpc&sni=icloud.com&sid=2acdb7659ae9df84#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@fcf461cad2d69f6c.monopolitass.ir:56625?encryption=none&type=grpc&security=reality&mode=gun&sni=icloud.com&fp=ios&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d5e4b75249e38cbb#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

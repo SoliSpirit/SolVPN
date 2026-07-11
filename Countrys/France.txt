@@ -54,3 +54,4 @@ vless://d8b42cd5-a149-4356-9e61-111111111111@110.34.38.2:1445?#🇫🇷 Join+Tel
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@81.19.137.144:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?security=reality&encryption=none&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&headerType=none&fp=chrome&spx=%2FgiyWVcXDg48T294&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=eaa8#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNmJocHlqazBvMzUyeDdp@135.125.113.81:8080#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@172.64.34.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

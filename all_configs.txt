@@ -749,3 +749,7 @@ vless://9c9fe5fa-6984-467b-a933-4c147886b9b9@wng.legendcr.ir:443?security=realit
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@198.211.121.165:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vmess://eyJhZGQiOiIyLjI2LjcuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTU4ZjU5NDAtZGUzZC00NDY2LWJiMzAtYjYwNTk5M2RiMjdlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@72.5.42.70:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&allowinsecure=0&type=tcp&headerType=none#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
+ss://YWVzLTI1Ni1nY206aFBZQUd3b0VWYVNN@89.125.244.147:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22224?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.200.30:8090?&packet-encoding=xudp&type=ws&headerType=none&host=rukr.speedload.ru&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

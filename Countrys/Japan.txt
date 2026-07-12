@@ -40,3 +40,4 @@ trojan://PI36027154@exciting-grizzly.rooster465.autos:443?allowInsecure=0&sni=ex
 trojan://PI36027154@stirred-buck.rooster465.autos:443?allowInsecure=0&sni=stirred-buck.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PI36027154@faithful-clam.rooster465.autos:443?allowInsecure=0&sni=faithful-clam.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PI36027154@busy-lab.rooster465.autos:443?allowInsecure=0&sni=busy-lab.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

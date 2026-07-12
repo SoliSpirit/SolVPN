@@ -531,3 +531,4 @@ vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@140.235.168.9:993?security=reality&
 vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&fp=firefox&pbk=fp2XmT8otUDkl65Df2h1b5b0oCe0CQiAimPKEMdnwmI#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&fp=firefox&pbk=_pfnx4mNda47T7Hyi_tNfnSXzL9fL4EKQWNu31NSkmo#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com&fp=firefox&pbk=mdN58_sSqP17lYoc-cWvIgtHjzb8vlqJv5t24Y9Bnic#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?type=ws&host=download.pusytroller.gq&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -1,1 +1,2 @@
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
+vless://fb9da2e5-aee6-4108-ab57-ffc36ce85656@185.253.116.38:443?security=reality&encryption=none&pbk=A2_2LyDmeLGGBqdtl7Zu2vRKghhewpmsMq8NmG9RqDw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=duckduckgo.com&sid=b9cd333706f5#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

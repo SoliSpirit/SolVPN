@@ -52,3 +52,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.191.198:22224?encryption=non
 vless://9c9fe5fa-6984-467b-a933-4c147886b9b9@wng.legendcr.ir:443?security=reality&encryption=none&pbk=iLVvvJXzlbyq94w1V94GHzb_gwWyjKLRZNwbDgat2Fo&headerType=none&fp=chrome&spx=%2FBVTQu89v47qxjEy&type=tcp&sni=www.yahoo.com&sid=cc1ab7ea15901a77#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=%2Fsg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.204.235:22223?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

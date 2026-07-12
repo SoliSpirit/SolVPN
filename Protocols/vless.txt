@@ -503,3 +503,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.242.229.125:8443?allowInsecure=1
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://867eeaea-04f3-2a70-e800-b23aa6ee6343@x4g-production-f2d2.up.railway.app:443?path=/ws/867eeaea-04f3-2a70-e800-b23aa6ee6343&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-f2d2.up.railway.app&fp=chrome&type=ws&sni=x4g-production-f2d2.up.railway.app#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=%2F&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

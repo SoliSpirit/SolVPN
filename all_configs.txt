@@ -708,3 +708,4 @@ vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@gamefictoinspeed.info:443?path=%2Fm
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22223?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@57.129.47.10:2053?path=/proxyip%3D94.131.123.74%3Fu%3D135bd1e8e1&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=ez-01eeff.ezaccess19f879f.workers.dev&%3Bfp=chrome&%3Btype=ws&%3Bsni=ez-01eeff.ezaccess19f879f.workers.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

@@ -121,3 +121,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@165.232.81.187:2053?encryption=none
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@62.84.98.106:8090?&type=ws&headerType=none&host=rukr.speedload.ru&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.142.6:8090?type=ws&host=rukr.speedload.ru&path=/ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://1642d104-816a-4a12-afd3-d54f7e2e0393@chatgpt.com:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl.hknetapp.com&type=ws&allowInsecure=0&sni=nl.hknetapp.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://5ae768bf-2ea0-22d2-eade-6763e14dc745@teain.org:1004?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

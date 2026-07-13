@@ -778,3 +778,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8
 vless://cb5d5d72-4df6-41fe-a6bc-580346aeff8f@speedtest.net:80?&type=ws&headerType=none&host=vvvv7iq.global.ssl.fastly.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4392b776-41a2-4300-b545-a3d2724b605b@155.212.168.164:443?security=reality&encryption=none&pbk=4vIA_XIMBEZcJyLkxdi7v6FVVhc3gGru3eE5mciDyF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msk-cloud.landcode.online&sid=26fd24aa623cadc0#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.17.8.84:443?sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://76ca86e8-6370-45cc-9ad3-04f3bd223b0a@67.230.163.132:11835?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

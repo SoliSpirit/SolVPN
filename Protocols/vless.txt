@@ -501,3 +501,5 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.31:443?path=/sg-melbi&sec
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@62.84.98.106:8090?&type=ws&headerType=none&host=rukr.speedload.ru&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@140.235.168.9:993?security=reality&type=tcp&packetEncoding=xudp&sni=speed.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://5e9709cb-bfc3-487c-a8e1-7beea7dd72d8@xnod6x.artemida.live:443?encryption=none&fp=chrome&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&security=reality&sid=a1b2c3d4e5f6a7b8&sni=xnod6x.artemida.live&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@198.41.219.218:443?sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws&host=zyzzzoao.xn--fiqv8j.eu.org&path=/?ed=2048fp=randomizedfp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.142.6:8090?type=ws&host=rukr.speedload.ru&path=/ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

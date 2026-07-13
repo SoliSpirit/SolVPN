@@ -119,3 +119,4 @@ vless://4f0d1307-bad6-4e31-a438-4e27138ccdf3@3x-ui-upgrade-production-6923.up.ra
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@165.232.81.187:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@62.84.98.106:8090?&type=ws&headerType=none&host=rukr.speedload.ru&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.142.6:8090?type=ws&host=rukr.speedload.ru&path=/ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

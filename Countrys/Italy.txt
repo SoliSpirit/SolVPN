@@ -13,3 +13,4 @@ vless://fb9da2e5-aee6-4108-ab57-ffc36ce85656@89.150.57.196:8443?security=none&en
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?security=&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

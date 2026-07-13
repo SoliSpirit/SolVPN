@@ -42,3 +42,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.204.235:22223?#🇫🇷 Join+
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22223?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

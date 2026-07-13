@@ -29,3 +29,4 @@ vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?&securit
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@57.128.181.26:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com&fp=firefox&pbk=mdN58_sSqP17lYoc-cWvIgtHjzb8vlqJv5t24Y9Bnic#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNjYwNzE2Zi1mZDNmLTQ1NGMtOWY5MS0yMGFmYWYwYjUzMmI@gw.lydwan.com:35606#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://7f547a00-bc25-4512-baeb-5a3983c118d3@chatgpt.com:8443?encryption=none&type=ws&host=uk.hknetapp.com&path=%2F&security=tls&sni=uk.hknetapp.com&alpn=http%2F1.1#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

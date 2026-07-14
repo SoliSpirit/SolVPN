@@ -503,3 +503,4 @@ vless://bafacd98-136a-4530-838d-4e5c51838dac@167.71.65.205:8443?ed=2560&eh=Sec-W
 vless://d8b42cd5-a149-4356-9e61-111111111111@110.34.38.2:1445?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?type=ws&host=download.pusytroller.gq&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://2166fcae-8e93-4f50-d3c4-94c7042767ac@82.158.229.125:11126?#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv71.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv71.perfectbulk.info#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

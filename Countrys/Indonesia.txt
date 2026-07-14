@@ -1,1 +1,1 @@
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#🇮🇩 Join+Telegram:@SolVPN 🇮🇩
+trojan://3632736327@ine07011438.tmdsb.org:3367?allowInsecure=1&sni=ine07011438.tmdsb.org#🇮🇩 Join+Telegram:@SolVPN 🇮🇩

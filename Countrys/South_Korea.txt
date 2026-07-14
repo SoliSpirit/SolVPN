@@ -21,3 +21,4 @@ trojan://CF68213490@star-bluejay.rooster465.autos:443?allowInsecure=0&sni=star-b
 trojan://CF68213490@upward-yak.rooster465.autos:443?allowInsecure=0&sni=upward-yak.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://CF68213490@tolerant-stag.rooster465.autos:443?allowInsecure=0&sni=tolerant-stag.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://CF68213490@together-impala.rooster465.autos:443?allowInsecure=0&sni=together-impala.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vless://c73dde3c-bc5c-4498-a1c1-c84f80e9f515@20.196.153.157:2233?encryption=none&security=none&type=tcp#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

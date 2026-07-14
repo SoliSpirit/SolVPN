@@ -3,3 +3,4 @@ vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
 vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@kz.hagrid-connected.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.hagrid-connected.com&fp=edge&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&sid=305570274c0c72cc&type=tcp&headerType=none#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
+trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#🇰🇿 Join+Telegram:@SolVPN 🇰🇿

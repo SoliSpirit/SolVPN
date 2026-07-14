@@ -60,3 +60,5 @@ trojan://CF68213490@star-bluejay.rooster465.autos:443?allowInsecure=0&sni=star-b
 trojan://CF68213490@upward-yak.rooster465.autos:443?allowInsecure=0&sni=upward-yak.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://CF68213490@tolerant-stag.rooster465.autos:443?allowInsecure=0&sni=tolerant-stag.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://CF68213490@together-impala.rooster465.autos:443?allowInsecure=0&sni=together-impala.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://3632736327@ine07011438.tmdsb.org:3367?allowInsecure=1&sni=ine07011438.tmdsb.org#🇮🇩 Join+Telegram:@SolVPN 🇮🇩
+trojan://CF68213490@smooth-lark.rooster465.autos:443?allowInsecure=0&sni=smooth-lark.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

@@ -83,3 +83,4 @@ vless://b2d8093b-f8e7-4a59-a582-96e3224728df@www.dgmcd.cn:443?path=%2F29099%2Fap
 trojan://OD90375861@together-insect.rooster465.autos:443?allowInsecure=0&sni=together-insect.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://KV63147582@evolving-baboon.rooster465.autos:443?allowInsecure=0&sni=evolving-baboon.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://47883fd8-0478-414f-8230-6eeecedc234e@85.192.28.199:19072?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@188.114.97.230:443?encryption=none&host=app.zynuro.ir&path=/a8Kp92LmQx&security=tls&sni=app.zynuro.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

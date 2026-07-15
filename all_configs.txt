@@ -798,3 +798,4 @@ vless://e8bf51de-efc9-42a4-be50-1a6bc3170c63@144.31.128.56:443?encryption=none&f
 vless://7bdb9235-68bd-418f-912e-4cc590f50c35@194.190.153.197:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=chrome&pbk=ZG4NdXaL8vyBZEKc-tGuyKwt5coM0YHcEy-jDr5zLR0&sid=0a076a61#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&security=tls&sni=vangoghhh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=/rdfgtws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.17.8.84:443?sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.207:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

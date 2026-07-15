@@ -90,3 +90,4 @@ trojan://CF68213490@alert-redfish.rooster465.autos:443?allowInsecure=0&sni=alert
 trojan://CF68213490@free-hare.rooster465.autos:443?allowInsecure=0&sni=free-hare.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://CF68213490@caring-wallaby.rooster465.autos:443?allowInsecure=0&sni=caring-wallaby.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://CF68213490@immune-mullet.rooster465.autos:443?allowInsecure=0&sni=immune-mullet.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=a32e8c4a#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

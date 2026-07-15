@@ -894,3 +894,5 @@ vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?path=%2Fv1&sec
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSzdaSXREazlDbzJlT2V3@168.63.58.89:443#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+ss://YWVzLTI1Ni1nY206OTk5MmI3OGM2YTExMjJiM2FhMzY0NzIxYWY3OTk4MDc=@38.65.93.241:17525#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJtYW5hZ2VyLnh5enh6LnF6ei5pbyIsInBvcnQiOiI0NDMiLCJpZCI6ImI2M2E5OTRhLWI3NzItNGI2Ny04Njc0LWY3M2Q1YzgxNTYxOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJtYW5hZ2VyLnh5enh6LnF6ei5pbyIsInBhdGgiOiIvNTIxMTUvbWVoZGkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtYW5hZ2VyLnh5enh6LnF6ei5pbyIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaW5zZWN1cmUiOiIwIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=

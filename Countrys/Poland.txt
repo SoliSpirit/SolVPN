@@ -16,3 +16,4 @@ trojan://humanity@216.24.57.6:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozargah
 trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.0.100:443?security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&sid=d9662905#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://59da5351-5151-417d-b2f7-6923848b717e@pol2.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=pol2.helper-internet.com&sid=ff776ff77be48b88#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://KV63147582@more-trout.rooster465.autos:443?allowInsecure=0&sni=more-trout.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

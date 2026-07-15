@@ -86,3 +86,11 @@ vless://47883fd8-0478-414f-8230-6eeecedc234e@85.192.28.199:19072?#🇩🇪 Join+
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@188.114.97.230:443?encryption=none&host=app.zynuro.ir&path=/a8Kp92LmQx&security=tls&sni=app.zynuro.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2d0c58db-8e93-41b4-bc37-00e27e6f83f7@s2.cnavippanel.com:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2d0c58db-8e93-41b4-bc37-00e27e6f83f7@s4.cnavippanel.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?encryption=none&fp=chrome&headerType=none&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&security=reality&sid=478dc6&sni=eh.vk.com&type=raw#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://CF68213490@harmless-lab.rooster465.autos:443?allowInsecure=1&sni=harmless-lab.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://XG59623478@enabling-asp.rooster465.autos:443?allowInsecure=0&sni=enabling-asp.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://OD90375861@busy-hermit.rooster465.autos:443?allowInsecure=0&sni=busy-hermit.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.111:2085?type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.118:2085?type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://667b9ff0-6d1b-4b7d-9eab-d47272b45509@freesocks.work:2052?type=ws&host=uwu.blueknightnet.qzz.io&path=/api-v1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.108:2085?type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

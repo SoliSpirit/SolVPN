@@ -13,3 +13,4 @@ vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:8080?&type=tcp&heade
 vless://eb6f13cb-da91-4f6f-adf3-aad51788812f@tr.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOUZVbkdKSDdiOGU1akZiRmNsZlgy@185.39.204.161:33563#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://c4c96606-100d-491c-a7ad-f56e0a5c61d3@107.161.174.153:59142?type=tcp&security=none&encryption=none&headerType=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://8516c47e-a7a1-42f7-9c14-ae9b14873cc8@tr-5.lemonbow.ru:443?security=reality&encryption=none&pbk=W8hnq0oVIPpRGyM8UUQuaAF2KKxl6C10yBgO911iFwM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

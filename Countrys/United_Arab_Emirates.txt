@@ -1,1 +1,1 @@
-vless://fb9da2e5-aee6-4108-ab57-ffc36ce85656@185.253.116.38:443?security=reality&encryption=none&pbk=A2_2LyDmeLGGBqdtl7Zu2vRKghhewpmsMq8NmG9RqDw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=duckduckgo.com&sid=b9cd333706f5#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

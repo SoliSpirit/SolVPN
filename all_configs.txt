@@ -782,3 +782,4 @@ vless://26524cce-d514-4014-a426-365fb266a14d@20.229.252.162:443?path=%2Fdanfeng-
 trojan://7f5rouvmiqm83905@188.213.131.90:59618?security=reality&sid=e3916e0f2c8b438b&fp=chrome&spx=/&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&sni=google.com&type=tcp&headerType=none#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
 vless://9d66932d-9eec-47de-972a-e98dee7231c1@fanland.lorqina.ir:8880?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=dISkAZV3LXVBa9yM02MoyFqajSLFqXrTj74ywRzKjiY&sid=69d1&spx=/uS5CSktTYiyCyav&flow=xtls-rprx-vision#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+trojan://CF68213490@welcome-monitor.rooster465.autos:443?allowInsecure=0&sni=welcome-monitor.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

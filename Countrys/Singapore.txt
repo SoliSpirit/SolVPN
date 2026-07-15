@@ -43,3 +43,4 @@ trojan://CF68213490@sharp-scorpion.rooster465.autos:443?allowInsecure=0&sni=shar
 trojan://CF68213490@saved-tuna.rooster465.autos:443?allowInsecure=0&sni=saved-tuna.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJhZGQiOiIxMy4yMTQuMTc4LjMiLCJwb3J0IjoiNDQzIiwiaWQiOiI3MTRkODJjMy0xODRkLTQ1N2ItYmJiMy1kOGFkMzg2MWU1ZWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiY2hyb21lIiwicGF0aCI6Ii92bWVzcyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

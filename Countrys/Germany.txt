@@ -94,3 +94,4 @@ vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.111:2085?type=grpc&servic
 vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.118:2085?type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://667b9ff0-6d1b-4b7d-9eab-d47272b45509@freesocks.work:2052?type=ws&host=uwu.blueknightnet.qzz.io&path=/api-v1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.108:2085?type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

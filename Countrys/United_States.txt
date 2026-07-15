@@ -140,3 +140,4 @@ vless://6d6abf69-fbef-42a6-a112-23188a1423cf@38.148.249.252:2053?security=realit
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.8.106.163:443?security=reality&type=tcp&packetEncoding=xudp&sni=fluxorbit-on.ru&fp=firefox&flow=xtls-rprx-vision&sid=5e3ab3ab228625&pbk=sviFnw0hrzXi4Df6Bs4MFFTuBmH2hwvquvFPNzhDcW8#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.17.8.84:443?sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.207:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

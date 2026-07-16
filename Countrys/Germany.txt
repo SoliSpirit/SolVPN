@@ -105,3 +105,5 @@ vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?&packet-encodi
 vless://e5573bd4-6b10-4010-a67d-54ea2b51e8bf@109.122.196.14:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&sid=57cc65bfd5ef7465&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?&type=ws&headerType=none&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e5573bd4-6b10-4010-a67d-54ea2b51e8bf@138.124.32.113:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&sid=57cc65bfd5ef7465&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://ac3501f6-365f-4fbf-8ca0-8cd323d72b31@2.26.86.140:10006?&type=ws&headerType=none&path=%2Ftunnel-5-ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://85c40985-f109-410c-9657-4a2f52140bf0@nebulonix.online:2083?&security=tls&fp=chrome&alpn=http/1.1&sni=moz.boaza.dpdns.org&type=ws&headerType=none&host=moz.boaza.dpdns.org&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

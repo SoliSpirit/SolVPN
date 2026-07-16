@@ -469,3 +469,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?&security=tls&fp=
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ebdf87e8-4f75-4b84-94e0-65ce4894993a@168.222.143.254:443?security=reality&encryption=none&pbk=3_Qy1SAtWfbiQbznyhlXxJtqB-5QQ46VF1Uz2h5A7Q4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.avito.ru&sid=2dc17935#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://eb528c71-441a-4430-867d-ab63d301d4ee@gifi.dns-crypto-yandex.com:443?mode=gun&security=reality&encryption=none&pbk=Bvdy2c0cxotdTPXwX1DXQ2RQDcWdRpNCaABu2tCwhzQ&fp=chrome&type=grpc&serviceName=grpc&sni=gifi.dns-crypto-yandex.com&sid=0e830794d04398#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.133.160:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.2.200:443?path=%2Fproxy&security=tls&encryption=none&insecure=1&host=43.165.2.200&type=ws&allowInsecure=1&sni=43.165.2.200#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

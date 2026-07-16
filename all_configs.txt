@@ -905,3 +905,5 @@ vless://bbea7c42-aec2-42b4-8bec-9b9c4afea03d@s1.cnavippanel.com:4568?security=no
 vless://ad3a6251-3aee-4cab-9244-77bdc9233e3c@tw03.kinomir.fun:40443?security=reality&encryption=none&pbk=lE58e_UJlvF4EsejAljEtyFwaVhLLwEavnBf47YeoHM&headerType=none&fp=qq&spx=%2F&type=tcp&sni=deepl.com&sid=5acd#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/&security=none&encryption=none&host=download.pusytroller.gq&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8516c47e-a7a1-42f7-9c14-ae9b14873cc8@tr-5.lemonbow.ru:443?security=reality&encryption=none&pbk=W8hnq0oVIPpRGyM8UUQuaAF2KKxl6C10yBgO911iFwM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.197:443?type=grpc&security=reality&encryption=none&sni=kotiki-katakbasio-rossiiiii.ru&fp=chrome&alpn=http/1.1&pbk=WRCMuTlpVmthJnyP3LK0sL-u5WlN15GVJpD8F37ZjD0&sid=5e3ab3ab228625&headerType=none&serviceName=nexusGrpc#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.138:20123#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

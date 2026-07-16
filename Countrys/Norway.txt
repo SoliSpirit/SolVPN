@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@62.152.56.110:6443?security=reality&encryption=none&pbk=hlJpjNVBd0c3DP2ngqXoaKtgw-0p5PKj5eF9mO_Od3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=45ba91f179ad1f26#🇳🇴 Join+Telegram:@SolVPN 🇳🇴

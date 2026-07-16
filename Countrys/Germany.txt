@@ -111,3 +111,5 @@ vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de.prx2.raketa-balance.com:443?secu
 vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&security=reality&sid=8e99fb4fa75e506f&sni=www.github.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://81b8aac5-e22e-46aa-91f4-bdf6a686be51@ain.sanaiehdasti.com:1323?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://468ad79f-d66a-47eb-874b-b88cd1bb76e3@81.31.211.109:2085?type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de10.buycloud.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de10.buycloud.app&fp=chrome&pbk=z_Rn0Vvq1GB39RhN6v7DhdtD-kS0XZa_je0h-no_hWs&sid=59eee550a1014198&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@45.146.131.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=oZTV3mNyn9tWeA_cTVonIidR6boRj5K9Wo8c1uQtZhk&sid=473acf&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

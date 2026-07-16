@@ -113,3 +113,4 @@ vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@89.124.89.102:8090?&type=ws&headerT
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.208.102:8090?&type=ws&headerType=none&host=rukr.speedload.ru&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.137.251:8090?&type=ws&headerType=none&host=rukr.speedload.ru&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.139:9444?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=&sni=max.ru&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

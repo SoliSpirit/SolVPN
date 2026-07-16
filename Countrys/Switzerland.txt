@@ -1,3 +1,4 @@
 vless://8516c47e-a7a1-42f7-9c14-ae9b14873cc8@ch-5.lemonbow.ru:443?security=reality&encryption=none&pbk=W8hnq0oVIPpRGyM8UUQuaAF2KKxl6C10yBgO911iFwM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://7f5rouvmiqm83905@188.213.131.90:59618?security=reality&sid=e3916e0f2c8b438b&fp=chrome&spx=/&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&sni=google.com&type=tcp&headerType=none#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@teain.org:1005?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

@@ -82,3 +82,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?&security=tls&fp=
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.133.160:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.2.200:443?path=%2Fproxy&security=tls&encryption=none&insecure=1&host=43.165.2.200&type=ws&allowInsecure=1&sni=43.165.2.200#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c7665648-eff9-4317-8978-4ee2fb34f752@159.65.117.197:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://3b4529e8-9c14-4541-8388-fe90d737baeb@52b59d9fbc7ee2fc.mbcloudynias.ir:50567?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=ios&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=29a833ab20778306&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -149,3 +149,6 @@ trojan://eb6fb64d-18c0-44d0-9ee5-f29c29194083@jp1.8b1c7c70-ecf1-6891-9fa7-68a866
 trojan://CF68213490@evolving-mollusk.rooster465.autos:443?allowInsecure=1&sni=evolving-mollusk.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://CF68213490@lucky-chimp.rooster465.autos:443?allowInsecure=1&sni=lucky-chimp.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLVVTLTExMjE1MDgyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://CF68213490@balanced-puma.rooster465.autos:443?allowInsecure=1&sni=balanced-puma.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://OD90375861@nearby-muskrat.rooster465.autos:443?allowInsecure=1&sni=nearby-muskrat.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://CF68213490@rested-osprey.rooster465.autos:443?security=tls&sni=rested-osprey.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

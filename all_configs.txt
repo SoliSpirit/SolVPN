@@ -811,3 +811,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0@157.22.240.141
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.133.160:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ@185.198.235.208:20129#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.2.200:443?path=%2Fproxy&security=tls&encryption=none&insecure=1&host=43.165.2.200&type=ws&allowInsecure=1&sni=43.165.2.200#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://eb6fb64d-18c0-44d0-9ee5-f29c29194083@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?allowInsecure=1&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

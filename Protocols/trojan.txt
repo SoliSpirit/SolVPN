@@ -146,3 +146,4 @@ trojan://OD90375861@fit-calf.rooster465.autos:443?allowInsecure=0&sni=fit-calf.r
 trojan://OD90375861@busy-hermit.rooster465.autos:443?allowInsecure=0&sni=busy-hermit.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://OD90375861@wired-tick.rooster465.autos:443?allowInsecure=0&sni=wired-tick.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://eb6fb64d-18c0-44d0-9ee5-f29c29194083@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?allowInsecure=1&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://CF68213490@evolving-mollusk.rooster465.autos:443?allowInsecure=1&sni=evolving-mollusk.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

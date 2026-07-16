@@ -94,3 +94,4 @@ trojan://CF68213490@shining-piranha.rooster465.autos:443?allowInsecure=0#🇯�
 trojan://CF68213490@evolving-mollusk.rooster465.autos:443?allowInsecure=1&sni=evolving-mollusk.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://CF68213490@rested-osprey.rooster465.autos:443?security=tls&sni=rested-osprey.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://NQ26071394@ace-liger.rooster465.autos:443?allowInsecure=0&sni=ace-liger.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

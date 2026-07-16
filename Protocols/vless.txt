@@ -501,3 +501,4 @@ vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@nl.hagrid-connected.com:443?securit
 vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@82.41.131.23:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&security=reality&sid=57cc65bfd5ef7465&sni=pypi.org&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://3be4a124-a437-4eef-8d14-00175978a826@45.131.182.141:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=site.rumedia-cdn.com&fp=qq&pbk=3BbMRgbSVAi881UEncK5aHJiicG27Fvx7Vr9xmnc-14&sid=4b2519a45b0f35c4&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.161:443?allowInsecure=0&sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyipfp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

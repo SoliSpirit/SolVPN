@@ -70,3 +70,7 @@ trojan://CF68213490@active-hippo.rooster465.autos:443?allowInsecure=0&sni=active
 trojan://CF68213490@immense-eagle.rooster465.autos:443?allowInsecure=0&sni=immense-eagle.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://CF68213490@lucky-chimp.rooster465.autos:443?allowInsecure=1&sni=lucky-chimp.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://aa83d161-1169-494a-a57e-c8d8b327f051@43.159.50.28:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=5KO-p5u_N5i11i_DC49SsSKTW1XvTiYMhg-eMzj3HTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0417be28beffdfc1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://NQ26071394@topical-shark.rooster465.autos:443?allowInsecure=0&sni=topical-shark.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://NQ26071394@driving-antelope.rooster465.autos:443?allowInsecure=0&sni=driving-antelope.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://NQ26071394@bold-eagle.rooster465.autos:443?allowInsecure=0&sni=bold-eagle.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://NQ26071394@amazing-troll.rooster465.autos:443?allowInsecure=0&sni=amazing-troll.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

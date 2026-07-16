@@ -103,3 +103,4 @@ vless://fd9a728d-ece1-4168-c5a4-c28ecb5a0065@43.174.246.46:443?path=%2F37807%2Fa
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.112:2085?security=&encryption=none&type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?&packet-encoding=xudp&sni=tn.tmn141246.ru&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e5573bd4-6b10-4010-a67d-54ea2b51e8bf@109.122.196.14:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&sid=57cc65bfd5ef7465&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?&type=ws&headerType=none&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

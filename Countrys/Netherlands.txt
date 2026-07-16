@@ -95,3 +95,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://KV63147582@game-firefly.rooster465.autos:443?allowInsecure=0&sni=game-firefly.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://923ff5e4-0188-4b98-ab8f-d602562e77cd@164.138.100.198:443?security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=qq&type=grpc&serviceName=nl-br-yandex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://ebdf87e8-4f75-4b84-94e0-65ce4894993a@168.222.143.254:443?security=reality&encryption=none&pbk=3_Qy1SAtWfbiQbznyhlXxJtqB-5QQ46VF1Uz2h5A7Q4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.avito.ru&sid=2dc17935#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

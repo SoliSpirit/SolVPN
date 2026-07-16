@@ -15,3 +15,4 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo28.fordnsdirect.shop:8880?mo
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ@185.198.235.208:20129#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.157.29:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/wangcai2🇨🇳#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo23.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

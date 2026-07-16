@@ -37,3 +37,4 @@ ss://YWVzLTI1Ni1nY206ODd4dlBQTDJXVlduS2NzZQ@c331s1.portablesubmarines.com:8505#�
 vless://d4d2de4b-2aa0-4a49-8c59-05d83d72af93@45.86.159.141:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?path=%2Fmashdi&security=tls&encryption=none&insecure=0&host=IfBbBeVc14.mAkEaChEcK.OrG&fp=firefox&type=ws&allowInsecure=0&sni=IfBbBeVc14.mAkEaChEcK.OrG#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://852dd407-a1b5-4824-86fc-17e14bda8992@104.17.108.69:443?&security=tls&fp=chrome&sni=0143827328.abadeh-aaaa.beauty&type=ws&headerType=none&host=0143827328.abadeh-aaaa.beauty&path=%2Fgzihp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://f7c0db69-6963-4d7e-9743-8ef52c44c7b8@45.86.159.137:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

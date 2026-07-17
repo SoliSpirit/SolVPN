@@ -2,4 +2,3 @@ trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#🇮🇪 Join+Tel
 trojan://XG59623478@singular-lark.rooster465.autos:443?allowInsecure=0&sni=singular-lark.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://OD90375861@fit-calf.rooster465.autos:443?allowInsecure=0&sni=fit-calf.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://OD90375861@wired-tick.rooster465.autos:443?allowInsecure=0&sni=wired-tick.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSzdaSXREazlDbzJlT2V3@168.63.58.89:443#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

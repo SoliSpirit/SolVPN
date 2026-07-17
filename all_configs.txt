@@ -948,3 +948,8 @@ vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-W
 vless://fe181934-a536-44cc-98cd-d62b9c16ad74@static.41.139.168.204.clients.your-server.de:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.158:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://fb978279-0a28-4045-8258-e9ab97deaf2b@108.162.198.125:443?sni=ourfast.ccwu.cc&type=ws&host=ourfast.ccwu.cc&path=/security=tls#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.237.3:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://BxceQaOe@18.162.50.252:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.51:443?type=grpc&headerType=none&security=reality&encryption=none&sni=draftnest-rrew.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625&serviceName=nexusGrpc#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@188.119.149.27:1080#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://bacd8811-1e50-46ec-accf-06149cbdc25d@news.netraidly.ru:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=BEJH_omzwWCjagdtfdm9-faqD8aOnoLtc-z1ovRXyVk&host=deepl.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=172e#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

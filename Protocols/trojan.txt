@@ -5,7 +5,6 @@ trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#🇨�
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@172.64.152.23:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Bfp=chrome&%3Btype=ws&%3Bsni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&security=tls&headerType=none&sni=38.54.64.247&fp=chrome&insecure=1&allowInsecure=1#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?allowInsecure=0&sni=yazhou10.dynu.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
@@ -162,3 +161,8 @@ trojan://NQ26071394@gentle-turtle.rooster465.autos:443?allowInsecure=0&sni=gentl
 trojan://NQ26071394@grand-grub.rooster465.autos:443?allowInsecure=0&sni=grand-grub.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://BxceQaOe@43.199.202.97:7674?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@18.166.113.165:27167?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.55.241:24370?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://BxceQaOe@18.163.5.109:35966?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://NQ26071394@living-hagfish.rooster465.autos:443?allowInsecure=0&sni=living-hagfish.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

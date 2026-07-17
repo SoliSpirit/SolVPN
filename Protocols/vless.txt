@@ -596,3 +596,5 @@ vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?type=grpc&headerT
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.199:443?type=grpc&headerType=none&security=reality&encryption=none&sni=stashfuro-eweqee.ru&fp=firefox&pbk=qmQgs_yOloyjj9xqDjbaUqGlhWwp6ReBpBB99Qfi2CU&sid=0bc73dd1f045&serviceName=nexusGrpc#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
 vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@premium-us-ca-01-gthost.efgwf.online:8080?type=ws&host=premium-us-ca-01-gthost.efgwf.online&path=/ws-6Tta3kYF#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@usa.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&fp=chrome&pbk=MF_E-_CYAXdWxC1N_wTkdFyk3K7_1cNqNDPb0vnwl20&sid=8311761729abcdef&serviceName=web.max.ru&mode=gun#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.189.222:22224?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.61.203:22222?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

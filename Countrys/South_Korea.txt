@@ -42,3 +42,4 @@ trojan://NQ26071394@legible-ocelot.rooster465.autos:443?allowInsecure=1&sni=legi
 trojan://NQ26071394@normal-bull.rooster465.autos:443?allowInsecure=1&sni=normal-bull.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://NQ26071394@modest-amoeba.rooster465.autos:443?allowInsecure=1&sni=modest-amoeba.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://NQ26071394@genuine-cougar.rooster465.autos:443?allowInsecure=0&sni=genuine-cougar.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vmess://eyJhZGQiOiIxNTAuMTA5LjI0MC4xNzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY5ZGNiMzAzLTNlNzMtNDBlYi05MzI3LTFhYzg4ZjlhMmI3MiIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3Byb3h5IiwicG9ydCI6ODQ0MywicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjcgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoid3d3LmJpbmcuY29tIn0=

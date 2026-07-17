@@ -591,3 +591,4 @@ vless://8bba3194-4856-46d1-8319-075817d87eb1@hk1.cyphervpn.pro:443?type=tcp&head
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=firefox&insecure=1&allowInsecure=1&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.120:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.116:2085?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

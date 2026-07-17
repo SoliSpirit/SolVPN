@@ -635,3 +635,4 @@ vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reali
 vless://52743398-f47f-4074-a355-fd85076600fd@Ppotbfff.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?path=%2Fproxy&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=43.164.0.59#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://87573bf7-e3ca-4439-9800-77fb5051eadf@tur.forbluewhales.dpdns.org:80?encryption=none&security=none&type=ws&host=play.google.com&path=/ws#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&encryption=none&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

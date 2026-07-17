@@ -5,3 +5,4 @@ trojan://OD90375861@wired-tick.rooster465.autos:443?allowInsecure=0&sni=wired-ti
 trojan://NQ26071394@correct-starfish.rooster465.autos:443?allowInsecure=1&sni=correct-starfish.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=1&sni=thankful-piranha.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://NQ26071394@funky-opossum.rooster465.autos:443?allowInsecure=0&sni=funky-opossum.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?allowInsecure=1&sni=fun-labrador.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

@@ -206,3 +206,4 @@ trojan://NQ26071394@new-eagle.rooster465.autos:443?allowInsecure=0&sni=new-eagle
 trojan://NQ26071394@working-tomcat.rooster465.autos:443?allowInsecure=0&sni=working-tomcat.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://NQ26071394@upright-caribou.rooster465.autos:443?allowInsecure=0&sni=upright-caribou.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1&sni=grateful-bedbug.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -1,3 +1,4 @@
 vless://8516c47e-a7a1-42f7-9c14-ae9b14873cc8@ch-5.lemonbow.ru:443?security=reality&encryption=none&pbk=W8hnq0oVIPpRGyM8UUQuaAF2KKxl6C10yBgO911iFwM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@teain.org:1005?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=86.106.84.195#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://fef61355-77d1-4523-9550-1e7b7cbcc47c@37.156.44.241:19551?headerType=none&security=none&encryption=none&type=tcp#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

@@ -121,7 +121,6 @@ trojan://CF68213490@grateful-owl.rooster465.autos:443?allowInsecure=0&sni=gratef
 trojan://CF68213490@harmless-lab.rooster465.autos:443?allowInsecure=1&sni=harmless-lab.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://CF68213490@prime-buzzard.rooster465.autos:443?allowInsecure=0&sni=prime-buzzard.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://CF68213490@brief-warthog.rooster465.autos:443?allowInsecure=1&sni=brief-warthog.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://CF68213490@moral-basilisk.rooster465.autos:443?allowInsecure=0&sni=moral-basilisk.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://CF68213490@intimate-moray.rooster465.autos:443?allowInsecure=0&sni=intimate-moray.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://XG59623478@enabling-asp.rooster465.autos:443?allowInsecure=0&sni=enabling-asp.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://CF68213490@active-hippo.rooster465.autos:443?allowInsecure=0&sni=active-hippo.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

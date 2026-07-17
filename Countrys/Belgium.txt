@@ -1,1 +1,1 @@
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@hello.blind-chip.store:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=08u-fNMdTjjUwYv4GPbG7VK1ep2vh4Fv-puMcmFzhz0&security=reality&sni=hello.blind-chip.store&type=tcp#🇧🇪 Join+Telegram:@SolVPN 🇧🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.251.2:1080#🇧🇪 Join+Telegram:@SolVPN 🇧🇪

@@ -103,3 +103,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzVSQ0k2Z0o2U1VPY2RuTnBjRWdSMVVWemlkKzhPOC8
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://aff6f31d-e503-4a75-b87f-6f2e566ffb88@193.151.150.135:2095?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.158:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.237.3:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

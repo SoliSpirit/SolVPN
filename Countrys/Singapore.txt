@@ -89,3 +89,4 @@ trojan://NQ26071394@actual-pigeon.rooster465.autos:443?allowInsecure=0&sni=actua
 trojan://NQ26071394@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://NQ26071394@humorous-hawk.rooster465.autos:443?allowInsecure=1&sni=humorous-hawk.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://NQ26071394@able-dane.rooster465.autos:443?allowInsecure=0&sni=able-dane.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&encryption=none&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3b0b73e5#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

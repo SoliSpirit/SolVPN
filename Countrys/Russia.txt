@@ -5,3 +5,4 @@ vless://1008a30d-4e23-485a-8981-fd1f103b7d11@104.171.135.184:42672?security=none
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@tun.proxy1.raketa-balance.com:443?security=reality&encryption=none&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=6c6082a2223c1d03#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@ru.bvps.cloud:443?type=tcp&security=reality&sni=ru.bvps.cloud&fp=firefox&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=9e0ba98da61cb818&encryption=none&flow=xtls-rprx-vision#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://a521084f-7c84-4fe0-adfb-e71328d715f9@178.130.131.62:2087?security=reality&encryption=none&pbk=TBSxUY80b781ud7T6Eka0hLpGfG-hMC7TiWSej4D8UM&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

@@ -572,3 +572,4 @@ vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443?encryption=none&f
 vless://3067642d-02fa-47e9-a6a2-fb5dda565969@81.31.211.117:2085?type=grpc&security=none&serviceName=vless&mode=gun&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5fbee2a0-7ca4-46a8-aac7-9f26a1f2cb3c@45.86.159.130:2085?type=grpc&security=none&serviceName=vless&mode=gun&encryption=none#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?type=tcp&headerType=none&security=reality&encryption=none&sni=iamsterdam.com&fp=firefox&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&sid=0aafc7b3b9&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=%2Fmedia53&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=media53.dashboard-baby.info&fp=chrome&type=ws&allowInsecure=0&sni=media53.dashboard-baby.info#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

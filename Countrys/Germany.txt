@@ -99,3 +99,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.211.137:22222?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.165.203:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@57.129.47.10:2053?path=/proxyip%3D94.131.123.74%3Fu%3D135bd1e8e1&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=ez-01eeff.ezaccess19f879f.workers.dev&%3Bfp=chrome&%3Btype=ws&%3Bsni=ez-01eeff.ezaccess19f879f.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzVSQ0k2Z0o2U1VPY2RuTnBjRWdSMVVWemlkKzhPOC8rRGNlVVNIRG5Gcz06aWZmZ2RQU1I4Zzc1dDQ5bjN4Q2I5K09HMldHSlRqVWhvaHBQb0hOVDU5OD0=@94.101.184.47:2052#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

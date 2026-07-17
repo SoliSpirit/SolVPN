@@ -111,3 +111,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.122.121.39:22222?&type=tcp&header
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.49:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.120:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.116:2085?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?security=reality&encryption=none&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0&headerType=&fp=chrome&type=tcp&sni=play.google.com&sid=d5c1b9#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

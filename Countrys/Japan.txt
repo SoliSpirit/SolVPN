@@ -95,3 +95,4 @@ trojan://NQ26071394@skilled-polliwog.rooster465.autos:443?allowInsecure=0&sni=sk
 trojan://NQ26071394@inviting-rabbit.rooster465.autos:443?allowInsecure=0&sni=inviting-rabbit.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://NQ26071394@gentle-turtle.rooster465.autos:443?allowInsecure=0&sni=gentle-turtle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://NQ26071394@grand-grub.rooster465.autos:443?allowInsecure=0&sni=grand-grub.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.55.241:24370?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

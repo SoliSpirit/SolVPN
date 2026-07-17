@@ -70,3 +70,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.210.123.100
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-020.limaklhc6.info&type=ws&headerType=none&host=ad-020.limaklhc6.info&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.25.44:1080#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://NQ26071394@chief-cricket.rooster465.autos:443?allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@217.138.207.106:1080#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -148,3 +148,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@premium-us-ca-01-gthost.efgwf.online:8080?type=ws&host=premium-us-ca-01-gthost.efgwf.online&path=/ws-6Tta3kYF#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@37.120.139.234:1080#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@usa.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&fp=chrome&pbk=MF_E-_CYAXdWxC1N_wTkdFyk3K7_1cNqNDPb0vnwl20&sid=8311761729abcdef&serviceName=web.max.ru&mode=gun#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJjNzIyczgwMS5wb3J0YWJsZXN1Ym1hcmluZXMuY29tIiwicG9ydCI6IjE2MDI1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiNGJkMmFmOWEtNjdhMy00ZTFhLThlZWYtYzQ0M2VjODZlODBiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+trojan://CF68213490@alert-monster.rooster465.autos:443?allowInsecure=0&sni=alert-monster.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

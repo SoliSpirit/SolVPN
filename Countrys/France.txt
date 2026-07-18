@@ -61,3 +61,4 @@ vless://52743398-f47f-4074-a355-fd85076600fd@Ppotbfff.dadashinet10.ir:2044?encry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.154.29.29:1080#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vmess://eyJhZGQiOiJ0Zy5ocm1wLmtkbnMuZnIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiaW9zIiwiaG9zdCI6InRnLmhybXAua2Rucy5mciIsImlkIjoiYWYxY2NkODktYjY2Yi00NGU4LTk5YjgtMGQ5NDUwNzhjMDRiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RpcmV4dm1lc3MiLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoidGcuaHJtcC5rZG5zLmZyIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=

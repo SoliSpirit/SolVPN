@@ -1174,3 +1174,4 @@ trojan://JA96378052@35.73.189.250:443?allowInsecure=1&sni=WangCai.rooster465.aut
 trojan://JA96378052@normal-cow.rooster465.autos:443?allowInsecure=0&sni=normal-cow.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://JA96378052@curious-ocelot.rooster465.autos:443?allowInsecure=0&sni=curious-ocelot.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://HW85960347@renewing-leopard.rooster465.autos:443?allowInsecure=1&sni=renewing-leopard.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?encryption=none&type=ws&security=tls&path=%2FTs7kIzm7a8mYEOrQCXl1&host=ger.wafer.fun&sni=ger.wafer.fun&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -1139,3 +1139,6 @@ trojan://HW85960347@excited-alien.rooster465.autos:443?allowInsecure=0&sni=excit
 trojan://JA96378052@willing-eagle.rooster465.autos:443?allowInsecure=0&sni=willing-eagle.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://HW85960347@pro-mako.rooster465.autos:443?allowInsecure=0&sni=pro-mako.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://HW85960347@dashing-possum.rooster465.autos:443?allowInsecure=0&sni=dashing-possum.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?path=%2F%3Fu%3D1e5b0dc4c9&security=tls&encryption=none&insecure=0&host=nova-comet-core-5d04.ilia-talebi09.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-core-5d04.ilia-talebi09.workers.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@220.135.92.105:2087?&security=tls&fp=chrome&sni=s5gydl.936.us.ci&type=ws&headerType=none&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4#🇹🇼 Join+Telegram:@SolVPN 🇹🇼

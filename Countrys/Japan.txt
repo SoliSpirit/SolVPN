@@ -166,3 +166,17 @@ trojan://JA96378052@certain-kit.rooster465.autos:443?allowInsecure=0&sni=certain
 trojan://JA96378052@brave-muskox.rooster465.autos:443?allowInsecure=0&sni=brave-muskox.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://HW85960347@elegant-arachnid.rooster465.autos:443?allowInsecure=0&sni=elegant-arachnid.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://HW85960347@cool-lioness.rooster465.autos:443?allowInsecure=0&sni=cool-lioness.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://JA96378052@square-skink.rooster465.autos:443?allowInsecure=1&sni=square-skink.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@advanced-ox.rooster465.autos:443?allowInsecure=0&sni=advanced-ox.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PD07395842@legible-chipmunk.rooster465.autos:443?allowInsecure=1&sni=legible-chipmunk.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@cunning-grub.rooster465.autos:443?allowInsecure=1&sni=cunning-grub.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@united-grouse.rooster465.autos:443?allowInsecure=0&sni=united-grouse.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://JA96378052@proven-stud.rooster465.autos:443?allowInsecure=1&sni=proven-stud.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@harmless-gobbler.rooster465.autos:443?allowInsecure=1&sni=harmless-gobbler.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@fleet-pony.rooster465.autos:443?allowInsecure=1&sni=fleet-pony.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@deep-ringtail.rooster465.autos:443?allowInsecure=1&sni=deep-ringtail.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://JA96378052@52.195.11.84:443?allowInsecure=1&sni=WangCai.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://JA96378052@3.112.1.122:443?allowInsecure=1&sni=WangCai.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://JA96378052@18.181.203.134:443?allowInsecure=1&sni=WangCai.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://JA96378052@35.73.189.250:443?allowInsecure=1&sni=WangCai.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@renewing-leopard.rooster465.autos:443?allowInsecure=1&sni=renewing-leopard.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

@@ -106,3 +106,4 @@ vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.12.114.157:443?mode=gun&security
 vless://1c799205-5251-4fb2-8167-56d3e895c8c5@45.32.155.73:53776?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.23.56:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzYXJiYXphbnNoYWhpZA@178.128.195.253:10070#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

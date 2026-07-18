@@ -141,3 +141,5 @@ trojan://NQ26071394@bursting-racer.rooster465.autos:443?allowInsecure=1&sni=burs
 trojan://NQ26071394@endless-bunny.rooster465.autos:443?allowInsecure=1&sni=endless-bunny.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://NQ26071394@pure-ghoul.rooster465.autos:443?allowInsecure=1&sni=pure-ghoul.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://CF68213490@star-cheetah.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://NQ26071394@optimal-penguin.rooster465.autos:443?allowInsecure=0&sni=optimal-penguin.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://NQ26071394@adapting-spider.rooster465.autos:443?allowInsecure=0&sni=adapting-spider.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

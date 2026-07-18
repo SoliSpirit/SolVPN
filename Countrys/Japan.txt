@@ -144,3 +144,8 @@ trojan://CF68213490@star-cheetah.rooster465.autos:443?security=tls#🇯🇵 Join
 trojan://NQ26071394@optimal-penguin.rooster465.autos:443?allowInsecure=0&sni=optimal-penguin.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://NQ26071394@adapting-spider.rooster465.autos:443?allowInsecure=0&sni=adapting-spider.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@54.238.245.134:24397?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@exciting-turtle.rooster465.autos:443?allowInsecure=0&sni=exciting-turtle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@sharing-fawn.rooster465.autos:443?allowInsecure=0&sni=sharing-fawn.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@lucky-primate.rooster465.autos:443?allowInsecure=0&sni=lucky-primate.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HW85960347@saved-mantis.rooster465.autos:443?allowInsecure=0&sni=saved-mantis.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://JA96378052@bursting-baboon.rooster465.autos:443?allowInsecure=0&sni=bursting-baboon.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

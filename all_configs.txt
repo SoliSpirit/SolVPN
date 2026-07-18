@@ -1032,3 +1032,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.254.238:1080#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:20126#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.54.80.37:1080#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJwb3J0IjoiNDQzIiwiaWQiOiJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vless://42e2dd45-2323-4929-9ab7-98f43591416e@91.224.75.127:2053?path=/&security=tls&encryption=none&insecure=0&host=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=yykir7al.ndaiwcu.workers.dev#🇱🇹 Join+Telegram:@SolVPN 🇱🇹

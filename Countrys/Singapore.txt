@@ -91,3 +91,14 @@ trojan://HW85960347@quality-sheepdog.rooster465.autos:443?allowInsecure=0&sni=qu
 trojan://JA96378052@modest-coral.rooster465.autos:443?allowInsecure=0&sni=modest-coral.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://3c5e6124-decf-425d-8c1e-fe05cb4dd298@159.65.7.154:443?security=reality&encryption=none&pbk=iNTKMWUbyqCAOQ4VeJaNiHWK3T4w2T7R4zKPioC8qT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onic.pk&sid=b68b884d89e9a242#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://NQ26071394@allowed-moose.rooster465.autos:443?allowInsecure=0&sni=allowed-moose.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://6ff24708-1b2a-47dc-bc2b-d498ea00e3e1@43.245.198.157:21719?&type=tcp&headerType=none&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://PD07395842@excited-sole.rooster465.autos:443?allowInsecure=1&sni=excited-sole.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://PD07395842@hopeful-burro.rooster465.autos:443?allowInsecure=1&sni=hopeful-burro.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://PD07395842@learning-ladybug.rooster465.autos:443?allowInsecure=1&sni=learning-ladybug.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://JA96378052@inspired-goshawk.rooster465.autos:443?allowInsecure=0&sni=inspired-goshawk.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://HW85960347@feasible-guppy.rooster465.autos:443?allowInsecure=0&sni=feasible-guppy.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://HW85960347@aware-coyote.rooster465.autos:443?allowInsecure=0&sni=aware-coyote.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://JA96378052@epic-iguana.rooster465.autos:443?allowInsecure=0&sni=epic-iguana.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://HW85960347@excited-alien.rooster465.autos:443?allowInsecure=0&sni=excited-alien.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://JA96378052@willing-eagle.rooster465.autos:443?allowInsecure=0&sni=willing-eagle.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://HW85960347@pro-mako.rooster465.autos:443?allowInsecure=0&sni=pro-mako.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -89,3 +89,4 @@ trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:48738?allowInsecure=1&s
 trojan://HW85960347@major-cobra.rooster465.autos:443?allowInsecure=0&sni=major-cobra.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://HW85960347@quality-sheepdog.rooster465.autos:443?allowInsecure=0&sni=quality-sheepdog.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://JA96378052@modest-coral.rooster465.autos:443?allowInsecure=0&sni=modest-coral.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://3c5e6124-decf-425d-8c1e-fe05cb4dd298@159.65.7.154:443?security=reality&encryption=none&pbk=iNTKMWUbyqCAOQ4VeJaNiHWK3T4w2T7R4zKPioC8qT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onic.pk&sid=b68b884d89e9a242#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

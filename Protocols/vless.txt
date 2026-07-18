@@ -543,3 +543,6 @@ vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&fp=chrome&pbk=fp2XmT8otUDkl65Df2h1b5b0oCe0CQiAimPKEMdnwmI#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.12.114.157:443?mode=gun&security=reality&encryption=none&pbk=SK0KGyJuRjuijxlXfFIQ16DBIVRIMwYWUvYyS_CrWhA&fp=qq&type=grpc&serviceName=grpc&sni=www.samsung.com&sid=ec092e19#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://1c799205-5251-4fb2-8167-56d3e895c8c5@45.32.155.73:53776?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://3d466ccc-1585-439d-aa28-5a82d626576a@95.182.90.97:21855?&type=ws&headerType=none&host=genshin.hoyoverse.com&path=%2F#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=fn-2.ariyuz.org&type=ws&headerType=none&host=fn-2.ariyuz.org&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

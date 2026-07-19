@@ -141,3 +141,4 @@ vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=realit
 vless://59eefc04-b831-45cf-8d68-63ca23381171@premium-us-az-01-hostinger.efgwf.online:8080?type=ws&host=premium-us-az-01-hostinger.efgwf.online&path=/ws-hTopcF3L#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ON38567014@harmless-akita.rooster465.autos:443?allowInsecure=0&sni=harmless-akita.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.2:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

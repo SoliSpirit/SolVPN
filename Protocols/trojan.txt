@@ -317,3 +317,6 @@ trojan://HW85960347@social-cod.rooster465.autos:443?allowInsecure=1&sni=social-c
 trojan://JA96378052@precious-stag.rooster465.autos:443?allowInsecure=1&sni=precious-stag.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://KV63147582@hardy-seahorse.rooster465.autos:443?allowInsecure=1&sni=hardy-seahorse.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://JA96378052@careful-cow.rooster465.autos:443?allowInsecure=1&sni=careful-cow.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://ON38567014@harmless-akita.rooster465.autos:443?allowInsecure=0&sni=harmless-akita.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://ON38567014@crucial-moth.rooster465.autos:443?allowInsecure=0&sni=crucial-moth.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

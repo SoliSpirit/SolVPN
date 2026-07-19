@@ -108,3 +108,4 @@ vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@89.105.219.132:443?encryption=none&
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.211.140:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@185.121.234.47:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

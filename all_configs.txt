@@ -1090,3 +1090,9 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=%2Fsg-amz&secu
 vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@gr022.allenshop66250.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://ecad47b0-249e-000c-adff-e3c8f02b1897@185.231.101.85:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=se.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&flow=xtls-rprx-vision#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-004.zen2bswa.info#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://ON38567014@glorious-glider.rooster465.autos:443?allowInsecure=0&sni=glorious-glider.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdn.pinecloud.net&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://667b9ff0-6d1b-4b7d-9eab-d47272b45509@freesocks.work:2052?type=ws&host=uwu.blueknightnet.qzz.io&path=/api-v1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2d2M5bkdnUDhPNUtlV2J5cndpVW93@212.67.17.239:1080#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://e4c5ae87-763c-4df1-ba4f-28de5fd2201c@78.108.57.68:3884?encryption=none&headerType=http&host=Ghatreh.ir&path=%2F&security=none&type=tcp#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

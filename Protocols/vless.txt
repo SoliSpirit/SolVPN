@@ -466,3 +466,4 @@ vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@89.105.219.132:443?encryption=none&
 vless://7ee07071-c7c4-4a41-851a-5ef7d6d00d1c@jdhdjdjdjm.belamona.ir:1323?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.236.62:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.2.200:443?path=%2Fproxy&security=tls&encryption=none&insecure=1&host=43.165.2.200&type=ws&allowInsecure=1&sni=43.165.2.200#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?&security=tls&packet-encoding=xudp&sni=cf.cfvip.lol&type=ws&headerType=none&host=cf.cfvip.lol&path=%2Fpyip#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

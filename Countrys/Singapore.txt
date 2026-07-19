@@ -120,3 +120,4 @@ trojan://HW85960347@lucky-urchin.rooster465.autos:443?allowInsecure=1&sni=lucky-
 trojan://HW85960347@social-cod.rooster465.autos:443?allowInsecure=1&sni=social-cod.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://JA96378052@precious-stag.rooster465.autos:443?allowInsecure=1&sni=precious-stag.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://ON38567014@crucial-moth.rooster465.autos:443?allowInsecure=0&sni=crucial-moth.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://ON38567014@glorious-glider.rooster465.autos:443?allowInsecure=0&sni=glorious-glider.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -997,3 +997,10 @@ trojan://NQ26071394@grand-grub.rooster465.autos:443?allowInsecure=0&sni=grand-gr
 trojan://NQ26071394@arriving-koala.rooster465.autos:443?allowInsecure=0&sni=arriving-koala.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJmYW1pbHkuYnVja2V0Lng5LmtmYy01MjAuY29tIiwicG9ydCI6IjEwMDM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMWRjNzM1MjktZjAzMC0zYWM1LWFkNjQtZjc2NjZiOWE1MWJjIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 trojan://NQ26071394@direct-hawk.rooster465.autos:443?allowInsecure=0&sni=direct-hawk.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://NQ26071394@gentle-platypus.rooster465.autos:443?allowInsecure=0&sni=gentle-platypus.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://NQ26071394@thorough-foxhound.rooster465.autos:443?allowInsecure=0&sni=thorough-foxhound.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://NQ26071394@topical-shark.rooster465.autos:443?allowInsecure=0&sni=topical-shark.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://NQ26071394@amazing-troll.rooster465.autos:443?allowInsecure=0&sni=amazing-troll.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://CF68213490@lucky-chimp.rooster465.autos:443?allowInsecure=1&sni=lucky-chimp.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://NQ26071394@bold-eagle.rooster465.autos:443?allowInsecure=0&sni=bold-eagle.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://7ee07071-c7c4-4a41-851a-5ef7d6d00d1c@jdhdjdjdjm.belamona.ir:1323?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

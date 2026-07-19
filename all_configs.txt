@@ -1007,3 +1007,5 @@ vless://7ee07071-c7c4-4a41-851a-5ef7d6d00d1c@jdhdjdjdjm.belamona.ir:1323?securit
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.236.62:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.2.200:443?path=%2Fproxy&security=tls&encryption=none&insecure=1&host=43.165.2.200&type=ws&allowInsecure=1&sni=43.165.2.200#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?&security=tls&packet-encoding=xudp&sni=cf.cfvip.lol&type=ws&headerType=none&host=cf.cfvip.lol&path=%2Fpyip#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-005.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-005.zen2bswa.info#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -96,3 +96,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.225.132:22223?&type=tcp&heade
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://91391b3b-1b13-4e3a-b261-a615a6db6398@162.159.38.119:443?&security=tls&fp=chrome&sni=telegram.mxgrid.xyz&type=ws&headerType=none&host=telegram.mxgrid.xyz&path=%2F-----MxGriD-----#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://667b9ff0-6d1b-4b7d-9eab-d47272b45509@freesocks.work:2052?type=ws&host=uwu.blueknightnet.qzz.io&path=/api-v1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@tank.tarfiq.ir:38733?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.134.80:2053?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

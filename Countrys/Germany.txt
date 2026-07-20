@@ -88,3 +88,4 @@ vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@gr.teraideri.sbs:38733?mode=gun&sec
 vless://2820c3fd-dccc-4a51-bb74-f7d6c453ee71@moji1.best-cloud.ir:8880?path=/?ed&security=&encryption=none&host=play.google.com&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e044297a-304f-40a9-a9fb-d17b744fa781@178.104.225.122:44444?security=reality&encryption=none&pbk=79ji8OAmCVQTKcJmvf-iqZypOSKwuTD_sbatB4RHXXM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=f37329647c9a1886#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://37182b68-6422-4414-9518-7df6776c0150@de2-unlimited.pavilof.ir:1020?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&sid=3fa2fdb7dce16b8b&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.228.114:22224?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

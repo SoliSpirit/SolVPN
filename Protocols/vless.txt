@@ -521,3 +521,4 @@ vless://4a4b76ab-ec8a-4211-9f02-db69f4ec879b@vips.irhubby.ir:8080?type=ws&host=v
 vless://2820c3fd-dccc-4a51-bb74-f7d6c453ee71@moji1.best-cloud.ir:8880?path=/?ed&security=&encryption=none&host=play.google.com&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.175:443?allowInsecure=0&sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyipfp=chrome&security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://e044297a-304f-40a9-a9fb-d17b744fa781@178.104.225.122:44444?security=reality&encryption=none&pbk=79ji8OAmCVQTKcJmvf-iqZypOSKwuTD_sbatB4RHXXM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=f37329647c9a1886#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

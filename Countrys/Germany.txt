@@ -80,3 +80,4 @@ vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.135.96:8443?encryption=none
 vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@136.244.95.190:57785?#🇩🇪[www.v2nodes.com] V2Ray Vless-DE-14956922
 trojan://NQ26071394@certain-prawn.rooster465.autos:443?security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@161.35.217.79:2087?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

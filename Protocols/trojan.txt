@@ -234,3 +234,4 @@ trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#🇮🇪 Join+Tel
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@43.198.13.164:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

@@ -140,3 +140,5 @@ trojan://SX95078263@legal-glider.rooster465.autos:443?security=tls#🇺🇸 Join
 trojan://HW85960347@firm-squid.rooster465.autos:443?security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://JA96378052@primary-mallard.rooster465.autos:443?allowInsecure=1&sni=primary-mallard.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJwb3J0IjoiNDQzIiwiaWQiOiJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.207:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

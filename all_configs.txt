@@ -1014,3 +1014,4 @@ trojan://IQ68037294@moving-wren.rooster465.autos:443?allowInsecure=1&sni=moving-
 trojan://IQ68037294@enhanced-dassie.rooster465.autos:443?allowInsecure=0&sni=enhanced-dassie.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-perch.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@teain.org:1005?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://2042e1e6-7175-4604-9e0a-b13284ffeb54@212.227.102.223:443?security=reality&encryption=none&pbk=T7S1Y2CoRdwseMAqiTUhEzZ7LE7LWp6DMGmu7cORvCk&headerType=none&fp=chrome&spx=/&type=tcp&sni=npv.tosiko.com&sid=4f3e2491e42b6a#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

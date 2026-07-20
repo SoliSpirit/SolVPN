@@ -1,1 +1,2 @@
 vless://e4c5ae87-763c-4df1-ba4f-28de5fd2201c@78.108.57.68:3884?encryption=none&headerType=http&host=Ghatreh.ir&path=%2F&security=none&type=tcp#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
+vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@103.119.18.192:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OrLSHSvLuAgKZqxfnPszRZdZvYVTPNozRP6-NX3JGDI&security=reality&sid=5c83ae5368d1f1b5&sni=amd.com&type=tcp#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

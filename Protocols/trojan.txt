@@ -237,3 +237,6 @@ trojan://BxceQaOe@43.198.13.164:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://XG59623478@possible-pup.rooster465.autos:443?allowInsecure=1&sni=possible-pup.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=86.106.84.195#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://SX95078263@legal-glider.rooster465.autos:443?security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://HW85960347@firm-squid.rooster465.autos:443?security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://JA96378052@primary-mallard.rooster465.autos:443?allowInsecure=1&sni=primary-mallard.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

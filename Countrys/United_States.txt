@@ -131,3 +131,4 @@ vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?type=tcp&securi
 vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@usr.sempai.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usr.sempai.site&fp=firefox&pbk=oL0fquzIu8nvRFNp2nKKZ1V93VJBHfYKTHQLHW9vK2s&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@united.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?path=%2Fpyip%3D47.251.95.178&security=tls&encryption=none&insecure=0&host=cf.cfvip.lol&fp=chrome&type=ws&allowInsecure=0&sni=cf.cfvip.lol#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://IQ68037294@sincere-man.rooster465.autos:443?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

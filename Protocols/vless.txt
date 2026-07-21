@@ -512,3 +512,5 @@ vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?&type=ws&headerTyp
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-007.cloud25075.info&type=ws&headerType=none&host=ad-007.cloud25075.info&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://8bba3194-4856-46d1-8319-075817d87eb1@ge1.cyphervpn.pro:8443?allowInsecure=1&sni=ge1.cyphervpn.pro&type=grpc&serviceName=ge1grpc&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&security=tls&sni=vangoghhh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=%2Frdfgtws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

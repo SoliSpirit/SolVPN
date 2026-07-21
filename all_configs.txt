@@ -843,3 +843,6 @@ vless://00a84cc6-073c-454b-9487-f0b7238e715f@185.125.203.221:443?security=realit
 vless://cd554b8c-aff9-45e7-bffb-eb1c4f2a585f@77.239.112.4:3690?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://041f4da7-1aa5-42e8-9cb2-834510c345a8@mastvpnd1.k7k7.ir:8080?encryption=none&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&type=tcp&headerType=http&path=%2F&host=snapp.ir#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?encryption=none&fp=chrome&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

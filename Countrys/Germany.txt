@@ -83,3 +83,4 @@ vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?security=real
 vless://4ffb0bdc-50dc-4bd0-b03a-11488fdf9d99@188.245.210.91:3030?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8bba3194-4856-46d1-8319-075817d87eb1@ge1.cyphervpn.pro:8443?allowInsecure=1&sni=ge1.cyphervpn.pro&type=grpc&serviceName=ge1grpc&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.251.36:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://00a84cc6-073c-454b-9487-f0b7238e715f@83.243.86.45:443?security=reality&encryption=none&pbk=XSerkZgTPWKCzSgKTbfx3xgTp3asGddifSFtvp0bJyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=download.amd.com&sid=89b8ef1537c69f72#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

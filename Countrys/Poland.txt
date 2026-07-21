@@ -16,3 +16,5 @@ trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#🇵🇱 J
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://NQ26071394@ready-lion.rooster465.autos:443?security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://IQ68037294@sensible-haddock.rooster465.autos:443?allowInsecure=0&sni=sensible-haddock.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://c8b5f6c9-83ff-0063-be9c-f997a5b2f692@185.16.36.200:43439?type=grpc&headerType=none&security=reality&encryption=none&sni=cdn-up.perecbass.ru&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0df2f86d58385f90&serviceName=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

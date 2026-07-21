@@ -496,3 +496,4 @@ vless://9132401d-b883-0f65-c05b-59d56a56a95a@69.46.46.56:443?&security=tls&fp=ch
 vless://40de6299-d792-4868-8a82-411ead0aa943@nl.go-vpn.club:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?&security=tls&fp=chrome&sni=ad-010.vector2llqn.info&type=ws&headerType=none&host=ad-010.vector2llqn.info&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?encryption=none&security=reality&sni=api.ok.ru&fp=firefox&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sid=cf2d&type=tcp&headerType=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

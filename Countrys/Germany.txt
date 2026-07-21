@@ -72,3 +72,4 @@ vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=none
 trojan://IQ68037294@aware-pika.rooster465.autos:443?allowInsecure=0&sni=aware-pika.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@uter.sorixset.ir:38733?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

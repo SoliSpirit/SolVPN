@@ -8,3 +8,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2d2M5bkdnUDhPNUtlV2J5cndpVW93@212.67.17.239:
 vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?&type=tcp&headerType=none&path=%2F#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?&security=tls&fp=firefox&sni=furrycdn.net&type=ws&headerType=none&host=furrycdn.net&path=%2Fapi%2Fv1%2Fvideo-stream#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://a96373c2-6c78-44dc-ac4b-33fd3d32c68b@ru.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=findmypackets.com&sid=93ae75024604f796#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=firefox&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&sid=138dcd25cce7ab07&type=tcp&headerType=none#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

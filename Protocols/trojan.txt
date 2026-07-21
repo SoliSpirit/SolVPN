@@ -107,3 +107,5 @@ trojan://IQ68037294@sweeping-parakeet.rooster465.autos:443?allowInsecure=0#🇯�
 trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@robust-toucan.rooster465.autos:443?security=tls&sni=robust-toucan.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://IQ68037294@pet-albacore.rooster465.autos:443?allowInsecure=1&sni=pet-albacore.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@square-anchovy.rooster465.autos:443?allowInsecure=0&sni=square-anchovy.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

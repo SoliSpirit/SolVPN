@@ -22,3 +22,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?path=%2F&securi
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@britain.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.131:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?&type=tcp&headerType=none&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?&security=tls&fp=chrome&sni=ad-010.vector2llqn.info&type=ws&headerType=none&host=ad-010.vector2llqn.info&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

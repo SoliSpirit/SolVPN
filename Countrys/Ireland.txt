@@ -7,3 +7,4 @@ trojan://NQ26071394@fun-labrador.rooster465.autos:443?allowInsecure=1&sni=fun-la
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://IQ68037294@moving-wren.rooster465.autos:443?allowInsecure=1&sni=moving-wren.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://IQ68037294@adapting-ghost.rooster465.autos:443?allowInsecure=0&sni=adapting-ghost.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSzdaSXREazlDbzJlT2V3@168.63.58.89:443#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

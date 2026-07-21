@@ -85,3 +85,17 @@ trojan://IQ68037294@novel-bat.rooster465.autos:443?allowInsecure=0#🇯🇵 Join
 trojan://IQ68037294@glowing-deer.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@major-duckling.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://BxceQaOe@18.162.50.252:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@desired-pony.rooster465.autos:443?allowInsecure=0&sni=desired-pony.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://IQ68037294@select-marmoset.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://IQ68037294@literate-grizzly.rooster465.autos:443?allowInsecure=1&sni=literate-grizzly.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?allowInsecure=1&sni=artistic-pigeon.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://IQ68037294@prepared-turkey.rooster465.autos:443?allowInsecure=1&sni=prepared-turkey.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@whole-woodcock.rooster465.autos:443?allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://IQ68037294@endless-kiwi.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@sincere-man.rooster465.autos:443?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://HW85960347@185.14.47.195:443?allowInsecure=0&sni=eminent-lamb.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://IQ68037294@pleased-sawfly.rooster465.autos:443?allowInsecure=1&sni=pleased-sawfly.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?allowInsecure=0&sni=casual-bullfrog.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://IQ68037294@adapting-ghost.rooster465.autos:443?allowInsecure=0&sni=adapting-ghost.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

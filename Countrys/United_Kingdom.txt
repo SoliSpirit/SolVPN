@@ -20,3 +20,4 @@ vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=no
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?security=reality&encryption=none&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ag-02.rita-cloud.com&sid=51ef5a427b3615ee#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@britain.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.131:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

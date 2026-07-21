@@ -140,3 +140,5 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjY1
 trojan://IQ68037294@optimal-dane.rooster465.autos:443?allowInsecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=0&sni=163.245.196.68.sslip.io#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8ffbff3b-12c9-4d49-af97-93a8d6cb4edb@185.92.180.206:443?security=reality&encryption=none&pbk=3b_tnB2HYi0lchCGaos74uzoysHEPIzvNdN3FOvhIjo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&type=ws&path=%2F&host=download.pusytroller.gq#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

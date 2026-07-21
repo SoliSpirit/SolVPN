@@ -107,3 +107,4 @@ trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?allowInsecure=0&sni=cas
 vless://9132401d-b883-0f65-c05b-59d56a56a95a@69.46.46.56:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=x4g-production-7759.up.railway.app&type=ws&headerType=none&host=x4g-production-7759.up.railway.app&path=%2Fws%2F9132401d-b883-0f65-c05b-59d56a56a95a#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://40de6299-d792-4868-8a82-411ead0aa943@nl.go-vpn.club:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSmVBamlKNDBGMklsMTdFbHYyODVX@141.227.152.129:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

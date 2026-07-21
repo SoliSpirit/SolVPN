@@ -49,3 +49,7 @@ trojan://BxceQaOe@18.162.50.252:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://IQ68037294@prepared-turkey.rooster465.autos:443?allowInsecure=1&sni=prepared-turkey.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@endless-kiwi.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@pleased-sawfly.rooster465.autos:443?allowInsecure=1&sni=pleased-sawfly.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@casual-stallion.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@helpful-possum.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

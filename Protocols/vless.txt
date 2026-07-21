@@ -514,3 +514,5 @@ vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?&securi
 vless://8bba3194-4856-46d1-8319-075817d87eb1@ge1.cyphervpn.pro:8443?allowInsecure=1&sni=ge1.cyphervpn.pro&type=grpc&serviceName=ge1grpc&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&security=tls&sni=vangoghhh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=%2Frdfgtws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.251.36:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

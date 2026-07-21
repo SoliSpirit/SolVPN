@@ -53,3 +53,4 @@ trojan://IQ68037294@casual-stallion.rooster465.autos:443?allowInsecure=0#🇸�
 trojan://IQ68037294@helpful-possum.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@pet-albacore.rooster465.autos:443?allowInsecure=1&sni=pet-albacore.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

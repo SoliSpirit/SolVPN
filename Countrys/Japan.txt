@@ -33,3 +33,6 @@ vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0
 vmess://eyJ2IjoiMiIsImFkZCI6ImNzLmt0bWNuLm5ldCIsInBvcnQiOiIxMjg4MyIsImlkIjoiNDk0MWFhOGQtMDdkMi00MDhjLWJlMmMtMTE3ZGViZWNiYTMwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYmFpZHUuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 trojan://IQ68037294@enhanced-dassie.rooster465.autos:443?allowInsecure=0&sni=enhanced-dassie.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://IQ68037294@amazed-burro.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://IQ68037294@intense-basilisk.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://IQ68037294@novel-bat.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://IQ68037294@major-duckling.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

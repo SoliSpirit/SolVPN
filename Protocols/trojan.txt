@@ -99,3 +99,10 @@ trojan://IQ68037294@pleased-sawfly.rooster465.autos:443?allowInsecure=1&sni=plea
 trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?allowInsecure=0&sni=casual-bullfrog.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://IQ68037294@adapting-ghost.rooster465.autos:443?allowInsecure=0&sni=adapting-ghost.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://IQ68037294@casual-stallion.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@optimal-dane.rooster465.autos:443?allowInsecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=0&sni=163.245.196.68.sslip.io#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://IQ68037294@helpful-possum.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@sweeping-parakeet.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

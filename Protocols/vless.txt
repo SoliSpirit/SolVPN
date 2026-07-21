@@ -498,3 +498,6 @@ vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?&secur
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?encryption=none&security=reality&sni=api.ok.ru&fp=firefox&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sid=cf2d&type=tcp&headerType=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://8ffbff3b-12c9-4d49-af97-93a8d6cb4edb@185.92.180.206:443?security=reality&encryption=none&pbk=3b_tnB2HYi0lchCGaos74uzoysHEPIzvNdN3FOvhIjo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.63:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&security=reality&sid=0c6d3e2f&sni=cdn-up.perecbass.ru&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&type=ws&path=%2F&host=download.pusytroller.gq#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

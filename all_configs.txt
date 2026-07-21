@@ -804,3 +804,4 @@ trojan://IQ68037294@helpful-possum.rooster465.autos:443?allowInsecure=0#🇸🇬
 trojan://IQ68037294@sweeping-parakeet.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?encryption=none&security=reality&sni=api.ok.ru&fp=firefox&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sid=cf2d&type=tcp&headerType=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

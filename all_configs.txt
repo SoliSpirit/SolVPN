@@ -797,3 +797,10 @@ vless://40de6299-d792-4868-8a82-411ead0aa943@nl.go-vpn.club:443?security=reality
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?&security=tls&fp=chrome&sni=ad-010.vector2llqn.info&type=ws&headerType=none&host=ad-010.vector2llqn.info&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSmVBamlKNDBGMklsMTdFbHYyODVX@141.227.152.129:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.132:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+trojan://IQ68037294@casual-stallion.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@optimal-dane.rooster465.autos:443?allowInsecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=0&sni=163.245.196.68.sslip.io#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://IQ68037294@helpful-possum.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@sweeping-parakeet.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

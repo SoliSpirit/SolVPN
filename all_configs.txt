@@ -718,3 +718,11 @@ trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni
 trojan://IQ68037294@flexible-pony.rooster465.autos:443?allowInsecure=0&sni=flexible-pony.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://IQ68037294@glad-javelin.rooster465.autos:443?allowInsecure=0&sni=glad-javelin.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?allowInsecure=0&sni=enabling-gobbler.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://696915f2-5ad4-452b-987c-d83d29d0503a@72.56.236.35:443?type=grpc&security=reality&fp=firefox&pbk=_yzmX8WwaZJD4ddVgOZWJsx6r0lJzhTrTbkQLhwiWXk&sid=c8540a3e9e1d8136&sni=usr.moktana.app&mode=gun&serviceName=moktana.net.v1.StreamService#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://IQ68037294@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://IQ68037294@guided-warthog.rooster465.autos:443?allowInsecure=1&sni=guided-warthog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://IQ68037294@pleased-lobster.rooster465.autos:443?allowInsecure=1&sni=pleased-lobster.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.71.64:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

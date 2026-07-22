@@ -14,3 +14,4 @@ trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=a
 trojan://IQ68037294@select-marmoset.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?allowInsecure=1&sni=artistic-pigeon.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://IQ68037294@robust-toucan.rooster465.autos:443?security=tls&sni=robust-toucan.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni=154.90.62.70#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

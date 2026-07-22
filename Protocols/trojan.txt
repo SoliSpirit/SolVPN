@@ -129,3 +129,4 @@ trojan://BxceQaOe@18.183.199.219:54411?allowInsecure=1&sni=t.me%252Fripaojiedian
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.109.164:40138?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://NQ26071394@3.255.155.50:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tops-marlin.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@rem.dtr.kotokopolb.ru:443?path=/trojan-ws&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rem.dtr.kotokopolb.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

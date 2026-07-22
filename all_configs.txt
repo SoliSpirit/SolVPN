@@ -751,3 +751,4 @@ vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.161:443?allowInsecure=0&s
 trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@216.227.161.95:7443?encryption=none&fp=firefox&pbk=uNqGvaJEIFTFQvAxsTDhetPxkIWzJuBtxXsK0yFMYzM&security=reality&serviceName=grpc&sid=48d5cf47&sni=www.samsung.com&type=grpc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://NQ26071394@3.255.155.50:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tops-marlin.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

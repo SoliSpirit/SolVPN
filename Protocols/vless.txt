@@ -455,3 +455,4 @@ vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2F
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=%2F&security=tls&encryption=none&&host=josni.hoyes.cloudns.ch&type=ws&&sni=josni.hoyes.cloudns.ch#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://13ce37df-0738-4130-9b02-a87658921feb@tun.temas-bor.ir:2087?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

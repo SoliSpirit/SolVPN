@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#🇩🇪[www.v2nodes.com] Outline VPN-DE-14170595
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
@@ -74,3 +74,4 @@ vless://2042e1e6-7175-4604-9e0a-b13284ffeb54@212.227.102.223:443?security=realit
 trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=fosae.starriverway-milo.sbs&type=ws&allowInsecure=0&sni=fosae.starriverway-milo.sbs#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://74ec6869-6638-4def-96c7-30394f035d3c@176.124.221.208:58500?&type=ws&headerType=none&path=%2Ffree#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@gr157.bamajobin.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

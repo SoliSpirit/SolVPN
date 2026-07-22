@@ -56,3 +56,4 @@ trojan://IQ68037294@humane-hawk.rooster465.autos:443?allowInsecure=0&sni=humane-
 trojan://IQ68037294@proud-escargot.rooster465.autos:443?allowInsecure=0&sni=proud-escargot.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@happy-mutt.rooster465.autos:443?allowInsecure=0&sni=happy-mutt.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://7b84db8b-65cd-4072-9c57-dadae303feec@104.17.74.206:8443?&security=tls&fp=firefox&sni=free.isurux.dpdns.org&type=ws&headerType=none&host=free.isurux.dpdns.org&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

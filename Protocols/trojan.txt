@@ -123,3 +123,4 @@ trojan://IQ68037294@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=in
 trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://IQ68037294@guided-warthog.rooster465.autos:443?allowInsecure=1&sni=guided-warthog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://IQ68037294@pleased-lobster.rooster465.autos:443?allowInsecure=1&sni=pleased-lobster.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

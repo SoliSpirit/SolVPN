@@ -65,3 +65,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.118.222:22223?&type=tcp&heade
 vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@ad-018.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-018.cloud25075.info&type=ws&headerType=none&host=ad-018.cloud25075.info&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?encryption=none&type=ws&security=tls&path=%2Frsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&insecure=0&allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?&security=tls&fp=firefox&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=%2Frsedgws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=%2Fsg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -45,3 +45,4 @@ trojan://IQ68037294@guided-warthog.rooster465.autos:443?allowInsecure=1&sni=guid
 trojan://IQ68037294@pleased-lobster.rooster465.autos:443?allowInsecure=1&sni=pleased-lobster.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@18.183.199.219:54411?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.109.164:40138?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vmess://eyJhZGQiOiIxNjEuMzMuMTM5LjEzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4IiwibmV0Ijoid3MiLCJwYXRoIjoiLzE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOC12bSIsInBvcnQiOjU4OTA1LCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiMTYxLjMzLjEzOS4xMzgiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9

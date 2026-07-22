@@ -131,3 +131,4 @@ trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=
 trojan://NQ26071394@3.255.155.50:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tops-marlin.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@rem.dtr.kotokopolb.ru:443?path=/trojan-ws&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rem.dtr.kotokopolb.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://---------------BanV2ray-------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:4713?security=reality&sni=yahoo.com&fp=chrome&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&sid=6239&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

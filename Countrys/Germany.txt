@@ -63,3 +63,6 @@ vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=non
 vless://041f4da7-1aa5-42e8-9cb2-834510c345a8@mastvpnd1.k7k7.ir:8080?encryption=none&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://IQ68037294@glad-javelin.rooster465.autos:443?allowInsecure=0&sni=glad-javelin.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?allowInsecure=0&sni=enabling-gobbler.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.71.64:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

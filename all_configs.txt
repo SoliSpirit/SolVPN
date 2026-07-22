@@ -787,3 +787,4 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?encryption=none&security=tls&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&fp=chrome&type=ws&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjhiOTIzYS00OTE4LTQ2YWQtOTZlNy05Y2Y1NTQzZGRjNGM@107.172.219.230:2096#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.207:443?encryption=none&security=tls&sni=shegeftihaaa.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://3820aab5-ffaf-43b7-8741-af720c6690a4@31-76-252-48.sslip.io:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=31-76-252-48.sslip.io&path=%2Fyt&security=tls&sni=31-76-252-48.sslip.io&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

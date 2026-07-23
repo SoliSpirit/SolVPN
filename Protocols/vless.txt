@@ -483,3 +483,4 @@ vless://fffedca3-fcb2-45de-8b83-b8a8b12d0415@check01.rayanekomakplus.ir:8443?sec
 vless://4a805850-a2c4-42b3-898a-798f0c19c609@pq1gqi8a.cf.3666888.xyz:2052?&type=ws&headerType=none&host=3o3ed92e.xn--nxa.nyc.mn&path=%2Fsub#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@93.183.87.159:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.engage.edgedoor.ink&fp=random&pbk=lFVBai-H5JaIoD75hdP5qETYo7a49yxPiJ06Vi6WyV4&flow=xtls-rprx-vision#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-004.zen2bswa.info#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

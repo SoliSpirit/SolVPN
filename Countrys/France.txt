@@ -53,3 +53,6 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&fp=
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.112.70:22222?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://WG39087154@nearby-cod.rooster465.autos:443?allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=/sg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.154.172:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

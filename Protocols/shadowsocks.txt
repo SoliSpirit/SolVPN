@@ -106,3 +106,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.117.119.8:
 vless://491265c8-8057-489c-9e49-b30d2df5486c@192.248.180.96:443?security=reality&encryption=none&pbk=xZmWaz6lRWkAX4JI1ITHh86SOBzIlkZ7H41DKw3iXjY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206aDZtRGJjeXZRVVhE@150.251.158.203:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZnVJTHdRN1d5ekd0Y1VRQmJuU2dmaldVd0EycVhBeUZkUGdLTHlDMEcxdz06d0cwMlJrajNBcXBTRngrTEpjRjJYZ2lweGdGSFNreENzVjhvdWFndGs1QT0=@153.52.92.102:42166#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:20126#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

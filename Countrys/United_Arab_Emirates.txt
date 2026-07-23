@@ -1,2 +1,1 @@
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
-vless://42f2160b-5d85-49b9-adba-3a70727885cc@85.234.73.196:443?security=reality&encryption=none&pbk=WZ2vJKVZ3vLP97hKRfu8XJnUpXwPgXMPT7aK5s1Yu0g&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.icloud.com&sid=56#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

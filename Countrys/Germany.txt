@@ -86,3 +86,4 @@ vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@ge02.auragg.org:443?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.58.62.164:22222?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b9ab00a9-5fd0-42eb-a474-cc18265df70d@fast.motorbazan.com:80?&type=ws&headerType=none&host=pan1.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@ge03.auragg.org:443?security=reality&encryption=none&pbk=TGJxKbPG8ds2NwK6uhgQURUfVJ01BcRh3Eaoy3dtdGA&fp=chrome&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=a3d8f1e9b2c7d4e6#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://94ada67d-2d74-4e0b-a0d4-07a5198296a4@136.244.88.245:39942?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

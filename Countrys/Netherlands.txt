@@ -115,3 +115,4 @@ vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-W
 vless://bf0899bc-5abd-40b8-b376-f108e2d8cb6f@vs-nl4.vibesignal.space:443?security=reality&encryption=none&pbk=CXmDwnjn059tyYLJoM6QcqKS8-qjDdJ1QFKgtdqpV1E&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ajax.googleapis.com&sid=6a579386103d0d49#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://XG59623478@89.39.70.159:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=upward-hedgehog.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://777bcc23-6bc8-5819-a40d-7f2a743419a1@147.90.12.48:443?security=reality&encryption=none&pbk=cGEbFYzIFNKPNIYfu2gidJOgQv67sdsoSUbvmQ0fL28&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=is1.sky-dragon.ru&sid=7e4f3e58d2c7#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://f10b331d-f583-4990-beb9-9199c501150c@co.poorifast.ir:443?security=&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

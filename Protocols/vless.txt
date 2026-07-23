@@ -545,3 +545,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.19.86:22223?&type=tcp&header
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22224?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.58.127:22222?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@46.8.229.48:443?&security=tls&fp=safari&sni=furrycdn.net&type=ws&headerType=none&host=furrycdn.net&path=%2Fapi%2Fv1%2Fvideo-stream#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://153560b0-1a33-4b44-b059-ca5b22e55c19@corelink.su:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=corelink.su&fp=chrome&pbk=b0y3fVgL8jKbO3cNmh_qCoZWoWRsY6BYc6VDJFkNe2I&sid=b7fc0f11dda97edb&type=tcp&headerType=none#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

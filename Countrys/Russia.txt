@@ -6,3 +6,4 @@ vless://84e919d1-efc6-48fc-8248-8c3cbfec9f17@tw04.kinomir.fun:40443?security=rea
 vless://d768d4ba-0b73-4509-87ea-afb074d2f766@82.148.20.72:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://bfa96ee8-0d73-4f24-9b61-4833e8a04b9b@176.108.245.184:25565?encryption=none&flow=xtls-rprx-vision&pbk=4i3aVyDqVM-6wbiUQnfaXfBwQkNXxQp5YQZ4SRVbL2I&security=reality&sni=gp.x5.ru&type=tcp&fp=edge#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://5238521b-c5dd-42af-870e-c174a2aaaafe@188.68.218.101:443?allowInsecure=1&flow=xtls-rprx-vision&fp=qq&pbk=A41b2Th15KC7t1hSRTvkA3-CzZfv1DD1XOV2L5ICuA0&security=reality&sid=&sni=cloud.mail.ru&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:20126#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

@@ -3,6 +3,7 @@ trojan://humanity@104.17.177.143:443?path=/assignment&%3Bsecurity=tls&%3Binsecur
 trojan://humanity@172.64.152.23:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=www.creationlong.org&%3Btype=ws&%3BallowInsecure=0&%3Bsni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://humanity@172.64.152.23:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Bfp=chrome&%3Btype=ws&%3Bsni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#🇵🇰 Join+Telegram:@SolVPN 🇵🇰
 trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
@@ -118,3 +119,5 @@ trojan://NQ26071394@3.255.155.50:443?security=tls&insecure=0&headerType=none&fp=
 trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@rem.dtr.kotokopolb.ru:443?path=/trojan-ws&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rem.dtr.kotokopolb.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://---------------BanV2ray-------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:4713?security=reality&sni=yahoo.com&fp=chrome&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&sid=6239&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://WG39087154@caring-ghoul.rooster465.autos:443?allowInsecure=1&sni=caring-ghoul.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://WG39087154@nearby-cod.rooster465.autos:443?allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

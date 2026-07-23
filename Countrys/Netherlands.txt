@@ -117,3 +117,4 @@ trojan://XG59623478@89.39.70.159:443?security=tls&insecure=0&headerType=none&fp=
 vless://777bcc23-6bc8-5819-a40d-7f2a743419a1@147.90.12.48:443?security=reality&encryption=none&pbk=cGEbFYzIFNKPNIYfu2gidJOgQv67sdsoSUbvmQ0fL28&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=is1.sky-dragon.ru&sid=7e4f3e58d2c7#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://f10b331d-f583-4990-beb9-9199c501150c@co.poorifast.ir:443?security=&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?path=%2Frsedgws&security=tls&encryption=none&host=shegeftihaaa.net&type=ws&sni=shegeftihaaa.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://bafacd98-136a-4530-838d-4e5c51838dac@167.71.65.205:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=juzi8186.qea.ccwu.cc&path=%2Ftravel%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

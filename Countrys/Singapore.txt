@@ -59,3 +59,6 @@ vless://85c38af5-5a88-4ef1-b87a-a6dee6772285@cdn.ai-4-science.com:443?&security=
 trojan://IQ68037294@sterling-vervet.rooster465.autos:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://FC60532879@neat-quail.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://FC60532879@resolved-gelding.rooster465.autos:443?allowInsecure=0&sni=resolved-gelding.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@fair-reptile.rooster465.autos:443?security=tls&sni=fair-reptile.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls&sni=fun-salmon.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

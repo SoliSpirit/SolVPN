@@ -9,3 +9,4 @@ vless://5238521b-c5dd-42af-870e-c174a2aaaafe@188.68.218.101:443?allowInsecure=1&
 ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:20126#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://9f5f55bd-e59e-4c32-a29d-85639919f01f@tw02.kinomir.fun:40443?security=reality&encryption=none&pbk=O9clKx7I5jpBnibeaV5Httd1lDFkVIhsf0c8kgjIkiU&headerType=none&fp=qq&type=tcp&sni=deepl.com&sid=20c6#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@46.8.229.48:443?&security=tls&fp=safari&sni=furrycdn.net&type=ws&headerType=none&host=furrycdn.net&path=%2Fapi%2Fv1%2Fvideo-stream#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://153560b0-1a33-4b44-b059-ca5b22e55c19@corelink.su:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=corelink.su&fp=chrome&pbk=b0y3fVgL8jKbO3cNmh_qCoZWoWRsY6BYc6VDJFkNe2I&sid=b7fc0f11dda97edb&type=tcp&headerType=none#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

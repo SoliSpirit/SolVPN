@@ -81,3 +81,4 @@ vless://fffedca3-fcb2-45de-8b83-b8a8b12d0415@check01.rayanekomakplus.ir:8443?sec
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@185.159.108.42:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://af288d94-dd26-46cb-ad3d-5fe644e97e2f@31.76.119.201:4888?security=reality&encryption=none&pbk=qtTBa3X4L1h8yS5jbUPY4SFstmtQ0v1oOn0f3qqV3jc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=ce6dec37e4d0d3c6#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2a376e86-d906-4440-a9ec-77dc205ada18@tun.temas-bor.ir:2087?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://ON38567014@18.196.207.79:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=summary-finch.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

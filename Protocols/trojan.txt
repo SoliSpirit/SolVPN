@@ -137,3 +137,6 @@ trojan://ON38567014@18.196.207.79:443?security=tls&insecure=0&headerType=none&fp
 trojan://XG59623478@89.39.70.159:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=upward-hedgehog.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://NQ26071394@sharing-porpoise.rooster465.autos:443?allowInsecure=0&sni=sharing-porpoise.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://JA96378052@evident-gnat.rooster465.autos:443?allowInsecure=1#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+trojan://FC60532879@powerful-opossum.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FC60532879@neat-quail.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://FC60532879@resolved-gelding.rooster465.autos:443?allowInsecure=0&sni=resolved-gelding.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

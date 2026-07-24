@@ -20,3 +20,4 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.directdnsai.shop:8880?security
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo14.fordnsdirect.shop:8880?security=&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://50414e45-4c5f-5a45-5553-a21ab514a3d5@z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev:80?path=/stream/PANEL_ZEUS/50414e45&security=none&encryption=none&insecure=0&host=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

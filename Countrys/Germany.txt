@@ -88,3 +88,6 @@ vless://153560b0-1a33-4b44-b059-ca5b22e55c19@corelink.su:443?encryption=none&flo
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.117.158:22224?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://18bb7397-9f8c-4c26-a316-69b38515e8e6@144.31.219.193:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.hatvpn.org&sid=76132b3b39704c44#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?encryption=none&fp=firefox&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&security=reality&sid=0b&sni=ru2.skydrgn-online.online&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.252.91:22224?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://mahanvpn-mahanvpn@92.42.96.240:443?sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/?ed=2560fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@194.67.102.65:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.germany.nexusdataroute.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -92,3 +92,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.252.91:22224?#🇩🇪 Join+
 vless://mahanvpn-mahanvpn@92.42.96.240:443?sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/?ed=2560fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@194.67.102.65:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.germany.nexusdataroute.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://50414e45-4c5f-5a45-5553-23b46f07f787@z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev:443?path=/stream/PANEL_ZEUS/50414e45&security=tls&encryption=none&insecure=0&host=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2f03aff6-7774-4bdc-a04f-5feb5b3c21b0@81.31.211.170:2085?type=grpc&serviceName=vless#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

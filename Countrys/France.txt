@@ -54,3 +54,5 @@ trojan://UZ15382649@moral-dolphin.rooster465.autos:443?allowInsecure=0&sni=moral
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.131.242:22223?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@95.163.220.107:8880?encryption=none&security=none&type=ws&host=cnd.france.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.22.60:22223?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

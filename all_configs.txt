@@ -917,3 +917,5 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?security=realit
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnAxVHhUUlVJZ0hzPQ==@e4.cover20.ir:16156#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.11:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=abuse.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@176.32.39.122:443?security=reality&type=grpc&fp=safari&sni=media2.tcpdoor.net&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&serviceName=grpc&sid=3303c7a5#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@turkey-naran.fizikade.ir:5039?security=reality&encryption=none&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=2e8424a2696cb606#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

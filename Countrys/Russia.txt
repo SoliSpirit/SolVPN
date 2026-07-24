@@ -11,3 +11,4 @@ vless://153560b0-1a33-4b44-b059-ca5b22e55c19@corelink.su:443?encryption=none&flo
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&fp=randomized&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://ceeba701-bb9f-4f2c-8142-677d27a2acb1@37.139.43.57:443?security=reality&encryption=none&echfq=none&pbk=3v-9P94hjSE1fw6we1J4RvyIYnFhySQUAe1DUKqkaBo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=7f2e9c4b1a8d6a53#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@130.49.148.134:8880?encryption=none&security=none&type=ws&host=rutube.ummapeople.online&path=%2Frutube#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

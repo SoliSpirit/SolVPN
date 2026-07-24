@@ -150,3 +150,11 @@ trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welco
 trojan://IQ68037294@meet-doe.rooster465.autos:443?security=tls&sni=meet-doe.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@neat-duck.rooster465.autos:443?security=tls&sni=neat-duck.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@sterling-fowl.rooster465.autos:443?security=tls&sni=sterling-fowl.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://FC60532879@actual-chicken.rooster465.autos:443?security=tls&sni=actual-chicken.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://FC60532879@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FC60532879@faithful-panther.rooster465.autos:443?security=tls&sni=faithful-panther.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://FC60532879@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FC60532879@exotic-chicken.rooster465.autos:443?security=tls&sni=exotic-chicken.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#🇦🇺 Join+Telegram:@SolVPN 🇦🇺

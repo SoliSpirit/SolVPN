@@ -551,3 +551,5 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?security=reality
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsea&host=edxkk.goldfieldline-milo.sbs&packetEncoding=xudp&sni=edxkk.goldfieldline-milo.sbs&fp=chrome&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://916e3030-6eac-418b-9402-7508ca7d6280@kaoqy-us-ntt.cf.090227.xyz:8443?&security=tls&fp=chrome&sni=ntt2.us.781391.xyz&type=ws&headerType=none&host=ntt2.us.781391.xyz&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://d3aebc17-a731-40fb-a755-aac1a4cf80f2@95.181.167.171:9090?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?security=reality&encryption=none&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.buycloud.app&sid=0a30e2aee95a7571#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-013.limaklhc6.info&type=ws&headerType=none&host=ad-013.limaklhc6.info&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

@@ -865,3 +865,5 @@ vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@135.125.185.225:2053?mode=gun&secur
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjhiOTIzYS00OTE4LTQ2YWQtOTZlNy05Y2Y1NTQzZGRjNGM@107.172.219.230:2096#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://cdd37253-5f9b-4dcb-8b01-ad60a29384b8@sgp3xui.jzy88.top:54324?fp=chrome&security=tls&serviceName=grpc&sni=sgp3xui.jzy88.top&type=grpc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@57.129.47.10:2053?path=/proxyip%3D94.131.123.74%3Fu%3D135bd1e8e1&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=ez-01eeff.ezaccess19f879f.workers.dev&%3Bfp=chrome&%3Btype=ws&%3Bsni=ez-01eeff.ezaccess19f879f.workers.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=%2F&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

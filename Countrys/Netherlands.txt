@@ -109,3 +109,4 @@ vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?pat
 trojan://IQ68037294@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?encryption=none&fp=firefox&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&security=reality&sid=0b&sni=ru2.skydrgn-online.online&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@80.78.245.48:8880?encryption=none&security=none&type=ws&host=cnd.netherlands.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://b04a708a-7e56-45f9-9557-2d6253a8de6e@freenl.strettenvpn.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&sid=8248954896&sni=sun6-21.userapi.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

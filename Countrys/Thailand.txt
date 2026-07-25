@@ -1,5 +1,4 @@
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?path=%2Fproxy&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=43.164.0.59#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
-vless://f8e56a6d-6e8d-447d-901b-4a511aecf29a@www.true.th:80?&type=ws&headerType=none&host=d1lnzdlpso56a0.cloudfront.net&path=%2Fjuevpn#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?&type=ws&headerType=none&host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20023?allowInsecure=0&sni=hk.catxstar.com#🇹🇭 Join+Telegram:@SolVPN 🇹🇭

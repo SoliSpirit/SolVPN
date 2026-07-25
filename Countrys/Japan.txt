@@ -37,3 +37,4 @@ trojan://IQ68037294@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-bu
 trojan://IQ68037294@moved-osprey.rooster465.autos:443?security=tls&sni=moved-osprey.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://JT80563429@inspired-hound.rooster465.autos:443?allowInsecure=0&sni=inspired-hound.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

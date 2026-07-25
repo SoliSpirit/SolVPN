@@ -63,3 +63,4 @@ trojan://FC60532879@actual-chicken.rooster465.autos:443?security=tls&sni=actual-
 trojan://FC60532879@faithful-panther.rooster465.autos:443?security=tls&sni=faithful-panther.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&encryption=none&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3b0b73e5#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://edb26c67-44b7-4448-ac19-625f503db1a5@141.193.213.20:2096?&security=tls&fp=random&sni=lk.thenuka.online&type=ws&headerType=none&host=lk.thenuka.online&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?&security=tls&fp=chrome&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

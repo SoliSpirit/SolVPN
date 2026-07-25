@@ -4,3 +4,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://30e4c878-15ca-4f53-ab32-04c60ecd3f31@172.65.90.52:8880?type=ws&host=blue-rice-7142.30-346.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://bfa3aaaf-41d3-4ec4-8453-e9827d7e7b30@www.zsu.gov.ua:8880?type=ws&host=crimson-mode-f8de.432-9e1.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

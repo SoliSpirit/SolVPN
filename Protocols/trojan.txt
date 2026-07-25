@@ -142,3 +142,4 @@ trojan://FC60532879@exotic-chicken.rooster465.autos:443?security=tls&sni=exotic-
 trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20023?allowInsecure=0&sni=hk.catxstar.com#🇹🇭 Join+Telegram:@SolVPN 🇹🇭

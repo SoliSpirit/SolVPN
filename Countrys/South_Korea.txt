@@ -17,3 +17,4 @@ trojan://FC60532879@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outg
 trojan://FC60532879@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://FC60532879@exotic-chicken.rooster465.autos:443?security=tls&sni=exotic-chicken.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.179:443?sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vless://a5a82872-616b-49f6-a40a-6a54feeb5dd0@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=87478274a30fcaea&pbk=9HIcma6Y5a0yddTqa3_zNUyItI3J-g99GdT0u0Moqzw&encryption=none#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

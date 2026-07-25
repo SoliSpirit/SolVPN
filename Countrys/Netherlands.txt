@@ -106,3 +106,4 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://f7f14ab6-b9fb-4285-ae74-f6913332d30e@51.15.18.50:2053?encryption=none&fp=chrome&pbk=OEKOwbvWeIENbRmu5dsuijAdc4CY6qla_W6_hfaOXS4&security=reality&sid=03e21cb7c1aa955f&sni=www.apple.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

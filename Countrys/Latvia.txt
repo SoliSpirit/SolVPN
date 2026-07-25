@@ -1,3 +1,4 @@
 vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
 vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
 vless://eeb6c1bf-5fb4-49b1-bf74-049eb9b06300@31.57.29.46:8443?&type=ws&headerType=none&path=%2Fchunkycorp#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
+vless://c85e3845-37f5-4a63-88f8-7ca5f613da54@95.182.90.218:443?&type=ws&headerType=none&path=%2F#🇱🇻 Join+Telegram:@SolVPN 🇱🇻

@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#🇩🇪[www.v2nodes.com] Outline VPN-DE-14170595
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
@@ -78,3 +78,4 @@ vless://2a376e86-d906-4440-a9ec-77dc205ada18@tun.temas-bor.ir:2087?security=&enc
 vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@193.33.133.57:8443?&security=tls&fp=edge&alpn=http%2F1.1&sni=cloudflare.vhub.pro&type=ws&headerType=none&host=cloudflare.vhub.pro&path=%2Fwebsocket#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e5afa6a0-a4a6-44e3-a3e0-e05b0c67cd02@144.31.217.155:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NoHprmPbWaiIEovefl_30LpysTs2VSiXRbqehIdkV3c&security=reality&sid=8b2df24d395b6de7&sni=www.mozilla.org&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

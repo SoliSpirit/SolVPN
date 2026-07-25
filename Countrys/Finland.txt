@@ -17,3 +17,4 @@ vless://79a5be11-ec1f-4e18-b7fc-aef854234c43@199.232.78.159:443?path=/TELEGRAM_N
 vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@fl4.raketa-balance.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&security=reality&sid=6c6082a2223c1d03&sni=fl4.raketa-balance.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://a7a42d83-b810-4393-a321-a554ec2e75c9@ru.washing.help:8443?alpn=h2,http/1.1&encryption=none&security=tls&sni=ru.washing.help&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://46445435-11cd-47e8-87dc-1acc159fc360@151.101.56.7:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.11:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

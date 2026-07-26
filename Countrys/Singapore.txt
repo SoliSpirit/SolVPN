@@ -44,10 +44,8 @@ trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#🇸🇬 Joi
 trojan://IQ68037294@pet-albacore.rooster465.autos:443?allowInsecure=1&sni=pet-albacore.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@giving-bird.rooster465.autos:443?security=tls&sni=giving-bird.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@50.114.55.14:10001?security=reality&encryption=none&echfq=none&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=2afe4310#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://85c38af5-5a88-4ef1-b87a-a6dee6772285@cdn.ai-4-science.com:443?&security=tls&sni=cdn.ai-4-science.com&type=ws&headerType=none&host=cdn.ai-4-science.com&path=%2Fapi%2Fv1%2Fstream#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@sterling-vervet.rooster465.autos:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://FC60532879@resolved-gelding.rooster465.autos:443?allowInsecure=0&sni=resolved-gelding.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@fair-reptile.rooster465.autos:443?security=tls&sni=fair-reptile.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls&sni=fun-salmon.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

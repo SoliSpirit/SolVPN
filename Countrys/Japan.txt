@@ -38,3 +38,4 @@ vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&secur
 vless://d00ef066-1c2b-4af9-8795-7c998572d13f@45.130.125.20:2087?mode=auto&path=%2Fmedia&security=tls&encryption=none&insecure=0&host=de.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vmess://eyJhZGQiOiJ2cHMxMjMua2J4YS50b3AiLCJhaWQiOjAsImhvc3QiOiJ2cHMxMjMua2J4YS50b3AiLCJpZCI6ImNkMDdkNmU2LWY2MzEtNDc1Ny1hMDNjLWI4NzI3YzU2OGM4NSIsIm5ldCI6IndzIiwicGF0aCI6Ii8xMjMiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 trojan://AQ71834695@alert-monster.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

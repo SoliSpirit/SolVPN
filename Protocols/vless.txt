@@ -571,3 +571,4 @@ vless://aa46411a-fb49-4f8d-8f42-e77da647f894@de2.twixvpn.com:443?security=realit
 vless://7abae19e-3dcb-44ae-a5f6-9f7a9dc1e0bd@176.123.165.127:56745?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.93.121:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
+vless://5c7b079c-223b-4fc5-9470-31adf8405312@5.188.115.69:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=amogus.razkur.dev&type=ws&headerType=none&path=%2Fws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

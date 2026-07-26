@@ -110,3 +110,4 @@ vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.78:2200?encryption=none&ty
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.67:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@151.101.56.7:80?&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://326f45c1-0a69-4150-a3b9-42f282a3c34c@185.204.170.235:2053?security=reality&encryption=none&pbk=N2H6Y5aEVwq2yUY1GL5fL6HKaiYUvve-tgImQAIAT0U&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=npav.havray2025.ir&sid=0d77f881#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@germ.skysafe.online:2027?security=reality&encryption=none&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germ.skysafe.online&sid=6ba7b8109dad11d1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

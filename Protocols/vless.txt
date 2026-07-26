@@ -575,3 +575,6 @@ vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=realit
 vless://5c7b079c-223b-4fc5-9470-31adf8405312@5.188.115.69:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=amogus.razkur.dev&type=ws&headerType=none&path=%2Fws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://916e3030-6eac-418b-9402-7508ca7d6280@kaoqy.cf.090227.xyz:8443?&security=tls&fp=chrome&sni=akile.mo.781391.xyz&type=ws&headerType=none&host=akile.mo.781391.xyz&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@31.56.188.203:443?path=%2Fvless-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=ws.offzaim.online#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@165.232.81.187:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

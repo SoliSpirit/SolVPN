@@ -923,3 +923,4 @@ vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@207.174.133.111:8443?&security=tls&
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.17:10000?&type=tcp&headerType=none&path=%2F#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://e9d16733-2d11-4c17-86b4-ce2fa92d3842@104.21.18.41:2053?&security=tls&fp=chrome&sni=gerdoo.cafebario.ir&type=ws&headerType=none&host=gerdoo.cafebario.ir&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIzIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

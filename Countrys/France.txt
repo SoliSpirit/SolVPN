@@ -58,3 +58,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?#🇫🇷 Join+T
 vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@95.163.220.107:8880?encryption=none&security=none&type=ws&host=cnd.france.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://7abae19e-3dcb-44ae-a5f6-9f7a9dc1e0bd@176.123.165.127:56745?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

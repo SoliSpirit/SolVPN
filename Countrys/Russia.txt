@@ -12,3 +12,4 @@ vless://6855c0ad-e259-4180-a6b8-776efdfbbcea@84.201.162.99:49958?encryption=none
 ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.58.48.19:20910#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://507e8554-4941-4297-9196-af102455f6ed@186.246.6.189:443?encryption=none&fp=chrome&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&type=grpc#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://85da2b09-1a08-4dac-9ef0-888138b11703@217.149.19.15:23344?&type=tcp&headerType=none&path=%2F#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://8b02563b-cf46-4c94-bb82-e0fdecd26630@funny2.oneok.name:443?encryption=none&fp=chrome&pbk=erUxbU3_rhHJqRE6rTj-FRfz9IbTPnxx5DgKaT5C6Rs&security=reality&serviceName=api.v1.StreamService&sid=6d08059a&sni=funny2.oneok.name&type=grpc#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

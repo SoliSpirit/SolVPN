@@ -108,3 +108,4 @@ vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node3.mxvpn.dev:443?encryption=none
 vless://28926c34-865c-447e-8d42-a17240af743b@91.124.209.138:2095?type=ws&host=cdn-cloudflare91.korvexe.ir&path=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@nd12.myxasecure.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=nd12.myxasecure.space&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@45.90.13.43:443?encryption=none&fp=chrome&pbk=s2aPrtSalEIrSeOYcwVtJ6H_Iz4pDDRmoT4tB6CF4Ws&security=reality&sid=c3068f69702dc714&sni=lk.rollypay.io&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://64beb03f-886e-48be-9bdf-2fa68156fd74@us3.boboly.ir:43780?encryption=none&fp=chrome&pbk=xqkFi7Uvyxb7749s6mqs9OMd_-IWOvkDHRWOE-mgW1I&security=reality&sid=006e47f4a13a08cc&sni=ourworldindata.org&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

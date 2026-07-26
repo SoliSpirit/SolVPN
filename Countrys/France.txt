@@ -59,3 +59,4 @@ vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@95.163.220.107:8880?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://7abae19e-3dcb-44ae-a5f6-9f7a9dc1e0bd@176.123.165.127:56745?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://c90fdc71-d7ac-4b66-8c0c-2be2a7b4ae0c@45.95.233.185:19168?mode=multi&security=reality&encryption=none&pbk=j9-PqbvTxOh3VZ_Sz696WKpEEFvft1CzUzzIvGCJn0w&fp=chrome&spx=/&type=grpc&serviceName=api&sni=apple.com&sid=baeaf515feed2c64#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -118,3 +118,5 @@ vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.151.62.156:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://9aa22854-b213-44c1-b966-14284fce33df@89.110.84.36:31067?security=&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?path=/xray&security=none&encryption=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@185.91.54.46:8443?security=reality&encryption=none&pbk=HlFbkqFN9DooGiknfgwdIovUDrlumu9OXOsAZnRxZiI&headerType=&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=graphql-web.kinopoisk.ru&sid=9db07670a7b491cb#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

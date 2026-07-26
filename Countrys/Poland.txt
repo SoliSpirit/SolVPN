@@ -5,7 +5,7 @@ trojan://KV63147582@more-trout.rooster465.autos:443?allowInsecure=0&sni=more-tro
 vless://0c74ec62-91b3-4dbf-bf2f-d824e09980f0@31.56.188.87:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=site.rumedia-cdn.com&fp=qq&pbk=HQ0kcyQp4LLPMJNtI7kEcQZw1o5AA1YNkOMfUUrsTjU&sid=22adce68ed227a4a&type=tcp&headerType=none#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://NQ26071394@kind-unicorn.rooster465.autos:443?allowInsecure=0&sni=kind-unicorn.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
-vless://bcb02430-4f92-4b7d-b461-9de75966ccf6@ser.coolfrog-bot.ir:8080?type=ws&encryption=none&path=%2Fsteam&host=ser.coolfrog-bot.ir&security=none#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://NQ26071394@ready-lion.rooster465.autos:443?security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://PI36027154@upright-hamster.rooster465.autos:443?security=tls&sni=upright-hamster.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://OD90375861@ideal-robin.rooster465.autos:443?security=tls&sni=ideal-robin.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
@@ -26,3 +26,4 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl07.myxasecure.space:443?encryptio
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl05.myxasecure.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=pl05.myxasecure.space&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://f165affe-ffb4-4f13-a081-f14434e51152@pol1.panel11.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1FryqGmMpa7T_bHmy3Uy11C5GWe6F2uzcsCYa9QXJBw&security=reality&sid=ff993907a731979a&sni=pol1.panel11.ru&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://28926c34-865c-447e-8d42-a17240af743b@91panel-axiora-vpn.korvexe.ir:57820?&security=tls&fp=chrome&type=ws&headerType=none&host=cdn-xui911.korvexe.ir&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

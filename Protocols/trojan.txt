@@ -17,7 +17,6 @@ trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1&sni=gra
 trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?allowInsecure=1&sni=ready-kangaroo.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://NQ26071394@kind-unicorn.rooster465.autos:443?allowInsecure=0&sni=kind-unicorn.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?allowInsecure=1&sni=renewed-phoenix.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
-trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://NQ26071394@ready-lion.rooster465.autos:443?security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=86.106.84.195#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

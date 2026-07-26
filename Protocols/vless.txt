@@ -599,3 +599,4 @@ vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2F
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@h2.zynovax.ir:1080?security=reality&encryption=none&pbk=RsO3PRzPHqGLfioO6C1kQOWatqjo15KnUUbkdE7VKEs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=8ffa8cbc6d67cffa#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c7e9c591-2764-423a-afca-efbd010fd396@103.54.16.230:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@72.5.42.70:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&allowinsecure=0&type=tcp&headerType=none#🇴🇲 Join+Telegram:@SolVPN 🇴🇲

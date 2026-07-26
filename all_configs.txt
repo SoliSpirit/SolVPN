@@ -912,3 +912,4 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=/rsedgws&secur
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.78:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.67:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

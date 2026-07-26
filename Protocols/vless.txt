@@ -617,3 +617,4 @@ vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?&type=ws&headerType=
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@207.174.133.111:8443?&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.17:10000?&type=tcp&headerType=none&path=%2F#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://e9d16733-2d11-4c17-86b4-ce2fa92d3842@104.21.18.41:2053?&security=tls&fp=chrome&sni=gerdoo.cafebario.ir&type=ws&headerType=none&host=gerdoo.cafebario.ir&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

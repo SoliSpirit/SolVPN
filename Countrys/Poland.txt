@@ -28,3 +28,4 @@ vless://f165affe-ffb4-4f13-a081-f14434e51152@pol1.panel11.ru:443?encryption=none
 vless://28926c34-865c-447e-8d42-a17240af743b@91panel-axiora-vpn.korvexe.ir:57820?&security=tls&fp=chrome&type=ws&headerType=none&host=cdn-xui911.korvexe.ir&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@31.56.188.203:443?path=%2Fvless-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=ws.offzaim.online#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ymail.com&fp=random&pbk=NCqZzVFlyDITdXB28eEHBgHVqlqpllm1BoJ4wImYHl4&sid=6a58&spx=%2F&allowinsecure=0&type=tcp&headerType=none#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -97,3 +97,4 @@ vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?path=%2F%3Fu%3D1e
 vless://94d1b793-0670-405a-af31-d1270b582427@cd18.almas-cloud.ir:2096?type=ws&host=&path=#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@103.27.156.63:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=dSKIQmSXKkmpXGcB9RCt320PmpuE92omqsVqdH351G8&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@161.35.217.79:2087?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

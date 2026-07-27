@@ -18,3 +18,4 @@ vless://c7e9c591-2764-423a-afca-efbd010fd396@103.54.16.230:2053?&security=tls&fp
 vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@140.233.160.24:443?security=reality&type=raw&packetEncoding=xudp&sni=ya.ru&fp=edge&flow=xtls-rprx-vision&sid=abcd&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@89.47.55.3:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.google.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://75b38c79-92e3-454b-b98e-52fbd254884d@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=towndtime.global.ssl.fastly.neT.&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

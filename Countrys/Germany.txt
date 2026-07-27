@@ -103,3 +103,5 @@ vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@194.87.55.47:443?mode=gun&security=reality&encryption=none&pbk=dSKIQmSXKkmpXGcB9RCt320PmpuE92omqsVqdH351G8&fp=firefox&type=grpc&sni=yahoo.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://423caebf-ce56-4e26-a792-7a6becb17e9b@45.151.102.99:6443?type=grpc&security=reality&serviceName=your-custom-path&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&fp=chrome&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@2.26.84.95:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.avito.ru&fp=firefox&pbk=WTCfu0XRIGi93MomsdOxuLOdnjXBkaaVZqaJWpxxYlk&sid=d8f3a9c2#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:44600?host=P30day.ir&path=/t.me/defyxvpn_fa&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

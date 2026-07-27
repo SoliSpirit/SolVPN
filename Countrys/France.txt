@@ -1,5 +1,5 @@
 trojan://humanity@104.17.177.143:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=www.ignitelimit.com&%3Btype=ws&%3BallowInsecure=0&%3Bsni=www.ignitelimit.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-vmess://eyJhZGQiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIyZjQyMzRmOS04ZjMzLTRjN2YtOTUyZi01NjVmZmE1ZjVmYjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6Ilx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGViXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@172.64.152.23:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Bfp=chrome&%3Btype=ws&%3Bsni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
@@ -63,3 +63,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&
 vless://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@77.221.152.151:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.lefigaro.fr&fp=firefox&pbk=Uwj82vGl-jAhU3VflWnTy7rISYi03slggjS32Zx8pkk&sid=6ba85179e30d4fc2&serviceName=wlgrpc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&security=tls&sni=vangoghhh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=/rdfgtws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://423caebf-ce56-4e26-a792-7a6becb17e9b@45.151.102.99:8443?type=grpc&security=reality&serviceName=your-custom-path&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&fp=chrome&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

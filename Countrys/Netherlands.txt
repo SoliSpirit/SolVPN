@@ -122,3 +122,5 @@ vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@185.91.54.46:8443?type=tcp&security
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@80.78.245.48:8880?encryption=none&security=none&type=ws&host=cnd.netherlands.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://bbbde6b4-eb72-4018-b702-1c782c528927@37.139.24.45:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=etppnyfi.j84lb8cxseup4s2nb3if.workers.dev&path=%2F&security=tls&sni=etppnyfi.j84lb8cxseup4s2nb3if.workers.dev&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@193.123.37.158:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@158.180.12.17:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

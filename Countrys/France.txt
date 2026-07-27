@@ -64,3 +64,4 @@ vless://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@77.221.152.151:443?type=grpc&header
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&security=tls&sni=vangoghhh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=/rdfgtws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://423caebf-ce56-4e26-a792-7a6becb17e9b@45.151.102.99:8443?type=grpc&security=reality&serviceName=your-custom-path&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&fp=chrome&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.207:443?path=%2Frsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

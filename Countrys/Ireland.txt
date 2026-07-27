@@ -1,3 +1,4 @@
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ire03.myxasecure.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=ire03.myxasecure.space&type=tcp#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSzdaSXREazlDbzJlT2V3@168.63.58.89:443#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptOVFkYnQ5SXUzNUl4eXFO@23.100.56.187:443#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

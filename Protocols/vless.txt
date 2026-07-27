@@ -611,3 +611,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22224?&type=tcp&header
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.207.136:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://84ba7c73-60b7-8700-e137-457ba525647f@69.46.46.4:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=x4g-production-1bbc.up.railway.app&type=ws&headerType=none&host=x4g-production-1bbc.up.railway.app&path=%2Fws%2F84ba7c73-60b7-8700-e137-457ba525647f#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.37.67:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?encryption=none&security=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

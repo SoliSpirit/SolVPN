@@ -34,3 +34,4 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@57.128.181.26:443?path=%2Fsg-amz&se
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.250:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&fp=chrome&insecure=0&allowInsecure=0#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.78:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-1.ariyuz.org&type=ws&headerType=none&host=germany-1.ariyuz.org&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://94d1b793-0670-405a-af31-d1270b582427@cd18.almas-cloud.ir:2096?&type=ws&headerType=none&host=cd18.almas-cloud.ir&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.227.140:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

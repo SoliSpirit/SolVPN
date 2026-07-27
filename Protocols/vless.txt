@@ -573,3 +573,4 @@ vless://bfa3aaaf-41d3-4ec4-8453-e9827d7e7b30@www.zsu.gov.ua:8880?type=ws&host=cr
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?type=ws&host=fuckfangbinxing.pusytroller.gq&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@57.128.181.26:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

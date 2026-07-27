@@ -65,3 +65,5 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://423caebf-ce56-4e26-a792-7a6becb17e9b@45.151.102.99:8443?type=grpc&security=reality&serviceName=your-custom-path&sni=maps.apple.com&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&fp=chrome&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.207:443?path=%2Frsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&sid=59625eb3275249ca&type=tcp&headerType=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@0w7ymj.spectrum.vu:443?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

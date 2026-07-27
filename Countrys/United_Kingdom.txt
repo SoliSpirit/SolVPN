@@ -27,3 +27,4 @@ vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@gr021.bamajobin.ir:2053?mode=gun&se
 vless://916e3030-6eac-418b-9402-7508ca7d6280@kaoqy-uk-akile.cf.090227.xyz:8443?&security=tls&fp=chrome&sni=akile.uk.781391.xyz&type=ws&headerType=none&host=akile.uk.781391.xyz&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://efeefecf-72f9-4118-9e25-634ca2b2ca11@gb.sv.temas-bor.ir:22012?encryption=none&type=tcp&security=reality&fp=firefox&sni=login.yahoo.com&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.130.125.207:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

@@ -69,3 +69,5 @@ vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@0w7ymj.spectrum.vu:443?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.1.105:22222?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.227:22224?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@45.130.125.96:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com&brand=@Arvand_soul#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

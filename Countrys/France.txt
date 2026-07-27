@@ -73,3 +73,4 @@ trojan://humanity@45.130.125.96:443?path=/assignment&security=tls&alpn=http/1.1&
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@217.138.207.106:1080#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://a97c88d9-116e-4085-9f30-5f9b513feeeb@46.226.166.205:34034?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=vheledf-jaKtPd33wOXMj9FqOLRmcKXc4nlQUVTKeC4&sid=21cf&spx=%2F&type=tcp&headerType=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

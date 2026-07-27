@@ -12,3 +12,4 @@ vless://5238521b-c5dd-42af-870e-c174a2aaaafe@188.68.218.101:443?allowInsecure=1&
 ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:20126#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@195.133.5.207:10210#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://47e144de-9fb2-47da-9a1b-c8f78df22e99@194.87.133.25:443?encryption=none&fp=firefox&pbk=i6uqYKE5251RNqvVQofY5wUxkTokzxYz6m5g2ke9iT0&security=reality&sid=f8c21d6b3a9e7054&sni=github.com&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?&type=tcp&headerType=none&path=%2F#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

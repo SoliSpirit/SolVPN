@@ -59,3 +59,4 @@ vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?&type=ws&headerType=
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node13.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node13.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22223?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

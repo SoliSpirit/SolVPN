@@ -48,3 +48,4 @@ vmess://eyJhZGQiOiI4NS4xMTMuNzEuODUiLCJhaWQiOjAsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJp
 trojan://BxceQaOe@95.40.61.23:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&fp=chrome&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&sid=8622176789abcdef&serviceName=web.max.ru&mode=gun#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiJ5ZDMuYWluaXZwLmNvbSIsInBvcnQiOiIzMzQwOSIsInR5cGUiOiJub25lIiwiaWQiOiI5MjI3YWZjZC0wMjZlLTc4MWYtMWFiYy1jMDZlZmFiZDIzMzgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsImhvc3QiOiJ5ZDMuYWluaXZwLmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.045.node-for-bigairport.win:19000#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

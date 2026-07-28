@@ -33,3 +33,4 @@ trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure
 trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://IQ68037294@sensible-haddock.rooster465.autos:443?allowInsecure=0&sni=sensible-haddock.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://IQ68037294@dear-ferret.rooster465.autos:443?allowInsecure=0&sni=dear-ferret.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://d9df4cf5-34fb-42ad-8e68-a55430b0c07d@gapfilm.broute.online:2053?encryption=none&fp=chrome&pbk=HGyZr62T6oj_xCWzGZDXRq5BCSFofKnaTSvsB4LKQSI&security=reality&sid=2af875f9611e&sni=image.led.samsung.com&spx=/afa708266fb772f&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -12,3 +12,4 @@ vless://50414e45-4c5f-5a45-5553-23b46f07f787@z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@72.56.236.35:443?type=grpc&security=reality&fp=firefox&pbk=_yzmX8WwaZJD4ddVgOZWJsx6r0lJzhTrTbkQLhwiWXk&sid=c8540a3e9e1d8136&sni=usr.moktana.app&mode=gun&serviceName=moktana.net.v1.StreamService#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://0217ae6b-bdeb-49fe-b10d-692a2adcc94b@212.115.103.200:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff52289b81e6&sni=kookas.fi&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&serviceName=grpc#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

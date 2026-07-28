@@ -75,3 +75,5 @@ trojan://FC60532879@needed-gelding.rooster465.autos:443?security=tls&sni=needed-
 trojan://WG39087154@open-caribou.rooster465.autos:443?security=tls&sni=open-caribou.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://IQ68037294@proud-escargot.rooster465.autos:443?allowInsecure=0&sni=proud-escargot.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJhZGQiOiJjdTQuYWluaXZwLmNvbSIsInBvcnQiOiIzMzQwMiIsInR5cGUiOiJub25lIiwiaWQiOiI5MjI3YWZjZC0wMjZlLTc4MWYtMWFiYy1jMDZlZmFiZDIzMzgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsImhvc3QiOiJjdTQuYWluaXZwLmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://3c5e6124-decf-425d-8c1e-fe05cb4dd298@159.65.7.154:443?security=reality&encryption=none&pbk=iNTKMWUbyqCAOQ4VeJaNiHWK3T4w2T7R4zKPioC8qT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=onic.pk&sid=b68b884d89e9a242#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?&security=tls&fp=chrome&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

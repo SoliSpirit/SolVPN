@@ -9,6 +9,7 @@ trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&sec
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/us-gllc&host=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6e8f5055-1020-4a3e-8223-556818d18fde@animal.nuaa.tech:2083?sni=s.f.3.y.h.j.x.3.q.w.9.n.g.6.h.x.660696.xyz&type=ws&host=s.f.3.y.h.j.x.3.q.w.9.n.g.6.h.x.660696.xyz&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://86768774-70b2-4c15-80c3-02066fb1e3b6@104.21.39.202:443?path=%2F152.32.181.246-44070&security=tls&insecure=0&host=zholli90.biggestqut.workers.dev&type=ws&allowInsecure=0&sni=zholli90.biggestqut.workers.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#🇵🇰 Join+Telegram:@SolVPN 🇵🇰
 trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
@@ -165,3 +166,5 @@ trojan://FC60532879@flowing-gobbler.rooster465.autos:443?security=tls&sni=flowin
 trojan://FC60532879@premium-lab.rooster465.autos:443?security=tls&sni=premium-lab.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://WG39087154@united-bedbug.rooster465.autos:443?security=tls&sni=united-bedbug.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20068?allowInsecure=1&sni=hk.catxstar.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=1&sni=hk.catxstar.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

@@ -77,3 +77,4 @@ trojan://WG39087154@united-bedbug.rooster465.autos:443?security=tls&sni=united-b
 vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@ad-018.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-018.cloud25075.info&type=ws&headerType=none&host=ad-018.cloud25075.info&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=mtxth.neofoxzone-byte.sbs&type=ws&allowInsecure=0&sni=mtxth.neofoxzone-byte.sbs#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.25.15:22224?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=/sg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

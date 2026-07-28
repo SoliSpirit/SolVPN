@@ -143,3 +143,5 @@ trojan://IQ68037294@steady-lemming.rooster465.autos:443?allowInsecure=1&sni=stea
 trojan://IQ68037294@firm-warthog.rooster465.autos:443?allowInsecure=0&sni=firm-warthog.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://IQ68037294@adapted-quetzal.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://IQ68037294@sensible-haddock.rooster465.autos:443?allowInsecure=0&sni=sensible-haddock.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://IQ68037294@dear-ferret.rooster465.autos:443?allowInsecure=0&sni=dear-ferret.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#🇮🇩 Join+Telegram:@SolVPN 🇮🇩

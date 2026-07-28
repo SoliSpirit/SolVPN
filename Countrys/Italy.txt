@@ -11,8 +11,5 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mo
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@5.231.80.219:443?mode=gun&security=reality&encryption=none&pbk=ayE6OYhZPTadQ_3Q00PcvN99n7SfvmFU5yffGQVxMG0&fp=chrome&type=grpc&sni=file.ax&sid=2387a1e00eca0913#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
-vless://50414e45-4c5f-5a45-5553-a21ab514a3d5@z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev:80?path=/stream/PANEL_ZEUS/50414e45&security=none&encryption=none&insecure=0&host=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr.workers.dev#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@it02.myxasecure.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=it02.myxasecure.space&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
-vless://8f1a1fc6-b812-4eb0-ba4c-8790e613220b@samanirani.remotewire.net:40375?encryption=none&security=none&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://bfa3aaaf-41d3-4ec4-8453-e9827d7e7b30@www.zsu.gov.ua:8880?type=ws&host=crimson-mode-f8de.432-9e1.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?encryption=none&security=none&sni=&type=grpc&alpn=&host=&path=#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

@@ -35,3 +35,4 @@ trojan://IQ68037294@sensible-haddock.rooster465.autos:443?allowInsecure=0&sni=se
 trojan://IQ68037294@dear-ferret.rooster465.autos:443?allowInsecure=0&sni=dear-ferret.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://d9df4cf5-34fb-42ad-8e68-a55430b0c07d@gapfilm.broute.online:2053?encryption=none&fp=chrome&pbk=HGyZr62T6oj_xCWzGZDXRq5BCSFofKnaTSvsB4LKQSI&security=reality&sid=2af875f9611e&sni=image.led.samsung.com&spx=/afa708266fb772f&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@151.245.192.193:443?security=reality&type=raw&packetEncoding=xudp&sni=auto.malina24.xyz&fp=qq&flow=xtls-rprx-vision&sid=5678&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://7c61a2a5-c7e4-4d52-baf7-a9406ad89b4c@77.105.163.46:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ov186.ochmaybrooooo.online&type=ws&headerType=none&host=ov186.ochmaybrooooo.online&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

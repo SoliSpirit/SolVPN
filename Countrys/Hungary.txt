@@ -1,1 +1,2 @@
 vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.158.151:9893?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.io.ozone.ru&fp=random&pbk=GVNhQWxHlpnqLnhlOeFpagU1QLVVHBepBQN0YcPjXVg&spx=%2F&type=tcp&headerType=none#🇭🇺 Join+Telegram:@SolVPN 🇭🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.203.254:1080#🇭🇺 Join+Telegram:@SolVPN 🇭🇺

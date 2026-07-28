@@ -80,7 +80,7 @@ vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@185.14.184.90:2087?path=%2F&securit
 vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=%2F&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://IQ68037294@193.169.239.162:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=distinct-ibex.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?allowInsecure=1&sni=definite-giraffe.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=%2Fapi%2Fv1%2Firc&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@45.90.13.43:443?encryption=none&fp=chrome&pbk=s2aPrtSalEIrSeOYcwVtJ6H_Iz4pDDRmoT4tB6CF4Ws&security=reality&sid=c3068f69702dc714&sni=lk.rollypay.io&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

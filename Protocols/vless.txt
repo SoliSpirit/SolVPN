@@ -568,3 +568,4 @@ vless://0ba5211f-fb2b-42a0-8e18-9ce7a41745a5@skk.moe:443?path=%2F0ba5211f-fb2b-4
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@95.85.247.15.fwqfw783rg2dad.website:443?sni=95.85.247.15.fwqfw783rg2dad.website&alpn=http/1.1&type=ws&host=95.85.247.15.fwqfw783rg2dad.website&path=/websocket?ed=2560fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@94.183.255.19:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

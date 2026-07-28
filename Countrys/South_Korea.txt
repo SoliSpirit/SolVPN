@@ -33,3 +33,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06
 trojan://FC60532879@positive-bear.rooster465.autos:443?security=tls&sni=positive-bear.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://FC60532879@flowing-gobbler.rooster465.autos:443?security=tls&sni=flowing-gobbler.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://FC60532879@premium-lab.rooster465.autos:443?security=tls&sni=premium-lab.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

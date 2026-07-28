@@ -4,3 +4,4 @@ vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?&type=ws&headerType=
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?path=%2Fproxy&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=43.164.0.59#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20006?allowInsecure=1&sni=hk.catxstar.com#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20023?allowInsecure=0&sni=hk.catxstar.com#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#🇹🇭 Join+Telegram:@SolVPN 🇹🇭

@@ -1,2 +1,2 @@
-vless://0108c657-a9bd-4c99-9179-74050cf78889@91.224.87.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
-vless://0108c657-a9bd-4c99-9179-74050cf78889@91.224.87.98:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.54.80.37:1080#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#🇺🇦 Join+Telegram:@SolVPN 🇺🇦

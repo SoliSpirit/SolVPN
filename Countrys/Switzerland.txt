@@ -4,3 +4,4 @@ vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.11:443?security=reality&
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://ef340ab7-b1a5-a3de-cdcd-5e5d4f2cf9fd@onkwo.ojcenter.com:3468?spx=/&sni=www.telewebion.ir&security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&type=tcp&sid=b6eae5ce&headerType=none&fp=chrome#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.26.156:1080#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

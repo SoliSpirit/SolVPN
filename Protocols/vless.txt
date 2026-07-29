@@ -568,3 +568,5 @@ vless://79a5be11-ec1f-4e18-b7fc-aef854234c43@199.232.78.159:443?path=/TELEGRAM_N
 vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@155.117.137.201:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=d6816b10d545df54&sni=cdn2-07.yahoo.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://11113f77-b439-4911-a8dd-414d2ee36b59@pl.mifbot.pro:49000?encryption=none&fp=chrome&pbk=s3Jvf-GOBZPGuU7E5WpKvzN70NuedRrT9714cr-jdjk&security=reality&sni=git.sly.team&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.38.47:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://0d3a6c59-c89d-49c6-a480-4a615ed26314@mag.faradadeh.xyz:443?&security=tls&fp=chrome&type=ws&headerType=none&host=mag.faradadeh.xyz&path=video.php#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://63f96e98-f83f-48d0-9cd0-f31e8071f67f@64.188.77.22:2053?&type=ws&headerType=none&path=%2Fapi#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

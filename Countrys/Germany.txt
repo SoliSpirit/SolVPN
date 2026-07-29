@@ -85,3 +85,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0d3a6c59-c89d-49c6-a480-4a615ed26314@mag.faradadeh.xyz:443?&security=tls&fp=chrome&type=ws&headerType=none&host=mag.faradadeh.xyz&path=video.php#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.158:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vmess://eyJhZGQiOiJzdWIyLm5rcm11bmEuaXIiLCJpZCI6ImJiODRiMWIyLWFlNjEtNDYxYS04YTJjLTJkZWU3NjQ3MjQ3MSIsIm5ldCI6InRjcCIsInBvcnQiOjIwOTgsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

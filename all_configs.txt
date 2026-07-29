@@ -1068,3 +1068,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.220:1080#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.218:1080#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@95.173.193.201:1080#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=random&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&spx=%2F&type=tcp&headerType=none#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://b222ebc7-569c-45ca-a0e4-756f171b247b@92.63.99.228:4353?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=YXVnk7FdM6IXOlFqisWurmtfmoftXLqqsrJ-JqqP6Rc&flow=xtls-rprx-vision#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22224?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

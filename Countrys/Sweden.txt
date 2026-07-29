@@ -11,3 +11,4 @@ vless://884d811f-577b-421e-aabb-608660b0ecfa@5.42.106.202:9878?encryption=none&s
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@swdh1.redemshenvpn.site:25060?&security=tls&fp=chrome&sni=swdh1.redemshenvpn.site&type=ws&headerType=none&host=swdh1.redemshenvpn.site&path=%2Fxray#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443?#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://d7790b85-9659-4558-a405-e0ab57d32984@89.19.223.97:8443?&type=tcp&headerType=none&path=%2F#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

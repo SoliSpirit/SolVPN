@@ -188,3 +188,5 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@nmslfangbinxing.pusytroller.gq:2095?&type=ws&headerType=none&host=nmslfangbinxing.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://99df3ab6-784b-4081-9a63-9aba4af10f5c@us.furryraccoon.net:443?&security=tls&fp=firefox&sni=us.furryraccoon.net&type=ws&headerType=none&host=us.furryraccoon.net&path=%2Fvless#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.232.22.28:1080#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

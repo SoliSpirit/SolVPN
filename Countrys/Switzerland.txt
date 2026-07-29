@@ -5,3 +5,4 @@ vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?mode=gun&security=
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?path=/&security=none&encryption=none&host=chatgpt.com&type=ws#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.26.156:1080#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.212.170.58:1080#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=random&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&spx=%2F&type=tcp&headerType=none#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

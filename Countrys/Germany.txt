@@ -87,3 +87,4 @@ vless://0d3a6c59-c89d-49c6-a480-4a615ed26314@mag.faradadeh.xyz:443?&security=tls
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.158:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vmess://eyJhZGQiOiJzdWIyLm5rcm11bmEuaXIiLCJpZCI6ImJiODRiMWIyLWFlNjEtNDYxYS04YTJjLTJkZWU3NjQ3MjQ3MSIsIm5ldCI6InRjcCIsInBvcnQiOjIwOTgsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://75b38c79-92e3-454b-b98e-52fbd254884d@144.76.153.200:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9a6ee382-75c3-4cc5-bacd-66494cf99daa@167.17.182.192:8443?security=reality&encryption=none&pbk=UZn-GKszDMErkbxDZAMbPmOMBk2nwEc7Av5uhZFMkgI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7a3f9c2e1b8d4506#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

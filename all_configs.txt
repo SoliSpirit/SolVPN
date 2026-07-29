@@ -1094,3 +1094,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.62.167:62145?#🇳🇱 Join
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ==@158.101.208.107:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://13d8c901-889a-4909-bb7e-249e80c2a9f2@62.60.238.19:38601?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=Sj9bDIFfayJXRvHQ924TbCZHMwtvUVgapTXlxvUdjgM&sid=c1f2f50d6b2beee9&spx=%2F&type=tcp&headerType=none#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.210.78.66:1080#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg@coco1.farajet.net:1010#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.29:443?encryption=none&type=tcp&security=reality&headerType=none&sni=apple.com&fp=qq&insecure=0&allowInsecure=0&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.117:443?encryption=none&type=tcp&security=reality&headerType=none&sni=apple.com&fp=qq&insecure=0&allowInsecure=0&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

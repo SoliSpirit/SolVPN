@@ -129,3 +129,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSC9KZ0VpSWJvcGk5MEZCMEU1RldHalRzbXJTdlVPUUt
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.2:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://63f96e98-f83f-48d0-9cd0-f31e8071f67f@64.188.77.22:2053?&type=ws&headerType=none&path=%2Fapi#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

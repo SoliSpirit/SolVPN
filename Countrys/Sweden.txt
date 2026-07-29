@@ -13,3 +13,4 @@ vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@swdh1.redemshenvpn.site:25060?&secu
 vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443?#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://d7790b85-9659-4558-a405-e0ab57d32984@89.19.223.97:8443?&type=tcp&headerType=none&path=%2F#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.242.213.238:1080#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.117.88.9:1080#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

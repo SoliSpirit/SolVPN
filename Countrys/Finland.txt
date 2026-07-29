@@ -20,3 +20,4 @@ vless://884d811f-577b-421e-aabb-608660b0ecfa@80.78.247.239:9893?encryption=none&
 vless://46445435-11cd-47e8-87dc-1acc159fc360@151.101.56.7:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=fn.ariyuz.org&type=ws&headerType=none&host=fn.ariyuz.org&path=%2Fapi#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://75b38c79-92e3-454b-b98e-52fbd254884d@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=towndtime.global.ssl.fastly.neT.&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node5.mxvpn.dev:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node5.mxvpn.dev&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

@@ -19,3 +19,4 @@ vless://79a5be11-ec1f-4e18-b7fc-aef854234c43@199.232.78.159:443?path=/TELEGRAM_N
 vless://884d811f-577b-421e-aabb-608660b0ecfa@80.78.247.239:9893?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://46445435-11cd-47e8-87dc-1acc159fc360@151.101.56.7:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=fn.ariyuz.org&type=ws&headerType=none&host=fn.ariyuz.org&path=%2Fapi#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://75b38c79-92e3-454b-b98e-52fbd254884d@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=towndtime.global.ssl.fastly.neT.&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

@@ -35,3 +35,4 @@ vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@151.245.192.193:443?security=realit
 vless://7c61a2a5-c7e4-4d52-baf7-a9406ad89b4c@77.105.163.46:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ov186.ochmaybrooooo.online&type=ws&headerType=none&host=ov186.ochmaybrooooo.online&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@77.83.246.92:8443?encryption=none&security=none&serviceName=grpc&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://10eabb0e-25cc-4210-82c9-f05d964572d8@31.76.122.42:2053?mode=gun&security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&fp=chrome&type=grpc&serviceName=grpc&sni=play.overcloud.cloud&sid=5c766813929a1fdd#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

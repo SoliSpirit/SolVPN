@@ -622,3 +622,4 @@ vless://05d30a1a-7525-46af-897a-504035ef2633@cdn-xui185.korvexe.ir:45367?securit
 vless://8ba5361f-2d12-40fe-9f33-eca6847f1475@net1.wizardx1.com:2045?flow=&type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=icloud.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?Telegram=@kurdconfig&Telegram=@kurdconfig&security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.62.167:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://13d8c901-889a-4909-bb7e-249e80c2a9f2@62.60.238.19:38601?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=Sj9bDIFfayJXRvHQ924TbCZHMwtvUVgapTXlxvUdjgM&sid=c1f2f50d6b2beee9&spx=%2F&type=tcp&headerType=none#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

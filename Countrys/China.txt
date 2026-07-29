@@ -49,3 +49,4 @@ vmess://eyJhZGQiOiI0Ny44Ni4xNjcuMTk0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&encryption=none&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=47de54e71fee3451#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiJ5ZDQuYWluaXZwLmNvbSIsInBvcnQiOiIzMzQxMCIsInR5cGUiOiJub25lIiwiaWQiOiI5MzAxYWZjZC0wMjVlLTc4MWYtMWFiYy1jMTBlZmFiZDEyMTEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsImhvc3QiOiJ5ZDQuYWluaXZwLmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?encryption=none&security=none&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

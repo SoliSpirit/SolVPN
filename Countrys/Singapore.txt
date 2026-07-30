@@ -46,3 +46,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06
 vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?security=reality&encryption=none&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.singaporeair.com&sid=7a5b89ecdb01f781#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e7b178da-65e8-45ad-8550-de40eb0a7835@172.67.170.226:80?&type=ws&headerType=none&host=sahanwickramasinghevip.shop&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.26:1447?#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

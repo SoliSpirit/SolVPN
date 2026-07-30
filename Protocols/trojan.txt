@@ -37,3 +37,4 @@ trojan://humanity@172.64.147.224:443?security=tls&sni=www.gossipglove.com&insecu
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20120?allowInsecure=1&sni=hk.catxstar.com#🇮🇩 Join+Telegram:@SolVPN 🇮🇩
 trojan://5xjmr1dz66pgsew0@undef.network:8443?allowInsecure=1&sni=com.digitalposts.dpdns.org&alpn=http/1.1&type=ws&host=com.digitalposts.dpdns.org&path=/bkdicj#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20035?security=tls&sni=hk.catxstar.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

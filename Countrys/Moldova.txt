@@ -1,1 +1,1 @@
-vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55&spx=%2F#🇲🇩 Join+Telegram:@SolVPN 🇲🇩
+vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@94.103.2.219:443?encryption=none&type=tcp&security=reality&sni=www.kinopoisk.ru&flow=xtls-rprx-vision&pbk=8vD3qZ03Q-Za7w9GzrND-pxvZ8HNrxzzhCUnqaCIRzo&sid=f551bada09c28731&fp=chrome#🇲🇩 Join+Telegram:@SolVPN 🇲🇩

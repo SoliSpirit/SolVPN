@@ -61,3 +61,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.114.226
 vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.38.215:443?&security=tls&fp=random&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@38.113.188.118:1080#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://037db5a7-051f-4ac9-844d-703d087a3984@167.99.214.123:2083?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?path=%2Fpyip%3D47.251.95.178&security=tls&encryption=none&insecure=0&host=cf.cfvip.lol&fp=chrome&type=ws&allowInsecure=0&sni=cf.cfvip.lol#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?encryption=none&security=tls&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&fp=chrome&type=ws&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

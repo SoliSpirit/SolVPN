@@ -81,3 +81,4 @@ vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?Telegram=@Gozar
 vless://9a6ee382-75c3-4cc5-bacd-66494cf99daa@144.31.98.144:8443?security=reality&encryption=none&pbk=UZn-GKszDMErkbxDZAMbPmOMBk2nwEc7Av5uhZFMkgI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7a3f9c2e1b8d4506#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@157.22.241.152:7443?security=reality&type=grpc&fp=firefox&sni=icloud.com&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&serviceName=grpc&sid=89136b6e#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@5.129.194.34:4100?encryption=none&security=none&sni=live.ok.ru&type=ws&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://6556ea2e-494c-4c5f-8821-31a6efc2e916@176.123.165.127:12672?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

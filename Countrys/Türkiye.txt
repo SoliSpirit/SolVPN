@@ -14,3 +14,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRlBweXVxazNIMFk4SlZwVkdxU0p3@Vpna.Poorifast.ir:1080#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://05d30a1a-7525-46af-897a-504035ef2633@cdn-xui185.korvexe.ir:45367?security=reality&encryption=none&pbk=OeFiglavZSIdPfUbSXwiNgOZQ2P_CiyW9VrV1hXIVmI&headerType=none&fp=chrome&spx=%2FOZH4xsReHoYR3tE&type=tcp&sni=qapartners.sec.samsung.com&sid=9d79bd#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.210.78.66:1080#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:39756?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iosapps.itunes.apple.com&fp=ios&pbk=dDf2TcDNn3Kk8pAp4EnNC4ZUAmGkzAapRFGFe-41IEk&sid=86f6705960e3e3&type=tcp&headerType=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

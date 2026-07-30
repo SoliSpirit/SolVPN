@@ -46,3 +46,4 @@ vless://e7b178da-65e8-45ad-8550-de40eb0a7835@172.67.170.226:80?&type=ws&headerTy
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.26:1447?#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vmess://eyJhZGQiOiJjaW5keTU4LmNlb2lpaS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6ImFqYXgubWljcm9zb2Z0LmNvbSIsImlkIjoiZDVjYWM3ZWEtYTAyZi0zY2YyLTljYTgtZjQ4YjY2NjZiNDE5IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicG9ydCI6IjM2ODA5IiwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

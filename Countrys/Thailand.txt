@@ -5,3 +5,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWF
 vless://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?&type=ws&headerType=none&host=d3gxy6d0a9fs18.cloudfront.net&path=%2Ffnetvpn2026#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?&type=ws&headerType=none&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?path=%2Fproxy&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=43.164.0.59#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
+vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?&type=tcp&headerType=none&path=%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭

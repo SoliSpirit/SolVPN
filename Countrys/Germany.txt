@@ -85,3 +85,4 @@ vless://6556ea2e-494c-4c5f-8821-31a6efc2e916@176.123.165.127:12672?encryption=no
 vless://1d977a71-920e-4846-98b1-24f8e2fa0ea3@193.104.58.45:59167?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?security=reality&encryption=none&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&headerType=none&fp=chrome&type=tcp&sni=ru2.skydrgn-online.online&sid=0b#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://84dc79c7-e443-489d-bf07-b4bb825f57d9@ru-de.apruxdomain.xyz:80?&type=ws&headerType=none&host=ru-de.apruxdomain.xyz&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c2074fa1-90b7-4add-a840-194a671385ea@185.229.9.176:8443?allowInsecure=1&flow=&fp=firefox&pbk=K9vJ2zLFxi3VTmrguyLC1KrC920axeFSeA8x_xY4Xhw&security=reality&serviceName=ns&sid=&sni=id.pervye.ru&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

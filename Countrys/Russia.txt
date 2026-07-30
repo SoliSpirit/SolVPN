@@ -9,3 +9,4 @@ vless://a96373c2-6c78-44dc-ac4b-33fd3d32c68b@ru.rush-server.com:443?security=rea
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.106.94.132:1081#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.58.48.19:20910#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@195.133.5.207:10210#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://47e144de-9fb2-47da-9a1b-c8f78df22e99@194.87.133.25:443?encryption=none&fp=firefox&pbk=i6uqYKE5251RNqvVQofY5wUxkTokzxYz6m5g2ke9iT0&security=reality&sid=f8c21d6b3a9e7054&sni=github.com&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

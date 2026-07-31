@@ -44,3 +44,4 @@ trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&hos
 trojan://BxceQaOe@16.162.122.119:38961?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#🇵🇰 Join+Telegram:@SolVPN 🇵🇰
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=1&security=tls&sni=hk.catxstar.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

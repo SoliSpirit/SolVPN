@@ -879,3 +879,4 @@ vless://393eca11-a562-edaf-1bf7-90e1d1423984@69.46.46.103:443?&security=tls&fp=i
 vless://322137af-0ecd-48a9-9bab-ef5754331437@de.unit-digital.com:443?encryption=none&fp=chrome&mode=gun&pbk=VnuqDFzedJka4uGk7uMHady2p48E_f-zqiZItFF2pEY&security=reality&sid=b536806a&sni=www.intel.com&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&sni=swcdn.apple.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU=@ss.047.node-for-bigairport.win:19001#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://4d033e4e-943d-43c3-bed8-3e14184bae2f@91.229.91.167:11139?&type=tcp&headerType=none&path=%2F#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

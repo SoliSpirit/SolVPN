@@ -921,3 +921,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@62.113.194.159
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@poland.spectrum.vu:443?flow=xtls-rprx-vision&security=reality&sni=poland.spectrum.vu&fp=chrome&pbk=5Z6WxIOriNZSwKfzNvn38fbH0E2prqDla_l8l9YQnRo&sid=2a6f8c4d1e9b&type=tcp&path=/#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=B3MWDjEWGQsObyH-9npa_PlkaoQDBqzwlwURFK1zlE8&security=reality&sid=3e0527d94cc8d1&sni=vk.me&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@154.90.32.5:5601#🇵🇭 Join+Telegram:@SolVPN 🇵🇭

@@ -7,3 +7,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.106.94.132
 ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.58.48.19:20910#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@195.133.5.207:10210#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://47e144de-9fb2-47da-9a1b-c8f78df22e99@194.87.133.25:443?encryption=none&fp=firefox&pbk=i6uqYKE5251RNqvVQofY5wUxkTokzxYz6m5g2ke9iT0&security=reality&sid=f8c21d6b3a9e7054&sni=github.com&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@82.97.252.129:443?security=reality&type=tcp&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=496ee75c2f91f51d&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&encryption=none#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

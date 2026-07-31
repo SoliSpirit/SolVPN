@@ -77,3 +77,5 @@ vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?path=%2F%3Fu%3D1e
 vless://7b102311-43fd-4e8f-877e-8090623c101d@94.159.101.36:443?allowInsecure=1&sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram🇨🇳 @VPNine1fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@159.65.117.197:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@38.55.107.56:8443?&security=tls&fp=chrome&sni=rubifen.adaspoloandco.com&type=ws&headerType=none&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://529cd8b2-0432-4fe7-80a2-89076c818f25@185.118.15.160:2095?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://322137af-0ecd-48a9-9bab-ef5754331437@de.unit-digital.com:443?encryption=none&fp=chrome&mode=gun&pbk=VnuqDFzedJka4uGk7uMHady2p48E_f-zqiZItFF2pEY&security=reality&sid=b536806a&sni=www.intel.com&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

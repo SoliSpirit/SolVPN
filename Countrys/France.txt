@@ -58,3 +58,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encrypti
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22224?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22224?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

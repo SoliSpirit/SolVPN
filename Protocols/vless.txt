@@ -543,3 +543,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22224?&type=tcp&headerT
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.227.64.52:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.126:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.183:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

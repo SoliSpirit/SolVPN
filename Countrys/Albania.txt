@@ -1,3 +1,4 @@
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?type=grpc&headerType=none&security=reality&encryption=none&sni=morphbinerkkw.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625&serviceName=nexusGrpc#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.171.152.222:1080#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0@157.22.240.141:57925#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVFVPT1FUcGRycktsbjcyVVl4d2lv@130.49.189.158:10792#🇦🇱 Join+Telegram:@SolVPN 🇦🇱

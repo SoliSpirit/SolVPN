@@ -85,3 +85,4 @@ vless://84dc79c7-e443-489d-bf07-b4bb825f57d9@ru-de.apruxdomain.xyz:80?&type=ws&h
 vless://mahanvpn-mahanvpn@92.42.96.240:443?sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/?ed=2560fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://fb258f28-89a0-11f1-9ca5-1e6febe3e1df@89.208.229.243:2053?encryption=none&fp=firefox&mode=gun&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&security=reality&serviceName=grpc-direct&sid=4b685844d0b4f724&sni=hh.ru&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://74ec6869-6638-4def-96c7-30394f035d3c@176.124.221.208:58500?&type=ws&headerType=none&path=%2Ffree#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://17ea0386-c58f-5aff-b7c0-1ecdfc7a62b0@51.250.12.15:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=vk.com&pbk=FsZPLgj_05GxxIS8H6m0LvJ39XbuMPGLS2-ufPs7CjA&sid=5ec3043e#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

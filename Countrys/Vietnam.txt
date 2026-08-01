@@ -1,1 +1,1 @@
-vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:36798?sni=t1.hhaakk9922.com&type=grpc&serviceName=ljfxz&fp=chrome&security=tls#🇻🇳 Join+Telegram:@SolVPN 🇻🇳
+vless://376dc930-a905-4e75-a2d5-bb801a6adc25@103.118.29.142:35730?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇻🇳 Join+Telegram:@SolVPN 🇻🇳

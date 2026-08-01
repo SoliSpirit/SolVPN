@@ -47,3 +47,5 @@ vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node12.mxvpn.dev:443?flow=xtls-rprx
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443?security=tls&type=ws&path=/&host=aq.nanniang.top&sni=aq.nanniang.top&fp=chrome&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://bbbe4893-0f2c-4b08-a732-e8fb737971e1@51.250.65.234:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://bbbe4893-0f2c-4b08-a732-e8fb737971e1@51.250.87.12:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

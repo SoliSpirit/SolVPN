@@ -77,3 +77,4 @@ vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@p01.parsi.sbs:2086?&type=ws&headerT
 vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@45.133.209.203:52315?&type=ws&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://49e76398-5127-4005-90cb-c2a971f745f1@172.64.34.119:443?&security=tls&fp=chrome&sni=uhnjk.greenlionport-fla.sbs&type=ws&headerType=none&host=uhnjk.greenlionport-fla.sbs&path=%2Fcarbon#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0731fb93-db06-4735-bdf3-9530a2eadbe7@77.110.113.162:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sFdhitRUzFpr97vmZ8ljR6twnsf47v9ieUuXTrC5KQ8&security=reality&sid=a1b2c3d4e5f6a7b8&sni=pingless.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ==@130.61.33.205:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

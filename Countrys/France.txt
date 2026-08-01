@@ -52,3 +52,7 @@ vless://bbbe4893-0f2c-4b08-a732-e8fb737971e1@51.250.87.12:443?encryption=none&se
 vless://d8b42cd5-a149-4356-9e61-000000000000@110.34.38.174:2552?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://f55e7f73-9b4c-44de-9572-e0e14ea0290c@51.250.88.94:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://29ca503d-e6b8-4509-b666-48133f450857@35.241.172.224:443?&security=tls&fp=random&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://4f3a10d8-8b56-4ce6-959d-3fb1201fb272@51.250.87.12:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://4f3a10d8-8b56-4ce6-959d-3fb1201fb272@51.250.109.95:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://4f3a10d8-8b56-4ce6-959d-3fb1201fb272@84.201.154.187:443?encryption=none&security=reality&type=tcp&sni=5post-gate.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://4f3a10d8-8b56-4ce6-959d-3fb1201fb272@51.250.65.234:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

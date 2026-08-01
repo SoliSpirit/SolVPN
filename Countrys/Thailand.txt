@@ -1,10 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20023?allowInsecure=0&sni=hk.catxstar.com#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
-vless://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?&type=ws&headerType=none&host=d3gxy6d0a9fs18.cloudfront.net&path=%2Ffnetvpn2026#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?&type=ws&headerType=none&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?path=%2Fproxy&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=43.164.0.59#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?&type=tcp&headerType=none&path=%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?&type=ws&headerType=none&host=d7iwyzy9wpvuu.cloudfront.net&path=%2Fknl8#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?&type=ws&headerType=none&host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭

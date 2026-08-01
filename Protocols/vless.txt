@@ -528,3 +528,8 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=%2F&securit
 vless://42713553-c2e5-408a-8a1b-651b2facf01e@72.56.249.226:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://42713553-c2e5-408a-8a1b-651b2facf01e@72.56.91.165:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@144.126.239.205:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://f58422ff-bb2e-4cce-a772-eff7db3ed343@109.73.202.38:443?mode=gun&security=reality&encryption=none&pbk=vyKm3CvZn8rUxSwWZ89buOc2bTMa18zfWmWMGHnYt18&fp=firefox&type=grpc&serviceName=api&sni=es.node.ghostsyvpn.org#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://f58422ff-bb2e-4cce-a772-eff7db3ed343@144.31.107.111:8443?type=grpc&mode=gun&serviceName=api&security=reality&fp=firefox&sni=sp.node.ghostsyvpn.org&pbk=SrzKeUPL-1mBEZp-YZWX3NpyLrO-xF5XqUUkyk2WEEU#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@198.211.121.165:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://29ca503d-e6b8-4509-b666-48133f450857@35.241.172.224:443?&security=tls&fp=random&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

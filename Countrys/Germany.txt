@@ -80,3 +80,4 @@ vless://0731fb93-db06-4735-bdf3-9530a2eadbe7@77.110.113.162:8443?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ==@130.61.33.205:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@151.101.56.7:80?&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.114:448?security=reality&encryption=none&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=e1bdc95c1554c8eb#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

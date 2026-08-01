@@ -10,3 +10,4 @@ vless://347e34f2-3211-4e01-b475-409f46788d3f@85.209.135.3:2053?encryption=none&f
 vless://4d033e4e-943d-43c3-bed8-3e14184bae2f@91.229.91.167:11139?&type=tcp&headerType=none&path=%2F#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@yt-tw-bridge.astralweb.tech:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&sid=496ee75c2f91f51d&encryption=none&flow=xtls-rprx-vision#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@72.56.244.137:443?security=reality&encryption=none&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=496ee75c2f91f51d#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?&type=ws&headerType=none&host=rutube.ummapeople.online&path=%2Frutube#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

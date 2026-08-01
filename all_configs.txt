@@ -918,3 +918,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJDaGR4Z2loLnZpcmFuaXguaXIiLCJwb3J0IjoiMTAxMTkiLCJpZCI6IjU3NmIxYmU2LWEzZTctNGM0MC04ZWM3LTBhNDA2ZDZlZWFkOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwicGF0aCI6Ii9pbnVzZS9mb3Job3N0IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiOTIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://mahanvpn-mahanvpn@92.42.96.240:443?sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/?ed=2560fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVU0Tg@45.10.164.157:8388#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

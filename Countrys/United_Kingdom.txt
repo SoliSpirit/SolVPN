@@ -23,3 +23,5 @@ vmess://eyJ2IjoiMiIsImFkZCI6Im5vZGUtdWsuY29ubmVjdHN1aXRlLm9yZyIsInBvcnQiOiIyMDUy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@129.151.75.220:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.82.112:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@51.89.229.242:2053?security=reality&type=grpc&mode=gun&serviceName=api.v1.data&sni=play.google.com&fp=chrome&sid=524efc1f88592266&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://bbbe4893-0f2c-4b08-a732-e8fb737971e1@51.250.109.95:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://bbbe4893-0f2c-4b08-a732-e8fb737971e1@51.250.88.94:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

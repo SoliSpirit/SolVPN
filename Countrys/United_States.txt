@@ -145,3 +145,4 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjY1
 vless://da54c327-4e3f-483c-9c48-705a6d739ab6@free.us2.laodavip.com:443?encryption=none&type=tcp&security=reality&sni=free.us2.laodavip.com&fp=chrome&pbk=fmgZqiXIsO-LWrQMCNsi8_o_EaShi4ubxajVI_m8TBA&sid=d4e718a6ea7cdb2d&spx=%2F&flow=xtls-rprx-vision#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@38.180.135.39:8316#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://42713553-c2e5-408a-8a1b-651b2facf01e@152.53.39.104:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.nvidia.com&fp=firefox&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://BxceQaOe@18.163.5.109:35966?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

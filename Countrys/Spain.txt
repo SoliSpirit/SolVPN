@@ -2,3 +2,4 @@ vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.51:443?type=grpc&headerType=none&security=reality&encryption=none&sni=draftnest-rrew.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625&serviceName=nexusGrpc#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://f58422ff-bb2e-4cce-a772-eff7db3ed343@144.31.107.111:8443?type=grpc&mode=gun&serviceName=api&security=reality&fp=firefox&sni=sp.node.ghostsyvpn.org&pbk=SrzKeUPL-1mBEZp-YZWX3NpyLrO-xF5XqUUkyk2WEEU#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

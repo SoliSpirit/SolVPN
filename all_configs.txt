@@ -847,3 +847,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22222?encryption=none&
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://YWVzLTI1Ni1nY206OTQ1NzFkNjItYTIzZi0zNjRlLTgwNjUtMmE3NDBiMzQyMjE2@s.t.k.z.e.s.q.3.b.hk03-ae5.entry.v51124-1.qpon:760#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVVVaGZRclFicmhGNk5YUnArR3hxSFRQQzZaR0N4UkR2QU1yamVvUWZrPQ@e3.cover20.ir:56985#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://deed023c-86ac-4f77-a4d6-ead5f705c000@51.250.87.12:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://deed023c-86ac-4f77-a4d6-ead5f705c000@84.201.154.187:443?encryption=none&security=reality&type=tcp&sni=5post-gate.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

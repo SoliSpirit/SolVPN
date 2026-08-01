@@ -555,3 +555,7 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@172.64.34.119:443?&security=tls&fp=
 vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.177.179:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&security=reality&sid=bd72&sni=deepl.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.189.45.159:443?security=reality&encryption=none&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw1-chr.astralweb.tech&sid=496ee75c2f91f51d#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@ru.bvps.cloud:443?type=tcp&security=reality&sni=ru.bvps.cloud&fp=firefox&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=9e0ba98da61cb818&encryption=none&flow=xtls-rprx-vision#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.129.178:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

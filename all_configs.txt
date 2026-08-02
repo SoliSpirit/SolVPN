@@ -824,3 +824,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2T21uQzl1SjZ0WGRMeUlhUkd3YzJz@creativeboxde.
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@82.22.47.50:25129?&type=ws&headerType=none&path=%2Fxray#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.226.244:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@151.243.182.21:25737?&type=ws&headerType=none&path=%2Fxray#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@51.250.104.176:29445?encryption=none&type=tcp&security=reality&sni=www.twitch.tv&flow=xtls-rprx-vision&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&sid=1297b6f0f6dc88d0&fp=chrome#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.114.238:1080#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

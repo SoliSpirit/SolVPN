@@ -602,3 +602,5 @@ vless://a03df445-0666-4d61-acde-9705009e409c@turok2.o4ka-internet.com:443?securi
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.212.124:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@82.40.62.103:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?encryption=none&host=fuckfangbinxing.pusytroller.gq&path=/&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca39.speedmeter.shop:8880?encryption=none&security=none&sni=sca39.speedmeter.shop&alpn=&type=grpc&host=sca39.speedmeter.shop#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

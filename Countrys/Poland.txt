@@ -13,3 +13,5 @@ vless://42713553-c2e5-408a-8a1b-651b2facf01e@144.31.4.207:443?encryption=none&fl
 vless://9a9fe945246a431ebd051cb981464c8d@2.59.163.45:59992?&type=tcp&headerType=none&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@155.212.243.123:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.wp.pl&fp=firefox&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&flow=xtls-rprx-vision#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://581e14a5fcc14107b9326cc54f047891@31.76.251.127.cdn-one.org:443?allowInsecure=0&type=grpc&serviceName=/28786/4U7gXXHftA#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.85.72:1080#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://c8b5f6c9-83ff-0063-be9c-f997a5b2f692@185.16.36.200:43439?type=grpc&headerType=none&security=reality&encryption=none&sni=cdn-up.perecbass.ru&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0df2f86d58385f90&serviceName=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

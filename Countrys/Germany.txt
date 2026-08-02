@@ -79,3 +79,5 @@ vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@5.129.194.34:4100?encryption=none&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2T21uQzl1SjZ0WGRMeUlhUkd3YzJz@creativeboxde.zanity.net:5223#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://cfde0aba-0985-4034-ab92-50b1534b126c@167.82.0.1:80?&type=ws&headerType=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

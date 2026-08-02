@@ -853,3 +853,4 @@ ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10910#🇷🇺 Join+Tel
 ss://YWVzLTI1Ni1nY206TmxScFpHVk5UMmw2UTFOQmJIWjVOVE0zVVc4MFptRkZkME5SZEZSRVpVOTRUek14U0dKUVptdDRSRkp6VTBaRFlsWnZPVWhDT0d4SmVUbHVTMHRXWXc9PQ@94.198.219.24:45855#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@194.238.57.237:25643?&type=ws&headerType=none&path=%2Fxray#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@161.118.224.85:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

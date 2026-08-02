@@ -26,3 +26,4 @@ vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.220:443?flow=xtls-rprx-visi
 vless://ddd9a320-9e93-437f-a5b6-6bf9647334a9@fin.sillyvpn.cc:31013?#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@83.143.112.140.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=83.143.112.140.cdn-one.org&path=%2F29378%2FwQYeoLE7LS#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+trojan://581e14a5fcc14107b9326cc54f047891@83.143.112.140.cdn-one.org:443?allowInsecure=0&sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

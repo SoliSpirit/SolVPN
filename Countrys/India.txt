@@ -1,5 +1,3 @@
 vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiMTUyLjY3LjguMjA1In0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
-trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20035?security=tls&headerType=none&type=tcp&sni=hk.catxstar.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
-trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20035?security=tls&sni=hk.catxstar.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@4.240.110.47:443?&security=tls&fp=chrome&sni=sni.ehb.cc.cd&type=ws&headerType=none&host=sni.ehb.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net%3Fuuid%3Def6c9625-62de-4b9d-b7e2-0d4a9f67a9b2#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

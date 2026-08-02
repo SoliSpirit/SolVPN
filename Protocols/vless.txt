@@ -545,3 +545,4 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.1:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@82.22.47.50:25129?&type=ws&headerType=none&path=%2Fxray#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@151.243.182.21:25737?&type=ws&headerType=none&path=%2Fxray#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@51.250.104.176:29445?encryption=none&type=tcp&security=reality&sni=www.twitch.tv&flow=xtls-rprx-vision&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&sid=1297b6f0f6dc88d0&fp=chrome#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

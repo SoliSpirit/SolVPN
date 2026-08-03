@@ -762,3 +762,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.121.10:2096?encryption=none
 vless://84dc79c7-e443-489d-bf07-b4bb825f57d9@ru-de.apruxdomain.xyz:80?&type=ws&headerType=none&host=ru-de.apruxdomain.xyz&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WTJGa056aGhaV1EwTXpBMU56bGhaQT09OlltVTBaRFF6T0RNdFlXRmhaaTAwWWc9PQ==@epnbiaynh2yw.cdn000.com:30202#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+ss://YWVzLTI1Ni1nY206dGw2eW5TdHZpZkxE@103.115.18.71:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

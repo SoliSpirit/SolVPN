@@ -4,7 +4,6 @@ trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=86.106.84.195#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=0&sni=163.245.196.68.sslip.io#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://860c3c2c89a1c7515792be1c5295d21e@18.162.41.225:6357?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

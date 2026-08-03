@@ -126,3 +126,4 @@ trojan://1BARPLkaLl@45.130.22.70:32914?allowInsecure=1&sni=45.130.22.70#🇳🇱
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&sni=%2F%3F&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVkxodFNRRDNiVmpLUkFNMG9mb2ZC@creativeboxnl.zanity.net:5228#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50058?encryption=none&fp=chrome&pbk=NlobQy5lynlSGU3k_XOEvri7mkZpvVN6oUZQ6qZoaUY&security=reality&sid=170d4be62a02cb3e&sni=rubr5.cheburnetnastalgia1998.com&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://32b2m2w7hsdd93z7@titandarkness.mooo.com:443?allowInsecure=0&type=grpc&serviceName=/43588/G43plZahWW#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

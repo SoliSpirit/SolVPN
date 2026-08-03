@@ -16,9 +16,9 @@ vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.206:443?flow=xtls-rprx-visi
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@185.218.194.70:443?flow=xtls-rprx-vision&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.220:443?flow=xtls-rprx-vision&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://ddd9a320-9e93-437f-a5b6-6bf9647334a9@fin.sillyvpn.cc:31013?#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
-trojan://581e14a5fcc14107b9326cc54f047891@83.143.112.140.cdn-one.org:443?allowInsecure=0&sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
-vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@83.143.112.140.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=83.143.112.140.cdn-one.org&path=%2F29378%2FwQYeoLE7LS#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+trojan://581e14a5fcc14107b9326cc54f047891@83.143.112.140.cdn-one.org:443?allowInsecure=0&sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.63.51:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=&encryption=none&headerType=&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
@@ -30,3 +30,4 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl11.skorostnet.space:443?encryptio
 vless://e6240cbb-e913-4d72-87ef-9f5daa5f73b3@pt-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=aefc7f3722#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://483b3264-3d53-40a6-a0ae-81799dddeada@85.192.49.8:10108?mode=gun&security=reality&encryption=none&pbk=sIyOGkF1P5vOD51IeEb9aKzPhBAhXrH2w3XCnFKbchI&fp=chrome&type=grpc&serviceName=api&sni=www.icloud.com&sid=b828bffc5f#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.124.36.234:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=fl09.skorostnet.space&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://0101b456-b51b-40f3-926c-dd2e219a98a0@2-27-13-121.nip.io:443?&security=tls&fp=qq&sni=2-27-13-121.nip.io&type=ws&headerType=none&host=2-27-13-121.nip.io&path=%2Fws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

@@ -90,3 +90,4 @@ vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@185.126.67.41:443?encryption=none&f
 vless://be21e732-58e2-47a1-b6c6-8cf9de58dde4@net1.irajapan.store:2052?&type=ws&headerType=none&host=net.irajapan.store&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.11.46.cdn-one.org:443?fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&sni=31.76.11.46.cdn-one.org&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:2087?encryption=none&fp=chrome&host=vo1.erooo12345.xyz&path=/&security=tls&sni=vo1.erooo12345.xyz&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

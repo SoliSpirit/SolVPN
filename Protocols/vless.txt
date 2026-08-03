@@ -567,3 +567,6 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@198.211.121.165:443?encryption=none
 vless://be21e732-58e2-47a1-b6c6-8cf9de58dde4@net1.irajapan.store:2052?&type=ws&headerType=none&host=net.irajapan.store&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://1efb9322-cb87-4e8e-abc2-7c923894104e@186.246.29.29:443?security=reality&encryption=none&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nrt.sunrocket.org#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&sni=%2F%3F&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://76792e97-ee95-4d29-86da-347362d491f2@d.mygoldiran.com:443?&security=tls&fp=chrome&sni=usa_multi.mygoldiran.com&type=ws&headerType=none&host=usa_multi.mygoldiran.com&path=%2Fidea#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&security=reality&sni=download.nvidia.com&type=tcp#🇵🇰 Join+Telegram:@SolVPN 🇵🇰
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.11.46.cdn-one.org:443?fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&sni=31.76.11.46.cdn-one.org&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

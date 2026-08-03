@@ -89,3 +89,4 @@ vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@185.126.67.76:443?encryption=none&f
 vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@185.126.67.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.boxypn.com&fp=firefox&pbk=TjxmFHJN-olJvkXLicHGzNIMxJyucaA_ht3w3J-YcHM&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://be21e732-58e2-47a1-b6c6-8cf9de58dde4@net1.irajapan.store:2052?&type=ws&headerType=none&host=net.irajapan.store&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.11.46.cdn-one.org:443?fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&sni=31.76.11.46.cdn-one.org&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:2087?encryption=none&fp=chrome&host=vo1.erooo12345.xyz&path=/&security=tls&sni=vo1.erooo12345.xyz&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -493,3 +493,5 @@ vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-W
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.36.5:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq&packetEncoding=xudp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@84.75.220.230:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

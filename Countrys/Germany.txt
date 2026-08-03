@@ -73,3 +73,5 @@ vless://38df5518-26c5-449b-98d9-a4f456f5f689@tun.temas-bor.ir:443?security=reali
 vless://84dc79c7-e443-489d-bf07-b4bb825f57d9@ru-de.apruxdomain.xyz:80?&type=ws&headerType=none&host=ru-de.apruxdomain.xyz&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@158.180.29.33:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@84.75.220.230:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@82.40.62.209:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

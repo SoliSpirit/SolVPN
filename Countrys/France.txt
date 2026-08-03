@@ -35,3 +35,4 @@ trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&ho
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.64.110:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.53.125:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

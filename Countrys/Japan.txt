@@ -31,3 +31,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WTJGa056aGhaV1EwTXpBMU56bGhaQT09OlltVTBaRFF
 ss://YWVzLTI1Ni1nY206dGw2eW5TdHZpZkxE@103.115.18.71:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@xunlinknode.csdjhajkshdjkas.com:40003#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJjaW5keTUwLmNlb2lpaS5jb20iLCJwb3J0IjoiMzY4MDEiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsImhvc3QiOiJhamF4Lm1pY3Jvc29mdC5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

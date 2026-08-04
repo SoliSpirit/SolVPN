@@ -505,3 +505,4 @@ vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?Telegram=@Goz
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&serviceName=grpc#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.228.161:8443?encryption=none&security=none&type=grpc&authority=&serviceName=grpc&mode=gun#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://54bb59cf-96fc-4a66-8488-fa2391f2e650@190.97.165.84:448?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=cd2d4a8f08aa985d&pbk=XxCsLlJ3kJJa2MiPHS3FlF0DyAS9TkQkn8lfCVZgDQw&encryption=none#🇵🇦 Join+Telegram:@SolVPN 🇵🇦
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

@@ -24,3 +24,4 @@ vmess://eyJhZGQiOiI3LmJtaS5pci52YXJ6ZXNoMy5jb20uZGUiLCJhaWQiOiIwIiwiYWxwbiI6Imh0
 trojan://581e14a5fcc14107b9326cc54f047891@83.143.112.140.cdn-one.org:443?allowInsecure=0&sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://e1df69ad-2351-4725-adc0-601bd7d8b8e7@email.swiftraci.org:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&sid=f7c5599376a0&type=tcp&path=/#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://ea1278d8-c65a-4bdf-8c68-e84a26be53a3@psf-1.zdshop.ir:80?path=/&security=none&encryption=none&host=machinemag.ir&type=ws&sni=machinemag.ir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+trojan://yooog56ts3ymtpp5@78.17.103.162:443?allowInsecure=0&sni=driveservice.mooo.com&type=grpc&serviceName=/16835/Cba1c1ZOir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

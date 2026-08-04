@@ -75,3 +75,4 @@ trojan://ND91608427@classic-gator.rooster465.autos:443?allowInsecure=1&sni=class
 trojan://ND91608427@ace-starling.rooster465.autos:443?allowInsecure=1&sni=ace-starling.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://ND91608427@rapid-firefly.rooster465.autos:443?allowInsecure=1&sni=rapid-firefly.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?allowInsecure=1&sni=skilled-lioness.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

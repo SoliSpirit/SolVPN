@@ -827,3 +827,4 @@ vmess://eyJhZGQiOiJjaW5keTUwLmNlb2lpaS5jb20iLCJhaWQiOjAsImhvc3QiOiJhamF4Lm1pY3Jv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjciLCJhZGQiOiIxMTUuODkuOTguMjMxIiwicG9ydCI6IjEwNTA5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRmMWMxY2ExLWE0MjItNDAxNC05NDIzLTA0ZTM5ZWQ3M2IwMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@38.113.188.118:1080#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

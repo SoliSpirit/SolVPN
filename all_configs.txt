@@ -861,3 +861,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.173.150:62145?&type=tcp&head
 vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=%2F#🇵🇹 Join+Telegram:@SolVPN 🇵🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@130.61.178.74:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTEyOC1nY206eG82azg0bDdiMDBuMmhKcA@23.185.200.135:57841#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=fr05.skorostnet.space&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

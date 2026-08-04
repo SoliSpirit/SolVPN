@@ -814,3 +814,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.160.81:62145?#🇳🇱 Join+
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.235.130:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://916e3030-6eac-418b-9402-7508ca7d6280@kaoqy-us-akile.cf.090227.xyz:8443?&security=tls&fp=chrome&sni=akile.us.781391.xyz&type=ws&headerType=none&host=akile.us.781391.xyz&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://581e14a5fcc14107b9326cc54f047891@83.143.112.140.cdn-one.org:443?allowInsecure=0&sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

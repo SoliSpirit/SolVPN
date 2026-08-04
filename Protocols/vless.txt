@@ -500,3 +500,4 @@ vless://916e3030-6eac-418b-9402-7508ca7d6280@kaoqy-us-akile.cf.090227.xyz:8443?&
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.233.108:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.130:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.137.74:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@jush.sukario.ir:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=s.try-first.info&fp=firefox&type=ws&allowInsecure=0&sni=s.try-first.info#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

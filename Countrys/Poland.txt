@@ -11,3 +11,4 @@ vless://c8b5f6c9-83ff-0063-be9c-f997a5b2f692@185.16.36.200:43439?type=grpc&heade
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?encryption=none&fp=chrome&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&security=reality&sid=eb3b7e6bbc66552e&sni=rubr7.cheburnetnastalgia1998.com&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@155.212.243.123:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.wp.pl&fp=firefox&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&flow=xtls-rprx-vision#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&sni=relaxed-gull.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

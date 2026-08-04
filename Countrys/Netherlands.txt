@@ -119,3 +119,4 @@ vless://d0a35d6a-de9c-489f-b4ba-89a0fb9b8714@176.109.92.130:443?&security=tls&fp
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.206.26:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.160.81:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.235.130:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.137.74:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

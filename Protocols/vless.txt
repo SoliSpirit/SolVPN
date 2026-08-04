@@ -531,3 +531,4 @@ vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?encryption=none&
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?path=/&security=none&encryption=none&host=fuckfangbinxing.pusytroller.gq&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://873f1046-0210-4b2e-a0ec-dc1826886071@95sub.ghost-lan.com:8442?type=tcp&security=reality&sni=max.ru&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&sid=a7f9106ba66e4796&fp=chrome&encryption=none&flow=xtls-rprx-vision#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://ea1278d8-c65a-4bdf-8c68-e84a26be53a3@psf-1.zdshop.ir:80?path=/&security=none&encryption=none&host=machinemag.ir&type=ws&sni=machinemag.ir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

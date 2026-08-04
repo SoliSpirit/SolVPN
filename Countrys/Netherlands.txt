@@ -127,3 +127,4 @@ vless://bbbde6b4-eb72-4018-b702-1c782c528927@37.139.24.45:443?ed=2560&eh=Sec-Web
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.235.203:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.159.208:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.173.150:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@89.124.124.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=19.07.yunus.guru&fp=chrome&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&sid=c6d439fd92614ab0&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

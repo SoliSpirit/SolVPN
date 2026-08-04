@@ -7,8 +7,6 @@ vless://3ad1d277-5715-4ca1-84db-5baea72f822d@72.56.244.137:443?security=reality&
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&sid=69d4&type=tcp&headerType=none#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://6fa9f6ae-877b-4858-b128-a8377fd9038b@ru.themesh.site:443?security=reality&encryption=none&pbk=zA-R_HtKJR1Hb0c1KXA3Yxh1TH_SPi1oV6cDfWURdQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.themesh.site&sid=d4f1c403150d9964#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@130.49.148.134:8880?encryption=none&security=none&type=ws&host=rutube.ummapeople.online&path=%2Frutube#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
-ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10910#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
-ss://YWVzLTI1Ni1nY206TmxScFpHVk5UMmw2UTFOQmJIWjVOVE0zVVc4MFptRkZkME5SZEZSRVpVOTRUek14U0dKUVptdDRSRkp6VTBaRFlsWnZPVWhDT0d4SmVUbHVTMHRXWXc9PQ@94.198.219.24:45855#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?&type=ws&headerType=none&host=rutube.ummapeople.online&path=%2Frutube#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://a03df445-0666-4d61-acde-9705009e409c@72.56.242.111:443?security=reality&type=tcp&sni=rf4.o4ka-internet.com&fp=firefox&flow=xtls-rprx-vision&sid=5629431325884ff0&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&encryption=none#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://598b823c-d3fc-4013-aae5-837f10080f7a@72.56.36.96:40443?security=reality&encryption=none&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=33e48a03db900ff3#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

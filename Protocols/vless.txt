@@ -513,3 +513,4 @@ vless://e1df69ad-2351-4725-adc0-601bd7d8b8e7@email.swiftraci.org:443?flow=xtls-r
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@code-sandbox.blog:443?security=reality&encryption=none&pbk=84d_aHtsBvclx_Y6FnTmhhTqsZyQdfCGWtmFvefTrUI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=code-sandbox.blog&sid=ee57ea513371ce89#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@fuckfangbinxing.pusytroller.gq:2095?&type=ws&headerType=none&host=fuckfangbinxing.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -122,3 +122,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.39.187:62145?&type=tcp&head
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.63.156:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0dfe34f7-b0a9-7c3e-565b-58dd673d266b@69.46.46.249:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=x4g-production-5c0b.up.railway.app&type=ws&headerType=none&host=x4g-production-5c0b.up.railway.app&path=%2Fws%2F0dfe34f7-b0a9-7c3e-565b-58dd673d266b#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://98ca432c-4dd0-452e-a49c-552620e14358@www.visa.com.hk:443?&security=tls&fp=random&sni=nl-ams.862400.xyz&type=ws&headerType=none&host=nl-ams.862400.xyz&path=%2Fannouncement#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

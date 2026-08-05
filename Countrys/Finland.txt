@@ -12,3 +12,4 @@ vless://ea1278d8-c65a-4bdf-8c68-e84a26be53a3@psf-1.zdshop.ir:80?path=/&security=
 trojan://yooog56ts3ymtpp5@78.17.103.162:443?allowInsecure=0&sni=driveservice.mooo.com&type=grpc&serviceName=/16835/Cba1c1ZOir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://c8dcbe44-5714-4f99-8d7a-aadebea34abf@91.103.140.243:443?encryption=none&fp=firefox&pbk=118rMk41g_0BeoQDR2V_1f8ABzC1WKXdolzE-LxqowM&security=reality&sid=bff835c98c&sni=www.amd.com&spx=%2FdOSQM9dA3rf8Ag2&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@185.212.119.177:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=fl10.skorostnet.space#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.206:443?flow=xtls-rprx-vision&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

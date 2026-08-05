@@ -124,3 +124,4 @@ trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=flee
 vmess://eyJhZGQiOiIxNzMuMjQ5LjIwOS4xNDYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjM5MzVjMmRjLWRiYjAtNDNmNy1iMzY3LWZlODlhYmU4N2ZkZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDA4NiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://4a291562-7e80-41c1-97dd-592303a675b4@216.167.9.238:58549?&type=ws&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://98262dbd-3606-437b-b12e-3f38ca62522f@1.rmgyvpn.rest:443?security=tls&type=ws&path=/ws-cdn&host=1.rmgyvpn.rest&packetEncoding=xudp&sni=1.rmgyvpn.rest&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -1,4 +1,5 @@
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.165.174:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=86.106.84.195#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=0&sni=163.245.196.68.sslip.io#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -47,3 +48,10 @@ trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=flee
 trojan://yooog56ts3ymtpp5@78.17.103.162:443?allowInsecure=0&sni=driveservice.mooo.com&type=grpc&serviceName=/16835/Cba1c1ZOir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221?allowInsecure=1&sni=speed-01.aliyun-web-tracker.cn#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://BxceQaOe@16.162.3.64:11231?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@13.158.2.187:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://BxceQaOe@95.40.205.94:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://BxceQaOe@16.162.3.64:53001?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://5xjmr1dz66pgsew0@undef.network:8443?allowInsecure=1&sni=com.digitalposts.dpdns.org&alpn=http/1.1&type=ws&host=com.digitalposts.dpdns.org&path=/bkdicj#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-hk-3.gocmydns.com:443?allowInsecure=0&sni=www.zueuqnpjvcllc.co&alpn=h2&type=grpc&serviceName=mm_grpc#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

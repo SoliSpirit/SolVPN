@@ -802,3 +802,4 @@ vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=ch
 vless://e9508a2a-7848-4805-bf54-1eb84b64ec68@192.220.43.144:8443?&type=tcp&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://631ee34f-4faf-0003-b49d-e6f50403cf0e@45.12.60.35:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34&sni=findmypackets.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&sni=anyfile2file.com#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
+vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

@@ -814,3 +814,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.93:62145?&type=tcp&head
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.178:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.205.65:443?encryption=none&type=tcp&security=reality&headerType=none&sni=apple.com&fp=qq&insecure=0&allowInsecure=0&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@193.33.133.57:8443?&security=tls&fp=edge&alpn=http%2F1.1&sni=cloudflare.vhub.pro&type=ws&headerType=none&host=cloudflare.vhub.pro&path=%2Fwebsocket#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&security=none&type=ws&host=download.pusytroller.gq&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

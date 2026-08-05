@@ -35,3 +35,4 @@ trojan://ND91608427@ace-starling.rooster465.autos:443?allowInsecure=1&sni=ace-st
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.047.node-for-bigairport.win:19001#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://e5ce79f9-fdac-4e80-8286-a15b96fded72@103.148.73.176:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://e5ce79f9-fdac-4e80-8286-a15b96fded72@103.180.20.228:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU=@ss.045.node-for-bigairport.win:19000#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

@@ -1,2 +1,1 @@
-vless://95891abd-c399-a085-ea21-21df48ea0fa2@198.41.209.149:443?path=/ws/oxnetir-vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=oxnetirpx.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=oxnetirpx.kdns.fr#🇩🇰 Join+Telegram:@SolVPN 🇩🇰
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@135.136.33.134:1080#🇩🇰 Join+Telegram:@SolVPN 🇩🇰
+vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇩🇰 Join+Telegram:@SolVPN 🇩🇰

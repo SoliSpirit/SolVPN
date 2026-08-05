@@ -44,3 +44,4 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?all
 trojan://ND91608427@devoted-tapir.rooster465.autos:443?allowInsecure=1&sni=devoted-tapir.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://yooog56ts3ymtpp5@78.17.103.162:443?allowInsecure=0&sni=driveservice.mooo.com&type=grpc&serviceName=/16835/Cba1c1ZOir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221?allowInsecure=1&sni=speed-01.aliyun-web-tracker.cn#🇹🇼 Join+Telegram:@SolVPN 🇹🇼

@@ -15,3 +15,4 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo14.fordnsdirect.shop:8880?se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca39.speedmeter.shop:8880?encryption=none&security=none&sni=sca39.speedmeter.shop&alpn=&type=grpc&host=sca39.speedmeter.shop#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.exodnsdir.xyz:8880?security=&encryption=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo16.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@62.76.234.75:10901#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

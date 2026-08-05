@@ -58,3 +58,4 @@ vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@144.126.239.205:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?path=%2FeyJqdW5rIjoiUHVXcXFjYTJGVGI3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=confighaye.mokhaberatebinzon.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=coNFIghayE.moKhaBeraTebInZON.workErS.deV#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+ss://YWVzLTI1Ni1nY206YjUzNzIyYjQ2MmFhZDc2NQ@166.88.130.210:7011#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

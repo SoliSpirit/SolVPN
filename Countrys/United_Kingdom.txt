@@ -24,3 +24,4 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=%2Fcarbon&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmODc0NGFmMC04NDA2LTQ0MGYtOWY5MC00NWE0ZDAwNGYzZTk@cm1.kaochangcn.org:36521#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdn.pinecloud.net&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@129.151.76.103:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://d8b42cd5-a149-4356-9e61-000000000000@195.21.129.117:2553?allowInsecure=1#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

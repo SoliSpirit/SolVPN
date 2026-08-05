@@ -36,3 +36,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM
 vless://e5ce79f9-fdac-4e80-8286-a15b96fded72@103.148.73.176:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://e5ce79f9-fdac-4e80-8286-a15b96fded72@103.180.20.228:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU=@ss.045.node-for-bigairport.win:19000#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@16.162.3.64:11231?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-hk-3.gocmydns.com:443?allowInsecure=0&sni=www.zueuqnpjvcllc.co&alpn=h2&type=grpc&serviceName=mm_grpc#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

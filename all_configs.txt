@@ -793,3 +793,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU5
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.238:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://34a1ada8-4a1a-434b-8583-7b68668f6e9d@91.243.86.196:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dRPcJM7ZWihjiGNHuIJ4iaCpLxHAKoo59WE-vsTZASs&security=reality&sid=41f6de54&sni=www.cloudflare.com&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?path=%2F%3Fu%3D1e5b0dc4c9&security=tls&encryption=none&insecure=0&host=nova-comet-core-5d04.ilia-talebi09.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-core-5d04.ilia-talebi09.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -121,3 +121,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.144.173:62145?&type=tcp&head
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.58.207:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.226.90:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://f7f4e43d-bc22-4166-8550-f9f3eeb04b6e@soskeynets-node-production-4885.up.railway.app:443?&security=tls&fp=chrome&sni=pasarguard-node-production-4885.up.railway.app&type=ws&headerType=none&host=pasarguard-node-production-4885.up.railway.app&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.129:443?security=reality&encryption=none&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -820,3 +820,4 @@ trojan://ND91608427@15.237.49.244:443?security=tls&insecure=0&headerType=none&fp
 trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://ND91608427@54.93.54.137:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=informed-alpaca.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=/&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.129:443?security=reality&encryption=none&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -760,3 +760,4 @@ trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=selec
 trojan://ND91608427@tidy-gelding.rooster465.autos:443?security=tls&sni=tidy-gelding.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.114:448?security=reality&encryption=none&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=e1bdc95c1554c8eb#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2224085c-ab5e-48ac-bcdb-c67a983f70e2@edges.api-gateway-dev.top:8464?security=reality&encryption=none&pbk=TGyAcC_Doy-9s59Fra8U5M-9bQCrULrJWNxfMR9mZjE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bfd331f9#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

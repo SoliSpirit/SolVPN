@@ -31,3 +31,4 @@ trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host
 trojan://ND91608427@15.237.49.244:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=star-kiwi.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p.keshevoz.ru#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

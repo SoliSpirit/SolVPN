@@ -37,3 +37,14 @@ trojan://ND91608427@sensible-mongrel.rooster465.autos:443?allowInsecure=1&sni=se
 trojan://ND91608427@prompt-duckling.rooster465.autos:443?allowInsecure=1&sni=prompt-duckling.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://ND91608427@clear-snail.rooster465.autos:443?allowInsecure=1&sni=clear-snail.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@real-werewolf.rooster465.autos:443?allowInsecure=1&sni=real-werewolf.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@tough-robin.rooster465.autos:443?allowInsecure=1&sni=tough-robin.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@learning-leopard.rooster465.autos:443?allowInsecure=1&sni=learning-leopard.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@picked-guinea.rooster465.autos:443?allowInsecure=1&sni=picked-guinea.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@healthy-louse.rooster465.autos:443?allowInsecure=1&sni=healthy-louse.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&sni=sure-humpback.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@thankful-mustang.rooster465.autos:443?allowInsecure=1&sni=thankful-mustang.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@happy-mutt.rooster465.autos:443?allowInsecure=1&sni=happy-mutt.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@moral-buzzard.rooster465.autos:443?allowInsecure=1&sni=moral-buzzard.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunning-mite.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

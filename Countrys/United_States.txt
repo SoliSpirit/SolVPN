@@ -128,3 +128,4 @@ vless://14be84e2-8b22-42c0-a1ba-3535fc8e9257@179.255.148.66:47588?security=reali
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?security=none&type=ws&path=/&host=fuckfangbinxing.pusytroller.gq&packetEncoding=xudp&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=%2F&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

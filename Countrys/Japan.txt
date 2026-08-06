@@ -53,3 +53,4 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&h
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTI1Ni1nY206blRwanlmUkdYZHlv@89.125.244.105:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20129?security=tls&sni=hk.catxstar.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

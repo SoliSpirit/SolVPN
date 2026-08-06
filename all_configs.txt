@@ -816,3 +816,6 @@ vless://50414e45-4c5f-5a45-5553-23b46f07f787@z-e-u-s-panel-ogpqo9.z-e-u-s-7mdylr
 vless://e23fad70-be58-4dea-b6c6-70f94b3abdd7@saas.sin.fan:443?&security=tls&fp=random&sni=us-lax.862400.xyz&type=ws&headerType=none&host=us-lax.862400.xyz&path=%2Fannouncement#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.160.234:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20068?allowInsecure=1&sni=hk.catxstar.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://ND91608427@15.237.49.244:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=star-kiwi.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://ND91608427@54.93.54.137:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=informed-alpaca.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

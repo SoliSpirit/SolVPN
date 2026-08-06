@@ -7,3 +7,4 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@code-sandbox.blog:443?security=real
 ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@195.133.5.207:10210#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplQWZRYjRwOGV4SXhZbGJpTzA0UVBR@193.233.216.247:1080#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://34a1ada8-4a1a-434b-8583-7b68668f6e9d@91.243.86.196:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dRPcJM7ZWihjiGNHuIJ4iaCpLxHAKoo59WE-vsTZASs&security=reality&sid=41f6de54&sni=www.cloudflare.com&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://89755337-8050-401c-86d1-c8c34fb88d89@46.8.158.22:443?security=reality&encryption=none&pbk=wdWQNp1lnaFZ3L_r9hRK5vpVgv9M7UBb5JZuYPcWDAE&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.icloud.com&sid=e96bc8c85c3836#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

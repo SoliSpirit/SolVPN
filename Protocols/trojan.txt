@@ -77,3 +77,4 @@ trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:48738?allowInsecure=1&s
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?security=tls&sni=hk.catxstar.com#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20068?allowInsecure=1&sni=hk.catxstar.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

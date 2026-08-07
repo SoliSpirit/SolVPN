@@ -419,3 +419,4 @@ vless://9272f5c6-fb34-4be8-b9c8-c24240e3ca40@104.17.108.69:443?&security=tls&fp=
 vless://98ca432c-4dd0-452e-a49c-552620e14358@freev2.cloudflare.182682.xyz:443?&security=tls&fp=random&sni=it-mil.862400.xyz&type=ws&headerType=none&host=it-mil.862400.xyz&path=%2Fannouncement#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

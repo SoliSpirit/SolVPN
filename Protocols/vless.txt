@@ -461,3 +461,4 @@ vless://a88e95f3-a30c-0fe6-9e22-08858297fcab@69.46.46.53:443?&security=tls&fp=ch
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.160.97:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@nmslfangbinxing.pusytroller.gq:2095?&type=ws&headerType=none&host=nmslfangbinxing.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6e50ed70-fbde-3719-6867-64348d81f276@69.46.46.30:443?&security=tls&fp=ios&alpn=http%2F1.1&sni=hashish-production-evj7.up.railway.app&type=ws&headerType=none&host=hashish-production-evj7.up.railway.app&path=%2Fws%2F6e50ed70-fbde-3719-6867-64348d81f276#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=mold.speedload.online&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&path=%2f#🇲🇩 Join+Telegram:@SolVPN 🇲🇩

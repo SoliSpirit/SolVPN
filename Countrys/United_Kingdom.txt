@@ -22,3 +22,4 @@ vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=no
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.74.38:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.73.137:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.91.89:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://9272f5c6-fb34-4be8-b9c8-c24240e3ca40@104.17.108.69:443?&security=tls&fp=chrome&sni=639215869853809938.abadeh-amma.info&type=ws&headerType=none&host=639215869853809938.abadeh-amma.info&path=%2Ffyvotcws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

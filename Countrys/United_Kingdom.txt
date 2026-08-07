@@ -31,3 +31,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🇬🇧 Join+Telegram:
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.116:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=vl06.skorostnet.space#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.114:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=vl04.skorostnet.space#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@193.219.99.119:8443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

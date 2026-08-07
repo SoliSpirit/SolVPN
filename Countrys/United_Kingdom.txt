@@ -29,3 +29,5 @@ vless://cab38fce-e08d-4a3d-9828-dcb96b18d132@smm-01.smmmdesign.com:443?&security
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.116:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=vl06.skorostnet.space#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.114:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=vl04.skorostnet.space#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

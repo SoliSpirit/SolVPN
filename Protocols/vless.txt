@@ -443,3 +443,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.211.247:62145?&packet-encod
 vless://0dbacd35-9159-4648-89ac-c38b741567a8@164.37.111.117:2020?&type=tcp&headerType=none&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.236.62:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?&type=ws&headerType=none&path=%2F#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@152.53.200.72:8443?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@198.211.121.165:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

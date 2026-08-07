@@ -474,3 +474,4 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@193.219.99.119:8443?path=%2Fsg-melb
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?path=/&security=none&encryption=none&host=fuckingfangbinxing.pusytroller.cf&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?security=none&type=ws&path=/&host=fuckfangbinxing.pusytroller.gq&packetEncoding=xudp&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.238.8:22222?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://b6591693-d398-4179-a3b8-182cdc5e55d8@62.238.49.122:52874?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

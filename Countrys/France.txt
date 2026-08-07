@@ -1,7 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-020.limaklhc6.info&type=ws&headerType=none&host=ad-020.limaklhc6.info&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-004.zen2bswa.info#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
@@ -16,15 +13,11 @@ trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@ad-018.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-018.cloud25075.info&type=ws&headerType=none&host=ad-018.cloud25075.info&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-vless://1b97d3d9-8320-4015-92d7-c94a07ae48fc@fr-6.flowersyellow.ru:443?security=reality&encryption=none&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@jush.sukario.ir:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=s.try-first.info&fp=firefox&type=ws&allowInsecure=0&sni=s.try-first.info#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://ND91608427@careful-tadpole.rooster465.autos:443?allowInsecure=1#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://ND91608427@classic-gator.rooster465.autos:443?allowInsecure=1&sni=classic-gator.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=fr05.skorostnet.space&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-vless://d8b42cd5-a149-4356-9e61-000000000000@110.34.38.174:2552?#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabU0wWg@83.171.225.55:8388#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

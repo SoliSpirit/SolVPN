@@ -417,3 +417,5 @@ vless://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.59:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node17.mxvpn.dev&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://9272f5c6-fb34-4be8-b9c8-c24240e3ca40@104.17.108.69:443?&security=tls&fp=chrome&sni=639215869853809938.abadeh-amma.info&type=ws&headerType=none&host=639215869853809938.abadeh-amma.info&path=%2Ffyvotcws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://98ca432c-4dd0-452e-a49c-552620e14358@freev2.cloudflare.182682.xyz:443?&security=tls&fp=random&sni=it-mil.862400.xyz&type=ws&headerType=none&host=it-mil.862400.xyz&path=%2Fannouncement#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

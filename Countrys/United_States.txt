@@ -122,3 +122,4 @@ vless://04861aa1-36b3-4189-bfff-68b1f92278ac@soskeynets.up.railway.app:443?&secu
 trojan://ND91608427@pet-ghost.rooster465.autos:443?security=tls&sni=pet-ghost.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ND91608427@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://da54c327-4e3f-483c-9c48-705a6d739ab6@free.us2.laodavip.com:443?encryption=none&type=tcp&security=reality&sni=free.us2.laodavip.com&fp=chrome&pbk=fmgZqiXIsO-LWrQMCNsi8_o_EaShi4ubxajVI_m8TBA&sid=d4e718a6ea7cdb2d&spx=%2F&flow=xtls-rprx-vision#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?path=%2Fpyip%3D47.251.95.178&security=tls&encryption=none&insecure=0&host=cf.cfvip.lol&fp=chrome&type=ws&allowInsecure=0&sni=cf.cfvip.lol#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -23,3 +23,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.73.137:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.91.89:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://9272f5c6-fb34-4be8-b9c8-c24240e3ca40@104.17.108.69:443?&security=tls&fp=chrome&sni=639215869853809938.abadeh-amma.info&type=ws&headerType=none&host=639215869853809938.abadeh-amma.info&path=%2Ffyvotcws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://0dbacd35-9159-4648-89ac-c38b741567a8@164.37.111.117:2020?&type=tcp&headerType=none&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

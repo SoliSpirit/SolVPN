@@ -87,3 +87,4 @@ trojan://BxceQaOe@16.162.161.131:29444?allowInsecure=1&sni=t.me%2Fripaojiedian#�
 trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@43.198.13.164:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?allowInsecure=0&sni=titandarkness.mooo.com&type=grpc&serviceName=/43588/G43plZahWW#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?allowInsecure=0&sni=hk.catxstar.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

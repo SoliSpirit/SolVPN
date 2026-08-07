@@ -4,3 +4,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@152.67.55.163:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.42.184:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?&security=tls&fp=chrome&sni=titandarkness.mooo.com&type=ws&headerType=none&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?allowInsecure=0&sni=titandarkness.mooo.com&type=grpc&serviceName=/43588/G43plZahWW#🇧🇷 Join+Telegram:@SolVPN 🇧🇷

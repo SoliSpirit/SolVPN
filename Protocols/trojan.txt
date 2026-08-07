@@ -5,6 +5,7 @@ trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#�
 trojan://860c3c2c89a1c7515792be1c5295d21e@18.162.41.225:6357?allowInsecure=1&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/us-gllc&host=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#🇵🇰 Join+Telegram:@SolVPN 🇵🇰
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

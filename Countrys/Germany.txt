@@ -65,3 +65,6 @@ vless://94a5294d-1125-4139-8934-380c5de5552f@176.108.246.130:443?encryption=none
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@47.82.120.47:43630?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b20c2938-ba56-468c-8fff-5437a03c9c57@172.66.146.2:8443?&security=tls&fp=chrome&sni=ftp.skylinknet.ir&type=ws&headerType=none&host=ftp.skylinknet.ir&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=qeztrg7u.akscasx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=qeztrg7u.akscasx.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.68.53.11:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7b102311-43fd-4e8f-877e-8090623c101d@94.159.101.36:443?allowInsecure=1&sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram🇨🇳 @VPNine1fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

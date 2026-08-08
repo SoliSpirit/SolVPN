@@ -101,3 +101,5 @@ vmess://eyJhZGQiOiIxNzYuNjUuMTUxLjg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImlk
 vless://a88e95f3-a30c-0fe6-9e22-08858297fcab@69.46.46.53:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=x4g-production-ee62c.up.railway.app&type=ws&headerType=none&host=x4g-production-ee62c.up.railway.app&path=%2Fws%2Fa88e95f3-a30c-0fe6-9e22-08858297fcab#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.160.97:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://7596b721-f311-4194-96e6-b7b407cd6083@89.23.103.121:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qY222OdlPFi9DvfoHZNgp0UHLubudtKLLF_KMuDy-Ho&security=reality&sid=9795f83547c168d3&sni=www.debian.org&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?path=%2Fapi%2Fv1%2Frooms%2F63368e3dbb%2Fsync&security=tls&encryption=none&insecure=0&host=sync.watchwave.link&fp=qq&type=ws&allowInsecure=0&sni=cdn.tracker.yandex.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.63.156:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -449,3 +449,4 @@ vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?mode=gun&securi
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&type=tcp&packetEncoding=xudp&sni=ddc-chr.astralweb.tech&fp=chrome#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://71cada65-d23e-418c-88e4-a06188d14689@178.253.55.89:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UvJqmTGvadeK94_38ncycxTRqU4lmsjhDjJBuL0CQSA&security=reality&sid=c71af684feb2fef4&sni=nl-one.quiet-rogue.site&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@147.45.48.143:443?encryption=none&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -21,3 +21,5 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://1bc14e5b-b632-4008-8d5f-e5b99bbd7696@104.17.108.69:443?&security=tls&fp=chrome&sni=639216722493636932.eslamshahr-sxft.beauty&type=ws&headerType=none&host=639216722493636932.eslamshahr-sxft.beauty&path=%2Fvnitpcws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://1a08570f-951b-409d-9e51-64c5df62e824@104.17.108.69:443?&security=tls&fp=chrome&sni=639216722493642090.eslamshahr-sxft.beauty&type=ws&headerType=none&host=639216722493642090.eslamshahr-sxft.beauty&path=%2Filmhlpws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

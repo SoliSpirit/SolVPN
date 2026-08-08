@@ -762,3 +762,31 @@ vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@147.45.48.143:443?encryption=none&f
 vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=fd7f#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.180:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://44ebd5d8-c8a3-408c-8195-1cb1e97c5c21@64.176.61.124:443?security=reality&encryption=none&pbk=kOzjn-aqsOrs5AXRAYKOsU-xY-NdK3Q8ZH0XdwitFRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=products.amd.com&sid=069fba81c72d1e#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.126:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@144.22.212.248:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.111.224:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.12.217:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.95.165:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.168.29:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.226:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.79:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.126.16:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.159:10910#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.152:10901#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.155.228:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.158.108:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.40.16:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.14.247:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ@195.133.23.200:1291#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@195.133.5.207:10210#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@140.245.109.33:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://7362c389-7f4b-4c41-9594-fdb847570243@206.189.146.23:17658?&type=ws&headerType=none&host=zoom.us&path=%2FFree%20By%20Tharuwa%20%280767597317%29#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
+vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?&type=ws&headerType=none&host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
+vless://d517ffb6-9d5c-278d-8df3-5398b941f578@x4g-production-ff3b.up.railway.app:443?&security=tls&fp=ios&alpn=http%2F1.1&sni=x4g-production-ff3b.up.railway.app&type=ws&headerType=none&host=x4g-production-ff3b.up.railway.app&path=%2Fws%2Fd517ffb6-9d5c-278d-8df3-5398b941f578#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJKUDAzMjAwMS5zc2dyZWVuLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiODQyYmY3YjQtMWM2Yi00NzhmLThlZGItNWI5M2FiZGU5NjkxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJob3N0IjoiSlAwMzIwMDEuc3NncmVlbi5vcmciLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJKUDAzMjAwMi5zc2dyZWVuLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNWE0MTJiZGUtYjMxZC00Zjc1LWJlZGItMzc1MTk1YjljZjQxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJob3N0IjoiSlAwMzIwMDIuc3NncmVlbi5vcmciLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJVUzAzMjAxMy5zc2dyZWVuLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTg5NjhhNmMtMmRlZi00YmZiLWIyMGEtOGNiYzRiYWVkOTc4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJob3N0IjoiVVMwMzIwMTMuc3NncmVlbi5vcmciLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJVUzAzMjAxNy5zc2dyZWVuLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTFjYTJjNDMtNzBlNS00NTM3LWI3ZmQtY2Q1MmUyNGFjMmMyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJob3N0IjoiVVMwMzIwMTcuc3NncmVlbi5vcmciLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJKUDAzMjAwOC5zc2dyZWVuLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZmRkNWM5MGEtOTZmNy00NGRkLTlhZGMtNTg0MTNiZDg1OTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJob3N0IjoiSlAwMzIwMDguc3NncmVlbi5vcmciLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJVUzAzMjAxMC53ZXN0bWdyZWVuLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMjM4ODc5ZDYtZjJlYS00ZjBkLTlmZTktMDk3MmEyOTk1Zjc4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJob3N0IjoiVVMwMzIwMTAud2VzdG1ncmVlbi5jb20iLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

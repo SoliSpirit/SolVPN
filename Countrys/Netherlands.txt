@@ -112,3 +112,8 @@ vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@94.249.225.80:443?type=tcp&security
 vless://d067adf8-9adc-4854-990d-f779875a855e@cdn-b305c2ba.glomedia-cdn.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OevcHjcNd6P5915hkVd476stUNgpabD_XO9eWtArrls&security=reality&sid=f5f36cfd792b1f65&sni=www.rumedia-cdn.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&type=tcp&packetEncoding=xudp&sni=ddc-chr.astralweb.tech&fp=chrome#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://71cada65-d23e-418c-88e4-a06188d14689@178.253.55.89:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UvJqmTGvadeK94_38ncycxTRqU4lmsjhDjJBuL0CQSA&security=reality&sid=c71af684feb2fef4&sni=nl-one.quiet-rogue.site&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.155.228:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.158.108:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.40.16:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.14.247:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://d517ffb6-9d5c-278d-8df3-5398b941f578@x4g-production-ff3b.up.railway.app:443?&security=tls&fp=ios&alpn=http%2F1.1&sni=x4g-production-ff3b.up.railway.app&type=ws&headerType=none&host=x4g-production-ff3b.up.railway.app&path=%2Fws%2Fd517ffb6-9d5c-278d-8df3-5398b941f578#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

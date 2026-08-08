@@ -4,3 +4,4 @@ vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?&secu
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&sni=relaxed-gull.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://1fef5248-fdd2-40d6-b3b9-6c33d4e74724@144.31.0.34:7443?security=reality&type=tcp&allowInsecure=1&sni=_custom_&fp=chrome&flow=xtls-rprx-vision&sid=e8ca5079a5e91481&pbk=8wD0IhR27ftD5LyJDq9CaFzi6DgA4vFtB-UP6QIdWVc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

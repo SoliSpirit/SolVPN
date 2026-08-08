@@ -14,3 +14,4 @@ vmess://eyJhZGQiOiI2NS4xMDkuMjA4LjIzNiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjODk2
 vless://b6591693-d398-4179-a3b8-182cdc5e55d8@62.238.49.122:52874?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?mode=gun&security=reality&encryption=none&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&fp=chrome&spx=/HesarWeb&type=grpc&sni=google.com&sid=4b#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://832e0199-9614-4d74-a7ba-1dca5453dab5@melinet8.sav-savteam.ir:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://1bced29a-3051-42b8-b393-005135b97616@188.225.42.117:443?security=reality&encryption=none&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=arclo.ciphero.xyz&sid=33b5887524592cad#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

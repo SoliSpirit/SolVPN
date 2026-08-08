@@ -23,3 +23,7 @@ trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://1bc14e5b-b632-4008-8d5f-e5b99bbd7696@104.17.108.69:443?&security=tls&fp=chrome&sni=639216722493636932.eslamshahr-sxft.beauty&type=ws&headerType=none&host=639216722493636932.eslamshahr-sxft.beauty&path=%2Fvnitpcws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://1a08570f-951b-409d-9e51-64c5df62e824@104.17.108.69:443?&security=tls&fp=chrome&sni=639216722493642090.eslamshahr-sxft.beauty&type=ws&headerType=none&host=639216722493642090.eslamshahr-sxft.beauty&path=%2Filmhlpws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

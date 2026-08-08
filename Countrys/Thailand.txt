@@ -1,3 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
+vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?&type=ws&headerType=none&host=d16l6nb4do0zu4.cloudfront.net&path=%2Fthan#🇹🇭 Join+Telegram:@SolVPN 🇹🇭

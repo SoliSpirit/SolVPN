@@ -722,3 +722,4 @@ trojan://BxceQaOe@54.46.125.103:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@18.167.76.203:10418?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVkxodFNRRDNiVmpLUkFNMG9mb2ZC@creativeboxnl.zanity.net:5228#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

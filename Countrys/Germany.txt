@@ -77,3 +77,5 @@ vless://9f7dbec4-35b7-4edd-84d2-47c780308cf2@xn--zn-gpa36i.paydar.site:443?secur
 vless://mahanvpn-mahanvpn@92.42.96.240:443?sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/?ed=2560fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://6bfcc22f-c80f-481b-b82b-bf28ed3e9f82@91.107.148.158:8080?type=tcp&encryption=none&security=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e1a5c7fd-d1c7-49a3-b772-9e2935d420db@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=SvnTeamChannel.global.ssl.fastly.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

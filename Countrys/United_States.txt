@@ -140,3 +140,4 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjY1
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?&type=ws&headerType=none&host=nmslfangbinxing.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://BxceQaOe@18.167.76.203:10418?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -32,3 +32,5 @@ vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@134.65.56.165:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@134.65.57.231:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.194:443?security=reality&encryption=none&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=calm-panther.cdn.cachefleet.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@147.45.47.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb.sellflow.org#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

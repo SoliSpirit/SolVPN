@@ -413,3 +413,4 @@ vless://970c1b71-70db-4788-9cbd-0abbabb60b69@87.58.201.109:80?path=/Begoo_VPN/Be
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.113:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@198.41.219.218:443?sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws&host=zyzzzoao.xn--fiqv8j.eu.org&path=/?ed=2048fp=randomized&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&type=tcp&headerType=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

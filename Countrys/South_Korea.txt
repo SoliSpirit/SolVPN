@@ -19,3 +19,4 @@ trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=selec
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?security=tls&sni=hk.catxstar.com#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjciLCJhZGQiOiIxMTUuODkuOTguMjMxIiwicG9ydCI6IjEwNTA5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRmMWMxY2ExLWE0MjItNDAxNC05NDIzLTA0ZTM5ZWQ3M2IwMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

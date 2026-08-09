@@ -44,3 +44,4 @@ vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.25:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@144.126.239.205:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?path=%2Fpyip%3D47.251.95.178&security=tls&encryption=none&insecure=0&host=cf.cfvip.lol&fp=chrome&type=ws&allowInsecure=0&sni=cf.cfvip.lol#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

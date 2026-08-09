@@ -391,3 +391,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&encryp
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145?#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.207:443?flow=xtls-rprx-vision&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?&type=ws&headerType=none&host=rutube.ummapeople.online&path=%2Frutube#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

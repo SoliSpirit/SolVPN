@@ -462,3 +462,5 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.233.100:443?sni=t1s1.rittbo.
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@176.109.85.140:9444?security=reality&encryption=none&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=12b9ecabbf3a3b88#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.80.223:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.33.3.222:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hhcm.hhxaf.cc.cd&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

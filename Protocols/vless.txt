@@ -263,6 +263,7 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@49.13.64.206:443?encryption=none&ho
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.177.227:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://0dbacd35-9159-4648-89ac-c38b741567a8@164.37.111.117:2020?&type=tcp&headerType=none&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?&type=ws&headerType=none&path=%2F#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:26795?security=&encryption=none&headerType=&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@198.211.121.165:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
@@ -439,3 +440,5 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.57.230:62145?&type=tcp&head
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@16.176.42.97:443?&security=tls&fp=chrome&sni=zero.csmaster.ggff.net&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://89a4a0a0-81d0-deff-02af-61e41becb133@x4g-production-61fb.up.railway.app:443?&security=tls&fp=randomized&alpn=http%2F1.1&sni=x4g-production-61fb.up.railway.app&type=ws&headerType=none&host=x4g-production-61fb.up.railway.app&path=%2Fws%2F89a4a0a0-81d0-deff-02af-61e41becb133#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://6bfcc22f-c80f-481b-b82b-bf28ed3e9f82@91.107.148.158:8080?type=tcp&encryption=none&security=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9b2558ad-f869-1bc9-283e-978ba192712d@homa.letsconnectu.com:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

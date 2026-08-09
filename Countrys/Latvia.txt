@@ -1,2 +1,1 @@
-vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.81:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=93ae75024604f796#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
-vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&sni=anyfile2file.com#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
+vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?&type=tcp&headerType=none&path=%2F#🇱🇻 Join+Telegram:@SolVPN 🇱🇻

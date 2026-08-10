@@ -451,3 +451,5 @@ vless://f55e7f73-9b4c-44de-9572-e0e14ea0290c@51.250.88.94:443?encryption=none&se
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://255f9bd5-670f-4b34-9429-9e4388594160@151.101.56.7:443?encryption=none&type=ws&security=tls&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&host=pane3.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=1&allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://e86c6e2a-382d-4f03-8f52-f52a5ab38a3f@titi.k44lawm.ir:2547?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://SoonTeam@191.215.37.90:443?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

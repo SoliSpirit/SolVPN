@@ -772,3 +772,5 @@ ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.188:10901#🇮🇹 Join+Te
 vless://SoonTeam@191.215.37.90:443?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://1d6b37c1-61e8-4b81-adf2-1b5f4bf20bef@64.118.151.32:32985?type=tcp&encryption=none&security=none#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://b1e4bfe2-2b12-11f1-92cb-12ba70109d32@eu-gw.videomonitor.cloud:2053?encryption=none&type=grpc&serviceName=grpc-direct&mode=gun&security=reality&sni=dzen.ru&fp=chrome&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&sid=f0c18fcc1d09b637#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

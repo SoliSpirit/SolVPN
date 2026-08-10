@@ -42,3 +42,4 @@ trojan://BxceQaOe@54.46.125.103:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@16.176.42.97:443?&security=tls&fp=chrome&sni=zero.csmaster.ggff.net&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&encryption=none&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3b0b73e5#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.49.211:1080#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

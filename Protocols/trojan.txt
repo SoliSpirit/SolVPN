@@ -1,3 +1,7 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.30:8880?type=ws&host=vms.lifetime48.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https%3A%2F%2Fchatgpt.com&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=1&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=1&sni=space.byu.id.yxls.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=86.106.84.195#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

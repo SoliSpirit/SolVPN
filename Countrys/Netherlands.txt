@@ -107,3 +107,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.222.167:62145?encryption=no
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@31.56.185.20:443?encryption=none&fp=firefox&security=tls&sni=nl2-akn.astralweb.tech&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.58.207:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.215:443?pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sni=www.sciencedirect.com&encryption=none&fp=chrome&headerType=none&security=reality&type=tcp&sid=a1b2c4d4a1b2c5d5&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://78c407f6-3f20-426e-94ea-7227e760c180@ns.1tut1.click:443?encryption=none&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

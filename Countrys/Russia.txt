@@ -4,3 +4,4 @@ vless://89755337-8050-401c-86d1-c8c34fb88d89@46.8.158.22:443?security=reality&en
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&sni=max.ru#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?&type=ws&headerType=none&host=rutube.ummapeople.online&path=%2Frutube#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://1bced29a-3051-42b8-b393-005135b97616@157.22.193.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=larkix.pulsio.cfd&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@176.109.85.140:9441?encryption=none&fp=chrome&pbk=xTk5dX6E0DGuQj19bWDMafx13XoUK8euqlmtwJIg8wY&security=reality&serviceName=grpc-tuning-stream&sid=8a7137d4e9c49b9c&sni=max.ru&type=grpc#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

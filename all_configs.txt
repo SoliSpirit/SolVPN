@@ -117,6 +117,7 @@ trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?path=/us-gllc&
 vless://abd3678b-f654-404c-adc7-1355865197e1@vmess.a-amr79.workers.dev:8880?allowInsecure=0&type=ws&host=vless.a-amr79.workers.dev&path=/eyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.166:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@213.35.127.18:443?security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=hhcm.hhxaf.cc.cd&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

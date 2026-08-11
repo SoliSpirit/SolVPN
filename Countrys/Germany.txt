@@ -62,3 +62,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@161.35.217.79:2087?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.35:43630?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@176.32.39.122:443?security=reality&type=grpc&fp=safari&sni=media2.tcpdoor.net&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&serviceName=grpc&sid=3303c7a5#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://d14b7d3c-bdda-40ab-8e5e-ee1b67ef0357@ger1.ilia.iranstoresf.ir:2056?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

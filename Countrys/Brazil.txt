@@ -3,3 +3,4 @@ vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?encryption=none&f
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@titandarkness.mooo.com:443?encryption=none&fp=chrome&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ&security=tls&sni=titandarkness.mooo.com&type=ws#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?path=%2F21381%2F0kO2id8FMQ&security=tls&encryption=none&insecure=0&host=titandarkness.mooo.com&fp=chrome&type=ws&allowInsecure=0&sni=titandarkness.mooo.com#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.109.73:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:5443?sni=get.wlrus.cfd&fp=edge&security=tls#🇧🇷 Join+Telegram:@SolVPN 🇧🇷

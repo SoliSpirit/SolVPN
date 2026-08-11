@@ -48,3 +48,4 @@ trojan://BxceQaOe@16.162.92.128:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

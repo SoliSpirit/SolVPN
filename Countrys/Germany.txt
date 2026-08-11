@@ -70,3 +70,4 @@ vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@147.45.48.139:443?encryption=none&f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@130.61.232.226:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b20c2938-ba56-468c-8fff-5437a03c9c57@172.66.146.2:8443?&security=tls&fp=chrome&sni=ftp.skylinknet.ir&type=ws&headerType=none&host=ftp.skylinknet.ir&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.222.124:22223?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.65.145.222:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

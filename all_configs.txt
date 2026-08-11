@@ -761,3 +761,5 @@ vless://9500cf8b-020a-4a70-906c-e14bb5375875@85.209.135.10:443?type=tcp&headerTy
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJ1c2Euc2FuZ2FydmlwLnBhbmFsLXNob3Atc2FuZ2FyLXNoa2FuLnh5eiIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImY2MzYxYWY4LWJiOGYtNDYwOS1iZjVkLTNmYzBmNjg4ZjQ3YiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ1c2Euc2FuZ2FydmlwLnBhbmFsLXNob3Atc2FuZ2FyLXNoa2FuLnh5eiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://f4e637c2-f9c0-0bce-75f9-f1f4e44d1553@ansooyefilter-hhh.up.railway.app:443?&security=tls&fp=chrome&alpn=http%2F1.1&type=ws&headerType=none&host=ansooyefilter-hhh.up.railway.app&path=%2Fws%2Ff4e637c2-f9c0-0bce-75f9-f1f4e44d1553#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206NWpmck1vU0dQU1IxRnF3VEZ0cGM4Zz09@47.88.85.254:23226#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://c83ee688-8f37-4f4c-94a2-5d6384950b5d@64.188.64.141:8443?encryption=none&security=none&type=ws&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

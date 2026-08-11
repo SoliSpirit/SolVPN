@@ -22,3 +22,4 @@ vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.113:443?type=tcp&securi
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.115:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=vl05.skorostnet.space#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.226.223:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://SoonTeam@191.215.37.90:443?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://XpnTeam-2@140.248.186.45:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

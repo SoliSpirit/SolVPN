@@ -687,3 +687,13 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.39.190.143:443?path=%2F&security
 vless://b97e287f-a24e-0021-a103-7e7ecef83139@5.61.91.206:443?flow=xtls-rprx-vision&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=e1f8a3b6&sni=www.amd.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@176.32.39.122:443?security=reality&type=grpc&fp=safari&sni=media2.tcpdoor.net&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&serviceName=grpc&sid=3303c7a5#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://BxceQaOe@16.162.220.240:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@16.162.92.128:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://BxceQaOe@43.198.13.164:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://BxceQaOe@18.166.226.204:39024?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEiLCJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsInBvcnQiOiI4MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjI1NzFmNzYyLTAzYWYtNGMzMC04ZWI5LTY2NTIxMDJlN2NkMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://d14b7d3c-bdda-40ab-8e5e-ee1b67ef0357@ger1.ilia.iranstoresf.ir:2056?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:5443?sni=get.wlrus.cfd&fp=edge&security=tls#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMiLCJhZGQiOiIzNjYtMTA5NS5yYWJiaXRwcm8taW4tMy5jb20iLCJwb3J0IjoiMjcxMTgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiJlMzUxZDZkOC1jMTY3LTNlMDctOGZkYS0zZjJmNGVjMDc2MGIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145?#🇨🇴 Join+Telegram:@SolVPN 🇨🇴

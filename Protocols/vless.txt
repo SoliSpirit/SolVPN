@@ -440,3 +440,4 @@ vless://541cbb83-6c17-42b3-ba51-840c27962e02@185.170.211.186:443?encryption=none
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@85.209.135.10:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.sciencedirect.com&fp=qq&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&flow=xtls-rprx-vision#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://f4e637c2-f9c0-0bce-75f9-f1f4e44d1553@ansooyefilter-hhh.up.railway.app:443?&security=tls&fp=chrome&alpn=http%2F1.1&type=ws&headerType=none&host=ansooyefilter-hhh.up.railway.app&path=%2Fws%2Ff4e637c2-f9c0-0bce-75f9-f1f4e44d1553#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c83ee688-8f37-4f4c-94a2-5d6384950b5d@64.188.64.141:8443?encryption=none&security=none&type=ws&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

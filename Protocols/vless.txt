@@ -416,3 +416,4 @@ vless://43a13764-23dd-4e01-8b79-cde8a16e13ce@204.48.20.223:30906?security=realit
 vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=%2F&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.92.229:8443?path=%2F&security=tls&encryption=none&insecure=0&host=finland-9.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.155.169:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.92.229:8443?path=/&security=tls&encryption=none&insecure=0&host=usa-3.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

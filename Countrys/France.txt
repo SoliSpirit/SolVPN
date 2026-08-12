@@ -33,3 +33,4 @@ vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443?flow=xtls-r
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://49e76398-5127-4005-90cb-c2a971f745f1@172.67.74.2:443?&security=tls&fp=firefox&sni=lucxi.lightorbitlab-kiloilm.sbs&type=ws&headerType=none&host=lucxi.lightorbitlab-kiloilm.sbs&path=%2Fram#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=fr05.skorostnet.space&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=%2F&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

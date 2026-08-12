@@ -68,3 +68,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.162.237:22222?&type=tcp&head
 vless://5109835e-f49b-4094-a069-3ad3ce240e9d@169.40.138.65:27254?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@nl.n.belka.network:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=U8yhhQTieIzorSj_S2ZGKlac4zfbP1d_ywFAn-7NGDs&sid=8f3e9c4b1a8d6e53&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@130.61.150.162:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://47975fcf-1f4c-4808-9012-114569b081e4@n1.famlegacy.online:443?security=reality&encryption=none&pbk=5jbcp5sIqgP82WsskUhSENWnfk0ZUSWIBlbqKHkIJA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=n1.famlegacy.online#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

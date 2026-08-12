@@ -31,3 +31,4 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881#🇫🇷 Join+Telegr
 vless://f55e7f73-9b4c-44de-9572-e0e14ea0290c@51.250.88.94:443?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://49e76398-5127-4005-90cb-c2a971f745f1@172.67.74.2:443?&security=tls&fp=firefox&sni=lucxi.lightorbitlab-kiloilm.sbs&type=ws&headerType=none&host=lucxi.lightorbitlab-kiloilm.sbs&path=%2Fram#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

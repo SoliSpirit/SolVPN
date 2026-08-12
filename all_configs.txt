@@ -744,3 +744,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.155.169:62145?#🇳🇱 Join
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.92.229:8443?path=/&security=tls&encryption=none&insecure=0&host=usa-3.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?path=/21381/0kO2id8FMQ&security=tls&encryption=none&insecure=0&host=titandarkness.mooo.com&fp=chrome&type=ws&allowInsecure=0&sni=titandarkness.mooo.com#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYwIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjAiLCJhZGQiOiIzNjYtMTA5NS5yYWJiaXRwcm8taW4tMy5jb20iLCJwb3J0IjoyOTAzNSwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiZTM1MWQ2ZDgtYzE2Ny0zZTA3LThmZGEtM2YyZjRlYzA3NjBiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

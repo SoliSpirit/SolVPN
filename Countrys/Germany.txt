@@ -10,7 +10,7 @@ vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?encryption=none&
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&security=reality&sid=04bc695105689674&sni=4.oncloudnineservicestreang.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?&packet-encoding=xudp&sni=tn.tmn141246.ru&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@104.171.133.53:2200?host=rzd.ru&path=%2Fv1&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?&type=ws&headerType=none&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

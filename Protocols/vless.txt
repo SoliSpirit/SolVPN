@@ -375,3 +375,4 @@ vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none
 vless://271e3f7b-6afe-4104-b65b-afc2950f1638@apn.zyro-lab.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://271e3f7b-6afe-4104-b65b-afc2950f1638@cdn.pixo-space.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=icloud.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://641baa2f-6f74-4ecf-b948-032d19ba0142@88.216.130.130:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&security=reality&sid=2d127d11297df7de&sni=deepl.com&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://7596b721-f311-4194-96e6-b7b407cd6083@89.23.103.121:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qY222OdlPFi9DvfoHZNgp0UHLubudtKLLF_KMuDy-Ho&security=reality&sid=9795f83547c168d3&sni=www.debian.org&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

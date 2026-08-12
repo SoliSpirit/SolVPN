@@ -372,3 +372,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.71.241.48:22222?encryption=none&s
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://271e3f7b-6afe-4104-b65b-afc2950f1638@apn.zyro-lab.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://271e3f7b-6afe-4104-b65b-afc2950f1638@cdn.pixo-space.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=icloud.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://641baa2f-6f74-4ecf-b948-032d19ba0142@88.216.130.130:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&security=reality&sid=2d127d11297df7de&sni=deepl.com&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

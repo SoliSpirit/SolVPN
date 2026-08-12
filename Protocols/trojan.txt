@@ -1,4 +1,3 @@
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=86.106.84.195#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#🇵🇰 Join+Telegram:@SolVPN 🇵🇰

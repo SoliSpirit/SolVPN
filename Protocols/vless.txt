@@ -348,7 +348,6 @@ vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.105.38:443?type=tcp&headerTy
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@146.235.199.164:443?&security=tls&fp=chrome&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=/danfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@31.76.76.26:443?path=/&security=none&encryption=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.152:443?_t=94268a25&flow=xtls-rprx-vision&fp=firefox&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
-vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b6c29ae7-4748-4049-b642-b695c0d2c776@de3.neobo-tooth.ru:2053?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=E6u2RbffXIPvia5v5iIZVj6U_VpSBWmGTsHHNtH-5Rg&security=reality&sid=417063feab794131&sni=vk.ru&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.168.29:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴

@@ -722,3 +722,7 @@ vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality
 vless://0108346a-e5a8-485f-912c-e5b142cf0a80@62.60.188.240:443?security=reality&encryption=none&pbk=2HZyHolhLXqkOW3A6VGNJeDwC7lStJJmN1GhIVkpYWI&headerType=&fp=chrome&spx=/Mbpn9IVT0dACRul&type=tcp&sni=it.nvidia.com&sid=571a5e8791b284e7#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.138:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2064?&type=tcp&headerType=none&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2042?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2041?&type=tcp&headerType=none&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://49e76398-5127-4005-90cb-c2a971f745f1@172.67.74.2:443?&security=tls&fp=firefox&sni=lucxi.lightorbitlab-kiloilm.sbs&type=ws&headerType=none&host=lucxi.lightorbitlab-kiloilm.sbs&path=%2Fram#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.118.45:2053?type=ws&security=tls&sni=music1000.melobitmusic1.ir&path=/&host=music1000.melobitmusic1.ir#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

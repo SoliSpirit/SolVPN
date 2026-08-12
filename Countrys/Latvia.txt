@@ -1,1 +1,2 @@
 vless://6de486c1-dbad-4540-8875-98c35e9cd173@46.8.228.91:47424?&type=tcp&headerType=none&path=%2F#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
+vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?&type=tcp&headerType=none&path=%2F#🇱🇻 Join+Telegram:@SolVPN 🇱🇻

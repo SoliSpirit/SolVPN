@@ -357,3 +357,5 @@ vless://641baa2f-6f74-4ecf-b948-032d19ba0142@77.110.115.95:40443?security=realit
 vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%3D45.155.102.207%3Fu%3Df37bdce86d&security=tls&encryption=none&insecure=0&host=nova-mango-spark-7b1c.nova-ef15e0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=nova-mango-spark-7b1c.nova-ef15e0.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?&type=tcp&headerType=none&path=%2F#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
 vless://641baa2f-6f74-4ecf-b948-032d19ba0142@88.216.188.11:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&sid=09f696119a54ea3c&sni=deepl.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.125.162:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=%2F#🇴🇲 Join+Telegram:@SolVPN 🇴🇲

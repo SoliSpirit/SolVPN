@@ -45,3 +45,4 @@ trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?allowInse
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiIyMDcuNTYuMjI5LjIwMiIsInBvcnQiOjIwNTIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjliYjgxYTI4LTAwZDAtNGRjYy1iZjgxLTM2OTcyMWQyMDhjOSIsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJwYXRoIjoiOWJiODFhMjgtMDBkMC00ZGNjLWJmODEtMzY5NzIxZDIwOGM5LXZtIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:3415?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=%2F&security=tls&encryption=none&&host=josni.hoyes.cloudns.ch&type=ws&&sni=josni.hoyes.cloudns.ch#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

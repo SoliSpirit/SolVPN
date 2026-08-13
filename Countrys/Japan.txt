@@ -51,3 +51,4 @@ trojan://AE62539071@premium-weevil.rooster465.autos:443?allowInsecure=1#🇯🇵
 trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=1&sni=polished-imp.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

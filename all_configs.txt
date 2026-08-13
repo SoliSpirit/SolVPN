@@ -781,3 +781,6 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.245.162:62145?&type=tcp&hea
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.121.10:2096?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@193.233.246.80:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-yandex&fp=chrome&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@152.53.142.39:443?security=reality&type=tcp&fp=firefox&sni=kleinanzeigen.de&pbk=whjFaQUOWE6n1r89kfjPVeJtut_b_YD3YnfRtpC4QEU&sid=0782f882&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c2a08e4d-da8f-435e-90e8-65600ee185be@cf-ak-tw01.ziyoufly.xyz:443?&security=tls&fp=chrome&sni=cf-ak-tw01.ziyoufly.xyz&type=ws&headerType=none&host=cf-ak-tw01.ziyoufly.xyz&path=%2Fziyou#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&type=tcp&headerType=http&path=%2F&host=snapp.ir#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

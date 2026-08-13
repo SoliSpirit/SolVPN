@@ -22,3 +22,4 @@ vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.92.229:8443?path=%2F&securit
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@161.104.16.112:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://885bb65f-65a8-473b-a074-f6ccde529211@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=SvnTeamChannel.global.ssl.fastly.net&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@188.114.97.8:2087?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=da2.jakkkat.ir&fp=chrome&type=ws&allowInsecure=0&sni=da2.jakkkat.ir#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://d8523317-503e-43ad-b2c3-e5f77d725848@31.76.46.138:20422?security=reality&encryption=none&pbk=ZUQTvwYk_hDqSrw36uc18MkeEIXIGZZGsf5XWVwdqAQ&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=90#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

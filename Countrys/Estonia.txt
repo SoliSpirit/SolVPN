@@ -5,3 +5,4 @@ vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@95.85.224.76:443?encryption=none&fl
 vless://4593aa27-a2a1-412f-935f-3829495c0970@91.235.234.186:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=us7fs3.proxen.pdevinfra.com&fp=qq&pbk=g-WqfHKjac71MMtkmq5bIvTFavzXTCAnEI_17KoTNSQ#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&serviceName=grpc#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&host=estproxy2.lockdwn.com&path=/&security=none&type=ws#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://7170c66c-3c0b-4cd0-acbb-01774a6b7179@95.163.232.242:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=w.upgrade101.club&type=ws&headerType=none&host=w.upgrade101.club&path=%2Fws-f28c040ba3857b276cc22135#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

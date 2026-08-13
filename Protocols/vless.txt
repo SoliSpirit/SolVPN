@@ -378,3 +378,5 @@ vless://19ac8928-fe6e-49af-a223-9ca127e4018f@45.150.66.201:443?security=reality&
 vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-004.zensah3g.info.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.zensah3g.info.#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@161.104.16.112:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://641baa2f-6f74-4ecf-b948-032d19ba0142@85.198.69.110:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&sid=e6ada633d7771dda&sni=deepl.com#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?security=none&type=ws&path=/&host=fuckingfangbinxing.pusytroller.cf&packetEncoding=xudp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://885bb65f-65a8-473b-a074-f6ccde529211@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=SvnTeamChannel.global.ssl.fastly.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

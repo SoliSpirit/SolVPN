@@ -390,3 +390,6 @@ vless://885bb65f-65a8-473b-a074-f6ccde529211@199.232.78.159:443?&security=tls&fp
 vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%3D45.155.102.207%3Fu%3Df37bdce86d&security=tls&encryption=none&insecure=0&host=nova-mango-spark-7b1c.nova-ef15e0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=nova-mango-spark-7b1c.nova-ef15e0.workers.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.160.177:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.185.78:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=%2F&security=tls&encryption=none&&host=josni.hoyes.cloudns.ch&type=ws&&sni=josni.hoyes.cloudns.ch#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://641baa2f-6f74-4ecf-b948-032d19ba0142@193.233.233.56:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&security=reality&sid=c3d4e5f607182939&sni=www.samsung.com&type=tcp#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

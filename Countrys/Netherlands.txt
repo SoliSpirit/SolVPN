@@ -99,3 +99,6 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.59.205:62145?&type=tcp&heade
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.168.64:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.245.162:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.126:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.124:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.121:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

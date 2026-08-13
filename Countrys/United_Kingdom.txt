@@ -26,3 +26,4 @@ vless://19ac8928-fe6e-49af-a223-9ca127e4018f@45.150.66.201:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.86.242:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://b1e6a8df-effc-4b70-9132-4dca98085420@www.speedtest.net:8443?&security=tls&fp=chrome&sni=free-irancell.warzonmob.ir&type=ws&headerType=none&host=free-irancell.warzonmob.ir&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VElBOGtPckhLRnBjRWFta0xDcktKakpYaFV1am1wVzdONnZwNXJ0V2gyST0@129.151.94.56:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

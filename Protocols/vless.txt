@@ -416,3 +416,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.59.205:62145?&type=tcp&heade
 vless://cb700418-90ba-4da0-b319-64a2d46f754e@www.true.th:80?&type=ws&headerType=none&host=d3saayob5cvi7l.cloudfront.net&path=%2Fkind1#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?&type=tcp&headerType=none&path=%2F#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=%2F&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

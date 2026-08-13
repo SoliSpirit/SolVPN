@@ -73,3 +73,7 @@ vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&f
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.99.227:22224?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@130.61.40.253:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://AE62539071@sterling-macaw.rooster465.autos:443?allowInsecure=1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://AE62539071@moved-bluegill.rooster465.autos:443?allowInsecure=1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@130.61.180.245:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:2087?&security=tls&fp=chrome&sni=d21kxk4wisidbjifybg3.redjilas.ir&type=ws&headerType=none&host=d21kxk4wisidbjifybg3.redjilas.ir&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

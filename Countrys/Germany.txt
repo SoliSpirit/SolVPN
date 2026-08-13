@@ -78,3 +78,4 @@ trojan://AE62539071@moved-bluegill.rooster465.autos:443?allowInsecure=1#🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@130.61.180.245:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:2087?&security=tls&fp=chrome&sni=d21kxk4wisidbjifybg3.redjilas.ir&type=ws&headerType=none&host=d21kxk4wisidbjifybg3.redjilas.ir&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@152.53.142.39:443?security=reality&type=tcp&fp=firefox&sni=kleinanzeigen.de&pbk=whjFaQUOWE6n1r89kfjPVeJtut_b_YD3YnfRtpC4QEU&sid=0782f882&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7bd8e88e-56d3-4396-87b3-854315db88f5@2.27.18.136:443?security=reality&encryption=none&pbk=lFP2ImTpt15m2yw6EivkehLp6smfaH8GRDoXdmcJbVM&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.icloud.com&sid=f070801a38d9f30e#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

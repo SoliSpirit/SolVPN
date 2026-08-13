@@ -85,3 +85,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFp
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.196.65:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.155.169:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://7170c66c-3c0b-4cd0-acbb-01774a6b7179@81.163.23.248:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=selec248.apruxdomain.website&type=ws&headerType=none&host=selec248.apruxdomain.website&path=%2Favi%2Fv1%2Finfo#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0272f158-a429-b951-f096-2e49159adef3@test-production-a4ad.up.railway.app:443?path=/ws/0272f158-a429-b951-f096-2e49159adef3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=test-production-a4ad.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test-production-a4ad.up.railway.app#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

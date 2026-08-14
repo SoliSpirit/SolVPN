@@ -1,13 +1,10 @@
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
-vless://9a9fe945246a431ebd051cb981464c8d@2.59.163.45:59992?&type=tcp&headerType=none&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=31.76.251.127.cdn-one.org&path=%2F10336%2F2GCOqG7bvA#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&sni=relaxed-gull.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?fp=chrome&host=31.76.251.127.cdn-one.org&path=%2F10336%2F2GCOqG7bvA&security=tls&sni=31.76.251.127.cdn-one.org&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEiLCJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsInBvcnQiOiI4MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjI1NzFmNzYyLTAzYWYtNGMzMC04ZWI5LTY2NTIxMDJlN2NkMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://c8b5f6c9-83ff-0063-be9c-f997a5b2f692@185.16.36.200:43439?type=grpc&headerType=none&security=reality&encryption=none&sni=cdn-up.perecbass.ru&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0df2f86d58385f90&serviceName=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
-vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2041?&type=tcp&headerType=none&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.118.45:2053?type=ws&security=tls&sni=music1000.melobitmusic1.ir&path=/&host=music1000.melobitmusic1.ir#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEiLCJhZGQiOiIzNjYtMTA5NS5yYWJiaXRwcm8taW4tMy5jb20iLCJwb3J0IjoiMjkwODEiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTM1MWQ2ZDgtYzE2Ny0zZTA3LThmZGEtM2YyZjRlYzA3NjBiIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IjM2Ni0xMDk1LnJhYmJpdHByby1pbi0zLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?allowInsecure=1#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

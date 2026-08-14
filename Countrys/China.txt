@@ -36,3 +36,4 @@ vless://e5ce79f9-fdac-4e80-8286-a15b96fded72@103.148.73.176:8443?&security=tls&f
 trojan://PI36027154@moved-osprey.rooster465.autos:443?allowInsecure=0&sni=moved-osprey.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTEyOC1nY206OTI5YzVjZTgtMjIyYi00ZDkzLWE4MGYtOWVkNTgwZTJlOGMx@0ccenterhk-c.center-link.org:611#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiI0Ny44My4yNDcuMTUwIiwicG9ydCI6IjgwMCIsInR5cGUiOiJodHRwIiwiaWQiOiI1OWMwNjk3Ni0zMDA5LTQ4ZDUtODlmMy1iZDk0ZDRhMTIwYTAiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii94IiwiaG9zdCI6ImRvd24tY2RuLmRpbmd0YWxrLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

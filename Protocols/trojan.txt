@@ -86,3 +86,4 @@ trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#🇯🇵 Jo
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PI36027154@moved-osprey.rooster465.autos:443?allowInsecure=0&sni=moved-osprey.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

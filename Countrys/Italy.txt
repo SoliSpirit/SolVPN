@@ -1,5 +1,4 @@
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://e27dce75-b33b-49b6-afb7-17e29ce67bb1@92.63.99.228:7899?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=YXVnk7FdM6IXOlFqisWurmtfmoftXLqqsrJ-JqqP6Rc&flow=xtls-rprx-vision#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.188:10901#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.194.61:9090#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

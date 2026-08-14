@@ -147,3 +147,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiI2Ni40Mi43Mi4xNDYiLCJwb3J0IjoiNDYzNzMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjk4ZmRlZmQtMWI2MS00MDUyLWM1YjUtMmExOTZmNmUwNTQxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9teS12bWVzcy1wYXRoIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://0010996f-3eab-4804-9b3a-3a889d6767fc@krhtybay.catcat321.com:20095?allowInsecure=1&sni=iepl.ush2.cat.bilibili.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.185.207:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq&packetEncoding=xudp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

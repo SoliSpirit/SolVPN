@@ -58,7 +58,6 @@ trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://ND91608427@35.86.90.51:443?security=tls&sni=natural-collie.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://BxceQaOe@95.40.61.23:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

@@ -1,1 +1,1 @@
-vless://c50680f6-8dc9-44cc-a8fe-72cab1f7f51b@87.252.237.219:8443?security=reality&encryption=none&pbk=VE6aUAkSRew5ySZw80myEtL1LOWwDo7BuYyuIKaYPUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#🇧🇾 Join+Telegram:@SolVPN 🇧🇾
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?sni=ru104.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇧🇾 Join+Telegram:@SolVPN 🇧🇾

@@ -376,3 +376,5 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&
 vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=%2F%3Fu%3D73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://cab38fce-e08d-4a3d-9828-dcb96b18d132@smm-01.smmmdesign.com:443?&security=tls&fp=chrome&sni=smm-01.smmmdesign.com&type=ws&headerType=none&host=smm-01.smmmdesign.com&path=%2Fvless#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.250.13:22223?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://5efabea4-f6d4-91fd-b8f0-17e004c89c68@node67.lunes.host:3087?encryption=none&security=none&type=ws&host=node67.lunes.host&path=/@s5gydl#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -68,3 +68,4 @@ vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@de-dp-01.com:8443?security=reality&
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.166.243:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206UGNPRTUybHlHTzZNRlJtNi9tNWhmdUMzTnBOb2NrRHZjbk5ZZ3ExOE5pND0@79.175.134.49:39880#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ac3501f6-365f-4fbf-8ca0-8cd323d72b31@2.26.86.140:10006?&type=ws&headerType=none&path=%2Ftunnel-5-ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?path=%2F%3Fu%3D1e5b0dc4c9&security=tls&encryption=none&insecure=0&host=nova-comet-core-5d04.ilia-talebi09.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-core-5d04.ilia-talebi09.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

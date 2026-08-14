@@ -10,3 +10,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?allowInsecure=1#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://AE62539071@relative-locust.rooster465.autos:443?allowInsecure=1#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

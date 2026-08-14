@@ -88,3 +88,15 @@ trojan://PI36027154@moved-osprey.rooster465.autos:443?allowInsecure=0&sni=moved-
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&sni=humorous-llama.rooster465.autos#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@52.68.175.30:443?security=tls&sni=on-roughy.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@maximum-elk.rooster465.autos:443?security=tls&sni=maximum-elk.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@topical-shark.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://0010996f-3eab-4804-9b3a-3a889d6767fc@krhtybay.catcat321.com:20095?allowInsecure=1&sni=iepl.ush2.cat.bilibili.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@charming-puma.rooster465.autos:443?allowInsecure=0#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@great-wasp.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@square-tortoise.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

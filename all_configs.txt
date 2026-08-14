@@ -779,3 +779,15 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.150.85:62145?&type=tcp&head
 vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@pl4.lckdwn.ru:443?&type=ws&headerType=none&host=pl4.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxNTcuMjU0LjIyNy4xNjMiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImViYTI0ZDFkLTBjMmItNGI2Ny04NjJmLWNhZTY4NjI2ZjNmYSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2FlNjg2MjZmM2ZhIiwiaG9zdCI6IiIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiI2Ni40Mi43Mi4xNDYiLCJwb3J0IjoiNDYzNzMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjk4ZmRlZmQtMWI2MS00MDUyLWM1YjUtMmExOTZmNmUwNTQxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9teS12bWVzcy1wYXRoIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@52.68.175.30:443?security=tls&sni=on-roughy.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@maximum-elk.rooster465.autos:443?security=tls&sni=maximum-elk.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@topical-shark.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://0010996f-3eab-4804-9b3a-3a889d6767fc@krhtybay.catcat321.com:20095?allowInsecure=1&sni=iepl.ush2.cat.bilibili.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@charming-puma.rooster465.autos:443?allowInsecure=0#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@great-wasp.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@square-tortoise.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

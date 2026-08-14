@@ -749,3 +749,23 @@ trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&sni=humo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.114.238:1080#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vmess://eyJhZGQiOiIxNDAuODMuNTcuMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNnLjExMTYwMzIxLmRlNS5uZXQiLCJpZCI6IjFmMDFlMzg5LWZiY2ItNDk0Yy1lNDZhLTIxMGVjMzYzMjljMiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTMxMTgiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIiwic2N5IjoiYXV0byIsInNuaSI6InNnLjExMTYwMzIxLmRlNS5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiI2NS4xMDkuMjA4LjIzNiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjODk2NDA2Yi1jY2M0LTRjMzctOGI4Yy0xNTk2NGYzMmE5YTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ2OTYyIiwicHMiOiJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NDFWN1BTSlNCUzdmN0FnRFp5WUVtNVpjUC9ydVlsM09Gam81d1dUT2hpND0@147.15.18.110:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OWpicjRyTi9qVUhBRHJYQXZ6b3R0NGpBcmRFN3A5a21HOVlhMkRKdy9pdz0@163.176.115.182:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6T2R3bDZmVFptWnJCY2FIMldORElocUR1NE1aTy81eUZDVE8yQ2VOOEc1TT0@163.176.212.36:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6V3kxVUltam40c2xJTUdrN2FscmFrdCt5eWw5WUhYQ01odE81UnlwWERQRT0@163.176.240.6:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N3BUdWVuMndQT0ZwZkNUdnNRQ1cvekUzNWQ5ekxxb2lZb0k5TEVkK3Q2cz0@163.176.254.175:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VDhUdEVZSEFxSnY1N2tTakpzamlLeFRJZkRndVQ3T1c4U1JGMndBWTdtTT0@163.176.64.177:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dm0vNTR4NngxanNoVzhUSDVCUE8yTUFNdFExTTVlc3JGcGIrRHlkU2Joaz0@163.176.64.97:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dG1Ob0lURGxCQzZ1R3B2UFlqb3U3UFpLQUgyTU9zOXRIamlnMzcrVFQvUT0@163.176.85.126:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6enZGMDhCd2QyajE3cjNTZytWSUZSS3ZGOUp1SHFtOWU0QUpNOG9wZWZZMD0@163.176.9.233:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6eEJLUk9Fd2NFQkM4U1lJc21yS0o1Zkl6ODVlTkZoTVZrNHF5NHpiblBkMD0@164.152.59.44:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.20:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.224.224:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.225.34:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.69:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.237.218:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.158.7.204:22224?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZWQiLCJhZGQiOiJ3d3cudHJ1ZS50aCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJhMTUwZDU1NC1lOTYyLTQ2MzItODI5Zi1lZTU4M2FkYTNmOTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2h0dW4iLCJob3N0IjoiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.visa.cn:443?&security=tls&fp=edge&sni=tl.520783.xyz&type=ws&headerType=none&host=tl.520783.xyz&path=%2Fassets%2Fdist%2Fapp-update-payload.dat#🇹🇭 Join+Telegram:@SolVPN 🇹🇭

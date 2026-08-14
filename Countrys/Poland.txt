@@ -9,3 +9,4 @@ vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.118.45:2053?type=ws&security
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEiLCJhZGQiOiIzNjYtMTA5NS5yYWJiaXRwcm8taW4tMy5jb20iLCJwb3J0IjoiMjkwODEiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTM1MWQ2ZDgtYzE2Ny0zZTA3LThmZGEtM2YyZjRlYzA3NjBiIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IjM2Ni0xMDk1LnJhYmJpdHByby1pbi0zLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?allowInsecure=1#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://AE62539071@relative-locust.rooster465.autos:443?allowInsecure=1#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

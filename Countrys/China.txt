@@ -27,7 +27,6 @@ vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vmess://eyJhZGQiOiJuMTc2MTI5Njg5Mi40dTltYS5pY3UiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzYxMjk2ODkyLjR1OW1hLmljdSIsImlkIjoiZDZkYjEyOGYtNDJiOS00MGIxLWI5NzktNWUwMDk1ZmE1OTNjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6Im4xNzYxMjk2ODkyLjR1OW1hLmljdSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://BxceQaOe@95.40.61.23:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://t3re5bgbot4z4z3t@xiweini.dpdns.org:30101?allowInsecure=1&sni=xiweini.dpdns.org#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.39.190.143:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@16.162.161.131:29444?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:50887?allowInsecure=1&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

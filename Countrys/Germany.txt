@@ -83,3 +83,5 @@ vless://5383fb97-1178-4709-9a25-b767b743e911@185.247.16.49:2200?&type=ws&headerT
 trojan://AE62539071@teaching-gnu.rooster465.autos:443?security=tls&sni=teaching-gnu.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://1c2b69b0-c777-40fc-8a29-f87c28a451cd@212.100.171.149:5025?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://699dde7d-4a08-4dd0-b081-7a87407a23fc@3.68.4.250:443?security=none&headerType=none&type=tcp&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@81.31.210.138:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&security=reality&sid=bbab5af2663db00a&sni=nl1.murhost.network&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?security=reality&type=tcp&fp=firefox&sni=www.telekom.de&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&sid=8f892fa1&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

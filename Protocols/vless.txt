@@ -404,3 +404,4 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@69.84.182.152:2095?&type=ws&headerT
 vless://bef7acd0-8b81-431d-bcce-a76c3da658ae@sb1.artinnet.shop:443?security=reality&encryption=none&pbk=xyMx8lBZ6dn2EO6G3Alt_7bQueu_eZgQ4kZEbMFXL3E&headerType=none&fp=chrome&spx=/XzJUSkVgcj0tycU&type=tcp&sni=w.wiki&sid=ce#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.130:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://1c2b69b0-c777-40fc-8a29-f87c28a451cd@212.100.171.149:5025?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🇲🇽 Join+Telegram:@SolVPN 🇲🇽

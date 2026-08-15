@@ -130,3 +130,4 @@ trojan://AE62539071@teaching-gnu.rooster465.autos:443?security=tls&sni=teaching-
 trojan://AE62539071@eager-camel.rooster465.autos:443?security=tls&sni=eager-camel.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls&sni=viable-serval.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://AE62539071@firm-krill.rooster465.autos:443?security=tls&sni=firm-krill.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@warm-aardvark.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=warm-aardvark.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

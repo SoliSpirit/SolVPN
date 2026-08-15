@@ -123,3 +123,7 @@ trojan://FH72359861@35.159.21.7:443?allowInsecure=0&sni=summary-lemming.rooster4
 trojan://FH72359861@3.253.78.205:443?allowInsecure=0&sni=balanced-heron.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://FH72359861@54.180.158.231:443?allowInsecure=0&sni=precise-locust.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://FH72359861@54.238.194.119:443?allowInsecure=0&sni=relaxing-marten.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@darling-mongrel.rooster465.autos:443?allowInsecure=1&sni=darling-mongrel.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+trojan://FH72359861@modern-bedbug.rooster465.autos:443?allowInsecure=1&sni=modern-bedbug.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1&sni=magnetic-caiman.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1&sni=primary-leech.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

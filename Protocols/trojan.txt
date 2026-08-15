@@ -134,3 +134,14 @@ trojan://AE62539071@firm-krill.rooster465.autos:443?security=tls&sni=firm-krill.
 trojan://FH72359861@warm-aardvark.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=warm-aardvark.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://FH72359861@balanced-stag.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=balanced-stag.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
+trojan://FH72359861@natural-swan.rooster465.autos:443?allowInsecure=1#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://FH72359861@champion-panther.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@endless-kiwi.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://FH72359861@one-dove.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@helping-shark.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@complete-narwhal.rooster465.autos:443?allowInsecure=1&sni=complete-narwhal.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@summary-firefly.rooster465.autos:443?allowInsecure=1#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

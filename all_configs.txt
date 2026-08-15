@@ -786,3 +786,4 @@ vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:2200?path=%2Fv1&sec
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?&type=ws&headerType=none&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5383fb97-1178-4709-9a25-b767b743e911@185.247.16.49:2200?&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?encryption=none&type=ws&path=/&host=www.icloud.com#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

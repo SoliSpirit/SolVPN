@@ -35,3 +35,4 @@ vless://49e76398-5127-4005-90cb-c2a971f745f1@speedtest.org:443?encryption=none&f
 ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@antony.athforce.ir:51058#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://ab00e12c-09f1-41c6-8d60-7c6a83f5ca9d@51.77.217.70:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sid=e52e7fd8585ac5c1&sni=www.apple.com&fp=chrome&headerType=none&pbk=6j7SZO4StX_8QkHX9sATJug5nQ4X4XoTj_6B7bClEw4&security=reality&type=tcp&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://7595cd50-9326-48e4-a7bc-802e85e643ec@france.zestmarket.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

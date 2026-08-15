@@ -53,3 +53,17 @@ trojan://FH72359861@great-wasp.rooster465.autos:443?allowInsecure=0#🇯🇵 Joi
 trojan://FH72359861@square-tortoise.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://FH72359861@trusting-elf.rooster465.autos:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTI1Ni1nY206ZzlTbFJCT2Y5RHk5WGpmMA@103.115.18.48:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@equal-labrador.rooster465.autos:443?allowInsecure=1&sni=equal-labrador.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@welcome-owl.rooster465.autos:443?allowInsecure=1&sni=welcome-owl.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://XG59623478@grateful-owl.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@driven-bulldog.rooster465.autos:443?allowInsecure=1&sni=driven-bulldog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@bright-quagga.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@grateful-leech.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@communal-troll.rooster465.autos:443?allowInsecure=1&sni=communal-troll.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@living-hagfish.rooster465.autos:443?allowInsecure=1&sni=living-hagfish.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@engaged-lionfish.rooster465.autos:443?allowInsecure=1&sni=engaged-lionfish.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@13.231.237.228:443?allowInsecure=0&sni=classic-pug.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@13.231.180.231:443?allowInsecure=0&sni=set-gazelle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@18.183.245.11:443?allowInsecure=0&sni=bright-buffalo.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@3.112.250.103:443?allowInsecure=0&sni=flexible-pony.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@54.238.194.119:443?allowInsecure=0&sni=relaxing-marten.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

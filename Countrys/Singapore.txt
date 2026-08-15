@@ -49,3 +49,4 @@ trojan://FH72359861@eminent-panther.rooster465.autos:443?allowInsecure=1#🇸�
 trojan://FH72359861@bold-eagle.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&sni=charming-ox.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

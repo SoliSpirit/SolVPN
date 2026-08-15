@@ -1,1 +1,1 @@
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@49.13.64.206:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇷🇸 Join+Telegram:@SolVPN 🇷🇸
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@217.149.29.251:9888?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🇷🇸 Join+Telegram:@SolVPN 🇷🇸

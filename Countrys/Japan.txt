@@ -69,3 +69,7 @@ trojan://FH72359861@3.112.250.103:443?allowInsecure=0&sni=flexible-pony.rooster4
 trojan://FH72359861@54.238.194.119:443?allowInsecure=0&sni=relaxing-marten.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@eager-camel.rooster465.autos:443?security=tls&sni=eager-camel.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@champion-panther.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@endless-kiwi.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@helping-shark.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

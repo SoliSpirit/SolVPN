@@ -153,3 +153,5 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@69.84.182.152:2095?&type=ws&headerT
 trojan://FH72359861@warm-aardvark.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=warm-aardvark.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?encryption=none&type=ws&host=download.pusytroller.gq&path=/&security=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTEyOC1nY206eG82azg0bDdiMDBuMmhKcA@23.185.200.135:57841#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://5e3f974b-06fc-4555-907a-6681391b7c17@186.246.19.79:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

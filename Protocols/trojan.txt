@@ -149,3 +149,5 @@ trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?allowInsecure=0&sn
 trojan://FH72359861@national-stingray.rooster465.autos:443?allowInsecure=1&sni=national-stingray.rooster465.autos#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://FH72359861@light-filly.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

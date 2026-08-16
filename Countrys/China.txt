@@ -38,3 +38,4 @@ vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?security=real
 vmess://eyJhZGQiOiI0My4xMzIuMTkyLjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFlODYyZTFkLTNiOGMtNDQzYS0wMjdiLTM3YzZjNjllZjQzYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTUyNyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 trojan://FH72359861@modern-bedbug.rooster465.autos:443?allowInsecure=1&sni=modern-bedbug.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://FH72359861@natural-swan.rooster465.autos:443?allowInsecure=1#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

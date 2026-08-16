@@ -1,6 +1,6 @@
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&serviceName=grpc#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y@tr-1.stunnel.cc:8444#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@104.20.37.53:80?&sni=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&type=ws&headerType=none&host=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&path=%2Fstream%2FTrexBridge%2Fb52a90ada6ab#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://50414e45-4c5f-5a45-5553-4d64f1370eeb@88.216.69.144:443?encryption=none&security=tls&sni=r5zenrelur2s.pqzdileiu8es.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=r5zenrelur2s.pqzdileiu8es.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F4d64f1370eeb%2Floc-0#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnAxVHhUUlVJZ0hzPQ@e4.cover20.ir:16156#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

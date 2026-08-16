@@ -81,3 +81,4 @@ vless://68dc7ee8-179e-4dff-8275-2c4ebc5c03ea@de.n.belka.network:443?security=rea
 vless://4907461d-bd34-418a-b4b9-6106f979c686@germany.panelbaz.com:5000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7d3963b5-4029-4878-a251-2437deaebcd7@apn.zyro-lab.com:1324?security=none&type=ws&headerType=&path=?ed=2560&host=api16-access-wf-sg.pangle.io#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=SvnTeamChannel.global.ssl.fastly.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?encryption=none&security=tls&sni=new01.asaltabie.monster&type=ws&host=new01.asaltabie.monster&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

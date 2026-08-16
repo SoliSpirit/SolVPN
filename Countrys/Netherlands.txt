@@ -99,3 +99,4 @@ vless://884d811f-577b-421e-aabb-608660b0ecfa@94.159.117.66:9894?encryption=none&
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?type=tcp&headerType=none&sid=dd3ff38418d29d22&fp=chrome&security=reality&sni=eu-west.cendora.ru&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&flow=xtls-rprx-vision&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.247.155:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.188.131:62145?encryption=none&security=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

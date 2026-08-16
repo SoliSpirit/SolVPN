@@ -749,3 +749,6 @@ trojan://FH72359861@touching-ostrich.rooster465.autos:443?allowInsecure=0&sni=to
 vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?security=reality&encryption=none&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&headerType=none&fp=chrome&type=tcp&sni=ru2.skydrgn-online.online&sid=0b#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?security=none&encryption=none&headerType=none&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq&packetEncoding=xudp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiJib2FyZC0wMi5kZG5za3VubHVuLmNvbSIsInBvcnQiOiIxMTk4NSIsInR5cGUiOiJub25lIiwiaWQiOiJhOGJjY2U0My1hYmRhLTMxNWItOGU4MS1lM2U2NWJjYjNkMDciLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiYm9hcmQtMDIuZGRuc2t1bmx1bi5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

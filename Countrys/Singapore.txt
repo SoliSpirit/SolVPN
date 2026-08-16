@@ -46,3 +46,4 @@ trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&sni=charmin
 trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Z211azJXNGZUMmREQWVRcVJlWUp2WDNjVkdURUp4R0tRSDR6Z0V1Ty82bz0@161.118.216.2:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

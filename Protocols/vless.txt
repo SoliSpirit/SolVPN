@@ -404,3 +404,5 @@ vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&e
 vless://13da3f61-36bc-4f4f-9b49-4152de570bd3@172.67.161.109:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=1-m14.aYUTTHAYa-1.KdNs.Fr&type=ws&headerType=none&host=1-m14.aYUTthaya-1.kdns.fr&path=%2FawsDCktnglce5OhBQMBK8JLBwh2V#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?security=tls&type=ws&path=/shalana&host=shalana.xyz&packetEncoding=xudp&sni=shalana.xyz&fp=chrome#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?encryption=none&type=tcp&security=reality&headerType=none&sni=gb1.murhost.network&fp=chrome&insecure=1&allowInsecure=1&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&sid=84f9881951050a30&flow=xtls-rprx-vision#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://b3eed393-e990-40a0-978c-689d40be9da4@86.107.178.66:448?type=tcp&security=reality&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&fp=chrome&sni=www.samsung.com&sid=52a74e01683e9173#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565?&type=ws&headerType=none&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

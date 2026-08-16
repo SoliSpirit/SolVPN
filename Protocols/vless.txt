@@ -371,3 +371,4 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@91.196.35.146:443?encryption=none&t
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@mws.tunnelgate.org:14443?&security=tls&fp=qq&alpn=http%2F1.1&sni=mws.tunnelgate.org&type=ws&headerType=none&host=mws.tunnelgate.org&path=%2Fru#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@www.visa.cn:443?&security=tls&fp=edge&sni=tl.520783.xyz&type=ws&headerType=none&host=tl.520783.xyz&path=%2Fassets%2Fdist%2Fapp-update-payload.dat#🇹🇭 Join+Telegram:@SolVPN 🇹🇭
+vless://788312f9-b95e-46da-9a39-623d798de761@164.37.100.59:443?security=tls&encryption=none&type=grpc&serviceName=rpc.v1.SyncService&sni=edge1.numberoneok.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

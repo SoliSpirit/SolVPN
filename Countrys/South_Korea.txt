@@ -31,3 +31,4 @@ trojan://FH72359861@one-dove.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+
 trojan://FH72359861@complete-narwhal.rooster465.autos:443?allowInsecure=1&sni=complete-narwhal.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

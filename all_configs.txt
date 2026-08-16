@@ -815,3 +815,4 @@ trojan://FH72359861@light-filly.rooster465.autos:443?security=tls#🇯🇵 Join+
 trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.185.207:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

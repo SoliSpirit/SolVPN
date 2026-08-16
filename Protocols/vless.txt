@@ -392,3 +392,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.16:443?path=%2F&securit
 vless://7d3963b5-4029-4878-a251-2437deaebcd7@apn.zyro-lab.com:1324?security=none&type=ws&headerType=&path=?ed=2560&host=api16-access-wf-sg.pangle.io#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://884d811f-577b-421e-aabb-608660b0ecfa@94.159.117.66:9894?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=SvnTeamChannel.global.ssl.fastly.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?encryption=none&security=tls&sni=new01.asaltabie.monster&type=ws&host=new01.asaltabie.monster&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

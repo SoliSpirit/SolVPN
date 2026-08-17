@@ -31,3 +31,4 @@ trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1
 trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://1ef571c9-b9f0-48bb-a6d6-866c98c80eb9@213.176.73.235:443?sni=note.magazinetut.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://dc495bf5-9591-43aa-83de-d8dc7a8769b8@145.223.68.48:443?&type=ws&headerType=none&path=%2Fvless#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -747,3 +747,4 @@ ss://YWVzLTEyOC1nY206OTI5YzVjZTgtMjIyYi00ZDkzLWE4MGYtOWVkNTgwZTJlOGMx@0ccenterhk
 vless://ee71862e-816b-4d26-97d2-f200898e385d@144.124.238.87:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cisco.com&fp=chrome&pbk=RczU3DRITvFHE2I8iPI2aWMtiZpVrd21lFTNE1Mmwz8&sid=b7bbbeeeb367bf3a&spx=/&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://3ab2615c-689d-463b-8990-a95013894348@45.91.52.125:443?security=reality&encryption=none&pbk=8bkjYMx4EXdRTHTgQ6wMaeyGl-HfskzixE0Is-kMQXU&fp=chrome&sni=www.cloudflare.com&sid=e3c60a1b71b462fa&type=tcp&flow=xtls-rprx-vision#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://dc495bf5-9591-43aa-83de-d8dc7a8769b8@145.223.68.48:443?&type=ws&headerType=none&path=%2Fvless#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

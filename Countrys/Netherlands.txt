@@ -95,3 +95,4 @@ vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0f6ecc1c-4cd4-4f69-970e-a385d9c5afe3@nl-04.vacvps.com:443?security=reality&encryption=none&pbk=LyVBHJ_qK2ron24Qfw_mhZ8n-T94xHCzXPrFM02EaQw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-04.vacvps.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://7c49a866-4f78-4dd0-bb4a-430e75d4ee70@37.252.20.41:204?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

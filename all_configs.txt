@@ -719,3 +719,8 @@ trojan://FH72359861@tough-tuna.rooster465.autos:443?security=tls#🇺🇸 Join+T
 vless://0f6ecc1c-4cd4-4f69-970e-a385d9c5afe3@nl-04.vacvps.com:443?security=reality&encryption=none&pbk=LyVBHJ_qK2ron24Qfw_mhZ8n-T94xHCzXPrFM02EaQw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-04.vacvps.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTI1Ni1nY206SWpMamxIYk5DZ3cyRDRkVg@212.192.15.41:8388#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?security=tls&type=ws&path=/@Marisa_kristi&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&packetEncoding=xudp&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&encryption=none#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://FH72359861@great-wasp.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@grateful-crawdad.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

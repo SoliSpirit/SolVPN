@@ -32,3 +32,4 @@ trojan://PQ05174892@rare-lion.rooster465.autos:443?allowInsecure=0&sni=rare-lion
 trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://PQ05174892@15.164.227.68:443?allowInsecure=0&sni=united-grouse.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://PQ05174892@precious-stag.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://PQ05174892@awake-redbird.rooster465.autos:443?allowInsecure=1&sni=awake-redbird.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

@@ -170,3 +170,4 @@ trojan://AE62539071@skilled-monster.rooster465.autos:443?security=tls#🇰🇷 J
 trojan://AE62539071@grand-grub.rooster465.autos:443?security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://AE62539071@glorious-glider.rooster465.autos:443?security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=raw&security=tls&sni=193.124.46.65&fp=chrome&alpn=http/1.1#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+trojan://HC04361579@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

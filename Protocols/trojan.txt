@@ -165,3 +165,8 @@ trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&hea
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 trojan://FH72359861@sacred-shepherd.rooster465.autos:443?security=tls&sni=sacred-shepherd.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@square-pheasant.rooster465.autos:443?security=tls#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+trojan://AE62539071@skilled-monster.rooster465.autos:443?security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://AE62539071@grand-grub.rooster465.autos:443?security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://AE62539071@glorious-glider.rooster465.autos:443?security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=raw&security=tls&sni=193.124.46.65&fp=chrome&alpn=http/1.1#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

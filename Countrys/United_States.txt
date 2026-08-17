@@ -134,3 +134,4 @@ vless://b222ebc7-569c-45ca-a0e4-756f171b247b@92.63.99.228:4353?type=tcp&security
 vless://02f74ad5-487e-4809-a5b9-d4a05e9a7e57@70.39.178.250:443?security=reality&encryption=none&pbk=fZ_KWK62j51ZCqS5P6QdPdeLoO2cLkQUI_YrExbK6AQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=berkararotel.com.tm&sid=417739fc12#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://FH72359861@tough-tuna.rooster465.autos:443?security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?path=%2Fusserver&security=none&encryption=none&host=uspanel.unixzone.us&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

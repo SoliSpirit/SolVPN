@@ -97,3 +97,4 @@ vless://0f6ecc1c-4cd4-4f69-970e-a385d9c5afe3@nl-04.vacvps.com:443?security=reali
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://7c49a866-4f78-4dd0-bb4a-430e75d4ee70@37.252.20.41:204?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ee71862e-816b-4d26-97d2-f200898e385d@144.124.238.87:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cisco.com&fp=chrome&pbk=RczU3DRITvFHE2I8iPI2aWMtiZpVrd21lFTNE1Mmwz8&sid=b7bbbeeeb367bf3a&spx=/&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

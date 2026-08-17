@@ -159,3 +159,5 @@ trojan://PQ05174892@witty-duckling.rooster465.autos:443?allowInsecure=1&sni=witt
 trojan://PQ05174892@welcome-monitor.rooster465.autos:443?allowInsecure=0&sni=welcome-monitor.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://PQ05174892@13.212.91.165:443?allowInsecure=0&sni=composed-sheep.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://PQ05174892@stable-python.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://XG59623478@grateful-owl.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

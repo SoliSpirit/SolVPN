@@ -81,3 +81,5 @@ trojan://PQ05174892@inspired-hound.rooster465.autos:443?allowInsecure=1#🇯🇵
 trojan://PQ05174892@concise-guinea.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PQ05174892@witty-duckling.rooster465.autos:443?allowInsecure=1&sni=witty-duckling.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://XG59623478@grateful-owl.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?&type=tcp&headerType=none&path=%2F#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@sacred-shepherd.rooster465.autos:443?security=tls&sni=sacred-shepherd.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

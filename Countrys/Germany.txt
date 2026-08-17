@@ -75,3 +75,4 @@ vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@64.188.112.82:443?encryption=none&f
 vless://53b7fdec-4ccb-481a-8d98-83aa19509330@37.18.14.33:2096?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&host=lsjaoijji.global.ssl.fastly.neT.&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?security=reality&type=tcp&fp=firefox&sni=www.telekom.de&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&sid=8f892fa1&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://3ce9c383-8ed5-416d-b880-614cc02b9bd2@ge51.slovovpn.com:63535?security=reality&encryption=none&pbk=D9l1RH1kfFdg7WgL02E6e0Xivy7WBONn5_SJ9G_caRQ&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=8643d220#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -146,3 +146,8 @@ trojan://PQ05174892@15.164.227.68:443?allowInsecure=0&sni=united-grouse.rooster4
 trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?allowInsecure=0&sni=ethical-raccoon.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=0&sni=intense-monarch.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://PQ05174892@proud-escargot.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@inspired-hound.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@precious-stag.rooster465.autos:443?allowInsecure=1#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://PQ05174892@13.212.174.21:443?allowInsecure=0&sni=fleet-pony.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://PQ05174892@54.169.228.116:443?allowInsecure=0&sni=amusing-grub.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

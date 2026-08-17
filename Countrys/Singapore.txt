@@ -48,3 +48,4 @@ trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp
 vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?security=tls&type=ws&path=/shalana&host=shalana.xyz&packetEncoding=xudp&sni=shalana.xyz&fp=chrome#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565?&type=ws&headerType=none&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&encryption=none&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3b0b73e5#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

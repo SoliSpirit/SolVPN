@@ -104,3 +104,5 @@ vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@193.233.126.97:443?security=reality
 vless://23da643f-f43c-4c83-af3f-4193eacd878d@87.228.101.34:443?type=grpc&security=reality&sni=api.selectel.ru&fp=random&pbk=3ZHq23cnEeKllJQYQ_S5TsAv-4grmPFAOY31z3QKOBU&sid=aaaa&serviceName=zrvxqfpn#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.225.158:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.175:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://c82678cc-57d3-0c94-3fb6-5299f1a59843@69.46.46.25:443?&security=tls&fp=ios&sni=rvg-production-398a.up.railway.app&type=ws&headerType=none&host=rvg-production-398a.up.railway.app&path=%2Fws%2Fc82678cc-57d3-0c94-3fb6-5299f1a59843#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.58.85:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

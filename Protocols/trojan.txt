@@ -10,7 +10,6 @@ trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=d
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&sni=relaxed-gull.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://ND91608427@ace-starling.rooster465.autos:443?allowInsecure=1&sni=ace-starling.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
-trojan://ND91608427@devoted-tapir.rooster465.autos:443?allowInsecure=1&sni=devoted-tapir.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=1&sni=better-molly.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
@@ -115,9 +114,6 @@ trojan://FH72359861@casual-stallion.rooster465.autos:443?allowInsecure=0&sni=cas
 trojan://FH72359861@magical-airedale.rooster465.autos:443?allowInsecure=0&sni=magical-airedale.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://FH72359861@adapted-quetzal.rooster465.autos:443?allowInsecure=0&sni=adapted-quetzal.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://FH72359861@touching-ostrich.rooster465.autos:443?allowInsecure=0&sni=touching-ostrich.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
-trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?allowInsecure=0&sni=nl-vk.tkbvpcompany.site&alpn=http/1.1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://FH72359861@national-stingray.rooster465.autos:443?allowInsecure=1&sni=national-stingray.rooster465.autos#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
@@ -170,3 +166,4 @@ trojan://AE62539071@grand-grub.rooster465.autos:443?security=tls#🇰🇷 Join+T
 trojan://AE62539071@glorious-glider.rooster465.autos:443?security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=raw&security=tls&sni=193.124.46.65&fp=chrome&alpn=http/1.1#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://HC04361579@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

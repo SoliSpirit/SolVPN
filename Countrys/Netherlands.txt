@@ -108,3 +108,4 @@ vless://c82678cc-57d3-0c94-3fb6-5299f1a59843@69.46.46.25:443?&security=tls&fp=io
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.58.85:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@95.85.247.7:443?security=reality&type=tcp&fp=firefox&sni=cats.abvphelp.cc&pbk=4-bYlfzBxbmfxZa5uFAobphk74V83FF5Y1lbo9l8RWQ&sid=50c30ab7&spx=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:8444?alpn=http/1.1&encryption=none&path=/api/v1/devices/d5e8188467/telemetry&security=tls&sni=nl7.unlockvpn.online&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a390d188-091b-4644-9804-14a2539ad6c7@69.46.46.15:443?sni=web-production-878d1.up.railway.app&alpn=http/1.1&type=ws&host=web-production-878d1.up.railway.app&path=/ws/vless/a390d188-091b-4644-9804-14a2539ad6c7?ed=2048fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

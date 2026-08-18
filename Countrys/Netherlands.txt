@@ -106,3 +106,5 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.225.158:62145?#🇳🇱 Joi
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.175:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c82678cc-57d3-0c94-3fb6-5299f1a59843@69.46.46.25:443?&security=tls&fp=ios&sni=rvg-production-398a.up.railway.app&type=ws&headerType=none&host=rvg-production-398a.up.railway.app&path=%2Fws%2Fc82678cc-57d3-0c94-3fb6-5299f1a59843#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.58.85:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@95.85.247.7:443?security=reality&type=tcp&fp=firefox&sni=cats.abvphelp.cc&pbk=4-bYlfzBxbmfxZa5uFAobphk74V83FF5Y1lbo9l8RWQ&sid=50c30ab7&spx=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:8444?alpn=http/1.1&encryption=none&path=/api/v1/devices/d5e8188467/telemetry&security=tls&sni=nl7.unlockvpn.online&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

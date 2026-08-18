@@ -168,3 +168,5 @@ trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=raw&security=tls&sni=19
 trojan://HC04361579@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755?allowInsecure=1&sni=vpn-node.internal&alpn=http/1.1&type=ws&path=/xVpnTrojanWsSvc7f3a#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

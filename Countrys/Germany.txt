@@ -79,3 +79,5 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@savesafe.co:443?security=reality&en
 vless://e9c2d9fe-19de-48df-9fc8-9209573d817c@gru-jeruuuu-francr-anrd-arntunsnr-ooknzehb-fopmant.profato.ir:443?security=reality&encryption=none&pbk=0bpQsTZakO8WYnhSCIos2lVrj2iBeKNFcoaGx6XSYSs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=7b031372b64a8872#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://884d811f-577b-421e-aabb-608660b0ecfa@5.189.223.90:9891?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowWENJNHBRY1oybnh6VlQ0MENDYzBL@creativegermany.zanity.net:5228#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.235.95:22223?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://d31aefb3-775b-4e87-a093-a4677addf10a@84.21.189.193:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&security=reality&sid=c010293d0bafac&sni=stackoverflow.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

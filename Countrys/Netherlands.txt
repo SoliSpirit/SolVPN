@@ -112,3 +112,4 @@ vless://a390d188-091b-4644-9804-14a2539ad6c7@69.46.46.15:443?sni=web-production-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@64.188.77.159:8390#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&sni=present-warthog.rooster465.autos&type=tcp&path=/&allow_insecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.171.188:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=netheroijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

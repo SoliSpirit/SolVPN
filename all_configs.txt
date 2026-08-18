@@ -882,3 +882,4 @@ vless://8b706aff-ca60-4632-9658-aeb5c0f48561@185.91.54.83:443?encryption=none&fl
 vless://e8a2c7f9-cfec-46e0-a91a-a1394aaa90e4@104.21.31.99:443?security=tls&type=ws&path=/kXHZ0iPM96r8UDUAsTH2scSHpeWN&host=6-m23.dAEGu2031.ccWu.Cc&packetEncoding=xudp&sni=6-m23.DAEgU2031.ccWU.CC&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://9a85fe34-213a-43ef-acbd-bb84552302f3@168.222.49.215:16089?encryption=none&security=none&type=tcp&headerType=none#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNmIzNzkzYi0zMzM1LTQ4MzItYjFmZC04NzdiMmM1ZTE1ZDY@xhkt5.ddns.net:12015#🇲🇾 Join+Telegram:@SolVPN 🇲🇾
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

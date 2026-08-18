@@ -825,3 +825,4 @@ vless://c7665648-eff9-4317-8978-4ee2fb34f752@159.65.117.197:443?ed=2560&eh=Sec-W
 trojan://HC04361579@quick-ant.rooster465.autos:443?allowInsecure=0&sni=quick-ant.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://HC04361579@driven-doberman.rooster465.autos:443?allowInsecure=0&sni=driven-doberman.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PQ05174892@sterling-vervet.rooster465.autos:443?security=tls&sni=sterling-vervet.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@54.180.231.164:443?security=tls&sni=regular-raptor.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

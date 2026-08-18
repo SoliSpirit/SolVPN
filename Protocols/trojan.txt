@@ -192,3 +192,7 @@ trojan://fg20mtCFHy@173.255.247.228:5444?allowInsecure=1&sni=frsdata.southbyte.x
 trojan://fg20mtCFHy@157.245.99.215:5750?allowInsecure=1&sni=inyct.southbyte.xyz#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 trojan://fg20mtCFHy@104.248.167.79:5624?allowInsecure=1&sni=dsgvc.southbyte.xyz#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://HC04361579@legible-ocelot.rooster465.autos:443?allowInsecure=1&sni=legible-ocelot.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HC04361579@pet-albacore.rooster465.autos:443?allowInsecure=1&sni=pet-albacore.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://fg20mtCFHy@172.234.100.80:5612?allowInsecure=1&sni=yugdv.southbyte.xyz#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+trojan://fg20mtCFHy@206.189.7.80:5446?allowInsecure=1&sni=inxgc.southbyte.xyz#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://fg20mtCFHy@137.184.172.41:1921?allowInsecure=1&sni=sfecv.southbyte.xyz#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

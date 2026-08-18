@@ -189,3 +189,7 @@ trojan://PQ05174892@sterling-vervet.rooster465.autos:443?security=tls&sni=sterli
 trojan://PQ05174892@54.180.231.164:443?security=tls&sni=regular-raptor.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://fg20mtCFHy@128.14.180.210:5444?allowInsecure=1&sni=ucyxc.southbyte.xyz#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://fg20mtCFHy@147.182.198.83:5444?allowInsecure=1&sni=sfouctc.southbyte.xyz#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://fg20mtCFHy@173.255.247.228:5444?allowInsecure=1&sni=frsdata.southbyte.xyz#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://fg20mtCFHy@157.245.99.215:5750?allowInsecure=1&sni=inyct.southbyte.xyz#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+trojan://fg20mtCFHy@104.248.167.79:5624?allowInsecure=1&sni=dsgvc.southbyte.xyz#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+trojan://HC04361579@legible-ocelot.rooster465.autos:443?allowInsecure=1&sni=legible-ocelot.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

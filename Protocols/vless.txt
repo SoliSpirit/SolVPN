@@ -414,3 +414,5 @@ vless://c7665648-eff9-4317-8978-4ee2fb34f752@159.65.117.197:443?ed=2560&eh=Sec-W
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.19:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.0.55:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.171.188:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://47e144de-9fb2-47da-9a1b-c8f78df22e99@194.87.133.25:443?encryption=none&fp=firefox&pbk=i6uqYKE5251RNqvVQofY5wUxkTokzxYz6m5g2ke9iT0&security=reality&sid=f8c21d6b3a9e7054&sni=github.com&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

@@ -128,3 +128,5 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.19:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6blJaeTZ5a0ovZm4zOW1aRVFWVXAwZEVmU29RVGRzemY2d2RHYlZVWXV1RT0@144.24.13.187:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://fg20mtCFHy@128.14.180.210:5444?allowInsecure=1&sni=ucyxc.southbyte.xyz#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://fg20mtCFHy@147.182.198.83:5444?allowInsecure=1&sni=sfouctc.southbyte.xyz#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

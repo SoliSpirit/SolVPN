@@ -826,3 +826,4 @@ trojan://HC04361579@quick-ant.rooster465.autos:443?allowInsecure=0&sni=quick-ant
 trojan://HC04361579@driven-doberman.rooster465.autos:443?allowInsecure=0&sni=driven-doberman.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PQ05174892@sterling-vervet.rooster465.autos:443?security=tls&sni=sterling-vervet.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PQ05174892@54.180.231.164:443?security=tls&sni=regular-raptor.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.19:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

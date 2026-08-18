@@ -833,3 +833,5 @@ ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw@166.88.130.218:30331#🇨🇦 Join+T
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZEJ6aGRCcFVqanVuZ3diTkZGUU9MSXJ4ZDlTWWZxUDRRdDJsMjkvMnVZbz0@129.151.65.200:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.171.188:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6blJaeTZ5a0ovZm4zOW1aRVFWVXAwZEVmU29RVGRzemY2d2RHYlZVWXV1RT0@144.24.13.187:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://47e144de-9fb2-47da-9a1b-c8f78df22e99@194.87.133.25:443?encryption=none&fp=firefox&pbk=i6uqYKE5251RNqvVQofY5wUxkTokzxYz6m5g2ke9iT0&security=reality&sid=f8c21d6b3a9e7054&sni=github.com&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

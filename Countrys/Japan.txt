@@ -91,3 +91,6 @@ trojan://HC04361579@accepted-starling.rooster465.autos:443?allowInsecure=1&sni=a
 trojan://HC04361579@driven-doberman.rooster465.autos:443?allowInsecure=0&sni=driven-doberman.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PQ05174892@sterling-vervet.rooster465.autos:443?security=tls&sni=sterling-vervet.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYkVOMGc2UmJuc3llOEVKWno5NE9G@108.61.223.231:443#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://HC04361579@legible-ocelot.rooster465.autos:443?allowInsecure=1&sni=legible-ocelot.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?&type=tcp&headerType=none&path=%2F#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJjYzI4LmdvaW5nc2lkZS5zaXRlIiwicG9ydCI6Ijg5OTgiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGIwMTlmYWEtMzhiMC00NzNkLWJjNDktNjBiYjY4MTUxYzM0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiY2MyOC5nb2luZ3NpZGUuc2l0ZSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

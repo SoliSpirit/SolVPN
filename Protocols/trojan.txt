@@ -181,3 +181,4 @@ trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-
 trojan://AE62539071@simple-rodent.rooster465.autos:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?allowInsecure=1&sni=ru-5b7331.atlanta-games.com&alpn=h2&type=grpc&serviceName=ajv#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 trojan://HC04361579@accepted-starling.rooster465.autos:443?allowInsecure=1&sni=accepted-starling.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&sni=present-warthog.rooster465.autos&type=tcp&path=/&allow_insecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

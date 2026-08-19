@@ -182,3 +182,7 @@ trojan://fg20mtCFHy@206.189.7.80:5446?allowInsecure=1&sni=inxgc.southbyte.xyz#�
 trojan://fg20mtCFHy@137.184.172.41:1921?allowInsecure=1&sni=sfecv.southbyte.xyz#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://FH72359861@settled-camel.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@smiling-ray.rooster465.autos:443?security=tls&sni=smiling-ray.rooster465.autos&type=tcp&path=/&allow_insecure=1#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://HC04361579@exact-sawfish.rooster465.autos:443?allowInsecure=0&sni=exact-sawfish.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://fg20mtCFHy@209.38.240.27:5859?allowInsecure=1&sni=uyped.southbyte.xyz#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://EQ30679154@upright-sheepdog.rooster465.autos:443?allowInsecure=0&sni=upright-sheepdog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?allowInsecure=0#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

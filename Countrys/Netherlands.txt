@@ -121,3 +121,5 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#🇳🇱 Join+Telegram:
 vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?&security=tls&fp=chrome&sni=hys40.wba-pn.ru&type=ws&headerType=none&host=hys40.wba-pn.ru&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://7579a712-b8c6-4506-9aad-70b157cdabad@176.120.17.7:48537?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://1d977a71-920e-4846-98b1-24f8e2fa0ea3@176.120.17.6:59167?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://1944b9f0-25b1-4585-a07a-15f82b7e68b8@185.178.208.140:443?&security=tls&fp=edge&alpn=http%2F1.1&sni=cdn.sw-api-dev.begmatov.dev&type=ws&headerType=none&host=cdn.sw-api-dev.begmatov.dev&path=%2Fservice%2Fruntime%2Fstream%2Fopen#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

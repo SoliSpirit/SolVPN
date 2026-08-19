@@ -186,3 +186,5 @@ trojan://HC04361579@exact-sawfish.rooster465.autos:443?allowInsecure=0&sni=exact
 trojan://fg20mtCFHy@209.38.240.27:5859?allowInsecure=1&sni=uyped.southbyte.xyz#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://EQ30679154@upright-sheepdog.rooster465.autos:443?allowInsecure=0&sni=upright-sheepdog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?allowInsecure=0#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

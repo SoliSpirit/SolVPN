@@ -1,5 +1,5 @@
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&serviceName=grpc#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y@tr-1.stunnel.cc:8444#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://50414e45-4c5f-5a45-5553-4d64f1370eeb@88.216.69.144:443?encryption=none&security=tls&sni=r5zenrelur2s.pqzdileiu8es.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=r5zenrelur2s.pqzdileiu8es.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F4d64f1370eeb%2Floc-0#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=raw&security=tls&sni=193.124.46.65&fp=chrome&alpn=http/1.1#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

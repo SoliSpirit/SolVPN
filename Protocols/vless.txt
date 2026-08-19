@@ -438,3 +438,6 @@ vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?&security=tls&f
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8b0067a9-8cc8-555a-b4c3-e742bb716980@138.124.29.81:57020?&type=tcp&headerType=none&path=%2F#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@104.20.37.53:80?&sni=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&type=ws&headerType=none&host=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&path=%2Fstream%2FTrexBridge%2Fb52a90ada6ab#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443?sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&type=ws&host=31.76.53.16.fwqfw783rg2dad.website&path=/websocket?ed=2560fp=firefox&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://7579a712-b8c6-4506-9aad-70b157cdabad@176.120.17.7:48537?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://5c025078-2eae-4c53-bad1-5e491f33395e@translate.magazinetut.online:443?sni=translate.magazinetut.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

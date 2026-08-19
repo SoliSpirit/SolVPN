@@ -1,1 +1,1 @@
-vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇩🇰 Join+Telegram:@SolVPN 🇩🇰
+vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@ipw.ygdfw.com:443?&security=tls&fp=unsafe&sni=p2bm6l1.freelanceriran98.ir&type=ws&headerType=none&host=p2bm6l1.freelanceriran98.ir&path=%2Fws-dk#🇩🇰 Join+Telegram:@SolVPN 🇩🇰

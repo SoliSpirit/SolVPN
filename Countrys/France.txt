@@ -33,3 +33,4 @@ vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@fr.techdatacloud.org:443?type=tcp&s
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://dc495bf5-9591-43aa-83de-d8dc7a8769b8@145.223.68.48:443?&type=ws&headerType=none&path=%2Fvless#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://fg20mtCFHy@172.232.42.44:5577?allowInsecure=1&sni=gtyxz.southbyte.xyz#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

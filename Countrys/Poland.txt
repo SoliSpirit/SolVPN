@@ -18,3 +18,4 @@ vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@82.38.65.76:443?security=reality&en
 vless://9a85fe34-213a-43ef-acbd-bb84552302f3@168.222.49.215:16089?encryption=none&security=none&type=tcp&headerType=none#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://884d811f-577b-421e-aabb-608660b0ecfa@72.56.38.194:9892?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?allowInsecure=0#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://5e6cd281-2d03-4e72-9bb2-b38ce2da7cc7@pl.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=pl.moktana.app&sid=51e9fd4ba43f64d7#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

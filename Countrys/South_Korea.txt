@@ -41,3 +41,4 @@ trojan://EQ30679154@3.36.124.155:443?allowInsecure=0&sni=novel-kodiak.rooster465
 trojan://FH72359861@13.125.156.56:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gentle-platypus.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://FH72359861@54.180.158.231:443?allowInsecure=0&sni=precise-locust.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://EQ30679154@54.116.195.76:443?allowInsecure=0&sni=gentle-mastiff.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

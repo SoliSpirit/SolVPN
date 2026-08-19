@@ -1007,3 +1007,5 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@94.183.157.249:443?security=reality
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.144.82:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq&packetEncoding=xudp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&path=/#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&headerType=&type=tcp&sni=hyctx.southbyte.xyz#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

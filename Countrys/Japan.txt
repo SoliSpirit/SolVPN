@@ -98,3 +98,9 @@ trojan://HC04361579@exact-sawfish.rooster465.autos:443?allowInsecure=0&sni=exact
 trojan://EQ30679154@upright-sheepdog.rooster465.autos:443?allowInsecure=0&sni=upright-sheepdog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://EQ30679154@57.180.56.235:443?allowInsecure=0&sni=gentle-perch.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://fg20mtCFHy@172.105.197.232:5710?allowInsecure=1&sni=jpcaw.southbyte.xyz#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://ND91608427@learning-leopard.rooster465.autos:443?allowInsecure=1&sni=learning-leopard.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@driven-bulldog.rooster465.autos:443?allowInsecure=1&sni=driven-bulldog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@3.112.200.59:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=new-eagle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@3.112.29.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=clear-killdeer.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@13.159.17.90:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=outgoing-cockatoo.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

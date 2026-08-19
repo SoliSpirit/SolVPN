@@ -120,3 +120,4 @@ vless://47b104e0-59cf-4ec4-a8fd-d080b4a756d6@144.31.237.57:443?encryption=none&f
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?&security=tls&fp=chrome&sni=hys40.wba-pn.ru&type=ws&headerType=none&host=hys40.wba-pn.ru&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://7579a712-b8c6-4506-9aad-70b157cdabad@176.120.17.7:48537?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

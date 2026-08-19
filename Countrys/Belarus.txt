@@ -1,1 +1,1 @@
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?sni=ru104.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇧🇾 Join+Telegram:@SolVPN 🇧🇾
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#🇧🇾 Join+Telegram:@SolVPN 🇧🇾

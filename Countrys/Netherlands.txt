@@ -38,7 +38,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#🇳🇱[www.v2nodes.com] Outline VPN-NL-5070230
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
@@ -118,3 +118,5 @@ vless://27b16a66-95e0-4c20-b00b-5dff91d9c9f5@212.46.33.38:443?encryption=none&fp
 vless://27b16a66-95e0-4c20-b00b-5dff91d9c9f5@212.46.33.18:443?encryption=none&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&security=reality&serviceName=moktana.net.v1.StreamService&sid=7c4b9a2e8d5f3c1b&sni=login.moktana.app&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://47b104e0-59cf-4ec4-a8fd-d080b4a756d6@144.31.237.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TC8D2edifNXaro0S31ZiC9izi8tAmXJyxdOHptwNUTw&security=reality&sid=660c1badc77a422b&sni=edge-nl.mystatic-cdn.ru&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?&security=tls&fp=chrome&sni=hys40.wba-pn.ru&type=ws&headerType=none&host=hys40.wba-pn.ru&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

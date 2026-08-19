@@ -5,3 +5,4 @@ vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=
 trojan://fg20mtCFHy@157.245.99.215:5750?allowInsecure=1&sni=inyct.southbyte.xyz#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?security=reality&encryption=none&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=84fc#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMiLCJhZGQiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwicG9ydCI6Ijg5OTgiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGIwMTlmYWEtMzhiMC00NzNkLWJjNDktNjBiYjY4MTUxYzM0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsImhvc3QiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+trojan://M7v%w11Se*@34.131.228.210:443?allowInsecure=1&sni=hyfuuf6.wsone.icu#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

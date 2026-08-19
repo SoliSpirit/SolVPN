@@ -219,3 +219,5 @@ trojan://EQ30679154@3.112.44.90:443?allowInsecure=0&sni=brave-tomcat.rooster465.
 trojan://EQ30679154@definite-gazelle.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://EQ30679154@54.199.234.4:443?allowInsecure=0&sni=liked-eft.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://EQ30679154@open-octopus.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@108.128.201.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=touching-turtle.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

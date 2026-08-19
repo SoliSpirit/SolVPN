@@ -37,3 +37,4 @@ trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755?allowInsecure
 trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://HC04361579@quick-ant.rooster465.autos:443?allowInsecure=0&sni=quick-ant.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://PQ05174892@54.180.231.164:443?security=tls&sni=regular-raptor.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://EQ30679154@3.36.124.155:443?allowInsecure=0&sni=novel-kodiak.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

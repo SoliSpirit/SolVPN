@@ -240,3 +240,4 @@ trojan://PQ05174892@ready-monarch.rooster465.autos:443?security=tls#🇯🇵 Joi
 trojan://AE62539071@upward-yak.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://PQ05174892@humorous-starling.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&headerType=&type=tcp&sni=hyctx.southbyte.xyz#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

@@ -232,3 +232,10 @@ trojan://EQ30679154@18.143.129.104:443?allowInsecure=0&sni=picked-hamster.rooste
 trojan://EQ30679154@concise-grackle.rooster465.autos:443?allowInsecure=0&sni=concise-grackle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://EQ30679154@modest-bat.rooster465.autos:443?allowInsecure=0&sni=modest-bat.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://EQ30679154@internal-raccoon.rooster465.autos:443?allowInsecure=0&sni=internal-raccoon.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://PQ05174892@together-amoeba.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://FH72359861@sacred-shepherd.rooster465.autos:443?security=tls&sni=sacred-shepherd.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@evolving-kangaroo.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@balanced-goat.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@ready-monarch.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@upward-yak.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

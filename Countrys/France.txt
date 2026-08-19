@@ -35,3 +35,4 @@ trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&se
 vless://dc495bf5-9591-43aa-83de-d8dc7a8769b8@145.223.68.48:443?&type=ws&headerType=none&path=%2Fvless#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://fg20mtCFHy@172.232.42.44:5577?allowInsecure=1&sni=gtyxz.southbyte.xyz#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=grpc-reality&mode=gun#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

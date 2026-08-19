@@ -28,3 +28,4 @@ vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6c0MxUmlRT0s1VHM1emdVWUR3Qi9BR0ZicWpweXRJMC9BY3pna2dDQ25ldz0@129.151.77.35:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZnI1TTNNdi84SEljb3pXSEpDZkk4U2V1T1lpeEVvZHVya2lZdEZtYW5QOD0@129.151.66.31:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@uk.zelnora.ir:64584?#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?&security=tls&fp=qq&sni=gb1.wba-pn.ru&type=ws&headerType=none&host=gb1.wba-pn.ru&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

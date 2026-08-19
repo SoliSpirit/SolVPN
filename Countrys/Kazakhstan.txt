@@ -5,3 +5,4 @@ vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?type=tcp&securi
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
 vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@188.130.234.239:443?encryption=none&fp=firefox&mode=multi&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&security=reality&sid=1a55b8fd25417fbf&sni=kz.node.goidanet.com&type=grpc#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
 vless://884d811f-577b-421e-aabb-608660b0ecfa@80.78.246.111:9887?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
+vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@5.180.40.9:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&security=reality&sid=dfbfa87e9f37f1f0&sni=cloud.mail.ru&type=tcp#🇰🇿 Join+Telegram:@SolVPN 🇰🇿

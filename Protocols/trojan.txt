@@ -211,3 +211,11 @@ trojan://FH72359861@13.212.77.228:443?security=tls&insecure=0&headerType=none&ty
 trojan://AE62539071@47.131.229.80:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=elegant-marten.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://FH72359861@47.129.7.255:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=stable-racer.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://AE62539071@47.131.225.150:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sacred-anemone.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://M7v%w11Se*@34.131.228.210:443?allowInsecure=1&sni=hyfuuf6.wsone.icu#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+trojan://fg20mtCFHy@172.104.77.237:6092?allowInsecure=1&sni=tkicy.southbyte.xyz#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://EQ30679154@moved-bass.rooster465.autos:443?allowInsecure=0&sni=moved-bass.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://EQ30679154@54.116.195.76:443?allowInsecure=0&sni=gentle-mastiff.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://EQ30679154@3.112.44.90:443?allowInsecure=0&sni=brave-tomcat.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://EQ30679154@definite-gazelle.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://EQ30679154@54.199.234.4:443?allowInsecure=0&sni=liked-eft.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://EQ30679154@open-octopus.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

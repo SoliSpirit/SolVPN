@@ -922,3 +922,6 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&e
 trojan://FH72359861@108.128.201.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=touching-turtle.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.187:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://a04814d9-d006-4e7b-ae20-8ab304b3b429@151.242.17.99:8443?type=grpc&headerType=none&security=reality&encryption=none&sni=de.emvservice.com&fp=chrome&pbk=6Yskxg5U0WxPGtuCAAGH9uD57T4U8LeGrErTBNvIrwM&sid=bc&spx=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

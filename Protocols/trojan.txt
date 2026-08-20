@@ -242,3 +242,4 @@ trojan://AE62539071@35.88.210.26:443?allowInsecure=0&sni=dear-hermit.rooster465.
 trojan://AE62539071@35.88.120.18:443?allowInsecure=0&sni=dominant-jaguar.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://AE62539071@climbing-frog.rooster465.autos:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://fg20mtCFHy@128.14.181.220:5555?allowInsecure=1&sni=www.bing.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

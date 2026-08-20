@@ -1,2 +1,1 @@
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.164:443?type=tcp&security=reality&sni=zealous-vortex.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&fp=random&encryption=none&flow=xtls-rprx-vision#🇧🇪 Join+Telegram:@SolVPN 🇧🇪
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@hello.blind-chip.store:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=08u-fNMdTjjUwYv4GPbG7VK1ep2vh4Fv-puMcmFzhz0&security=reality&sni=hello.blind-chip.store&type=tcp#🇧🇪 Join+Telegram:@SolVPN 🇧🇪
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#🇧🇪 Join+Telegram:@SolVPN 🇧🇪

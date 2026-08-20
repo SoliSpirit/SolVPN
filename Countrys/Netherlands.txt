@@ -112,3 +112,4 @@ vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@87.199.209.9:8444?&security=tls&fp=
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@sync.meshbeat.online:8444?&security=tls&fp=firefox&alpn=http%2F1.1&sni=sync.meshbeat.online&type=ws&headerType=none&host=sync.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2F7ee1a95c00%2Ftelemetry#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.13.47:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://71226637-f577-4103-94ef-c58bdcfc2da3@spiderpanel-production-1b05.up.railway.app:443?&security=tls&fp=chrome&alpn=http%2F1.1&type=ws&headerType=none&host=spiderpanel-production-1b05.up.railway.app&path=%2Fws%2F71226637-f577-4103-94ef-c58bdcfc2da3#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.164.183:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

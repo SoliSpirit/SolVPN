@@ -1,12 +1,4 @@
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.126:62145?#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.93:62145?#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.200:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.225.227:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.70:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.126.78:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.225.201:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.217.159:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.244:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.71:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.223:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴

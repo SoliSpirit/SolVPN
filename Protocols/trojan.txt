@@ -41,7 +41,6 @@ trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozar
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:50887?allowInsecure=1&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://humanity@104.16.174.14:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://AE62539071@premium-weevil.rooster465.autos:443?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://AE62539071@distinct-quail.rooster465.autos:443?allowInsecure=1#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -98,3 +98,5 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6czFzMHI2c2J2Ky8vM1VWb29oVWFzWHJrTEs
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6a2RUTVZBbTh2NDNCUnVKWnIrR0krdWRBemlRUEdSMlFkWUlUSDl3MldOZz0@141.144.250.61:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NC80Tzh0VEdtdFZWc0QyZms3MGozOWFkb1I3SldnOHUxMTRLZnkxNUlBdz0@130.61.176.82:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@meshbuzz.bond:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=b8lou6i1.cendro.ir&type=ws&headerType=none&host=b8lou6i1.cendro.ir&path=%2Fws-vlees#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://603819a3-dd65-408a-abab-15d8dc49887f@164.92.230.180:8880?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://603819a3-dd65-408a-abab-15d8dc49887f@64.226.117.146:8880?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

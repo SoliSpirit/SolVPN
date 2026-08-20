@@ -159,3 +159,4 @@ vless://b222ebc7-569c-45ca-a0e4-756f171b247b@92.63.99.228:4353?type=tcp&security
 trojan://AE62539071@35.88.210.26:443?allowInsecure=0&sni=dear-hermit.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://AE62539071@35.88.120.18:443?allowInsecure=0&sni=dominant-jaguar.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://fg20mtCFHy@128.14.181.220:5555?allowInsecure=1&sni=www.bing.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?security=reality&encryption=none&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=54861d36#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

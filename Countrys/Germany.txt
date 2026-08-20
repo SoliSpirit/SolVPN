@@ -82,3 +82,4 @@ vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&enc
 vless://XpnTeam-3@199.232.78.160:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCbFJ0anlZbGoxOGtZY3JFTC84d2NiU3lxTktTUEVTaXdTRER2aXN1OStvPQ==@e2.cover20.ir:30874#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHdXeTZwekhNa0k5d1NScWEwVzZCZmZydnBCTWhmazNBejhtZXgwVWY3az0@130.162.34.180:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

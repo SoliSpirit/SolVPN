@@ -1,7 +1,4 @@
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
-vless://884d811f-577b-421e-aabb-608660b0ecfa@5.42.106.202:9878?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.3.54:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@88.216.223.37:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 trojan://fg20mtCFHy@172.234.100.80:5612?allowInsecure=1&sni=yugdv.southbyte.xyz#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.109.108.83:9830?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&serviceName=grpc-tunnel#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.188.21.165:8390#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

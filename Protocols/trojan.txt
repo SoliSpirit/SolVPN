@@ -1,3 +1,4 @@
+trojan://FH72359861@engaging-toucan.rooster465.autos:443?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ND91608427@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

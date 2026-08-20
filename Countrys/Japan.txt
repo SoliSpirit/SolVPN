@@ -126,3 +126,8 @@ trojan://AE62539071@whole-perch.rooster465.autos:443?allowInsecure=0&sni=whole-p
 trojan://AE62539071@54.249.33.71:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@real-cardinal.rooster465.autos:443?allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@game-thrush.rooster465.autos:443?allowInsecure=0&sni=game-thrush.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://PQ05174892@ideal-phoenix.rooster465.autos:443?allowInsecure=0&sni=ideal-phoenix.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@18.183.140.61:443?fp=chrome&security=tls&sni=harmless-imp.rooster465.autos&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@18.183.178.158:443?fp=chrome&security=tls&sni=inviting-burro.rooster465.autos&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@frank-frog.rooster465.autos:443?fp=chrome&security=tls&sni=frank-frog.rooster465.autos&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@13.113.89.229:443?security=tls&sni=coherent-newt.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

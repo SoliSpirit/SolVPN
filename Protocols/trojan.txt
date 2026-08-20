@@ -222,3 +222,4 @@ trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls#🇯🇵 Join+T
 trojan://PQ05174892@humorous-starling.rooster465.autos:443?security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&headerType=&type=tcp&sni=hyctx.southbyte.xyz#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://UZ15382649@moral-dolphin.rooster465.autos:443?allowInsecure=0&sni=moral-dolphin.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://PQ05174892@3.112.242.12:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=intimate-hog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

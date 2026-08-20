@@ -517,3 +517,4 @@ vless://bed8856b-3b0e-4c4c-8fe0-25b7824a88b2@31.200.250.160:443?allowInsecure=1&
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@xmm5.130209.xyz:8443?&security=tls&fp=edge&sni=hongkong.11459178.xyz&type=ws&headerType=none&host=hongkong.11459178.xyz&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?security=reality&encryption=none&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&headerType=none&fp=chrome&type=tcp&sni=ru2.skydrgn-online.online&sid=0b#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?security=none&encryption=none&headerType=none&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?host=fangbinxingnmsl.pusytroller.gq&path=/&encryption=none&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -24,3 +24,4 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@94.183.157.249:443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://5ca83936-136d-4314-8453-4ba10a86cf60@api.fuck-you.dyn.site.fwqfw783rg2dad.website:443?&security=tls&fp=firefox&sni=api.fuck-you.dyn.site.fwqfw783rg2dad.website&type=ws&headerType=none&host=api.fuck-you.dyn.site.fwqfw783rg2dad.website&path=%2Fwebsocket#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:443?&type=ws&headerType=none&host=pl4.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@pl4.lckdwn.ru:443?&type=ws&headerType=none&host=pl4.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

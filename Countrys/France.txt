@@ -36,3 +36,4 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?security
 trojan://UZ15382649@moral-dolphin.rooster465.autos:443?allowInsecure=0&sni=moral-dolphin.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@antony.athforce.ir:51058#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

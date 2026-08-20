@@ -484,3 +484,4 @@ vless://f202c7ca-17b7-416d-b3a2-ac71d35afe9c@132.243.231.94:443?security=reality
 vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@pl4.lckdwn.ru:443?&type=ws&headerType=none&host=pl4.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#🇧🇪 Join+Telegram:@SolVPN 🇧🇪
 vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?security=none&encryption=none&host=/&headerType=http&type=tcp#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
+vless://13da3f61-36bc-4f4f-9b49-4152de570bd3@172.67.161.109:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=1-m14.aYUTTHAYa-1.KdNs.Fr&type=ws&headerType=none&host=1-m14.aYUTthaya-1.kdns.fr&path=%2FawsDCktnglce5OhBQMBK8JLBwh2V#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

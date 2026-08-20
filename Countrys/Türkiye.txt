@@ -6,3 +6,4 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?security=reality
 vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443?sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&type=ws&host=31.76.53.16.fwqfw783rg2dad.website&path=/websocket?ed=2560fp=firefox&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://745bac6d-e48d-4556-aa77-09b68743a9ce@45.74.159.200:10131?&type=tcp&headerType=none&path=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://93e37208-ef50-47cf-97cc-8a099b16311c@trone.soundfiy.ir:61169?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

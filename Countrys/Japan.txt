@@ -129,3 +129,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.95.207.148:8316#🇯🇵 
 trojan://AE62539071@54.250.97.109:443?security=tls&sni=current-barnacle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@13.231.24.177:443?security=tls&sni=easy-barnacle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://AE62539071@relevant-cicada.rooster465.autos:443?security=tls&sni=relevant-cicada.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

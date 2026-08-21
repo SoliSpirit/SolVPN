@@ -954,3 +954,6 @@ trojan://AE62539071@humorous-hawk.rooster465.autos:443?allowInsecure=1&sni=humor
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206T0xJSTJ6UmtCYlZDZm9XWTl2dU1wZTVkV2ZocTZCbGZOOXIxMmZwYXJEdz06WElvVXM5MWwrM0VnVG5tYUNyTk5DaEZCZ2d4NzRxSHVkVDlzWk55eFcvUT0=@hk.kexueyun.top:1011#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://32626a62-8ca5-4b36-bef0-f771df8805ab@172.236.210.140:8443?security=reality&encryption=none&pbk=KmD_j9AlbGLqnGD611c_j_OB8yjRO_5009SaEsZUByg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=39297e26a17a2208#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@se1.se-cdn.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=se1.se-cdn.ru&fp=chrome&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&sid=2d6d073dc88f22a8&spx=/&type=tcp&headerType=none#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+trojan://AE62539071@54.250.97.109:443?security=tls&sni=current-barnacle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@13.231.24.177:443?security=tls&sni=easy-barnacle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@relevant-cicada.rooster465.autos:443?security=tls&sni=relevant-cicada.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

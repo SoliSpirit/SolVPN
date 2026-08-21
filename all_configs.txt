@@ -965,3 +965,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@netixu.mashhad
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@51.77.76.61:8444?&security=tls&fp=firefox&alpn=http%2F1.1&sni=link.meshbeat.online&type=ws&headerType=none&host=link.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2Fff3c56308c%2Ftelemetry#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6STdoRHl0dGlDNlRxaXlBZXRJQ0lmTmdiYzNvbmVZeUdlWDFVZWRpOWEzND0@134.98.133.200:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QTIzWnZoMU9MaUMyWStkcitkYThSRENObHFlWUVkbjZMdXUvZ1drLzZycz0@129.153.203.166:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=nl-10.ariyuz.org&type=ws&headerType=none&host=nl-10.ariyuz.org&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

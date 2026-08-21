@@ -41,3 +41,4 @@ trojan://FH72359861@15.237.112.48:443?security=tls&insecure=0&headerType=none&fp
 trojan://JT80563429@musical-shrew.rooster465.autos:443?allowInsecure=1#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://PQ05174892@51.44.167.144:443?type=tcp&security=tls&sni=immune-earwig.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://IQ68037294@firm-warthog.rooster465.autos:443?allowInsecure=0&sni=firm-warthog.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node21.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node21.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

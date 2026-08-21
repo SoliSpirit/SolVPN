@@ -23,3 +23,4 @@ vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:443?&type=ws&headerTy
 vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@pl4.lckdwn.ru:443?&type=ws&headerType=none&host=pl4.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://AE62539071@enough-basilisk.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

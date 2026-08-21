@@ -194,3 +194,6 @@ trojan://PQ05174892@54.217.167.110:443?security=tls&insecure=0&headerType=none&f
 trojan://FH72359861@15.237.112.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=smiling-fowl.rooster465.autos#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://JT80563429@musical-shrew.rooster465.autos:443?allowInsecure=1#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://AE62539071@humorous-hawk.rooster465.autos:443?allowInsecure=1&sni=humorous-hawk.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://AE62539071@54.250.97.109:443?security=tls&sni=current-barnacle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@13.231.24.177:443?security=tls&sni=easy-barnacle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://AE62539071@relevant-cicada.rooster465.autos:443?security=tls&sni=relevant-cicada.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

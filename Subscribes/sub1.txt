@@ -7,10 +7,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
@@ -25,7 +23,6 @@ vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?security=reality&encryption=none&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=15aa18f971da1f81#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?&packet-encoding=xudp&sni=tn.tmn141246.ru&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?&type=ws&headerType=none&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
@@ -48,3 +45,6 @@ vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?type=ws&security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.130.125.207:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.78:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.67:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vmess://eyJhZGQiOiJkcmJrZzE2ZWdmM2Z6bG0zLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiRHJCS2cxNmVHZjNGWmxNMy52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=

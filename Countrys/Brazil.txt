@@ -5,3 +5,4 @@ vless://c396fa08-e07a-459b-b894-389456fd6a82@u234-6njjdk.startora.top:443?flow=x
 vless://b98e3ee9-a67f-465a-a8f9-1e59e3cda6a8@b2.cryptoofarm.com:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=b2.cryptoofarm.com&fp=chrome&pbk=K28I3JdleSg0t7keUUZrS1CgtyC37WA32ViMkSXywHw&sid=0c22c11e7224&allowInsecure=1#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6a2VDeEZJMkl5NHZNVE9HWFcyQnppNUlsa3NuUHh4ZHFPNjdUa21KR3cvST0@136.248.74.249:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6anJYbFc0RUQ1OHp4dDNQT1dYbDV5S1BDWHZUd0hKMjIwbWExQWxsVFRnOD0@159.112.176.79:59319#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#🇧🇷 Join+Telegram:@SolVPN 🇧🇷

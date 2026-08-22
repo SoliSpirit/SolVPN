@@ -4,3 +4,4 @@ vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?security=tls&alp
 vless://50414e45-4c5f-5a45-5553-4d64f1370eeb@88.216.69.144:443?encryption=none&security=tls&sni=r5zenrelur2s.pqzdileiu8es.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=r5zenrelur2s.pqzdileiu8es.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F4d64f1370eeb%2Floc-0#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@155.103.70.160:443?security=reality&encryption=none&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.savesafe.cc&sid=95d36da964f4e951#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://14f4c4f4-baa6-4269-85b7-08e395130701@new.pythonsaz.ir:17198?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjZhYTFiYTE0YWYzZjFh@38.60.255.97:11201#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

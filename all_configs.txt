@@ -889,3 +889,4 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3FRVHdTT0RudFFpVUZDdDdYL0F3ZDBoSjF
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RXpVK0ZSSC9FWllhZGJoUjB3NGYycmFEa3o0aHVuS0tsUmFIbDdlWTgyRT0=@92.5.229.117:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://FH72359861@optimal-urchin.rooster465.autos:443?security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://FH72359861@true-pony.rooster465.autos:443?fp=chrome&security=tls&sni=true-pony.rooster465.autos&type=tcp#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?path=%2F&security=&encryption=none&host=fuckfangbinxing.pusytroller.gq&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

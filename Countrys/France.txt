@@ -36,3 +36,4 @@ trojan://IQ68037294@firm-warthog.rooster465.autos:443?allowInsecure=0&sni=firm-w
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node21.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node21.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://d33d2dd1-04c1-4d43-b2e6-77c56297128e@france.me.pingsf.ir:443?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

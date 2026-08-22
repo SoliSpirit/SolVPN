@@ -488,3 +488,5 @@ vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality
 vless://6aeb24c8-efc1-4a8a-8b70-f4373c57cdc2@163.128.99.49:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=bOl3cE95DyTP45SarBNVL9VSwvAQETENlm0iMNaxLyo&sid=93a993bbc8b86684&allowInsecure=1#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://d01d5a74-09fb-4e9e-b0d9-38b5fd77ad70@83.217.201.244:445?security=reality&encryption=none&pbk=iWxxH0TWB1Ciz6sEwtfjUVY61OcTDihou5IJfkt0O0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.avito.ru&sid=5b9d3e7f1a2c8406#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=&encryption=none&headerType=&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://mahanvpn-mahanvpn@92.42.96.240:443?sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/?ed=2560fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -37,3 +37,4 @@ vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node21.mxvpn.dev:443?security=reali
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://d33d2dd1-04c1-4d43-b2e6-77c56297128e@france.me.pingsf.ir:443?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6a08e957-908a-4711-8e80-54e21c96c2ad@172.239.26.211:32855?encryption=none&sid=deb7a9e5a6e1d41a&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&fp=firefox&security=reality&sni=amp-api-edge.apps.apple.com&type=tcp&headerType=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

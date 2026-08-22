@@ -429,3 +429,4 @@ vless://180e7d3a-3947-44dc-ba47-68244400f61d@www.speedtest.net:8443?&security=tl
 vless://8645b9cb-0d7c-440d-b300-fd44011c5019@104.18.155.141:8443?&security=tls&sni=arvan.dearhossein-taktaz.ir&type=ws&headerType=none&host=arvan.dearhossein-taktaz.ir&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.232.137:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.37.20:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?path=%2F&security=&encryption=none&host=fuckfangbinxing.pusytroller.gq&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

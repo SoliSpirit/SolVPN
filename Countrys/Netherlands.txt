@@ -114,3 +114,8 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dmR5b21EcGp2QlkrMHhNclpvU09GeTNpNzZ
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.195.7:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.183.183:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.124:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.199.129:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bjR0MUZJTDhWQThCQkxwSGVzNlpIR205b24ycDFGc3I3RENiZ2JDVW1QVT0=@84.235.160.143:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.149.33:62145?allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.158.147:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.152.93:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

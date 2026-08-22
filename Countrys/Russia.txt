@@ -13,3 +13,4 @@ ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.40.234:20199#🇷🇺 Join+Tel
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@194.87.69.207:20991#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ@195.133.23.200:1291#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://ad17ed00-5bb6-4fa4-8be1-a545a9fbda6e@45.84.1.247:8443?security=reality&encryption=none&pbk=E_hcnZ6IvHDD2IFy8UGRvwWXHSqRrF--Ply0hJXSd30&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=849cac6150823b#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@130.49.148.134:8880?encryption=none&security=none&type=ws&host=rutube.ummapeople.online&path=%2Frutube#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

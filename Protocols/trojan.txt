@@ -176,3 +176,4 @@ trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure
 trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://PQ05174892@185.14.47.101:443?type=tcp&security=tls&sni=ideal-robin.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://AE62539071@magical-kodiak.rooster465.autos:443?security=tls&sni=magical-kodiak.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://AE62539071@194.99.79.189:443?security=tls&sni=humorous-parakeet.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

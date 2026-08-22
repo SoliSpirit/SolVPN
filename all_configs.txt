@@ -917,3 +917,5 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.149.33:62145?allowInsecure=1
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.158.147:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.152.93:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Wi9jMkd4d0x6cko1UW1NN2I2T1Q3dmQ2bUNScHNZZGxDK3Bzek1nWm85MD0=@138.2.105.188:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://b222ebc7-569c-45ca-a0e4-756f171b247b@92.63.99.228:4353?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=YXVnk7FdM6IXOlFqisWurmtfmoftXLqqsrJ-JqqP6Rc&flow=xtls-rprx-vision#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://884d811f-577b-421e-aabb-608660b0ecfa@5.42.106.202:9878?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

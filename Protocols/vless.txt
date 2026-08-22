@@ -470,3 +470,5 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.185.207:2095?&type=ws&header
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.153.49:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://07352861-2376-1f43-59c2-cedaa49dff2d@irhub-production-4401.up.railway.app:443?&security=tls&fp=chrome&alpn=http%2F1.1&type=ws&headerType=none&host=irhub-production-4401.up.railway.app&path=%2Fws%2F07352861-2376-1f43-59c2-cedaa49dff2d#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?type=grpc&security=reality&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&sid=c226283c4de5b1ad&sni=ads.x5.ru&mode=gun&serviceName=grpc&fp=chrome#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.227.75:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://7a04ab9c-493a-43fc-b382-a5adb3b6e2cb@116.203.193.15:16679?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -11,3 +11,5 @@ ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ@195.133.23.200:1291#🇷🇺 Join+Te
 vless://ad17ed00-5bb6-4fa4-8be1-a545a9fbda6e@45.84.1.247:8443?security=reality&encryption=none&pbk=E_hcnZ6IvHDD2IFy8UGRvwWXHSqRrF--Ply0hJXSd30&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=849cac6150823b#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@130.49.148.134:8880?encryption=none&security=none&type=ws&host=rutube.ummapeople.online&path=%2Frutube#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTEyOC1nY206TVZSSlFuSkRRMUozUjFKYVMxTlhOWEk1VkZCM2VreHFRMGR4UkRkdVpVWkRXblIxZG5OcWVFaFZTMXBoVmxaeVdHNDJRbmM1TkdWMllXUlVhRkZyVGc9PQ@37.77.106.46:26140#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcktoRzZPNXlKcElfTnFlYXIzNXNB@80.90.191.35:443#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

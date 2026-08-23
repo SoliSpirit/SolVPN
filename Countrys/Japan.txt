@@ -45,3 +45,4 @@ ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn
 ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10925#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10937#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&fp=chrome&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

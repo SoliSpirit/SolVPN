@@ -68,3 +68,4 @@ trojan://EQ30679154@absolute-teal.rooster465.autos:443?fp=chrome&security=tls&sn
 trojan://HC04361579@renewing-ewe.rooster465.autos:443?security=tls&sni=renewing-ewe.rooster465.autos&type=tcp&path=/#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://AE62539071@35.88.120.18:443?allowInsecure=0&sni=dominant-jaguar.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://PQ05174892@89.39.70.64:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=actual-aardvark.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://fg20mtCFHy@londhtc.southbyte.xyz:5448?allowInsecure=0&sni=londhtc.southbyte.xyz#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

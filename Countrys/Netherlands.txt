@@ -119,3 +119,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=realit
 trojan://PQ05174892@89.39.70.64:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=actual-aardvark.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c80a96e8-d4a6-4785-b53b-a475b252c4ed@5.129.210.63:8443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=Z5WItgtmxxL_umUUIPO72kSTBGjlGg3sUPigtTG6wlI&fp=chrome&sni=sun6-21.userapi.com&sid=ac&spx=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=/vless/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443?security=reality&encryption=none&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=america.cendora.ru&sid=065cf4f1c7d83e79#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

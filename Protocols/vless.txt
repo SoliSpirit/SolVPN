@@ -451,3 +451,5 @@ vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vis
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.bing.com&fp=chrome&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&sid=f648da8196bdb32e&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@88.218.196.178:443?sni=lapa4.api3-max.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@143.246.136.78:443?sni=wok1.api3-max.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=nl-10.ariyuz.org&type=ws&headerType=none&host=nl-10.ariyuz.org&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.144.82:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -26,3 +26,4 @@ vless://6a08e957-908a-4711-8e80-54e21c96c2ad@172.239.26.211:32855?encryption=non
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@77.221.152.100:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node14.mxvpn.dev&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabU0wWg@83.171.225.55:8388#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=grpc-reality&mode=gun#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

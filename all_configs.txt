@@ -858,3 +858,4 @@ ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn
 ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10936#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@88.218.196.178:443?sni=lapa4.api3-max.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@143.246.136.78:443?sni=wok1.api3-max.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

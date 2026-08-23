@@ -28,3 +28,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabU0wWg@83.171.225.55:8388#🇫🇷 Join+Tel
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=grpc-reality&mode=gun#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10913#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@88.218.196.178:443?sni=lapa4.api3-max.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

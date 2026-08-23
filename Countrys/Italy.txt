@@ -1,7 +1,3 @@
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@it.getsavesafe.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&security=reality&sid=62b6d6e51d461d78&sni=it.savesafe.cc&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
-vless://0f2765c2-1845-4545-987e-337c7cfb4e52@116.204.164.5:7443?encryption=none&security=tls&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=/@Marisa_kristi#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.162:10901#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
-vless://6fe06b02-74f7-431f-8ca4-c702fa3322bf@138.124.254.21:2096?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=pWPvxPIVtdzgaL0cdFZ73qn1FihjKDZ7TE55wg57Vl8&sni=it-one.quiet-rogue.site&fp=edge&sid=9b43ece6010612b0&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

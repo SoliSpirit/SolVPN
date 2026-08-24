@@ -25,3 +25,5 @@ vless://3a1ccc1e-e0f6-4836-94b8-8405b36e03be@46.243.235.177:5443?encryption=none
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://9ede262c-37f9-4363-82cd-9802dafe9e1f@50.7.249.218:8443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=apkav-5.bosx.net&type=ws&headerType=none&path=%2Fapi%2Fconnect#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol4.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=pol4.freeinternat.com&sid=ff776ff77be48b88#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@pl2.lckdwn.ru:443?&type=ws&headerType=none&host=pl2.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

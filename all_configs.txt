@@ -748,3 +748,4 @@ vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.90:443?security=reality&e
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.140.181:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

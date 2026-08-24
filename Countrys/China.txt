@@ -52,3 +52,4 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&typ
 vless://904183f1-0495-478b-b11f-1fe12e84ad8b@43.161.225.44:443?security=reality&encryption=none&pbk=j0mfhbzohqV1W_PaNeYyKEVuaiK1-A9k2AQJQK7ZDzQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4aeab483de4dd53a#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206THZJbVhOR1J3YTVmWlNRdytSYlBLdz09@151.242.125.198:51886#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZ251OXRWQ3ZEWGM@64.90.7.12:47509#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTM2MzcyYS1kOTc2LTRlMjUtOGIzYi0yOWMxYTU4NDFlMDY@202.155.141.87:12345#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

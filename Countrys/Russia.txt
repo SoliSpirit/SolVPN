@@ -6,3 +6,4 @@ vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?type=tcp&securi
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTEyOC1nY206TVZSSlFuSkRRMUozUjFKYVMxTlhOWEk1VkZCM2VreHFRMGR4UkRkdVpVWkRXblIxZG5OcWVFaFZTMXBoVmxaeVdHNDJRbmM1TkdWMllXUlVhRkZyVGc9PQ@37.77.106.46:26140#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcktoRzZPNXlKcElfTnFlYXIzNXNB@80.90.191.35:443#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&type=ws&path=%2F&security=tls&sni=wsru1.wba-pn.ru&fp=chrome#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

@@ -134,3 +134,4 @@ vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-v
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 ss://YWVzLTI1Ni1nY206UFN3YXZUSFdEMG5rZmN5Vw==@62.146.171.57:80#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ@154.12.242.150:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

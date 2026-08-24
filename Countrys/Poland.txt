@@ -29,3 +29,4 @@ vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol4.freeinternat.com:443?security=
 vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@pl2.lckdwn.ru:443?&type=ws&headerType=none&host=pl2.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?security=reality&encryption=none&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl1.nihaovpn.ru&sid=d9622c6fea10c1#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8064?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=d3aea86e1949&spx=/rSrjne8dfS45oCD&type=tcp&headerType=none#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

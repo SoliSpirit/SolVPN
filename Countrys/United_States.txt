@@ -144,3 +144,5 @@ vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:44
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZkxOSUliSEF2L2c1OGs0SndNeDg3aENqQTgrVW9kM0R1VTdmbzZ5aTFCaz0@129.146.113.93:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.234:2095?security=none&type=ws&path=/&host=fuckingfangbinxing.pusytroller.cf&packetEncoding=xudp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

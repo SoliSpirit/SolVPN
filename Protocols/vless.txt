@@ -399,3 +399,4 @@ vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.151.67:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://476bdb75-0d9b-49f2-a492-4cd68f594d32@ghosts-spasm.quick-cdn.net:443?&security=tls&fp=chrome&packet-encoding=xudp&alpn=http%2F1.1&sni=ghosts-spasm.quick-cdn.net&type=ws&headerType=none&host=ghosts-spasm.quick-cdn.net&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=piracy-android.video-streams.org&type=ws&headerType=none&host=piracy-android.video-streams.org&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?security=reality&encryption=none&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=dc941fb0778384e2#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

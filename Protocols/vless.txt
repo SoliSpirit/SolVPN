@@ -449,3 +449,5 @@ vless://2ab5d143-d8be-4506-b8ae-039fee32dfa2@31.76.246.60:443?encryption=none&ty
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.129.83:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.152.114:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0db4a87c-c280-4a5f-ae97-903768c5ef4c@neth.lckdwn.ru:443?&type=ws&headerType=none&host=neth.lckdwn.ru&path=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?headerType=none&encryption=none&type=tcp&security=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

@@ -80,3 +80,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.140.181:22222?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VElzVHhoY0d4ZU5JbDlzQ0NQQUY1d25wZm1mdkY0M0doVEJRbnE0SEN4az0=@130.61.102.10:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?path=%2F%3Fu%3D1e5b0dc4c9&security=tls&encryption=none&insecure=0&host=nova-comet-core-5d04.ilia-talebi09.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-core-5d04.ilia-talebi09.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://ef2c48a7-c113-4610-9d81-b35779660d9e@138.124.32.222:443?security=reality&encryption=none&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de2.oblaco.bet#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

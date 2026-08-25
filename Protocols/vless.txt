@@ -416,3 +416,5 @@ vless://27b16a66-95e0-4c20-b00b-5dff91d9c9f5@212.46.33.38:443?encryption=none&fp
 vless://27b16a66-95e0-4c20-b00b-5dff91d9c9f5@212.46.33.18:443?encryption=none&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&security=reality&serviceName=moktana.net.v1.StreamService&sid=7c4b9a2e8d5f3c1b&sni=login.moktana.app&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://3302c871-79e8-45a3-8233-d0547ae963ed@cctvhikvision.center:2052?&type=ws&headerType=none&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.12.255:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@fr1.milkabebar.ir:17780?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=chrome&sid=a0fbc54d937aaccb&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

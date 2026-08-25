@@ -451,3 +451,5 @@ vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.168.165:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@nlb.mythos-wargame.fun:443?sni=nlb.mythos-wargame.fun&type=grpc&serviceName=edge.sync.v1&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://29b24e2d-a4b6-4785-ac90-e384b6c0b0b6@secturk.chipsomast.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@meshbuzz.bond:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=4fspx0q.uploodmusicmelody.ir&type=ws&headerType=none&host=4fspx0q.uploodmusicmelody.ir&path=%2Fws-at#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
+vless://133f016d-81ad-4ed3-8fe1-e431a4134dca@plan.tabrizonlinemaku.ir:443?path=/&security=tls&encryption=none&insecure=0&host=plan.tabrizonlinemaku.ir&fp=chrome&type=ws&allowInsecure=0&sni=plan.tabrizonlinemaku.ir#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

@@ -33,3 +33,4 @@ trojan://88b3dd32347d4ffa@wti11.pacemakere.com:20062?allowInsecure=1#🇹🇼 Jo
 trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://c857562678594197@saj2000e.pacemakere.com:20063?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

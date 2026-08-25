@@ -30,3 +30,4 @@ vless://6dcb725e-947e-4bbe-bb35-903374d57179@154.19.187.249:20725?security=reali
 trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://6519a715da174466@jcnp178.pacemakere.com:101?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@167.179.84.175:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

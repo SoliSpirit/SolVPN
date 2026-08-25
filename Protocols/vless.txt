@@ -471,3 +471,4 @@ vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@pla.webinarly.fun:443?type=grpc&ser
 vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@dec.mythos-wargame.fun:443?sni=dec.mythos-wargame.fun&type=grpc&serviceName=edge.sync.v1&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c7dcddff-ef42-4c58-a36f-8d6c6ea1ac59@185.204.169.32:8080?&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@ipw.ygdfw.com:443?&security=tls&fp=unsafe&sni=p2bm6l1.freelanceriran98.ir&type=ws&headerType=none&host=p2bm6l1.freelanceriran98.ir&path=%2Fws-dk#🇩🇰 Join+Telegram:@SolVPN 🇩🇰
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?security=reality&encryption=none&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=f648da8196bdb32e#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

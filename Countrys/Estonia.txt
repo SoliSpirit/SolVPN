@@ -4,3 +4,5 @@ trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=
 vless://7153fb3d-f357-42ac-b6db-ece1732f7f01@multi.fresedvpn.site:11443?&type=ws&headerType=none&host=rebus.rustore.ru&path=%2Fapi%2Fv3%2Fws#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@eeb.webinarly.fun:443?sni=eeb.webinarly.fun&type=grpc&serviceName=edge.sync.v1&fp=chrome&security=tls#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&host=estproxy2.lockdwn.com&path=/&security=none&type=ws#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@5.101.114.177:443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@5.45.126.36:443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

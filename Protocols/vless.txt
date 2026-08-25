@@ -398,3 +398,4 @@ vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.wikihow.com&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&type=tcp&headerType=none#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@81.85.75.85:443?type=tcp&headerType=none&security=reality&encryption=none&sni=baltic.cendora.ru&fp=chrome&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&flow=xtls-rprx-vision#🇰🇬 Join+Telegram:@SolVPN 🇰🇬
 vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?encryption=none&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.241:62145?#🇨🇴 Join+Telegram:@SolVPN 🇨🇴

@@ -91,3 +91,5 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Y00vT0w1MDNxT3MvRHJSM1VwT1RhVy9EbTN
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WWNUNml1VkNLQ1l2a3cwZnNHUmVqWUNEN1lHVHVycldKSDQ2ck9vK1hFMD0=@130.61.181.160:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dmQzSnh6QUpqaDUvVm9RK1ZBWk5ocmRZN0ZkSjl6WmRPdkE3TEF0UWFycz0@130.61.42.202:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4005ddae-29bb-431e-a212-7737316d08ea@94.228.168.18:10444?&type=ws&headerType=none&host=vpnpolar.online&path=%2Fbeeline#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@dec.mythos-wargame.fun:443?sni=dec.mythos-wargame.fun&type=grpc&serviceName=edge.sync.v1&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c7dcddff-ef42-4c58-a36f-8d6c6ea1ac59@185.204.169.32:8080?&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

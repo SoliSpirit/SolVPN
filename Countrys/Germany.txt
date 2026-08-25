@@ -75,3 +75,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNemN4WQ@45.95.2.25:8388#🇩🇪 Join+Telegr
 vless://097bb22a-1303-4478-b9e8-ffc84ea17e83@67.159.43.202:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=cli-q.bosx.net&type=ws&headerType=none&path=%2Fapi%2Fconnect#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://XpnTeam-3@199.232.78.160:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@104.20.37.53:80?&sni=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&type=ws&headerType=none&host=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&path=%2Fstream%2FTrexBridge%2Fb52a90ada6ab#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://3302c871-79e8-45a3-8233-d0547ae963ed@cctvhikvision.center:2052?&type=ws&headerType=none&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

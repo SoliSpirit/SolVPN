@@ -115,3 +115,4 @@ vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?path=%2F%3Fed%3
 vless://0977bddb-a758-4033-96dd-57468e02ea81@103.228.168.182:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&path=%2Fphotos%2Fregister&security=tls&sni=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.50.192:443?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.62.52:443?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@49.13.64.206:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

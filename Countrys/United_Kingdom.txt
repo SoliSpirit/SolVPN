@@ -40,3 +40,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧 Join+Telegram:@S
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://b886e85b-f6bc-4019-9781-b35bd46f3b5d@109.169.76.45:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JZ6o_q7-OSJ87w9kTrcn9I4UiMVZdPUnjXoRs4TbLzE&security=reality&sid=61811b12a62fb2a4&sni=slashdot.org&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@57.128.181.26:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

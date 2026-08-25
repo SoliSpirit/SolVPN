@@ -22,3 +22,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#�
 vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=chrome&spx=/@HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?security=reality&encryption=none&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&fp=firefox&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=bad5722c72a0#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerType=none&host=pl5.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@pla.webinarly.fun:443?type=grpc&serviceName=edge.sync.v1&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

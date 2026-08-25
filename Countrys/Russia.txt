@@ -9,3 +9,5 @@ vless://ad17ed00-5bb6-4fa4-8be1-a545a9fbda6e@45.84.1.247:8443?security=reality&e
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@130.49.148.134:8880?encryption=none&security=none&type=ws&host=rutube.ummapeople.online&path=%2Frutube#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@77.110.104.190:443?security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=random&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@185.147.27.165:8443?sni=user-6a8c51f9.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@66.90.90.13:8443?sni=ai-6a8c51f9.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

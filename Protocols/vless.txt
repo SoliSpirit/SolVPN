@@ -465,3 +465,4 @@ vless://4005ddae-29bb-431e-a212-7737316d08ea@94.228.168.18:10444?&type=ws&header
 vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?&type=ws&headerType=none&host=itproxy3.lockdwn.com&path=%2F#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerType=none&host=pl5.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.126:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cfd.130209.xyz:443?&security=tls&fp=edge&sni=ukraine.142568.xyz&type=ws&headerType=none&host=ukraine.142568.xyz&path=%2Fassets%2Fdist%2Fapp-update-payload.dat#🇺🇦 Join+Telegram:@SolVPN 🇺🇦

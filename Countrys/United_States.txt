@@ -136,3 +136,7 @@ vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDc5OTA2ZC04OWFiLTQzMGItYWNiYy0zMzI3NTY4YTViZTM@152.67.250.45:52345#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UzQvY240NnVDdmN4RllFcUZkZHFIZHdMY0YvYmEyTDYwdUg3VFcxSTEyaz0@129.146.75.36:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcERRRTNrTkNsYU53WnVQNU94QU1DaHFpYkNTTlFTS1JZakVmaQ@185.168.208.115:41348#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://c857562678594197@saj2000e.pacemakere.com:20063?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d1RNVnZ6VXkwcDNoclp2bXA3QkZUeHVjdHNodDJYUm1rUGZEdmNVNVpTMD0=@129.146.37.236:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@usa.mythos-wargame.fun:443?sni=usa.mythos-wargame.fun&type=grpc&serviceName=edge.sync.v1&fp=qq&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6L2doUHd6OWdVUzdadk03N3Rqcml2NHl6dkdUOVVvZjBVMGNzQWxKL1pFaz0=@129.146.166.216:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

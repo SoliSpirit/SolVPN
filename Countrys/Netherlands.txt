@@ -115,3 +115,4 @@ vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@80.78.245.48:8880?encryption=none&s
 vless://9e09f1ce-45d4-0920-b077-81b0dae00db2@31.76.109.7:80?security=reality&encryption=none&pbk=4iWZChsH0rnqtn89xiB1evDLkFjmgh-3WYjx8cknZC0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=console.cloud.yandex.ru&sid=a8b9c0d1e2f34567#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.168.165:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@nlb.mythos-wargame.fun:443?sni=nlb.mythos-wargame.fun&type=grpc&serviceName=edge.sync.v1&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.165:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

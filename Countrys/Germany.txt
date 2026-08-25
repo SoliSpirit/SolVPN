@@ -89,3 +89,5 @@ vless://9e09f1ce-45d4-466d-b077-81b0dae00db2@31.76.111.113:7777?security=reality
 vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%3D45.155.102.207%3Fu%3Df37bdce86d&security=tls&encryption=none&insecure=0&host=nova-mango-spark-7b1c.nova-ef15e0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=nova-mango-spark-7b1c.nova-ef15e0.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Y00vT0w1MDNxT3MvRHJSM1VwT1RhVy9EbTNQQ25uRDJUOS9venU1ajBuaz0=@130.61.40.89:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WWNUNml1VkNLQ1l2a3cwZnNHUmVqWUNEN1lHVHVycldKSDQ2ck9vK1hFMD0=@130.61.181.160:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dmQzSnh6QUpqaDUvVm9RK1ZBWk5ocmRZN0ZkSjl6WmRPdkE3TEF0UWFycz0@130.61.42.202:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4005ddae-29bb-431e-a212-7737316d08ea@94.228.168.18:10444?&type=ws&headerType=none&host=vpnpolar.online&path=%2Fbeeline#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

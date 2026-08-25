@@ -29,3 +29,4 @@ vless://aa904ebf-99ab-452d-9678-cbe62f5f8934@189.24.64.171:2044?&type=tcp&header
 vless://6dcb725e-947e-4bbe-bb35-903374d57179@154.19.187.249:20725?security=reality&type=tcp&packetEncoding=xudp&sni=buylite.tv.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=0102ac4e&pbk=hceZHd9X9FSbWGXGgm3OWN-4Au26rrsriTcyHw5M3VU#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://6519a715da174466@jcnp178.pacemakere.com:101?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

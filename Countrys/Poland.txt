@@ -23,3 +23,4 @@ vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443?security=reality&
 vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?security=reality&encryption=none&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&fp=firefox&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=bad5722c72a0#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerType=none&host=pl5.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@pla.webinarly.fun:443?type=grpc&serviceName=edge.sync.v1&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&path=/lib/tag/mfp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -78,3 +78,7 @@ vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@104.20.37.53:80?&sni=trex-panel-ew6
 vless://3302c871-79e8-45a3-8233-d0547ae963ed@cctvhikvision.center:2052?&type=ws&headerType=none&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22222?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@eeb.mythos-wargame.fun:443?sni=eeb.mythos-wargame.fun&type=grpc&serviceName=edge.sync.v1&fp=qq&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@dea.mythos-wargame.fun:443?sni=dea.mythos-wargame.fun&type=grpc&serviceName=edge.sync.v1&fp=qq&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@eea.mythos-wargame.fun:443?sni=eea.mythos-wargame.fun&type=grpc&serviceName=edge.sync.v1&fp=qq&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

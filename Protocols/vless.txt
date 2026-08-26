@@ -642,3 +642,4 @@ vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@82.152.132.14:443?&security=tls&fp=
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=/#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@94.72.140.210:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
+vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

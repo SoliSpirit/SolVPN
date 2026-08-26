@@ -48,3 +48,4 @@ vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&f
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJhZGQiOiJ4LXVpLnp4aGgudG9wIiwicG9ydCI6IjUzMzg2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMzJlNzU2NjItYzFlZC00ZThkLWY3OGMtM2RjYzY4NWNjNzk1Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.49.211:1080#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?headerType=none&encryption=none&type=tcp&security=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

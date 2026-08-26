@@ -171,3 +171,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 ss://YWVzLTEyOC1nY206eG82azg0bDdiMDBuMmhKcA@23.185.200.135:57841#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://4005ddae-29bb-431e-a212-7737316d08ea@185.173.147.6:10444?encryption=none&security=none&type=ws&host=vpnpolar.online&path=%2Fbeeline#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://4005ddae-29bb-431e-a212-7737316d08ea@45.86.245.225:10444?encryption=none&security=none&type=ws&host=vpnpolar.online&path=%2Fbeeline#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

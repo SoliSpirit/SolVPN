@@ -1,1 +1,1 @@
-vless://60cf6ea2-7a3c-4a97-b7db-92f4de0be0cc@198.62.62.171:443?path=%2Fafpmrsws&security=tls&encryption=none&insecure=0&host=639222734213747055.forester-homaxe.info&fp=chrome&type=ws&allowInsecure=0&sni=639222734213747055.forester-homaxe.info#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8058?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=4bdfc3394f&spx=/Cub5PEXOQvDXJLG&type=tcp&headerType=none#🇮🇱 Join+Telegram:@SolVPN 🇮🇱

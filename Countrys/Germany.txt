@@ -102,3 +102,4 @@ vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/?TELEGRAM-
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?security=reality&type=tcp&fp=firefox&sni=www.telekom.de&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&sid=8f892fa1&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ckpldnNnOGdXR0Y4TUxYSEpiTzhjVWp3OHFUN05rZC92OEJBOGpDVkRzaz0@130.61.116.140:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZXhuQkJ0RHhzVldWSWpHR3hBV3BOYWxOdVBZYVFjT0NwamtPTzliMndCZz0@141.144.237.150:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?security=reality&encryption=none&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&headerType=none&fp=chrome&type=tcp&sni=ru2.skydrgn-online.online&sid=0b#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

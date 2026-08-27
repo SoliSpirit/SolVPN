@@ -122,3 +122,5 @@ vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8059?encryption=none&
 vless://4005ddae-29bb-431e-a212-7737316d08ea@45.94.37.7:10444?encryption=none&security=none&type=ws&host=vpnpolar.online&path=%2Fbeeline#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=pane2.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?encryption=none&fp=firefox&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&security=reality&sid=0b&sni=ru2.skydrgn-online.online&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@186.246.12.85:2053?encryption=none&type=ws&path=%2F&host=186.246.12.85&security=tls&sni=bz2.wba-pn.ru&allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -892,3 +892,4 @@ vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@ipw.ygdfw.com:443?path=/ws-fr&secur
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&security=reality&sid=1e977d0b52eab755&sni=foodnetwork.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://423b1d79-08c4-0002-9d5e-c541f791b55f@138.124.255.233:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&fp=qq&encryption=none&flow=xtls-rprx-vision#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://0db4a87c-c280-4a5f-ae97-903768c5ef4c@neth.lckdwn.ru:443?&type=ws&headerType=none&host=neth.lckdwn.ru&path=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

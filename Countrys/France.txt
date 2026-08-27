@@ -34,3 +34,4 @@ vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8052?encryption=none&
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@ipw.ygdfw.com:443?path=/ws-fr&security=tls&encryption=none&insecure=0&host=0o5itol.freelanceriran98.ir&type=ws&allowInsecure=0&sni=0o5itol.freelanceriran98.ir#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&headerType=none&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&fp=qq&sni=deepl.com&sid=a8ae&spx=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -19,17 +19,8 @@ trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?sec
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20068?allowInsecure=1&sni=hk.catxstar.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://BxceQaOe@95.40.61.23:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://BxceQaOe@18.181.83.46:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
-trojan://BxceQaOe@18.167.76.203:10418?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://5e89314202a8405f@kuso30.pacemakere.com:101?allowInsecure=1#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
-trojan://6519a715da174466@jcnp178.pacemakere.com:101?allowInsecure=1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
-trojan://88b3dd32347d4ffa@wti11.pacemakere.com:20062?allowInsecure=1#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
-trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
-trojan://c857562678594197@saj2000e.pacemakere.com:20063?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

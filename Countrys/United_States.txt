@@ -159,3 +159,7 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bE9CY0RrWGNDTHZDN2NSdUxKVlRXWU8xVUV
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdn.asshole.eu.cc:2095?&type=ws&headerType=none&host=cdn.asshole.eu.cc&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dW16SXpHQTRmVVhjeEJaNTMrWE9iL0lqNDRLbVZNZXd5SVdkQW9ac1Y4VT0@129.146.25.102:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UHU0YmpUMnRRWUFDRFlkdG9oNThLaVZwZDVLbFZURzlUdkEyWm44YkdOcz0@132.226.73.7:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZGhWSEk1NlFOMzcwMU9jem1zNFllVW1scGdQT1hKZHJPMmVHNS9XWnBjUT0@137.131.11.214:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6eGh3T01EK0xJN2loS25jbUlncTFHYlNjUWU1RzZwc2g1ZVNoaVI5M2t5OD0@132.226.81.150:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

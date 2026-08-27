@@ -579,3 +579,5 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.227.227:62145?&type=tcp&hea
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://ae2009b9-76cb-4d18-8612-7515b2b84398@tg1.wba-pn.ru:443?&security=tls&fp=qq&sni=tg1.wba-pn.ru&type=ws&headerType=none&host=tg1.wba-pn.ru&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf4.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdn.asshole.eu.cc:2095?&type=ws&headerType=none&host=cdn.asshole.eu.cc&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

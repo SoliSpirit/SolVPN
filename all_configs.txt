@@ -919,3 +919,4 @@ vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?security=reality&
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.65.60:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=firefox&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.66.34:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=firefox&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=firefox&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZell3Wg@193.168.199.192:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

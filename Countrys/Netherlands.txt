@@ -119,3 +119,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.237.3:62145?&type=tcp&heade
 vless://ccaf200f-e758-7629-152a-fcf7333d3d3a@69.46.46.123:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=norl-production-dc09.up.railway.app&type=ws&headerType=none&host=norl-production-dc09.up.railway.app&path=%2Fws%2Fccaf200f-e758-7629-152a-fcf7333d3d3a#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.143.119:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.35.32:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

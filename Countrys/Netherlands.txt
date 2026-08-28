@@ -111,3 +111,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.165
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.63.154:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8e8e4592-6088-4d00-b061-ef5456d0eb9c@hys41.wba-pn.ru:443?&security=tls&fp=qq&type=ws&headerType=none&host=hys41.wba-pn.ru&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UFdsRmFvZlZnT3hJemRHOEU1bTJVcmQxS3RtK2tkT3BPRWtXbk50d3M5VT0@92.5.231.219:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

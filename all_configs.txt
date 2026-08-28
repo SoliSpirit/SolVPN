@@ -696,3 +696,4 @@ vless://10b93dba-7b48-46fe-98b5-fef94e2520cd@de46.tranzit-net.ru:443?security=re
 vless://85b27fbd-33d6-4a3a-bf5b-c3cf97772893@tr.privatevip.ir:2500?&type=ws&headerType=none&host=tr.privatevip.ir&path=%2FWS#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R01MWDdFK1JHMGt3azFFVk90a09BK2c3aFhaWWZEemRLY1VEZ2JycXNsVT0@140.245.114.180:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UFdsRmFvZlZnT3hJemRHOEU1bTJVcmQxS3RtK2tkT3BPRWtXbk50d3M5VT0@92.5.231.219:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

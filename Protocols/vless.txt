@@ -425,3 +425,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.143.119:62145?&type=tcp&head
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.35.32:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2082?path=/v-ws-de&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b521cf5a-91a8-7fad-3702-698a57b8a50e@ansooyefilter-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-production.up.railway.app&path=/ws/b521cf5a-91a8-7fad-3702-698a57b8a50e&sni=ansooyefilter-production.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.209.135:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴

@@ -407,3 +407,4 @@ vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@199.232.78.159:443?path=%2F&securit
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.68:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.167.18:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://48572af1-d091-457b-a86e-4a457e99927f@3h-unitedstates3.09vpn.com:8443?encryption=none&security=tls&sni=3h-unitedstates3.09vpn.com&type=ws&path=%2Fvless%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@87.121.89.80:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

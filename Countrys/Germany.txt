@@ -63,3 +63,4 @@ vless://34647ada-f376-4e9f-a6a7-25838542ee67@5.75.193.127:443?Telegram=Cfox_Serv
 vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@104.20.37.53:80?&sni=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&type=ws&headerType=none&host=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&path=%2Fstream%2FTrexBridge%2Fb52a90ada6ab#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VmI4Zndrc2w3MHJYbVNZQVdDRVBYUlliWW1OaHdGK3ZsZStxYmFLYkRlND0@130.61.41.69:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@Geue.horlutr.ir:2087?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-fra01.rkitman.ru&fp=chrome&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

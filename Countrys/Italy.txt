@@ -5,3 +5,4 @@ vless://f9d2937a-94e4-444a-95df-103faf1dd3fd@95.181.162.170:444?security=tls&typ
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?&sni=itproxy4.lockdwn.com&type=ws&headerType=none&host=itproxy4.lockdwn.com&path=%2F#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

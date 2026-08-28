@@ -380,3 +380,4 @@ vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.79:8080?path=/v-ws&secur
 vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@144.31.106.40:8443?mode=gun&security=reality&encryption=none&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&fp=chrome&type=grpc&sni=cdn.shopify.com&sid=f747a7a5793b5714#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22222?&type=tcp&headerType=none&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?&sni=itproxy4.lockdwn.com&type=ws&headerType=none&host=itproxy4.lockdwn.com&path=%2F#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

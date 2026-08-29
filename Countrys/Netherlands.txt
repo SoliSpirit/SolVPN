@@ -111,3 +111,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.161.202:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Z3BnYVBhUEQvOUFVNlRnV0w2WTJ3cUI2LzhMeWNrT2Z5TjNaTUJqdGZhST0@84.235.172.207:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.153.222:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.121:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl24.wba-pn.ru#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a4846a6c-163f-4b12-a99f-378d814e5e09@172.239.239.53:22746?security=reality&encryption=none&pbk=B6bPTxNaLqqoUTuNggzTBP0pPxJEqE_Bd_Ob27MPvgU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=d9fd4fa80238cd05#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

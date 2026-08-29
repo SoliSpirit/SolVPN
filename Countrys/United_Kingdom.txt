@@ -29,3 +29,4 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K2JoRW5XWnFqVytRYkQxYVJIenc5ejZGaWR
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SXJBT0xjbWlaSjNwdmdVbHVQZVAwTzU5a1BkNkZMQ1RyMXRoRjhMZktYVT0@129.151.85.23:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=apkav-6.bosx.net&type=ws&headerType=none&path=%2Fapi%2Fconnect#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YUpERHJPbk5vSzdzWStOcHBsOWN3RTNJc1pLeWVBTnNuWFVjSkVUaW5ZVT0@144.24.228.8:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TUxWY3Z0Ui9VQlNsVUVDM0l3eXVrd2p2S3Z2UnZ3OXg2T3A2TFZCWDBHQT0=@129.151.82.158:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

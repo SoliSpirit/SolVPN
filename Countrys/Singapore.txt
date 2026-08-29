@@ -54,3 +54,6 @@ vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reali
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=randomized#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S3ByUHNqVW1nbmhraEZTV1ZNekY0WHphbTFIRDhDL2pwSittQ0FHNFluUT0@168.107.88.80:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UGU5bHZYdWFMaTVwd2lWRmk5REk5MEtmZVRoWk1YZU9FNmJaNnQ5SHNiTT0@168.107.94.84:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTVMSG1mU0FMaWRjRy9yeXMzbGtteVdWUlBlTXlta1pWbTNMYlNNNHAxZz0@161.118.215.233:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MnhnRHBVdmN0L3J3NmY2d2ZxUTBOZVF6Wlo5TjhQTHZDVHVSdDFPVkJoZz0@158.178.239.69:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K1JWcnJZcGthOHZ6REcxSVpJSEVjdXlGU3V2Um5mcHlsSldtcWgzeEdPYz0@161.118.208.148:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

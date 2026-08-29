@@ -450,3 +450,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.224.219:62145?&type=tcp&hea
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.50.74:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.14.64:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.163.101:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@193.108.112.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=alban.freeinternat.com&type=tcp#🇦🇱 Join+Telegram:@SolVPN 🇦🇱

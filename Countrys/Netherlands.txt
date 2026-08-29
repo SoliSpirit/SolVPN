@@ -128,3 +128,4 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QnE3Zk5UZXRzS3haUi9hR081NGdSNCtEYWM
 vless://OwLimbo@31.15.16.78:443?security=reality&encryption=none&pbk=0hw8qgsaTvxyQDI_tsm9pttvoATV_Tuej3V6b6aI8l8&headerType=none&fp=chrome&spx=%2Fp9BzWINmTVDIU4u&type=tcp&sni=amp-api-edge.apps.apple.com&sid=9084cca3#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFJxd29zZlhxbWxsY2hhNHcrSzNMeFlCOHZKK0wxcVJKd0JaZ1ZFMWtSWT0=@84.235.171.56:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://995e6b4d-1d71-4542-95c7-dda552b6cd1c@gateway.mediacorphub.org:443?sni=gateway.mediacorphub.org&type=grpc&serviceName=home.v1.ObjectService&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

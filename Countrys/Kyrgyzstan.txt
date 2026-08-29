@@ -1,1 +1,2 @@
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@81.85.75.85:443?type=tcp&headerType=none&security=reality&encryption=none&sni=baltic.cendora.ru&fp=chrome&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&flow=xtls-rprx-vision#🇰🇬 Join+Telegram:@SolVPN 🇰🇬
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@188.240.213.98:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇰🇬 Join+Telegram:@SolVPN 🇰🇬

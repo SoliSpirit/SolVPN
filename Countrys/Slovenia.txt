@@ -1,1 +1,1 @@
-vless://27f914c5-bdcc-441a-9459-368daf552606@media.hihidress.com:443?security=reality&encryption=none&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mi.com&sid=6ba85179e30d4fc2#🇸🇮 Join+Telegram:@SolVPN 🇸🇮
+vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@72.56.34.223:15207?security=reality&encryption=none&pbk=9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sl.convert-cloud.guru#🇸🇮 Join+Telegram:@SolVPN 🇸🇮

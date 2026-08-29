@@ -123,3 +123,5 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.224.219:62145?&type=tcp&hea
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.50.74:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.14.64:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.163.101:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aTNyZDhwL0hNNTJDaWRuM0RxT1hSdm80QldqS3JpOUIrVWt1VHloSzAvaz0@141.148.242.123:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QnE3Zk5UZXRzS3haUi9hR081NGdSNCtEYWM2N3VaK1lZUm5JV3VIR0lvND0@141.148.237.51:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

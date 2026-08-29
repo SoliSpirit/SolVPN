@@ -66,3 +66,4 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6eWdYMDAycUQzOW9KYTFJanFncGJmYzdnTjI
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ekVvSVhURmhoL1orTWY2ZFI1bDdnZGJSVnVCMHRGRkVGVXFLeGk4aE90OD0@92.5.185.32:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZnZmOEhyekFQNW5JTWNoQys0U3VHbk56VS9uV2pCYnBlNm1vU3dGR3pXdz0@130.61.87.118:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6a04xN0lUbXpOcm5GcGFUcDRKU0VBeS9QVi90S1htK3pHVDlHYWVXbTloVT0@158.180.59.229:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@38.55.107.56:8443?&security=tls&fp=chrome&sni=rubifen.adaspoloandco.com&type=ws&headerType=none&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

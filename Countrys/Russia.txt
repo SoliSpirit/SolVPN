@@ -10,3 +10,4 @@ vless://c47b421f-65f1-4190-b7ba-bd2045086fe4@51.250.102.172:443?encryption=none&
 ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ@195.133.23.200:1291#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.40.234:20199#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?&security=tls&fp=edge&sni=ru05.abvpn.ru&type=ws&headerType=none&host=ru05.abvpn.ru&path=%2Fwebsocket#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

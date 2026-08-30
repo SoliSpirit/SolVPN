@@ -471,3 +471,4 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@138.124.255.221:443?type=tcp&securi
 vless://14079f86-f06b-48a5-a83c-5a6a0f6f14bd@it.selqora.ir:22211?#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?&security=tls&fp=chrome&sni=speed.dulacloud.store&type=ws&headerType=none&host=speed.dulacloud.store&path=%2Fdula#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:2053?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi-one.quiet-rogue.site&pbk=AKUQO-fKsD19FFBxNq5XTFCRXWDZfes4zJjRINY1KUI&sid=beff3ff061a64cfd&fp=firefox#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?security=&encryption=none&headerType=none&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

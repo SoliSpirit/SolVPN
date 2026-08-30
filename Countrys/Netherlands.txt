@@ -122,3 +122,4 @@ vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@nl.superbuba.top:443?security=reali
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TkZXUkxoeHJ6QWRtMXFGSGdRblduclRCL2hOMXAwZjZ5aDJ3MU5uNnlkVT0@92.5.233.236:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.175.73:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@app23.jarvestip.ru:443?security=reality&encryption=none&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app23.jarvestip.ru&sid=2aef5875#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://4e25f371-acc5-4eb6-afb3-b763ee75537d@72.56.115.125:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=rotterdam.korgivps.ru#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -468,3 +468,4 @@ vless://48572af1-d091-457b-a86e-4a457e99927f@3h-unitedstates3.09vpn.com:8443?enc
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@nl.superbuba.top:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl.superbuba.top&sid=9c2378562188c3cb#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.188.198:22222?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@138.124.255.221:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3&fp=edge&encryption=none&flow=xtls-rprx-vision#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://14079f86-f06b-48a5-a83c-5a6a0f6f14bd@it.selqora.ir:22211?#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

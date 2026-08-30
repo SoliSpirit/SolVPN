@@ -507,3 +507,4 @@ vless://SoonTeam@dee.im-soon.com:443?path=/&security=&encryption=none&host=play.
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.82.19:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&sid=065cf4f1c7d83e79&sni=america.cendora.ru#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://7061b26c-0f6c-49b5-be42-af2c011c04bc@54.37.136.194:2053?security=reality&encryption=none&pbk=TtGgrgk1OLMjWBaomJ1JkUOvmtMx7sLJdvvN0bxmZF8&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=bdc1efeb01044e93#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://f980aecd-d243-4910-b231-db172d434541@ne1385.cdn-video.pro:443?type=grpc&serviceName=trgrpc&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

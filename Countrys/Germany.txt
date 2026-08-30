@@ -71,3 +71,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YVpmZldqTHBxdDBpMXhQZGFDelFGOC9XTXd3SVB1c0dLTy9Nd3JNY0E0ST0@129.159.27.74:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5d8fae5f-0427-4da3-99ab-242905fa5c69@fast.iqiraq.shop:443?encryption=none&path=/&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://78c61f86-6229-4994-8389-7d7213ce7f42@140.82.33.78:20827?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

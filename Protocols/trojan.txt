@@ -1,4 +1,5 @@
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@172.67.149.60:443?path=/in-pdr&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

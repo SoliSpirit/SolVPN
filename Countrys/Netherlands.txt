@@ -114,3 +114,4 @@ trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFJxd29zZlhxbWxsY2hhNHcrSzNMeFlCOHZKK0wxcVJKd0JaZ1ZFMWtSWT0=@84.235.171.56:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://995e6b4d-1d71-4542-95c7-dda552b6cd1c@gateway.mediacorphub.org:443?sni=gateway.mediacorphub.org&type=grpc&serviceName=home.v1.ObjectService&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@217.60.24.23:8443?encryption=none&type=grpc&security=reality&sni=cdn.shopify.com&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&sid=f747a7a5793b5714&fp=firefox&alpn=http%2F1.1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N3ZEY0FwdmpFTS9CS2pheFlRTEJqeW04ME1HQ2k2ZUo4amtmb1krNmJVcz0@141.148.239.62:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -338,7 +338,7 @@ trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&s
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vmess://eyJhZGQiOiI1Ny4xMzEuMzIuMTkxIiwiYWlkIjowLCJob3N0IjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsImlkIjoiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOjg0NDMsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjkiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=1&sni=moltbot.doctoroyy.net#🇲🇾 Join+Telegram:@SolVPN 🇲🇾
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -818,3 +818,4 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?mode=gun&secur
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@178.250.186.139:8443?type=tcp&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&fp=chrome&encryption=none&flow=xtls-rprx-vision#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UVFmUENQYld5RGl0S1d2SlJkaHpNTytHdHBQaGplajhWOWRNdUxzOGlBcz0=@79.76.113.182:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&allowinsecure=0&type=tcp&headerType=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

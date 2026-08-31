@@ -107,3 +107,5 @@ vless://97bb5a56-814b-9af2-f90a-7486909c7d41@69.46.46.32:443?&security=tls&fp=ch
 vless://f71d66a1-d2b0-7d14-620a-8602158e322a@69.46.46.33:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=quiet-orchard-ea15-production.up.railway.app&type=ws&headerType=none&host=quiet-orchard-ea15-production.up.railway.app&path=%2Fws%2Ff71d66a1-d2b0-7d14-620a-8602158e322a#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.145.2:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=gaaga.korgivps.ru&type=ws&headerType=none&path=%2Fapi%2Fuser#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wsnl24.wba-pn.ru#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=torr.wlrus.cfd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

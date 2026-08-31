@@ -463,3 +463,4 @@ vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?encryption=none&typ
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.177:62145?#🇨🇴 Join+Telegram:@SolVPN 🇨🇴
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=random&spx=%2Ffdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?&type=ws&headerType=none&host=itproxy3.lockdwn.com&path=%2F#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

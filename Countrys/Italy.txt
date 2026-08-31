@@ -10,3 +10,4 @@ vless://0f2765c2-1845-4545-987e-337c7cfb4e52@116.204.164.5:7443?encryption=none&
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://14079f86-f06b-48a5-a83c-5a6a0f6f14bd@it.selqora.ir:22211?#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?&type=ws&headerType=none&host=itproxy3.lockdwn.com&path=%2F#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

@@ -20,3 +20,4 @@ trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

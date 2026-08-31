@@ -131,3 +131,4 @@ vless://f4b06466-4ae3-de15-0852-0e627e1c274e@69.46.46.22:443?&security=tls&fp=ch
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@139.28.169.107:2046?&security=tls&fp=chrome&sni=f5link.ru&type=ws&headerType=none&host=f5link.ru&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://a4946bd3-1fd0-1562-071f-b3c36a4fd2d2@69.46.46.103:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ivory-prairie-35d4-production.up.railway.app&type=ws&headerType=none&host=ivory-prairie-35d4-production.up.railway.app&path=%2Fws%2Fa4946bd3-1fd0-1562-071f-b3c36a4fd2d2#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

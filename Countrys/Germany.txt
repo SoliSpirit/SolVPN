@@ -63,3 +63,6 @@ vless://XpnTeam-33@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@193.33.133.57:8443?&security=tls&fp=edge&alpn=http%2F1.1&sni=cloudflare.vhub.pro&type=ws&headerType=none&host=cloudflare.vhub.pro&path=%2Fwebsocket#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEdYSkc0bkVxVE42MmNERGNEXzhfQ2RkcnBUSG4wdQ==@de-server-1.zelnora.ir:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://50414e45-4c5f-5a45-5553-9568000eed47@188.114.97.6:8080?host=urzpn8e9ub5s.shoameni2.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F9568000eed47%2Floc-1&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

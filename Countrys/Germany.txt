@@ -80,3 +80,4 @@ vless://785923c4-0b40-43b4-8506-523e31578d21@87.58.153.39:8443?encryption=none&s
 vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=/29c8fed7ca22&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?security=&encryption=none&type=grpc&serviceName=chat.deepseek.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?path=/5c62e3c616d8&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://01c2b190-58df-4fa7-96e8-0e7a3a2148f1@91.99.81.222:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&security=reality&sid=16d9cabe&sni=amp-api-edge.apps.apple.com&spx=/gJQ6bFfNCQ136pW&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

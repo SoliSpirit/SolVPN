@@ -35,3 +35,5 @@ vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&se
 vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@vj37-1936vtw.fincore.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&security=reality&sid=14156e3ac23212cc&sni=www.bing.com&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTI1Ni1nY206M2I5NzA1NDAtY2RjNC00M2I0LWFkZTItMzk4M2M3OGFmYjQ4@ss.011.node-for-bigairport.win:20001#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiJtLmNubWppbi5uZXQueGlhb3lhbi5pbyIsInBvcnQiOiIxNjYyMiIsInR5cGUiOiJub25lIiwiaWQiOiJiMDI1NTJlMS01MjRjLTRkNGUtYWM4YS1jZWJhOGUzMWNiOGUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiI4NDg3OWNhYjY1OGQ0OWQ5YTk4NWFhODVjOWYxYTM2Mi5tb2Jnc2xiLnRiY2FjaGUuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk03.qianmoip.win:50222?allowInsecure=1&sni=taobao.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.178:10889#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

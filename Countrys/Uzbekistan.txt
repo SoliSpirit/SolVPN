@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmM4MDFhN2NhYzVmMTM0@93.174.164.89:11201#🇺🇿 Join+Telegram:@SolVPN 🇺🇿
-vless://e5a33157-a449-4a25-8bd4-d2b02d66aa38@de2.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#🇺🇿 Join+Telegram:@SolVPN 🇺🇿
-vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=G1tysmIvHOz3fYUAyXIIUIXNjor4oyoXjq1ktGykdCY&security=reality&sid=85998b6e877785ea&sni=stats.vk-portal.net&type=tcp#🇺🇿 Join+Telegram:@SolVPN 🇺🇿
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=&encryption=none&type=ws#🇺🇿 Join+Telegram:@SolVPN 🇺🇿

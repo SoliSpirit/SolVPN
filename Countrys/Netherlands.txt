@@ -107,3 +107,4 @@ vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=/TELEGRAM_N
 vless://3d059048-8857-4101-a275-f55142159b5c@wsnl4.wba-pn.ru:443?&security=tls&fp=qq&type=ws&headerType=none&host=wsnl4.wba-pn.ru&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a3f59a62-b4ad-4f02-bfce-ef68e63ab6f7@5.129.214.249:8443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=nlxy.korgivps.ru#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://2f600710-9f4e-4eab-8de1-89f60a878e55@app2.goonars.com:443?security=reality&encryption=none&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=app2.goonars.com&sid=c481d750#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=borat-hopp.bumbleshrimp.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

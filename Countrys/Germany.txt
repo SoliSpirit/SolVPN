@@ -82,3 +82,4 @@ vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?security=&encryp
 vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?path=/5c62e3c616d8&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://01c2b190-58df-4fa7-96e8-0e7a3a2148f1@91.99.81.222:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&security=reality&sid=16d9cabe&sni=amp-api-edge.apps.apple.com&spx=/gJQ6bFfNCQ136pW&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2f600710-9f4e-4eab-8de1-89f60a878e55@app4.goonars.com:443?flow=xtls-rprx-vision&spx=/&headerType=none&type=tcp&security=reality&sni=app4.goonars.com&pbk=u51rZT5vJj8nO80QBBHVW2-WA5OzzQ1eL6euvszWLQI&fp=chrome&encryption=none&sid=09ef88a6#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.10:2087?&type=ws&headerType=none&path=%2F3bfc3e3ed603#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -38,3 +38,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06
 trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk03.qianmoip.win:50222?allowInsecure=1&sni=taobao.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.178:10889#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

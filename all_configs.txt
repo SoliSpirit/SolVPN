@@ -781,3 +781,6 @@ vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://da249715-4a6f-4873-ac3d-260f2b6e0065@45.33.107.60:10974?security=reality&encryption=none&pbk=rQHsnXffkul9uYK50Efqzu-KBZ6ZwKNZts86r8u3iEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a727f329ba2a22#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c8c06f90-c267-47a6-a91a-967e58e61db0@204.44.127.222:37262?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.232.137:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@150.241.72.143:12200?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Kjw_K41-jWxqzAMtOby5y0KREhyjybuHsAHfCEFo6Sc&sid=222afa5374b722b9&sni=au.windconnect.pro#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://4283865b-7145-44d3-9855-96298c47424d@136.244.112.46:37710?type=tcp&encryption=none&security=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

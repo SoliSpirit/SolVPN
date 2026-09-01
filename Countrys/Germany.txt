@@ -71,3 +71,5 @@ vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?path=/@Marisa_k
 vless://2ee0d2aa-867e-a77e-9538-2edfc0b242aa@216.24.57.15:443?sni=four04-rd37.onrender.com&alpn=http/1.1&type=ws&host=four04-rd37.onrender.com&path=/ws/2ee0d2aa-867e-a77e-9538-2edfc0b242aafp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?path=%2F%3Fu%3D1e5b0dc4c9&security=tls&encryption=none&insecure=0&host=nova-comet-core-5d04.ilia-talebi09.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-core-5d04.ilia-talebi09.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dk52TWpmVlVoenBXYkhMMmwzdUhVSy9GejRQbG8rN0VRWWRRSWMxZU1vTT0=@141.147.60.74:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@5.83.129.124:443?sni=50gport3.potatosubge20.org&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.23.56:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

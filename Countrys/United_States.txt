@@ -141,3 +141,4 @@ vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:44
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chromefp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIyMy4yMzYuNjkuMzkiLCJwb3J0IjoiMjQxODciLCJ0eXBlIjoibm9uZSIsImlkIjoiMTJhOGVlMzYtNTkzNi00NDQ5LTkwYmQtYjVlYWM2ZGI0YzFkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@172.67.138.17:443?&security=tls&fp=chrome&sni=mao.kipfel.kdns.fr&type=ws&headerType=none&host=mao.kipfel.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

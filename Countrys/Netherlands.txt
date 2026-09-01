@@ -105,3 +105,4 @@ vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&type=ws&headerT
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.232.137:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://3d059048-8857-4101-a275-f55142159b5c@wsnl4.wba-pn.ru:443?&security=tls&fp=qq&type=ws&headerType=none&host=wsnl4.wba-pn.ru&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a3f59a62-b4ad-4f02-bfce-ef68e63ab6f7@5.129.214.249:8443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=nlxy.korgivps.ru#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

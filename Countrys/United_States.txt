@@ -134,3 +134,4 @@ vless://c020a807-16d3-4ad0-99f7-8379421c8b71@172.239.67.156:26542?security=reali
 vless://4c0cae78-1b6c-4860-8295-d938829f1d64@172.239.67.231:52553?security=reality&encryption=none&pbk=7ettAf7U2AG4PQod_xgNpS6591z6HxjxhEmChKboQRI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=61b89ff3c5a9469a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?&type=ws&headerType=none&path=%2F5adeccb9#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?allowInsecure=1&type=ws&host=neth8.lunariai.ru&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

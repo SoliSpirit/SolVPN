@@ -97,3 +97,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.147.174:62145?&type=tcp&hea
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVAybmtFRnhaSnE3VFJ3S3RMTFJIN0g4a09pVEhKNE40ZmVSaVB4QVpsbz0@92.5.237.51:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.128.172:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://255f9bd5-670f-4b34-9429-9e4388594160@151.101.56.7:443?encryption=none&type=ws&security=tls&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&host=pane3.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=1&allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.176.112:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

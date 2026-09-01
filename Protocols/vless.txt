@@ -514,3 +514,4 @@ vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017?security=reality
 vless://c63d2c0f-786d-49ff-9891-f63bd1ac58d7@45.59.126.91:8080?&type=tcp&headerType=none&path=%2F#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.10:2087?&type=ws&headerType=none&path=%2F3bfc3e3ed603#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3d059048-8857-4101-a275-f55142159b5c@wsnl4.wba-pn.ru:443?&security=tls&fp=qq&type=ws&headerType=none&host=wsnl4.wba-pn.ru&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a6de5675-5bfe-4fc2-b9b4-4bf4a24f6474@95.154.196.62:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=wiu5fVlBM7keSI48Oi3dEnQTR1BnJXgHtXo9xBpAnTA&sid=16498ac98306ce31&sni=foodnetwork.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

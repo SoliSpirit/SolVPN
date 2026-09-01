@@ -745,3 +745,10 @@ vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:44
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?encryption=none&security=tls&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&fp=chrome&type=ws&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dk52TWpmVlVoenBXYkhMMmwzdUhVSy9GejRQbG8rN0VRWWRRSWMxZU1vTT0=@141.147.60.74:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chromefp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk03.qianmoip.win:50222?allowInsecure=1&sni=taobao.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.178:10889#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@5.83.129.124:443?sni=50gport3.potatosubge20.org&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIyMy4yMzYuNjkuMzkiLCJwb3J0IjoiMjQxODciLCJ0eXBlIjoibm9uZSIsImlkIjoiMTJhOGVlMzYtNTkzNi00NDQ5LTkwYmQtYjVlYWM2ZGI0YzFkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://ef48d9a3-add0-40a1-8367-ea6a88dc2a92@108.162.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=node-6796348943-048136.amingtav1341.workers.dev&sni=node-6796348943-048136.amingtav1341.workers.dev&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.23.56:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.172.239:22222?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

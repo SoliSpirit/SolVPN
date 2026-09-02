@@ -72,3 +72,4 @@ vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.10:2087?&type=ws&headerTy
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?path=/fd5ba98a3970&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.249:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://52b140a1-1e12-4410-9532-ebaee7cec3a1@150.241.64.1:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.deutsche-bank.de&pbk=ikKnBJfcuPy1U0O3Cb71zv_G1liM5QcAYhR10A0Ech0&sid=0f00666a#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

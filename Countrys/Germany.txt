@@ -78,3 +78,4 @@ vless://40c81dcc-bc8a-4690-abdf-75ea8530234b@49.12.244.56:101?security=reality&a
 vless://08ab1155-2630-48b5-8a3c-4a44096eb0c1@rah.vip1111.ir:8443?&security=tls&fp=chrome&sni=panel.vip1111.ir&type=ws&headerType=none&host=panel.vip1111.ir&path=%2Fai-articles%2F465992-kids-feel-ai-own-words-featured%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q3FaR3RkZ3h0eGVrRDNTalRjM0EvSFRCWnJxZGU0bzFQQTJ6UGpFbHNkYz0@79.76.104.245:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e8e502bd-8c9e-4261-a020-7f7d41cc3c05@korgivps.ru:8443?&security=tls&fp=qq&sni=korgivps.ru&type=ws&headerType=none&host=korgivps.ru&path=%2Fapi%2Fuser#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

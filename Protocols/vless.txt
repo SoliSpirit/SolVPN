@@ -1,4 +1,3 @@
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -508,3 +507,5 @@ vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.4:443?encryption=none&ty
 vless://5f922903-69b5-4d99-924d-52ca6337741e@46.8.208.29:443?security=reality&encryption=none&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&fp=firefox&type=grpc&serviceName=UpdateService&sni=cdn.okko.tv&sid=7765b2a4cef1033e#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://1031c52b-a421-4afa-9ca5-94be0912ed6d@72.56.7.25:9443?security=reality&encryption=none&pbk=atgfpCNlrnX_AGy2bPpIXyOhNRNkx2l2Ne-a_OvC8Q0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=0123456789abcdef&fp=edge#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp%3Drandom&packetEncoding=xudp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

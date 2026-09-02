@@ -24,3 +24,4 @@ trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&inse
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=borat-hopp.bumbleshrimp.com#🇱🇺 Join+Telegram:@SolVPN 🇱🇺
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=borat-hopp.bumbleshrimp.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

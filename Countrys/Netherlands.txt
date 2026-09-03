@@ -101,3 +101,4 @@ vless://1f9480a7-ea9e-4c30-8df5-9b4ac4f869ea@89.124.115.125:443?security=reality
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@151.242.2.81:443?&security=tls&fp=qq&sni=cf9.rumedia-cdn.com&type=ws&headerType=none&host=cf9.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.43.131:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.86.136:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eu-west.cendora.ru&fp=qq&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&flow=xtls-rprx-vision#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

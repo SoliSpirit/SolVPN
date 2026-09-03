@@ -720,3 +720,5 @@ vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@193.36.38.17:443?&security=tls&fp=c
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.35.17.10:443?type=tcp&security=reality&sni=nordic.cendora.ru&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&fp=qq&encryption=none&flow=xtls-rprx-vision#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://43ca296b-321f-4b61-a12c-ddf8370b9761@151.242.168.155:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mWzXDVWUhjGcuizZHA-rEnRpxv2wgeSZUIuHmQdteiA&security=reality&sid=f576da5e05a1d4d2&sni=kibi-institut.de&type=tcp#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22222?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

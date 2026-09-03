@@ -457,3 +457,4 @@ vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@212.43.158.62:545?&type=tcp&headerT
 vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=%2F%3Fu%3D73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@212.43.158.62:196?&type=tcp&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=piracy-android.video-streams.org&type=ws&headerType=none&host=piracy-android.video-streams.org&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

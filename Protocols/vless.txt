@@ -472,3 +472,5 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.215.201:62145?&type=tcp&hea
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.152.80:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 vless://15836880-212b-4690-b29c-1889a749bf72@43.207.162.145:32913?security=reality&encryption=none&pbk=iJhoNzfiPiua04PL88iAAyZz2u39su4ChSCiGVoekRQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a8f0a95931a52732#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://44b5f266-2b4f-46ca-83ff-99df77147c30@ger22.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?security=reality&type=tcp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=0a9bd9db19578964&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc#🇲🇾 Join+Telegram:@SolVPN 🇲🇾

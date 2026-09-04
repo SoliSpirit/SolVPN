@@ -60,3 +60,5 @@ vless://50414e45-4c5f-5a45-5553-9568000eed47@188.114.97.6:8080?host=urzpn8e9ub5s
 vless://5383fb97-1178-4709-9a25-b767b743e911@185.247.16.49:2200?&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809?security=&encryption=none&headerType=&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.251:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -466,3 +466,4 @@ vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://3d15500f-f7f9-4ae0-a5f9-10df9ce32083@5.78.48.21:39824?security=&encryption=none&headerType=&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&spx=%2F&type=grpc&serviceName=TunService&sni=www.google.com#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://d7430ae7-320c-4658-808b-3006d0627d82@85.155.178.96:443?security=reality&encryption=none&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&fp=chrome&type=grpc&serviceName=gun&sni=us03.glaveda.net&sid=3fa234ea9feaa048#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

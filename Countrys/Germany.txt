@@ -57,3 +57,4 @@ vless://8fe8c95f-1840-42b8-bdf2-35c858eca4e9@91.92.43.177:443?security=reality&e
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?security=reality&type=tcp&fp=firefox&sni=www.telekom.de&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&sid=8f892fa1&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%3D45.155.102.207%3Fu%3Df37bdce86d&security=tls&encryption=none&insecure=0&host=nova-mango-spark-7b1c.nova-ef15e0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=nova-mango-spark-7b1c.nova-ef15e0.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://50414e45-4c5f-5a45-5553-9568000eed47@188.114.97.6:8080?host=urzpn8e9ub5s.shoameni2.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F9568000eed47%2Floc-1&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://5383fb97-1178-4709-9a25-b767b743e911@185.247.16.49:2200?&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

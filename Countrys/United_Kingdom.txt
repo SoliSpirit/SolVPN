@@ -34,3 +34,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.56.63:22223?&type=tcp&headerType=none&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Smk1QUI3OFFRRURpU1NLV0MrNVhIcytKSkU3VlJZSUlUUmRRRXlhWitBbz0@129.151.67.155:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QjJmd284Rm5Ndk9MYU5MVkRZWWJNYTVvWEJlalRlNUd2UEZKaGxkQXlGMD0@129.151.64.19:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aU9obVpuUUk3ZmxzRmVWK3NCdi9aVG1JdG9kcmdGQzQreStWN1JRWDl0bz0=@134.65.57.186:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

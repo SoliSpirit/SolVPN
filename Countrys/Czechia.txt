@@ -1,1 +1,2 @@
 vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&sid=0c#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
+vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=udemy.com&fp=chrome&flow=xtls-rprx-vision&sid=e90360ec7cc61b20&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

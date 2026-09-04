@@ -9,7 +9,6 @@ vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerTy
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:443?&type=ws&headerType=none&host=pl4.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@pl2.lckdwn.ru:443?&type=ws&headerType=none&host=pl2.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?&security=tls&fp=qq&type=ws&headerType=none&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
-vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@72.56.34.223:15206?security=reality&encryption=none&pbk=9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl.routeon.pro#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://e459d26c-0957-4695-b1ac-0719e8df64f6@82.118.20.109:443?security=reality&encryption=none&pbk=U1X__Tg779LinTpcP65AVLHtxAGPSKzr04K1Fq_mDy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=146c918c71da5d81#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@2.26.224.91:8443?encryption=none&type=grpc&security=reality&sni=cdn.shopify.com&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&sid=f747a7a5793b5714&fp=firefox&alpn=http%2F1.1#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

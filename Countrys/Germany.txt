@@ -59,3 +59,4 @@ vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%
 vless://50414e45-4c5f-5a45-5553-9568000eed47@188.114.97.6:8080?host=urzpn8e9ub5s.shoameni2.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F9568000eed47%2Floc-1&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5383fb97-1178-4709-9a25-b767b743e911@185.247.16.49:2200?&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809?security=&encryption=none&headerType=&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

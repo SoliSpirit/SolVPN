@@ -93,3 +93,8 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.247.156:443?type=tcp&security
 vless://52b7a871-1455-4a6e-9e9c-78a0a1e43f86@89.110.70.223:8080?security=reality&encryption=none&pbk=a31ZnQOsnWUJq5bSLVWIeuGJZFPE52NidulBT5CV_z4&headerType=none&fp=firefox&type=tcp&sni=the.world.of.the.champions.retrovip.net&sid=f40ef36067#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@130.17.23.252:443?security=reality&encryption=none&pbk=T422l5z4xfnyEx0C3o0l61cqDo8QgQZBLiROBHO2QAk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-4.kihsuyhf8jkiugsxb.cfd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@147.45.111.103:443?security=reality&encryption=none&pbk=rWpM1YULmwcQynCxVoOo-Nw7BCPlC7LjD1_ou_vWsGo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=04e35a9e#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.231.30:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.238.119:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.53.161:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.137.176:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.166.135:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

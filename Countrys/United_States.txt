@@ -133,3 +133,4 @@ vless://3d15500f-f7f9-4ae0-a5f9-10df9ce32083@5.78.48.21:39824?security=&encrypti
 vless://d7430ae7-320c-4658-808b-3006d0627d82@85.155.178.96:443?security=reality&encryption=none&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&fp=chrome&type=grpc&serviceName=gun&sni=us03.glaveda.net&sid=3fa234ea9feaa048#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.121:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&path=%2Ffp%3Drandomized&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

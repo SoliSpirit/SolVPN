@@ -412,3 +412,6 @@ vless://2f39df59-0ec9-4b92-b6f7-10f746942c70@46.8.208.29:443?type=grpc&security=
 vless://7700ff6d-cefb-4768-a806-ec4f63fe3b38@172.67.136.43:443?encryption=none&security=tls&sni=6-M13.176F877b-9958-456A-9b39-9DE3e9aD2d9D.KdNs.fR&type=ws&host=6-m13.176f877B-9958-456A-9b39-9De3e9AD2D9d.kDnS.Fr&path=%2FED3ZQPu7lqyeDGD58KabZ#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://7a657573-a580-769f-29b5-8d2e1d91a101@104.19.20.254:443?path=%2Fstream%2FPANEL_ZEUS%2F8d2e1d91a101%2Floc-2&security=tls&encryption=none&host=lrzsfte1ufps.chimamanda81.workers.dev&type=ws&sni=lrzsfte1ufps.chimamanda81.workers.dev#🇺🇿 Join+Telegram:@SolVPN 🇺🇿
+vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?&type=ws&headerType=none&path=%2F4de527ea5ed9#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://090a3fa8-973f-4812-9b69-ed982082a933@147.189.129.155:2087?&type=ws&headerType=none&path=%2F4ad49ed0a3d5#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@104.21.47.191:443?&security=tls&fp=chrome&sni=2-M19.nORtH-kORea-FLOw.KDns.fr&type=ws&headerType=none&host=2-m19.NORTh-koREA-FLoW.KdNs.FR&path=%2FCjBjB9sn5pCvaSwScc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

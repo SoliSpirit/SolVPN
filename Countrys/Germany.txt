@@ -69,3 +69,4 @@ vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@31.76.10.234:443?security=reality&e
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QXJxVWRoaGVJWGdNR3VwVVd3YmJ2Wjd5UkFXeTVqSG1pUHR4d3JMaHMzaz0@130.61.131.106:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d1JxSEtqMWx5UFYwcWlnRGxUajJMQzlWZWJYaWtITnhzT1VRK2w1SE1vbz0@130.61.228.228:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M0w2ZnF3NFhjQUFFQzhCd0NLNWZrdU9qOFc3WVZkMnBBNnFIRWhWdDU3TT0=@130.61.116.233:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.11.46.cdn-one.org:443?fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&sni=31.76.11.46.cdn-one.org&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

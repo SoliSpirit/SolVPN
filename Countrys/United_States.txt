@@ -138,3 +138,6 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&
 ss://YWVzLTI1Ni1nY206TjJKaVkySXhOalUzWkRnMw@65.49.217.190:23456#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://7700ff6d-cefb-4768-a806-ec4f63fe3b38@172.67.136.43:443?encryption=none&security=tls&sni=6-M13.176F877b-9958-456A-9b39-9DE3e9aD2d9D.KdNs.fR&type=ws&host=6-m13.176f877B-9958-456A-9b39-9De3e9AD2D9d.kDnS.Fr&path=%2FED3ZQPu7lqyeDGD58KabZ#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://090a3fa8-973f-4812-9b69-ed982082a933@147.189.129.155:2087?&type=ws&headerType=none&path=%2F4ad49ed0a3d5#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@104.21.47.191:443?&security=tls&fp=chrome&sni=2-M19.nORtH-kORea-FLOw.KDns.fr&type=ws&headerType=none&host=2-m19.NORTh-koREA-FLoW.KdNs.FR&path=%2FCjBjB9sn5pCvaSwScc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://M7v%w11Se*@34.94.125.227:443?type=tcp&security=tls&fp=chrome&sni=mxlo.wsone.icu#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

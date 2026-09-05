@@ -98,3 +98,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.238.119:62145?&type=tcp&hea
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.53.161:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.137.176:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.166.135:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.153.152:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

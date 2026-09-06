@@ -118,7 +118,6 @@ vless://e5d917f5-fc78-455e-bbb5-81d08715f3d6@95.154.196.61:443?encryption=none&f
 vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=&encryption=none&headerType=&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&path=%2f#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#🇦🇲 Join+Telegram:@SolVPN 🇦🇲
 vless://374181b9-44bf-44f1-a227-1184f3e9e47b@46.29.238.136:40443?encryption=none&type=tcp&security=reality&sni=deepl.com&fp=chrome&pbk=Ic-S89gGVGw1RnKJHOi3CzAmdU8fIdlMZOd4DBV7A3M&sid=bbb1&allowInsecure=1#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
 vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerType=none&host=pl5.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
@@ -420,3 +419,4 @@ vless://db04ac87-08bb-49a9-9deb-556fe915892e@www.visa.com.hk:443?&security=tls&f
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.93.121:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?encryption=none&security=tls&sni=www.zoom.com&pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&type=ws&host=edge.xlordgrim.com&path=%2Fxlordgrim%2Fsg#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://5efabea4-f6d4-91fd-b8f0-17e004c89c68@node67.lunes.host:3087?encryption=none&security=none&type=ws&host=node67.lunes.host&path=/@s5gydl#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

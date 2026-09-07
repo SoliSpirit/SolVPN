@@ -747,3 +747,5 @@ vless://94125e0f-216d-c96d-6885-4c6a86f8c4f6@69.46.46.27:443?&security=tls&fp=io
 vless://493024a4-2da7-4ff9-9bc7-fdd5543141d2@88.216.73.74:443?&type=ws&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://90715c6b-6c65-4466-a50c-234660f1f531@82.24.203.70:2087?path=/d51f7fbe4da2&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.60.245:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

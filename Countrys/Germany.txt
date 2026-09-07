@@ -70,3 +70,4 @@ vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YllEWUU5OFVtNTVRREMwTm1Oa2tTdGE4V1pZKzc2anh0TEZaTmF1ZzBHWT0@130.61.119.35:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SUxieTEyZHBJYlJDK0p5R3kxV2V2Znc1aThWTDI3ODZVUm1tbFgyNUJzUT0=@130.61.179.188:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://90715c6b-6c65-4466-a50c-234660f1f531@82.24.203.70:2087?path=/d51f7fbe4da2&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.195:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

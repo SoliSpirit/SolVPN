@@ -73,3 +73,4 @@ vless://90715c6b-6c65-4466-a50c-234660f1f531@82.24.203.70:2087?path=/d51f7fbe4da
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.195:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.170.213:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SXFHQno1UXFjT0NtU0xGcTNCeXozMG56K2VhZmtKOThaeGxmZmh2YzQ4QT0=@130.61.231.219:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://2feda6f7-8baa-4591-a851-1e2037a58572@91.233.8.31:443?fp=firefox&type=tcp&encryption=none&flow=xtls-rprx-vision&sid=4a1b0c7d&security=reality&headerType=none&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sni=tnt-cloud.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

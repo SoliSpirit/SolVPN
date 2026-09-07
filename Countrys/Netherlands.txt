@@ -104,3 +104,5 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aVVFU3ErVExBREJYaysyZkhiTFMwQmpjRW1
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.57.174:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.128.201:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=/vless/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WjhaZDc2OWlIbVUvbHJtQmZjZDNNUUc3VVVIVCtpc1hOWjZreUJjRVFlMD0@152.70.51.87:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SysvRVJMSm5pOHhUYitmTzlSOWdOQTZUMmtHUFJrUmExT3dQRWVHN2FxTT0@134.98.137.196:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

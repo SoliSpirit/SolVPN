@@ -146,3 +146,4 @@ vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@38.207.169.105:443?sni=stx4x.gyvz.k
 trojan://BxceQaOe@100.42.228.109:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://50414e45-4c5f-5a45-5553-44890b90d17e@104.21.238.93:443?path=%2Fstream%2FPANEL_ZEUS%2F44890b90d17e%2Floc-0&security=tls&encryption=none&insecure=0&host=afzoybehu2ws.vtzv4xe1un6s.workers.dev&type=ws&allowInsecure=0&sni=afzoybehu2ws.vtzv4xe1un6s.workers.dev#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://090a3fa8-973f-4812-9b69-ed982082a933@147.189.129.155:2087?&type=ws&headerType=none&path=%2F4ad49ed0a3d5#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://M7v%w11Se*@34.94.125.227:443?type=tcp&security=tls&fp=chrome&sni=mxlo.wsone.icu#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

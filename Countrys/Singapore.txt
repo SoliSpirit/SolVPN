@@ -42,7 +42,6 @@ vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?allowInsecure=0&type
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.49.211:1080#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

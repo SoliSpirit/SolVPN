@@ -68,3 +68,4 @@ vless://70d482eb-7584-4841-a02a-c668f1ee33e7@de2.routeliora.ru:8443?security=rea
 vless://02f3a6a2-289e-4026-8e26-616d47e0914f@asd.coteite.pro:14443?&security=tls&fp=android&alpn=http%2F1.1&sni=asd.coteite.pro&type=ws&headerType=none&host=asd.coteite.pro&path=%2Ftzws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://XpnTeam-33@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2f39df59-0ec9-4b92-b6f7-10f746942c70@46.8.208.29:443?type=grpc&security=reality&fp=firefox&sni=cdn.okko.tv&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&sid=7765b2a4cef1033e&serviceName=UpdateService#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?&type=ws&headerType=none&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

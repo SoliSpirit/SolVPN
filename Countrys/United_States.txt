@@ -55,7 +55,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?security=realit
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://50414e45-4c5f-5a45-5553-723a643df685@162.159.91.222:443?path=%2Fstream%2FPANEL_ZEUS%2F723a643df685%2Floc-0&security=tls&encryption=none&insecure=0&host=n3zaxce7u0es.crzl48eiuses.workers.dev&type=ws&allowInsecure=0&sni=n3zaxce7u0es.crzl48eiuses.workers.dev#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -109,7 +109,6 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjY1
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.178:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.233.100:443?sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://413a66e9-b05b-4ae6-a9eb-6d28204a28f4@138.68.53.88:443?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-vless://50414e45-4c5f-5a45-5553-723a643df685@162.159.91.222:443?path=%2Fstream%2FPANEL_ZEUS%2F723a643df685%2Floc-0&security=tls&encryption=none&insecure=0&host=n3zaxce7u0es.crzl48eiuses.workers.dev&type=ws&allowInsecure=0&sni=n3zaxce7u0es.crzl48eiuses.workers.dev#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.8.66:443?sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://MiTiVPN@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -2,7 +2,6 @@ vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@pl4.lckdwn.ru:443?&type=ws&headerTy
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
-vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerType=none&host=pl5.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:443?&type=ws&headerType=none&host=pl4.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@pl2.lckdwn.ru:443?&type=ws&headerType=none&host=pl2.lckdwn.ru&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?&security=tls&fp=qq&type=ws&headerType=none&host=chopin.adaspoloandco.com&path=%2Fdownload.php#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -707,3 +707,4 @@ vmess://eyJhZGQiOiIxNTAuMjQyLjI0NC4xMTYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNWQ3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabU0wWg@83.171.225.55:8388#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.77.220.152:5015?security=reality&encryption=none&pbk=-6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=special.aeternavpn.space&sid=a1b2c3d4#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

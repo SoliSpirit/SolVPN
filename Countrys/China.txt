@@ -35,3 +35,4 @@ vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.239.6.251:13779?Telegram=@Gozarg
 vless://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@456afbf3-tla000-tmj4pk-1kcpe.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@vj37-1936vtw.fincore.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&security=reality&sid=14156e3ac23212cc&sni=www.bing.com&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.165.174:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk04.qianmoip.win:52224?security=tls&sni=taobao.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

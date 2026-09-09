@@ -55,3 +55,4 @@ vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://XpnTeam-4@140.248.186.45:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@161.35.217.79:2087?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.166.243:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

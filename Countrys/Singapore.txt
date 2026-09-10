@@ -51,3 +51,4 @@ vless://a965aaba-e7d0-44fc-84ad-cd7c341249aa@56.10.83.247:26146?Telegram=@Gozarg
 vless://9f752e03-411f-4df4-841f-a23c4c43d183@13.212.211.73:20221?flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=Fd3DtGiQyvw9IBKoMqKtgaKVkdvjnaErL_1ib-zXqxY&sid=85ae3d83d037b7&type=tcp&path=%2f#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZHNsSTU4cW40cFNTMFlENHBlU1lnVVRiWXRKeXB6SXIrV3Z0NHVMWExOST0@146.235.20.146:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aTY5OWR2cm8zK3l5YjlVNm8zcXNvam5vWncyTXN5bWZVOGpoVzZTelZMZz0@146.235.19.129:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

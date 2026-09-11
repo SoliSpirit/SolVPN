@@ -55,3 +55,5 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCS29LM0VQTjJUd0pVZjBJQk9QUVNB@germ6.velqixa.ir:8390#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7b102311-43fd-4e8f-877e-8090623c101d@77.239.104.82:443?sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram @VPNine1fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://80eb59ea-d992-456f-adf0-0ada38ffa062@2.28.40.166:8686?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

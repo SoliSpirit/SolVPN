@@ -31,3 +31,4 @@ vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 vmess://eyJhZGQiOiJ6ZmQtaGt2MS5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYxMTQiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&serviceName=vless#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@en-new.moriarty-web.com:443?sni=en-new.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&serviceName=vless&encryption=none&type=grpc&security=none#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

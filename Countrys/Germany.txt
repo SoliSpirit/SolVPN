@@ -58,3 +58,4 @@ vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?path=/@Marisa_k
 vless://7b102311-43fd-4e8f-877e-8090623c101d@77.239.104.82:443?sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram @VPNine1fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://80eb59ea-d992-456f-adf0-0ada38ffa062@2.28.40.166:8686?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMDMyYzM4MzNkNGI4NmI5@87.83.220.214:10210#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

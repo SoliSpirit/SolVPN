@@ -86,3 +86,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=realit
 ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443?&security=tls&fp=chrome&sni=pr-media.pepro.site&type=ws&headerType=none&host=pr-media.pepro.site&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@31.76.0.105:2054?encryption=none&security=reality&sni=www.ibm.com&fp=chrome&pbk=zZ3j8Cw2soL_X2yrp5hOiN-Y5l0RdkY523LYkKYfQhM&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=torr.wlrus.cfd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

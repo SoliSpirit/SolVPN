@@ -32,3 +32,4 @@ vmess://eyJhZGQiOiJ6ZmQtaGt2MS5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJp
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&serviceName=vless#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@en-new.moriarty-web.com:443?sni=en-new.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&serviceName=vless&encryption=none&type=grpc&security=none#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

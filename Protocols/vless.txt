@@ -423,3 +423,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.78:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2082?security=none&type=ws&path=%2F%3Fed%3D2560&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&encryption=none#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+vless://d92b6509-8b63-4505-b3a2-1dc5b1c014ac@162.248.166.35:443?security=reality&encryption=none&pbk=NYG48Fv1MF3SqOpHwoa4GqJH5IJrocSrwWzrffY-tCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.caradisiac.com&sid=c6dc8abb0235dc05#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

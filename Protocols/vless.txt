@@ -379,3 +379,4 @@ vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?path=/@Marisa_k
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.121:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?&type=ws&headerType=none&host=soft-shadow-1e33.xicav73335.workers.dev&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?&type=ws&headerType=none&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

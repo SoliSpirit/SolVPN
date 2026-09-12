@@ -1,1 +1,2 @@
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

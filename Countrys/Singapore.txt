@@ -47,3 +47,4 @@ vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.136:2096?&security=tls&fp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017?security=reality&encryption=none&pbk=cy4ePzAdSz4pqRmAXXchMIgSoSKo8qjq2qLk5805LRA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=af1c2e33b0c7dad7#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@188.114.97.6:2096?&security=tls&fp=unsafe&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

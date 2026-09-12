@@ -32,3 +32,5 @@ trojan://Telegram_healer_config@104.21.70.21:443?alpn=http/1.1&fp=unsafe&host=bj
 trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?type=ws&path=/x7f9k2m4p8&host=ot2.hyas.space&security=tls&sni=ot2.hyas.space#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@172.64.229.84:443?type=ws&path=/x7f9k2m4p8&host=ot.hyas.space&security=tls&sni=ot.hyas.space#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&type=ws&sni=hhcm.hhxaf.cc.cd&path=/&host=hhcm.hhxaf.cc.cd#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

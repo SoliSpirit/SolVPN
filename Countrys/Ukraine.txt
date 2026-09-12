@@ -1,1 +1,1 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&allowInsecure=1#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
+vless://50414e45-4c5f-5a45-5553-5d36fccf19c3@172.64.93.246:443?path=/stream/PANEL_ZEUS/5d36fccf19c3/loc-0&security=tls&encryption=none&insecure=0&host=zeus-panel-24zdq8.bikhabi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-24zdq8.bikhabi.workers.dev#🇺🇦 Join+Telegram:@SolVPN 🇺🇦

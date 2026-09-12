@@ -48,3 +48,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMDMyYzM4MzNkNGI4NmI5@87.83.220.214:10210#�
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.78:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d92b6509-8b63-4505-b3a2-1dc5b1c014ac@162.248.166.35:443?security=reality&encryption=none&pbk=NYG48Fv1MF3SqOpHwoa4GqJH5IJrocSrwWzrffY-tCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.caradisiac.com&sid=c6dc8abb0235dc05#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

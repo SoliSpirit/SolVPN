@@ -24,3 +24,4 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZGhyQnZFWDJkSFJqYWFrV0hCWlVh@20.111.9.76:59380#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vmess://eyJhZGQiOiI1MS4xMDMuMjguMjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImU1N2U5YmI0LWE0NDItNDRkZC1hNGJiLTJhYWM3MmNmZDFmMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTQ1NTUiLCJwcyI6Ilx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGViXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.146.129:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.22.53:22222?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -2,3 +2,4 @@ vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?flow=xtls-rprx-vi
 vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect3.nyxserver.ir:8444?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=195-162-69-203.sslip.io#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?security=tls&type=ws&headerType=&path=&host=&sni=&fp=#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

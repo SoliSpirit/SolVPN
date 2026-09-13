@@ -1,1 +1,2 @@
 vless://50414e45-4c5f-5a45-5553-5d36fccf19c3@172.64.93.246:443?path=/stream/PANEL_ZEUS/5d36fccf19c3/loc-0&security=tls&encryption=none&insecure=0&host=zeus-panel-24zdq8.bikhabi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-24zdq8.bikhabi.workers.dev#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=/TELEGRAM-TOOTFFARANGI&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.sony.com#🇺🇦 Join+Telegram:@SolVPN 🇺🇦

@@ -49,3 +49,4 @@ vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?path=%2F%3Fed%3
 vless://884d811f-577b-421e-aabb-608660b0ecfa@5.189.223.90:9891?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cabd9303-ae32-4d25-86b9-26b312d0f044@5.35.81.60:4443?mode=gun&security=reality&encryption=none&pbk=nhvyI4KrKDUSgw9Fa63SDeNATaTsAu9bRZ4qaraydRM&fp=chrome&type=grpc&serviceName=snob-grpc-de&sni=maps.apple.com&sid=e5f6a1b2#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6My9XdzVTU2Z4cXUwYWVpOHhQMWpFYUJwQWMyNEM0V05ZMThHRXdmVGcwTT0@130.61.85.116:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?&type=ws&headerType=none&path=%2Fv1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

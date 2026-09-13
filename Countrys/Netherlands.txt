@@ -81,3 +81,5 @@ vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@185.141.227.155:20002?security=real
 vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c743b343-b1c9-4e44-98a9-274df2015727@139.64.166.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cudJBi1zLMATgg_nlqMK5O6Lshlv8EQ2BBQjxbpF4AY&security=reality&sid=eedf31ed&sni=www.cloudflare.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@89.208.104.118:2054?mode=gun&security=reality&encryption=none&pbk=uSv_IgtbnbUd7_FcH--Zl0O57Nb_ddsSGAZQJlqpU0U&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=www.ibm.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

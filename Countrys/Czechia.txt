@@ -1,1 +1,1 @@
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?&security=tls&fp=chrome&sni=web-socket.tgdaosheng.ggff.net&type=ws&headerType=none&host=web-socket.tgdaosheng.ggff.net&path=%2Fproxyip%3Dbpb.yousef.isegaro.comfp%3Dchrome#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
+vless://1852b02c-1828-40eb-81ff-4de3d097cb35@78.159.247.246:443?path=%2Fws&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&host=sb2.hat.onl&fp=chrome&type=ws&allowInsecure=0&sni=sb2.hat.onl#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

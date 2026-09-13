@@ -4,3 +4,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸
 vless://43c23116-1115-4af4-a0f0-56f02841a605@185.254.205.79:19842?security=reality&encryption=none&pbk=sfOfuQeJBlKfDnPL_EMWUxMIiFAN8BNKjtWDUvlsjzM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=25ebc9e0a912#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://898537d9-ce3a-4937-bbef-c0fa61c07791@93.189.94.67:48296?security=reality&encryption=none&pbk=ga1wUMMknP4pwJfUNOOvD9I35XV4q3c73byXPYbRxBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=109657bb2dbe99#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://YWVzLTI1Ni1nY206d0JZaURqRER5RnFjQm5ObA@64.177.32.29:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.33.59:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

@@ -1,1 +1,1 @@
-vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@31.43.191.131:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tehno.store&fp=random&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&flow=xtls-rprx-vision#🇦🇿 Join+Telegram:@SolVPN 🇦🇿
+vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?#🇦🇿 Join+Telegram:@SolVPN 🇦🇿

@@ -368,3 +368,5 @@ vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?security=reality
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://d427a02f-e0ea-4fce-9cfb-66c1866ca3ce@91.233.8.16:443?security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tnt-cloud.ru&sid=e1f8a3b6#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://91d28760-ecf1-450b-9170-d310111a0e6d@45.149.172.80:443?security=reality&encryption=none&pbk=FKTaFzF4zfAqXBdDQHwSVl_XyNcC3T17s_FqhHyZchg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=fb9456392070128e#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.221.118:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

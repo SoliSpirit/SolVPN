@@ -397,3 +397,7 @@ vless://b775630e-1386-44a6-9d89-61d029d4b5ab@91.98.102.240:42718?security=&encry
 vless://d005cde6-263f-48ac-8b13-74ebf7f3f8ef@91.98.96.59:40017?security=&encryption=none&headerType=&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://81b77672-07d4-41e8-8eae-18987e2bd50b@141.95.103.217:443?&type=ws&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@118.163.34.31:443?&security=tls&fp=chrome&sni=sni.ehb.cc.cd&type=ws&headerType=none&host=sni.ehb.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net%3Fuuid%3Def6c9625-62de-4b9d-b7e2-0d4a9f67a9b2#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.181:443?sni=pl-dedic-2.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-ded.failspace.top:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.172:443?sni=pl-dedic-3.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -690,3 +690,4 @@ vless://5982d32f-f2e4-4267-a8ad-48492e65344c@46.33.8.18:443?security=reality&enc
 vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@w7tjfftjdt.vk-maps.net:52006?security=reality&encryption=none&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api5.vk-maps.net&sid=08#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
+vless://f053b140-9673-4ac5-bc8b-587bfd2c8fd8@54.255.121.205:43840?security=reality&encryption=none&pbk=tDzxVcXg6zzA1r0I_1j2y4vE0zkgmIVX3_Jf0UG1AnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ac4b9f02123aa50b#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

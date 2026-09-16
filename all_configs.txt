@@ -690,3 +690,5 @@ vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=realit
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.145:62145?&sni=158.101.197.145&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.214.23:62145?&sni=158.101.214.23&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-dedic-2.failspace.top:443?sni=poland-new-dedic-2.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@r3mrcg00129437x.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼

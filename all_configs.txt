@@ -689,3 +689,4 @@ vless://820a850b-6e10-45e6-8142-2df17a394504@107.189.26.239:443?security=reality
 vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.145:62145?&sni=158.101.197.145&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.214.23:62145?&sni=158.101.214.23&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-dedic-2.failspace.top:443?sni=poland-new-dedic-2.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

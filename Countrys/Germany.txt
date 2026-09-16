@@ -52,3 +52,4 @@ vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.112:443?&security=reality
 vless://60a361f9-3c45-4954-9e4c-92a85bda243d@new3.smart-cats.ru:2053?mode=gun&security=reality&encryption=none&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&fp=chrome&spx=%2F&type=grpc&serviceName=grpc&sni=www.google.com&sid=4881f8244d1b9021#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7b102311-43fd-4e8f-877e-8090623c101d@77.239.104.82:443?sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram @VPNine1fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5f00ca4e-3f26-473e-ad1c-414112abb0a3@95.179.169.44:53224?encryption=none&type=tcp&allowInsecure=1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://5fc7563b-552d-417f-9409-08ef92284599@192.248.182.183:39244?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

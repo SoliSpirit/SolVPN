@@ -686,3 +686,6 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NzYwcE51bVlOYjljOFk3Y3JLSHFpYjVoWUo
 vless://77dc177b-79d9-49ac-92e1-2f1011faa5e3@103.31.4.10:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=f871a986.69lover.site&type=ws&headerType=none&host=f871a986.69lover.site&path=%2Fapi%2Fv2%2Fb8ee4ba356df307c%2Fstream#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://820a850b-6e10-45e6-8142-2df17a394504@107.189.26.239:443?security=reality&encryption=none&pbk=F3XkvPrGmCOrJpNhpPqkVHrZ58YA0Z8VCp6y7s6We2U&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&sid=c09a8eae8476d36c#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.145:62145?&sni=158.101.197.145&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.214.23:62145?&sni=158.101.214.23&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

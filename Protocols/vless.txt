@@ -3,6 +3,7 @@ vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=no
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=/vless/&security=&encryption=none&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🇸🇦 Join+Telegram:@SolVPN 🇸🇦
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

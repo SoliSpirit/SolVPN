@@ -49,3 +49,7 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VWNubEhPcEhsSFVlakxmZ3FGZklTV2ViS29
 vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d427a02f-e0ea-4fce-9cfb-66c1866ca3ce@91.233.8.16:443?security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tnt-cloud.ru&sid=e1f8a3b6#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@161.35.217.79:2087?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.88.152:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.193.33:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.105.34:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.252.15:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

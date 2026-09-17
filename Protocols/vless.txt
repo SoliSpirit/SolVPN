@@ -387,3 +387,8 @@ vless://f9d2937a-94e4-444a-95df-103faf1dd3fd@95.181.162.170:444?security=tls&typ
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@161.35.217.79:2087?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c6ba83a7-c4b5-481f-8f71-0f17deff0bf2@104.21.44.253:8080?&type=ws&headerType=none&host=billowing-sunset-e340.qaraatayi.workers.dev&path=%2FeyJqdW5rIjoiOUhPbnRlV0xaekI1cjciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?security=tls&type=ws&headerType=&path=&host=&sni=&fp=#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@64.226.88.152:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.193.33:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@46.101.105.34:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.252.15:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.21:443?path=/raccoonwsvless&security=tls&alpn=http/1.1&encryption=none&fm={#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

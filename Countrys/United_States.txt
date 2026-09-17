@@ -136,3 +136,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?type=tcp&securi
 vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N282eUxSamdoeWNodUJtcGtxSTRUSURlNUVEejdzMGxwNEVQVTMxRmN3RT0@129.146.61.109:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UEVzcWlYazBWY3RwVnhrR3N2eTkweGFVVnZtblNmMXJKcmordGY1aUxsdz0@129.146.123.29:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@usa.superbuba.top:443?security=reality&encryption=none&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&fp=firefox&spx=%2F&type=grpc&sni=usa.superbuba.top&sid=9c2378562188c3cb#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

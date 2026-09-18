@@ -687,3 +687,5 @@ vless://57e2a48b-0cc2-4b60-aacd-b36358fcba96@2.26.51.75:443?encryption=none&sid=
 vless://e691b034-dfc9-4f22-80aa-6d4f6404a4df@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=k5COjpopVNGzEuMb457zCrrZegSdBX-d8bg0G6HDsE4&sid=9bd613c48251f0db#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://c423cc1b-f88e-421c-9a16-c480d84da20f@198.251.78.29:2053?security=reality&encryption=none&pbk=Uk5b-Wh_uxeCc7R8NS9iWE40xc0h9wWC04rSB9yhgAw&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=b5d625695ec82c7e#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.21:443?encryption=none&security=tls&sni=playlux.homes&fp=unsafe&alpn=http/1.1&fm={#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -117,9 +117,12 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6djRlSjBWLzM5R2M5ZC90U0RUOFo1TU1TV3R
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.93.121:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dzdpUy9JaWFYVTkxeTU3dDRLYmZCR0VMeWRyTHR6dGlDc3FsWEY5VE81Zz0@129.146.112.109:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZy1wcm94eS0yMDI2@43.173.90.202:8388#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&sni=sg-proxy.local#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://2518e1f3-729d-475f-905d-35dae56dfc0b@nl1.axolab.org:443?sni=nl1.axolab.org&alpn=h2%2Chttp/1.1%2Ch3&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:443?path=%2Fcdn%2Fv3%2Flive&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cf5.rumedia-cdn.com&fp=firefox&type=ws&allowInsecure=0&sni=cf5.rumedia-cdn.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://d806a58b-33aa-42e0-b170-395e49c16b37@sql.popmintxo.cc:443?security=reality&encryption=none&pbk=Y0noOXC8qHmbM0GmDpj-9BBwKSOtHs-uMbNfKU050GQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=b558b9305a0b#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.101.131.94:2083?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6c2JKNWxsdCtZb0d0cUxJN1JwRWhhWElnTFROK3Rud3pyQjN2U09BdnMwND0@129.146.78.85:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6a284OEFPMUxqNTBQSDN4R1EvU3pKQ2hXb3ZjRDk5bnAzR3dMY0p3ai9Fbz0@129.146.75.221:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://cb53f904-c979-454f-bf43-621990008148@104.21.62.195:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=7.qq1-0.kdns.fr&type=ws&headerType=none&host=7.qq1-0.kdns.fr&path=%2FLNbYtR09FXg1AmmjhdiHvR8v#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

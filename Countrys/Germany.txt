@@ -69,3 +69,4 @@ vless://50414e45-4c5f-5a45-5553-565221666bd1@172.64.95.237:443?encryption=none&s
 vless://b2cddf0c-4b1e-4c65-9457-8dd331c9fc41@185.204.171.83:14120?encryption=none&packetEncoding=xudp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://daf65e17-1ed5-42be-a34d-20a156ddedbc@77.110.101.97:56834?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QVFxUGYxdTBBbUNGV0xOQnhLN3ZlMU9EZDFjVEZGQ2crcTVxc0YzaHdvTT0@130.61.176.44:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZnJxMGtkNG1jMGJsS2ZtZGlXaUNvc0UvYWhhbGIzblJFd09uRENIVXNabz0=@130.61.43.8:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

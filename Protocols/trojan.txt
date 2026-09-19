@@ -12,15 +12,12 @@ trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
-trojan://M7v%w11Se*@34.94.125.227:443?type=tcp&security=tls&fp=chrome&sni=mxlo.wsone.icu#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@100.42.228.109:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.36.17:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=/#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
-trojan://Telegram_healer_config@104.21.70.21:443?alpn=http/1.1&fp=unsafe&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&path=/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560&security=tls&sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&type=ws#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.21.104:443?type=ws&security=tls&path=/&host=tjsp.hhxaf.cc.cd&sni=tjsp.hhxaf.cc.cd&insecure=0&allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&sni=sg-proxy.local#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://047c5913-4618-010c-6a52-bb584d71d8b6@solipor-production-7697.up.railway.app:443?allowInsecure=0&sni=solipor-production-7697.up.railway.app&alpn=h2%2Chttp/1.1%2Ch3&type=ws&path=/trojan-ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

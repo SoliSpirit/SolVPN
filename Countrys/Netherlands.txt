@@ -91,3 +91,4 @@ vless://turboo-server@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@151.242.2.81:443?&security=tls&fp=qq&sni=cf9.rumedia-cdn.com&type=ws&headerType=none&host=cf9.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.154:4443?allowInsecure=1&security=tls&sni=grape-turbo-fr.roxa.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

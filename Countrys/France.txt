@@ -20,3 +20,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.230.204:22224?#🇫🇷 Join+
 vless://d619964d-26d6-452d-9860-6f058f03ba8e@34.155.10.226:443?&security=reality&pbk=6tH_NDFcxWn60B3s-MgrkBTU2yUUBY42ZG1av50Ywhk&sid=ae682368818bd6c5&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

@@ -106,3 +106,5 @@ vless://6ed6162d-fc15-447c-b04c-5d6975d2231d@31.130.155.114:443?encryption=none&
 trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.154:4443?security=tls&sni=grape-turbo-fr.roxa.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&security=tls&sni=hub-nl-03.hanvpn.cc&fp=random&type=grpc&serviceName=nl03-grpc-8e47a&mode=gun&packetEncoding=xudp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&security=tls&sni=hub-nl-02.hanvpn.cc&alpn=http%2F1.1&type=ws&path=%2Fnl02-ws-8e47a&host=hub-nl-02.hanvpn.cc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@165.232.81.187:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a2738d8d-ed26-4b13-a4a2-b89c7238cd10@45.11.27.86:443?security=reality&encryption=none&pbk=IBzFSziv_xISB-Q6X90PocTBde6jb4X6swEvdZQhqzk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=d0aae44f#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

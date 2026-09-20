@@ -6,3 +6,5 @@ vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?type=tc
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@83.143.112.140.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=83.143.112.140.cdn-one.org&path=%2F29378%2FwQYeoLE7LS#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:19290#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://YWVzLTI1Ni1nY206cmcwZzN4cDlyazluazlvMA@87.58.148.70:443#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://22ac8d19-9eec-493d-a492-e024cdba594b@simia.northforex.ir:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://d78de562-872e-43dd-be48-e9d7b06c87a3@62.238.103.54:2083?security=reality&encryption=none&pbk=tADYkZWWksM_mCqqwlRHCciSCXnP3JMYrPi5eoRHh2s&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=d059fb98048c5318#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

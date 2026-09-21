@@ -738,3 +738,5 @@ vless://79a67047-cf7e-4a0a-8867-afa54dc97c34@195.26.230.120:587?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://f4685d27-73e3-4588-9622-add50b84046a@134.0.116.208:9878?type=grpc&security=reality&fp=random&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&sni=dl.google.com&mode=gun&serviceName=grpc-tunnel#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.194.60:8081?path=%2Fvless-test&security=&encryption=none&type=ws#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.9:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://d4e7bb0a-ad2c-4030-b2e0-7bb6840b04f5@144.31.190.230:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=random&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

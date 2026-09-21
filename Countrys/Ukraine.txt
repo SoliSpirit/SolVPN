@@ -1,1 +1,1 @@
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=/TELEGRAM-TOOTFFARANGI&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.sony.com#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@213.111.149.58:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇺🇦 Join+Telegram:@SolVPN 🇺🇦

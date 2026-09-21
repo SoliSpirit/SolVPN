@@ -9,3 +9,4 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=%2F%3FTELEGRA
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.157.29:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/wangcai2🇨🇳#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://e27dce75-b33b-49b6-afb7-17e29ce67bb1@92.63.99.228:7899?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=YXVnk7FdM6IXOlFqisWurmtfmoftXLqqsrJ-JqqP6Rc&flow=xtls-rprx-vision#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://22424ee2-6fe3-42ca-9749-6d4c5a8acc82@188.114.98.0:443?&security=tls&fp=chrome&sni=tn1r.eu.cc&type=ws&headerType=none&host=tn1r.eu.cc&path=%2Fid-pusat#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

@@ -8,3 +8,4 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.236.63:443?path=%2F&security
 vless://30a2a9a6-6a03-4353-a7fb-63831d64f718@www.zsu.gov.ua:8880?type=ws&host=orange-lab-896e.365-80b.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.85.89.70:81?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/trade?ed=2560fp=chrome&security=tls#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.33.59:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

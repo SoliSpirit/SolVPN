@@ -4,3 +4,4 @@ ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳 Join+Tel
 vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@13.200.106.232:443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@13.200.106.232:443?sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chrome&security=tls#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@65.20.85.14:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

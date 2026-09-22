@@ -30,3 +30,4 @@ trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@jp3.998998.best:443?allowInsecure=
 trojan://TAJhE0BC0_S1JDm9EmQxyLS64uC8ekbr@de2.x8lab.org:9433?allowInsecure=0&sni=de2.x8lab.org&type=ws&path=/chatbot#🇦🇲 Join+Telegram:@SolVPN 🇦🇲
 trojan://skynet@cloud.lakshan.us:119?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cloud.lakshan.us#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

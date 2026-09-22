@@ -1,1 +1,1 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.134.26.97:443?type=tcp&security=reality&sni=nordic.cendora.ru&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&fp=chrome&encryption=none&flow=xtls-rprx-vision#🇧🇾 Join+Telegram:@SolVPN 🇧🇾
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@62.182.102.93:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇧🇾 Join+Telegram:@SolVPN 🇧🇾

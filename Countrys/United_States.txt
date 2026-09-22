@@ -137,3 +137,4 @@ vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@5.101.180.145:443?&security=tls&fp=
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@154.46.31.118:443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://bca46025-bf43-40c0-895b-054a6fbcfd32@172.235.38.85:42942?security=reality&encryption=none&pbk=JmkfJoDWpAqt6gj4cbc4_cwItsdryMlV7joAGfNTKQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=a56d7d8da977f860#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

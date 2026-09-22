@@ -530,3 +530,4 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-dedic1.failspace.top:443?sn
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.197:443?sni=poland-new-first-one.failspace.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://ecb9ab47-31aa-4dd9-92eb-191047b353bd@104.21.8.201:2096?&security=tls&fp=chrome&sni=cdn-hk.skyvora.app&type=ws&headerType=none&host=cdn-hk.skyvora.app&path=%2Ff7i3lo6xbs#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@104.21.8.201:2096?&security=tls&fp=chrome&sni=cdn-sg.skyvora.app&type=ws&headerType=none&host=cdn-sg.skyvora.app&path=%2F78bc8#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=%2F%3Fu%3D73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

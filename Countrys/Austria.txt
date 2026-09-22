@@ -7,3 +7,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?allowInsecure=1&e
 vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd4.466688.xyz:443?sni=edge-4cb23bf6.pages.dev&type=ws&host=edge-4cb23bf6.pages.dev&path=/@https://t.me/QiangLieTuiJian?ed=2048fp=chromefp=chrome&security=tls#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.30:443?sni=ad-dedic-3.failspace.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-dedic1.failspace.top:443?sni=austria-dedic1.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd1.466688.xyz:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=edge-4cb23bf6.pages.dev&type=ws&headerType=none&host=edge-4cb23bf6.pages.dev&path=%2F%40https%3A%2F%2Ft.me%2FQiangLieTuiJian#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

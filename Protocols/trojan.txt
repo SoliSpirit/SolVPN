@@ -14,13 +14,11 @@ trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1
 trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://Telegram_healer_config@104.21.70.21:443?alpn=http/1.1&fp=unsafe&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&path=/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560&security=tls&sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&type=ws#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.154:4443?allowInsecure=1&security=tls&sni=grape-turbo-fr.roxa.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.154:4443?security=tls&sni=grape-turbo-fr.roxa.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&sni=sg-proxy.local#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@jp3.998998.best:443?allowInsecure=1&sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=/w4e5yh0p945y3#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://TAJhE0BC0_S1JDm9EmQxyLS64uC8ekbr@de2.x8lab.org:9433?allowInsecure=0&sni=de2.x8lab.org&type=ws&path=/chatbot#🇦🇲 Join+Telegram:@SolVPN 🇦🇲
 trojan://skynet@cloud.lakshan.us:119?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cloud.lakshan.us#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

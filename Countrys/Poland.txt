@@ -15,3 +15,4 @@ vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&e
 vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.197:443?sni=poland-new-first-one.failspace.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&security=reality&sid=b97e7d4582b6fa6e&sni=yandex.ru&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -58,3 +58,4 @@ vless://dcf8e133-09a2-4884-abf9-80356bb334ac@93.123.101.215:443?Telegram=@Gozarg
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RVBOaEU5cXZkenZacERUQTZPelJ3djFDc0s3U0ZjT2FocHFEbU5PR00vdz0@130.61.227.189:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@103.167.235.99:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

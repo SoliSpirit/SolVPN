@@ -87,3 +87,4 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UkVld3FpM2M3bDNoeURVRHpUcHVoT1ByV082WDlWbzZiWFloaEUzdEd3OD0@158.101.211.78:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aFcva1ozTGt1YjQxY3lhbG5Tc05UQ1lGOGhNTzhkaDVNSHpxZitGUmw4bz0@141.144.194.235:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&fm={#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

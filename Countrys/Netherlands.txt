@@ -79,3 +79,5 @@ vless://884d811f-577b-421e-aabb-608660b0ecfa@94.159.117.66:9894?encryption=none&
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=fuck.rkn&sid=01&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=%2F&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6a1hucEJSYkxKUGlhTitxcHVaRS9vMnRteUtlMlB1MWFiK1A3WkhSVlJZRT0@92.5.203.236:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@ndi.lavivas.org:2096?sni=ndi.lavivas.org&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@185.121.179.105:7444?sni=de777.lavivas.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

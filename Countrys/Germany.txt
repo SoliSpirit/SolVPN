@@ -64,3 +64,5 @@ vless://974f2c7e-a292-4207-8315-ef4151bdca41@138.124.32.110:443?security=reality
 vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@91.196.32.216:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8be20011-59b1-4118-91ed-83e8e6b662cd@202.166.187.132:443?encryption=none&security=tls&type=ws&host=f.yoptybla.ru&path=%2F&sni=f.yoptybla.ru&fp=chrome#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.166.243:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SUpQS3liZENXYzFxdm9HcXkwZTZ0ZmxHa0FBS0NYZTlGYVdjQlRqZ2ZEcz0@130.61.235.137:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZitRL3o1RUhsWHRiUlBaQnFUOHlneStSVWt3bmM2a01jZDhVWThpeXhVOD0@130.61.232.101:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

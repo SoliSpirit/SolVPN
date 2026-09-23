@@ -11,3 +11,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@51.170.187.136:62145?&sni=51.170.18
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YitHeUFXdGFGL3F1aTcvQkpRTEJqWHZUQzR1cWNqd05DZFNmZ0NlRWxMOD0@51.170.180.67:45819#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@172.238.244.13:17000#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@143.246.194.213:443?security=reality&encryption=none&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ikea.com#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://303c2140-19ff-4eea-b1b1-865d4160d261@194.238.57.23:443?security=reality&encryption=none&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&fp=chrome&spx=/&type=grpc&sni=ai.android&sid=53499a662395#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

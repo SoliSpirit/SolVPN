@@ -147,3 +147,4 @@ vless://3c6d1933-b22a-484b-ac8a-63e24f5fba75@us4.998998.best:443?&security=tls&f
 vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=piracy-android.video-streams.org&type=ws&headerType=none&host=piracy-android.video-streams.org&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206OGMwMDliYjYtMDhiMy00NTI2LWE4NmItNWFmN2RkZmM1NjdhLTRjNzU3YjcyLTZlZWMtNGZhZi04YzJlLTA5ZmQxYzdmYTkzNg@192.3.247.109:43579#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@78.153.155.121:443?security=reality&sid=035dc6023ca8ae88&type=tcp&headerType=none&flow=xtls-rprx-vision&pbk=hYoIx98zfa-cDdgG6mzuh96wQ3BxSA9CVy7NpNGkJRk&sni=unpkg.com&fp=safari&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

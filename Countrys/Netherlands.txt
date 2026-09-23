@@ -85,3 +85,5 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.201.224:62145?&sni=141.144.
 vless://8d2196c0-2ec7-4867-8d66-d5d19bf8fb23@185.170.211.194:443?security=reality&encryption=none&pbk=eZXyfQzQgQSreAbhKSorx38cgnKmGuSOiQbthBfG5k0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=0e903b415d812c59#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UkVld3FpM2M3bDNoeURVRHpUcHVoT1ByV082WDlWbzZiWFloaEUzdEd3OD0@158.101.211.78:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aFcva1ozTGt1YjQxY3lhbG5Tc05UQ1lGOGhNTzhkaDVNSHpxZitGUmw4bz0@141.144.194.235:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

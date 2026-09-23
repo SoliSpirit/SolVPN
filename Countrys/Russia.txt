@@ -4,3 +4,4 @@ vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@201.51.12.29:443?encryption=none&fl
 vless://81676625-4b25-408d-b8f6-98315d7d338e@anime-hub.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=anime-hub.online&fp=random&pbk=8ryf65dQrgnS_uO6CHEsndhXhpOVd0fcAjMcN5FoJ3o&sid=a08fae6b86e059fa&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ==@194.87.196.13:9011#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@140.248.185.253:443?path=%2F&security=tls&encryption=none&insecure=0&host=trapbazi.global.ssl.fastly.net&fp=safari&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&fp=firefox&host=vlessru.duckdns.org&path=/wsru&security=tls&sni=vlessru.duckdns.org&type=ws#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

@@ -273,7 +273,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=/vless/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2086?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://878fb7f7-fc65-465e-a352-17c7216c6f3d@185.47.254.251:443?security=reality&encryption=none&pbk=6-_ZidygR8PRt4gtHlGCAW-PPmjEIm7Wn7MZqJU1z1Q&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=6c059ecfddf9b179#🇬🇹 Join+Telegram:@SolVPN 🇬🇹
@@ -800,3 +800,4 @@ vless://f76627ae-2626-4c53-ab57-da0e4d377a53@34.147.59.126:443?&security=reality
 vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@91.215.40.6:443?fp=chrome&sid=5c766813929a1fdd&type=grpc&mode=gun&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sni=id.dframe.app&serviceName=grpc#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&fp=firefox&host=vlessru.duckdns.org&path=/wsru&security=tls&sni=vlessru.duckdns.org&type=ws#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://735b8344-0b95-464c-b687-1c5616138908@172.67.130.159:2096?path=/3cagtz3&security=tls&encryption=none&insecure=0&host=cdn-de.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-de.skyvora.app#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

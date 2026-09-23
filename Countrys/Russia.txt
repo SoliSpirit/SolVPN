@@ -2,3 +2,4 @@ vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=fi
 vless://d4e7bb0a-ad2c-4030-b2e0-7bb6840b04f5@144.31.190.230:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=random&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@201.51.12.29:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-m.perecmusic.ru&fp=random&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&sid=5f6a7b8c&spx=%2F&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://81676625-4b25-408d-b8f6-98315d7d338e@anime-hub.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=anime-hub.online&fp=random&pbk=8ryf65dQrgnS_uO6CHEsndhXhpOVd0fcAjMcN5FoJ3o&sid=a08fae6b86e059fa&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ==@194.87.196.13:9011#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

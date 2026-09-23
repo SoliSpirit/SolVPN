@@ -435,3 +435,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.201.224:62145?&sni=141.144.
 vless://1e078c17-3a93-462d-9fce-9276609e29e2@185.238.191.109:443?security=reality&encryption=none&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de3.global-cdn.org&sid=f7d0420b8ab26060#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=%2F&security=tls&encryption=none&&host=josni.hoyes.cloudns.ch&type=ws&&sni=josni.hoyes.cloudns.ch#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?encryption=none&type=ws&path=/vless-test&packetEncoding=xudp#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.8.66:443?sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

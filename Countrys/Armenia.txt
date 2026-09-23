@@ -1,2 +1,1 @@
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#🇦🇲 Join+Telegram:@SolVPN 🇦🇲
-trojan://TAJhE0BC0_S1JDm9EmQxyLS64uC8ekbr@de2.x8lab.org:9433?allowInsecure=0&sni=de2.x8lab.org&type=ws&path=/chatbot#🇦🇲 Join+Telegram:@SolVPN 🇦🇲

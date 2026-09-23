@@ -137,3 +137,4 @@ vless://52ecd83b-b6c1-41ee-bc36-049755bd33d2@5.78.159.214:80?security=reality&en
 vless://476bdb75-0d9b-49f2-a492-4cd68f594d32@ghosts-spasm.quick-cdn.net:443?&security=tls&fp=chrome&packet-encoding=xudp&alpn=http%2F1.1&sni=ghosts-spasm.quick-cdn.net&type=ws&headerType=none&host=ghosts-spasm.quick-cdn.net&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@198.41.219.218:443?sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws&host=zyzzzoao.xn--fiqv8j.eu.org&path=/?ed=2048fp=randomized&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://413a66e9-b05b-4ae6-a9eb-6d28204a28f4@138.68.53.88:443?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

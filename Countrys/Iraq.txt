@@ -1,1 +1,1 @@
-vless://1cc8480d-b0f2-4756-84bd-d4e5cd9fe345@81.90.17.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8&security=reality&sni=github.com&type=tcp#🇮🇶 Join+Telegram:@SolVPN 🇮🇶
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.233:9543?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=chrome&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcde&allowInsecure=1#🇮🇶 Join+Telegram:@SolVPN 🇮🇶

@@ -4,3 +4,4 @@ vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.126.50.196:8443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@82.152.132.14:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
+vless://8d2196c0-2ec7-4867-8d66-d5d19bf8fb23@85.115.209.232:8443?&security=tls&fp=ios&sni=de7.bbobr.win&type=ws&headerType=none&host=de7.bbobr.win&path=%2Fws#🇴🇲 Join+Telegram:@SolVPN 🇴🇲

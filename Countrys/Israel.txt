@@ -1,1 +1,1 @@
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@64.176.170.68:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?&type=ws&headerType=none&host=platform117.halalkhor.info&path=%2Fplatform117#🇮🇱 Join+Telegram:@SolVPN 🇮🇱

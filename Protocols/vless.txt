@@ -460,3 +460,4 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2095?&type=ws&headerTy
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&encryption=none&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&sid=ef1d3554c652a436#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?&type=ws&headerType=none&host=llm-api.sofurry.dpdns.org&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?&type=ws&headerType=none&host=llm-api.sofurry.dpdns.org&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.179:443?sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

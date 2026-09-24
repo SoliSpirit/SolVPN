@@ -26,3 +26,4 @@ trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&hos
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.77.1:22224?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.152.170:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://XpnTeam-1@199.232.78.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

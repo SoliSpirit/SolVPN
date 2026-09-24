@@ -148,3 +148,4 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2095?&type=ws&headerType=none&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?&type=ws&headerType=none&host=llm-api.sofurry.dpdns.org&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://M7v%w11Se*@34.94.125.227:443?type=tcp&security=tls&fp=chrome&sni=mxlo.wsone.icu#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?&type=ws&headerType=none&host=llm-api.sofurry.dpdns.org&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

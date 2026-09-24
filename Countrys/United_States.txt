@@ -140,3 +140,4 @@ ss://YWVzLTI1Ni1nY206OGMwMDliYjYtMDhiMy00NTI2LWE4NmItNWFmN2RkZmM1NjdhLTRjNzU3Yjc
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@78.153.155.121:443?security=reality&sid=035dc6023ca8ae88&type=tcp&headerType=none&flow=xtls-rprx-vision&pbk=hYoIx98zfa-cDdgG6mzuh96wQ3BxSA9CVy7NpNGkJRk&sni=unpkg.com&fp=safari&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.89.197:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

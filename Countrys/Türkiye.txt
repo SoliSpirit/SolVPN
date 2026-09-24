@@ -1,3 +1,2 @@
 vless://e691b034-dfc9-4f22-80aa-6d4f6404a4df@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=k5COjpopVNGzEuMb457zCrrZegSdBX-d8bg0G6HDsE4&sid=9bd613c48251f0db#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://af2a0c18-b08c-471f-baa3-259ac2ce3a85@tr3.wba-pn.ru:443?encryption=none&security=tls&sni=tr3.wba-pn.ru&fp=random&type=ws&path=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
-vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@206.1.97.61:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=Miro.com&sid=d7397feef49deef9#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

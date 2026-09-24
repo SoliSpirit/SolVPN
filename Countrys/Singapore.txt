@@ -52,3 +52,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MlBJdVRBeFpqekp4bmk0a3h5L0dRMzZWV1RiUnJZemw
 vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.136:2096?&security=tls&fp=chrome&sni=free-server.techsonic.dev&type=ws&headerType=none&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VG82dnRCWVkydkhCM2RZU3Uzckd4TE9PYlVXdkM4ekdMSk10bisvTEVQVT0@138.2.73.61:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

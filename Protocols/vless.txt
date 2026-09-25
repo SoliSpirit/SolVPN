@@ -440,3 +440,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.254.77:22223?&type=tcp&heade
 vless://62e499fe-458e-47da-a0c8-cae69144ebe9@172.67.142.235:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=1.I0-4.de5.Net&type=ws&headerType=none&host=1.i0-4.De5.nEt&path=%2FFbLtzaav4GSW7GPL6LUGsEkZ#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xinnusvpn.duckdns.org:8443?&security=tls&fp=chrome&sni=xinnusvpn.duckdns.org&type=ws&headerType=none&host=xinnusvpn.duckdns.org&path=%2Fwsnl#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?security=tls&type=ws&path=/@Marisa_kristi&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&packetEncoding=xudp&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&encryption=none#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.76:22222?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?&type=ws&headerType=none&host=platform102.halalkhor.info&path=%2Fplatform102#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?&type=ws&headerType=none&host=platform101.halalkhor.info&path=%2Fplatform101#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷 Join+Telegram:@SolVPN 🇮🇷

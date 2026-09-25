@@ -80,3 +80,5 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.51.47:62145?#🇳🇱 Join+T
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.195.112:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.194.213:62145?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@132.243.172.183:8081?encryption=none&path=%2Fvless-test&security=none&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-nl.pleiades.codes:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.AssetService&sni=assets-nl.pleiades.codes&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.162:443?sni=nl-dedic-mori.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

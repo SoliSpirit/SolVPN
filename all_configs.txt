@@ -699,3 +699,6 @@ vless://2789c2ec-d860-4b75-a614-49e8ab65f7bc@5.75.205.104:28494?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZak0wTQ@45.138.103.4:8388#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://de6de747-2658-4a42-99de-9ad7ba046d1b@91.185.83.73:6443?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd&type=grpc&authority=&serviceName=grpc&mode=gun#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:13133?security=&encryption=none&headerType=&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@13.143.166.112:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=unpkg.com&fp=chrome&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&sid=408c85938839e89f&allowInsecure=1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://974f2c7e-a292-4207-8315-ef4151bdca41@178.17.48.202:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=external-api.bachidze.com&fp=chrome&pbk=LMcNHcOzPISa2fmZWt2JraL6_a_IObpS2znQW70gyDo#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

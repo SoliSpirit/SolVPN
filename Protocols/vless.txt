@@ -437,3 +437,4 @@ vless://476bdb75-0d9b-49f2-a492-4cd68f594d32@ghosts-spasm.quick-cdn.net:443?&sec
 vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.254.77:22223?&type=tcp&headerType=none&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://62e499fe-458e-47da-a0c8-cae69144ebe9@172.67.142.235:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=1.I0-4.de5.Net&type=ws&headerType=none&host=1.i0-4.De5.nEt&path=%2FFbLtzaav4GSW7GPL6LUGsEkZ#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xinnusvpn.duckdns.org:8443?&security=tls&fp=chrome&sni=xinnusvpn.duckdns.org&type=ws&headerType=none&host=xinnusvpn.duckdns.org&path=%2Fwsnl#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

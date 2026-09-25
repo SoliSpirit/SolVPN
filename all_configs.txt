@@ -724,3 +724,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.71.76:22222?&type=tcp&headerT
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?&type=ws&headerType=none&host=platform102.halalkhor.info&path=%2Fplatform102#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?&type=ws&headerType=none&host=platform101.halalkhor.info&path=%2Fplatform101#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷 Join+Telegram:@SolVPN 🇮🇷
+vless://dffab367-7769-4c6c-86f2-66fc6bd03003@136.117.218.86:443?encryption=none&type=tcp&security=reality&pbk=LYnDDS0AkBwVeeTyIEE5MhrTV_PZO5f1qBAbMN6z4HM&sid=f1955f72763eb2fb&sni=www.cloudflare.com&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -83,3 +83,5 @@ vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@132.243.172.183:8081?encryption=non
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-nl.pleiades.codes:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.AssetService&sni=assets-nl.pleiades.codes&type=grpc#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.162:443?sni=nl-dedic-mori.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.195.160:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?security=reality&encryption=none&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=1d86d17709852910#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K25qWXdCZW5LVUVmNHkxRGVqdXYrZXJKMFF3QUcwYm5hRlZSc281VWYycz0@134.98.146.180:45819#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

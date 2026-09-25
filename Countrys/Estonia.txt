@@ -1,7 +1,4 @@
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?sni=estproxy4.lockdwn.com&alpn=h2%2Chttp/1.1&fp=edge&security=tls#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
-vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@95.85.224.17:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=est1313.ggisopi.su&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&type=tcp&headerType=none#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
-vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&security=tls&sni=hub-ee-01.hanvpn.cc&fp=random&type=grpc&serviceName=ee01-grpc-8e47a&mode=gun#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
-vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@93.123.39.203:8443?path=%2Fassets&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=est.luxes.network#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@91.215.40.6:443?fp=chrome&sid=5c766813929a1fdd&type=grpc&mode=gun&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sni=id.dframe.app&serviceName=grpc#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

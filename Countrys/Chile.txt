@@ -2,3 +2,5 @@ ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#🇨🇱 Join+Teleg
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?&type=ws&headerType=none&host=platform118.halalkhor.info&path=%2Fplatform118#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?&sni=platform113.halalkhor.info&type=ws&headerType=none&host=platform113.halalkhor.info&path=%2Fplatform113#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?&type=ws&headerType=none&host=platform117.halalkhor.info&path=%2Fplatform117#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@131.255.6.88:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@64.176.15.110:2053?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇨🇱 Join+Telegram:@SolVPN 🇨🇱

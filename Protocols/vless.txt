@@ -439,3 +439,4 @@ vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@146.103.42.119:9543?encryption=none
 vless://88ee0e1e-a2a2-477e-88ce-4875c058aeba@154.17.228.81:59686?&security=tls&fp=random&sni=123.714541.xyz&type=ws&headerType=none&host=123.714541.xyz&path=%2FRa-vl#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://2b424263-d888-494a-eb6a-79538055d1ad@23.83.224.178:54322?&type=ws&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://7a8d2c3f-d6dd-0004-81d8-cff23d8364ee@13.143.181.220:443?security=reality&encryption=none&pbk=QfdR5yEjdbaqSet3-XrkDdVjPO9VTRGlUI-MV-b4p38&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=msk1.maxtelemost.com#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
+vless://a4c6bab6-bd83-4b72-8c78-99e96f40cde3@47.253.144.114:443?security=reality&encryption=none&pbk=yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4679f07417e9feb4#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

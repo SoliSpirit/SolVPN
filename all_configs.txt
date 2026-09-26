@@ -732,3 +732,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?type=ws&encryption=none&flow=&host=llm-api.sofurry.dpdns.org&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=ios&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?&type=ws&headerType=none&host=platform101.halalkhor.info&path=%2Fplatform101#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform108.halalkhor.info&path=%2Fplatform108#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform113.halalkhor.info&path=%2Fplatform113#🇨🇱 Join+Telegram:@SolVPN 🇨🇱

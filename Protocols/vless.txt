@@ -452,3 +452,4 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.34.106:443?path=%2F&security
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://ce0cf224-1d6e-466e-a7e3-55aead76afed@cf.877774.xyz:8443?&security=tls&fp=chrome&sni=aaa.abcai.online&type=ws&headerType=none&host=aaa.abcai.online&path=%2Fvless-argo#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://60a8c59e-47ca-43e0-893d-9fa112178a32@104.21.16.5:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=M2-0.00S.kDnS.fr&type=ws&headerType=none&host=M2-0.00s.KdNs.Fr&path=%2F2MWx7GNDdlaKK2fhtMLay#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?&type=ws&headerType=none&host=llm-api.sofurry.dpdns.org&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

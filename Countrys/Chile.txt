@@ -10,3 +10,4 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?typ
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?&type=ws&headerType=none&host=platform102.halalkhor.info&path=%2Fplatform102#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?&sni=platform115.halalkhor.info&type=ws&headerType=none&host=platform115.halalkhor.info&path=%2Fplatform115#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=%2Fplatform103#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?&type=ws&headerType=none&host=platform106.halalkhor.info&path=%2Fplatform106#🇨🇱 Join+Telegram:@SolVPN 🇨🇱

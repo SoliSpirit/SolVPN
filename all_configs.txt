@@ -725,3 +725,4 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?&type=ws&he
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?&sni=platform107.halalkhor.info&type=ws&headerType=none&host=platform107.halalkhor.info&path=%2Fplatform107#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?&sni=platform115.halalkhor.info&type=ws&headerType=none&host=platform115.halalkhor.info&path=%2Fplatform115#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?path=/platform113&security=none&encryption=none&host=platform113.halalkhor.info&type=ws#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.45.19:80?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

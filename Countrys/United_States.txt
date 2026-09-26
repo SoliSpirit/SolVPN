@@ -138,3 +138,4 @@ vless://88ee0e1e-a2a2-477e-88ce-4875c058aeba@154.17.228.81:59686?&security=tls&f
 vless://2b424263-d888-494a-eb6a-79538055d1ad@23.83.224.178:54322?&type=ws&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVU0Tg@45.10.164.157:8388#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://a4c6bab6-bd83-4b72-8c78-99e96f40cde3@47.253.144.114:443?security=reality&encryption=none&pbk=yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4679f07417e9feb4#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

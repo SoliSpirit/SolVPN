@@ -728,3 +728,8 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R3BqUmY1WXJKZ2RrL0pFU0JmM0hkSjJLbHI
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.121.10:2096?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.225.181:62145?&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=piracy-android.video-streams.org&type=ws&headerType=none&host=piracy-android.video-streams.org&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?security=reality&encryption=none&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a3a578ab#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@turkey3fcsdkck432cjk423kck4c32klj4clk23cjldjslcrjkl32ckl4jdsckl.nevoxa.ir:48704?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@xn--germany2-gz5el5013bla.alphavpscloud.ir:48704?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@FranceNewSpeed1234554321.soft355.ir:33017?security=none&encryption=none&host=FranceNewSpeed1234554321.soft355.ir&headerType=http&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@UsaNewSpeed1234554321.soft355.ir:33017?security=none&encryption=none&host=UsaNewSpeed1234554321.soft355.ir&headerType=http&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

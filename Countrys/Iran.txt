@@ -1,1 +1,1 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷 Join+Telegram:@SolVPN 🇮🇷
+vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@afra4.nimbaha9.ir:2052?path=/eyurri&security=none&encryption=none&host=afra4.nimbaha9.ir&type=ws#🇮🇷 Join+Telegram:@SolVPN 🇮🇷

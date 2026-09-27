@@ -712,3 +712,5 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?&ty
 vless://d33dbb2a-104e-4978-ad51-77d91348b87c@91.107.147.213:65535?encryption=none&headerType=http&host=dynu.com&path=/@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray---@Nap_v2ray&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://45d87ca1-d006-44ac-b62a-cb03d04c7130@45.202.255.24:8890?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=DcHXqq0OOR8N-bd92fSrMjy2yrcAsG1Es7PesCOc7gc&type=grpc&authority=&serviceName=grpc&mode=gun#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZzRoL0FjSmgxK2pnOSt5b25sTUs0V3E3ZmhiRlkzTmtjT3pVVmxaOUdqVT0@188.225.78.31:2053#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://44594ef3-f732-4e88-b4ae-8583ce21e6b8@188.114.97.6:80?&type=ws&headerType=none&host=msjsi.azazilvpn.sbs.&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

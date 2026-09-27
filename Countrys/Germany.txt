@@ -54,3 +54,4 @@ vless://3302c871-79e8-45a3-8233-d0547ae963ed@cctvhikvision.center:2052?&type=ws&
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@49.13.64.206:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXeFlwT0sxaVBTSnlTYlZOTU1KRHR3@139.100.236.74:2#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.166.243:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.226.95.244:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

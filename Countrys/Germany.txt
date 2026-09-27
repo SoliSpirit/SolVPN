@@ -47,3 +47,4 @@ vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@85.192.37.138:443?&security=tls&fp=
 vless://54127949-5b65-4600-a976-326c99cfc794@200.169.183.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-m.perecmusic.ru&fp=random&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&spx=%2F&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3728d3fa-e004-47b9-b334-9f0723efeef2@159.69.91.8:80?&type=ws&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=%2F%3Fu%3D73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.68.53.11:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -49,3 +49,4 @@ vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reali
 vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?&security=tls&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://ce0cf224-1d6e-466e-a7e3-55aead76afed@cf.877774.xyz:8443?&security=tls&fp=chrome&sni=aaa.abcai.online&type=ws&headerType=none&host=aaa.abcai.online&path=%2Fvless-argo#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://bda35755-c838-49c3-a19e-3712f2d54275@163.128.99.14:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=-LuhwN_cSgNr7nYIfCcu_XAjviKVSGwVGHxmB-s1AD0&sid=e3a4bdfe3d6fd8ec&type=tcp&headerType=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

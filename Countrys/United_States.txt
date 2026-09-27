@@ -142,3 +142,4 @@ vless://a592b4ac-e209-4a13-3cef-539600000005@188.114.96.6:443?path=%2Fsync&secur
 vless://2af26463-3641-5750-e381-c16c5be6f33a@mprye03-production.up.railway.app:443?&security=tls&fp=ios&alpn=http%2F1.1&sni=mprye03-production.up.railway.app&type=ws&headerType=none&host=mprye03-production.up.railway.app&path=%2Fws%2F2af26463-3641-5750-e381-c16c5be6f33a#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://1e255ca5-93b1-4952-a838-0783dfc034d8@47.90.153.88:443?security=reality&encryption=none&pbk=QtYyp41YbDij6nygTaPPpqXqEGzDD3wYFI3YlfTjfBo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=6b85179e#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -4,3 +4,4 @@ vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=n
 vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@201.51.12.29:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-m.perecmusic.ru&fp=random&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&sid=5f6a7b8c&spx=%2F&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://d4e7bb0a-ad2c-4030-b2e0-7bb6840b04f5@144.31.190.230:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=random&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.2:10090#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?sni=assets-de2.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService&fp=chrome&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

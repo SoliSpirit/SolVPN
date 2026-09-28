@@ -514,3 +514,5 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?&sn
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?sni=platform109.halalkhor.info&type=ws&host=platform109.halalkhor.info&path=/platform109#🇲🇾 Join+Telegram:@SolVPN 🇲🇾
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@2.26.17.128:443?&security=tls&fp=chrome&sni=shephe.dpdns.org&type=ws&headerType=none&host=shephe.dpdns.org&path=%2F#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@cn.uxuan.cfd:443?&security=tls&fp=chrome&sni=digjp.murphyweb.top&type=ws&headerType=none&host=digjp.murphyweb.top&path=%2F9b8cb96f0fdf%2F57654fd6b8b4n2M4bV6cC8xX0zZ1aQ3w%2Fe532fbf9-cc5f-4da4-9bb1-66c16ec49137#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.202:443?sni=nl-dedic-mori-2.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

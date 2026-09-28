@@ -72,3 +72,4 @@ vless://9be7fcec-5b90-4cf7-828c-ccbd889fd03c@136.244.85.41:80?&type=ws&headerTyp
 vless://4c250d79-700a-4968-b50d-bae96983e1d7@199.247.7.55:80?&type=ws&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://1d9cbbf4-bb99-4b09-8750-1cc22d510018@178.105.120.168:80?path=%2F&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2787849c-1a49-4457-9db7-efcdb2578268@192.248.179.81:80?path=%2F&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://ac9a573b-67ff-4953-9e13-4cf43576f8f0@31.76.111.79:443?security=reality&encryption=none&pbk=8w1MyEJV4l9QeNWbYMXny5tTLNTw_9nsQ7jOuiQhix4&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hh.ru&sid=0123456789abcdef#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

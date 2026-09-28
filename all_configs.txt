@@ -749,3 +749,6 @@ vless://1d9cbbf4-bb99-4b09-8750-1cc22d510018@178.105.120.168:80?path=%2F&securit
 vless://2787849c-1a49-4457-9db7-efcdb2578268@192.248.179.81:80?path=%2F&security=&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2a12a637-2724-4789-a64d-64ebc1b9bbf3@64.176.77.202:80?&type=ws&headerType=none&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@conge.ggisopi.su:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=conge.ggisopi.su#🇦🇩 Join+Telegram:@SolVPN 🇦🇩
+vless://834e5553-d80e-4078-8d7e-482fafe9bbaf@dl2.musicworldtg.com:2018?encryption=none&security=reality&type=tcp&headerType=none&sni=gemini.com&fp=chrome&pbk=Sn8z3wbt2Zpoo3mO3HLW6TZTjN8231Ylka7apFNb2X0&sid=cd5f260bcdd9c92d#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.165.174:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

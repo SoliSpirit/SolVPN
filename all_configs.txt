@@ -783,3 +783,4 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VDFiQUFxVmxZNk5JL3RReVQ4T0VQNlNtN2t
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RlFyenI4QWZPT1U3aFo0KzhDcjhpRFVVemxIejBTNmR2eVM0NGpkVWUxbz0@129.151.75.241:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHpoakkzanRyV2EyZk03R0FXYTNUTlBaaWV2Q0VrVHFUbE96VytBMEN0OD0@134.65.63.84:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6T0xTRTgyM21JMW84SzBBNTZRdlUzOFpjeElqcHloTWF5cWttbzJ2bkRJcz0@129.151.93.216:61312#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://97532b08-357e-4140-a6f0-8e07f2ed3327@2.26.10.137:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇬🇪 Join+Telegram:@SolVPN 🇬🇪

@@ -6,3 +6,4 @@ vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=realit
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.85.89.70:81?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/trade?ed=2560fp=chrome&security=tls#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@31.57.190.9:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://812b1aeb-c6f7-43cb-8d8b-981711fea21a@172.65.90.53:8880?encryption=none&security=none&type=ws&host=dark-cake-4743.198-46c.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://441a29b2-d9aa-47d5-9209-0a9191479f9f@196.245.52.148:25155?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=zZb_VVAbcGA7TeSMUBuD8MB2O3yAwpDSPGEfSEIUsX4&sid=e4ba91df34fc3318&allowInsecure=1#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

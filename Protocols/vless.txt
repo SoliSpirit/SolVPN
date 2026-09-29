@@ -498,3 +498,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.57.125:62145?&type=tcp&heade
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@45.152.113.206:443?security=reality&encryption=none&pbk=Thx57ocixT-wpeK_mdnJaluVW6eAwhlMgglxgjxEmhs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=1.ru.oncloudnineservicestreang.com&sid=65557338e1cd5605#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@186.246.12.242:2053?&security=tls&fp=chrome&type=ws&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://97532b08-357e-4140-a6f0-8e07f2ed3327@2.26.10.137:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

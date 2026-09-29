@@ -1,1 +1,1 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?sni=ir.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

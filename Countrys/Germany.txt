@@ -76,3 +76,4 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TXlpdGoyZHppNk80elZ5bDlGcEFjdnpCQXJ
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bXdMVGpwM2RPMENINFRDa3g2ZitmRUovelZiWWF5dEdMZm1uRFJKQlhtZz0@130.61.230.35:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VDFiQUFxVmxZNk5JL3RReVQ4T0VQNlNtN2toNUpMWWlOdUhMcVFXTXZXRT0@130.61.177.191:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dzJVZ1hhWjNpT3JMbUFOQlFzaXBJeUZIYklsaHlubko2czZUSXF1WC9Zcz0@130.61.231.252:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?alpn=http%2F1.1&encryption=none&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la&security=tls&sni=www.large-files.info&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

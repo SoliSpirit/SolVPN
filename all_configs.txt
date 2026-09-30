@@ -769,3 +769,6 @@ vless://d90087c3-54f5-4283-a13f-615260c8b0c7@139.84.177.239:443?security=reality
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.135.96:8443?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA@64.74.161.148:17201#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VXRMaEN5OFQ2em9adjlZNkVQMkc5b3lXWEZGVXYtZA==@176.120.17.22:1080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+ss://YWVzLTEyOC1nY206NjJkZDc1YmE5NDQ5NDdkNGNhOTgzY2YxNjc5YjM3OTc@173.234.25.90:15240#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -1,1 +1,2 @@
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
+vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.151.109:443?encryption=none&security=tls&sni=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&host=jdzit4e4urks.xwzohsebujps.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F635698a6bb9c%2Floc-0#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

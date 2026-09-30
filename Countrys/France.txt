@@ -34,3 +34,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.9:443?allowInsecure=1&enc
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206elorazhVd2RUUTlaVG54RW9kVE4yWUk2S3JGS0VBY0JXZ0NiTFpJVlVURT06TGJXRWRGeWpLY3ZaY3Y5YWd5R3R0U24wSE5hcCtlY2Y1MC9VcmxHTUJDUT0=@nl-irancell3.xelfona.ir:49548#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://XpnTeam-1@199.232.78.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+ss://YWVzLTI1Ni1nY206ZEhISVV5QnV2YTNjclVCUndwT1hDQQ@51.83.6.5:20076#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

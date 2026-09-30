@@ -6,3 +6,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.113.223.183:8443?ed=2560&eh=Sec
 vless://bc4c0c9f-ab46-4f2c-8305-ab8b3d019fd7@19990ed1bb252449.IROnlY4l.Ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=storage-p2.googleapis.com&fp=chrome&pbk=pLbqDSeEe7biTe6b-w6SOLl2SiRxIBjHMfqUzuRR3Ew&sid=37d86205006fe1fb&spx=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@62.133.63.61:443?&security=tls&fp=chrome&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=/danfeng#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://af2a0c18-b08c-471f-baa3-259ac2ce3a85@tr3.wba-pn.ru:443?encryption=none&security=tls&sni=tr3.wba-pn.ru&fp=random&type=ws&path=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

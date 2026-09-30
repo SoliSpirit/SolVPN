@@ -6,3 +6,4 @@ vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.175:443?allowInsecure=0&s
 ss://YWVzLTI1Ni1nY206YWM5YzBhN2I@ce1fc2d8.krkt.hkssip.com:49642#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.45.19:80?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

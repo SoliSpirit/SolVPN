@@ -794,3 +794,4 @@ vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.76:2053?&security=tls&fp=
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6b2NNRzh0RTUwemY4ck12OVNacktVWTJPYitmQXNaT1RRV2xnb0pkZnV2Zz0@130.61.183.138:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.202.50:62145?&sni=158.101.202.50&type=tcp&headerType=none&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://e548f821-b286-4264-a9f9-63eb5c4a38b2@cd.dlclive.click:443?&security=tls&fp=chrome&alpn=h3&sni=cd-sr1.k8k8110.com&type=ws&headerType=none&host=cd-sr1.k8k8110.com&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@201.34.159.221:443?sni=us1.g4m1.biz&type=grpc&serviceName=cdn.v1.AssetService&fp=firefox&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

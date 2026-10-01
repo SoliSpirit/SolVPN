@@ -58,3 +58,5 @@ vless://28e6c23b-c67e-49a0-a2dc-17375c3b09f2@de-28544235.sishka.network:443?sni=
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@2.26.30.216:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7e5b1e82-73db-429a-93b2-7839a0bf4dc0@45.88.12.110:2083?&security=tls&fp=chrome&alpn=http%2F1.1&sni=mol.ultimagamest.com&type=ws&headerType=none&path=%2Fvless-ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://44594ef3-f732-4e88-b4ae-8583ce21e6b8@188.114.97.6:80?&type=ws&headerType=none&host=msjsi.azazilvpn.sbs.&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f0a52dd3-4377-4402-a450-210bc81bcf25@id-nl-01.mintrocket.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=id-nl-01.mintrocket.org&fp=safari&flow=xtls-rprx-vision&sid=fee1f986a72444db&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@kvm1.avenone.ir:8402?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

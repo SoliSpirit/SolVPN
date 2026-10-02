@@ -7,3 +7,4 @@ vless://89f8f53c-2ec5-11f1-bffe-46c4782ac1a7@nl.gruztrack.online:2053?encryption
 vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@141.0.187.52:2083?&security=tls&fp=chrome&alpn=http%2F1.1&sni=crt.dodopanel.biz&type=ws&headerType=none&path=%2Fvless-ws#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://6c713691-3ca2-4446-ad25-113d1bed6b03@ee10.zazazuza.ru:8443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=fdghyt.com&type=ws&headerType=none&host=fdghyt.com&path=%2Fvpn-wss%2Ffluxor%2F59011%2F#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://fba73f98-777a-42a6-83c0-7d1f6f070e8d@141.0.187.16:2083?&security=tls&fp=chrome&alpn=http%2F1.1&sni=crt.dodopanel.biz&type=ws&headerType=none&path=%2Fvless-ws#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@140.150.227.51:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us51.mech-pro.online&sid=16e0f049#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

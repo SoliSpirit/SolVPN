@@ -151,3 +151,4 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:8080?path=%2F%3Fed%3D2
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.160.4:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=delta.cloudserverix.com&sid=9e15546f267baa64#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@103.31.4.127:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@103.31.4.189:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

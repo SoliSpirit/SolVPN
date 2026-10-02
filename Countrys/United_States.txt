@@ -1,6 +1,6 @@
 vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6MCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxODAwMCwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-vmess://eyJhZGQiOiI0Ny4yNDIuNTYuMyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZDJhMTBhMTctNjE5MS00NzJjLTg5NmItNzgyMzMxZjQ5ZmI5IiwibmV0IjoiaHR0cCIsInBhdGgiOiIiLCJwb3J0IjozNzA2NCwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiNDcuMjQyLjU2LjMifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -153,3 +153,5 @@ vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.160.4:443?security=reality&enc
 vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@103.31.4.127:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@103.31.4.189:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://f9d2937a-94e4-444a-95df-103faf1dd3fd@95.181.162.170:444?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&sid=21270a66&spx=/a6f16ebc763b16c&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

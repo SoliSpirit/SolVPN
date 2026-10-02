@@ -157,3 +157,5 @@ vless://f9d2937a-94e4-444a-95df-103faf1dd3fd@95.181.162.170:444?security=tls&typ
 vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&sid=21270a66&spx=/a6f16ebc763b16c&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@31.14.123.220:49433?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTEyOC1nY206MTM3N2Q1Y2ZhZmM5Mjc5YTkwNGRlYjNiZmE0ZjNkZTI@74.201.177.54:14680#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTEyOC1nY206NmM0OTkzYWNkMWNhN2YxMmYwYTE4YmRjYjNjMzdjNmM@66.23.201.172:10272#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&type=tcp&packetEncoding=xudp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=21270a66&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

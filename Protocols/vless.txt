@@ -488,3 +488,4 @@ vless://4b8a0930-1c36-4efe-b4fe-21f9ad97905c@5.223.19.211:80?&type=ws&headerType
 vless://ac76a374-7447-4dab-bfa9-b7f83a7a7946@152.69.192.144:20802?&type=tcp&headerType=none&path=%2F#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.100:443?security=reality&encryption=none&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=17d334ad29b2ff40#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1085?security=&encryption=none&headerType=none&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

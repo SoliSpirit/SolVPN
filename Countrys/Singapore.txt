@@ -54,3 +54,4 @@ trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1&sni=gl
 trojan://UX82473651@desired-boxer.rooster465.autos:443?allowInsecure=1&sni=desired-boxer.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://9b0025a3-3a36-4915-b4e1-89c5cd65c9cb@support.zoom.us:80?encryption=none&path=/shalana&type=ws&security=none&host=onhit.shalana.shop#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@35.185.179.62:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&type=tcp&headerType=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

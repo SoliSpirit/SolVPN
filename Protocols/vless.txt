@@ -462,3 +462,4 @@ vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@193.180.213.30:2087?&security=tls&f
 vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@201.34.136.200:443?encryption=none&security=tls&sni=renderer-bridge-1-832.mirra.now&fp=random&type=grpc&serviceName=VideoRenderer#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://593c2ff4-f051-4859-8449-b0130e2991df@216.38.170.8:26506?type=ws&host=www.baidu.com&path=/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hub-mori-new.failspace.top:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform108.halalkhor.info&path=/platform108#🇨🇱 Join+Telegram:@SolVPN 🇨🇱

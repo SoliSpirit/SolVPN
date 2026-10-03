@@ -51,3 +51,4 @@ vless://454431fc-71e2-42b1-b375-5b55dd06666a@de.monkora.org:443?&security=realit
 vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?path=/&security=tls&encryption=none&host=pannn1.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://758a691a-45d2-4462-a0e8-991248a6994e@49.13.231.249:33483?path=%2F&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://UX82473651@pleased-albacore.rooster465.autos:443?allowInsecure=1&sni=pleased-albacore.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

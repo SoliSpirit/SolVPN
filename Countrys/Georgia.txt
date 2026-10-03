@@ -1,1 +1,1 @@
-vless://97532b08-357e-4140-a6f0-8e07f2ed3327@2.26.10.137:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
+vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=%2Fapi-vless&security=tls&sni=geo.shkola112.site&type=ws#🇬🇪 Join+Telegram:@SolVPN 🇬🇪

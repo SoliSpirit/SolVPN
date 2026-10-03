@@ -86,7 +86,6 @@ vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?&security=tls&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?type=ws&host=leecher56.matinheydri.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?type=ws&host=vms.lifetime54.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
@@ -702,3 +701,5 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?sni
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=/platform101#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?&sni=platform113.halalkhor.info&type=ws&headerType=none&host=platform113.halalkhor.info&path=%2Fplatform113#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://758a691a-45d2-4462-a0e8-991248a6994e@49.13.231.249:33483?path=%2F&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&host=platform117.halalkhor.info&path=/platform117#🇨🇱 Join+Telegram:@SolVPN 🇨🇱

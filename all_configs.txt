@@ -735,3 +735,5 @@ trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=1&sni=fancy
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hub-mori-new.failspace.top:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1&sni=glowing-marmoset.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@happy-gibbon.rooster465.autos:443?allowInsecure=1&sni=happy-gibbon.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WWRYbzVGdGJGcDhsbkRSYkl2ZXdhT2FYYkR0ZjVlUjFCay9PNTk0K3g0MD06aVpkTEMwUVE1a1NqN1kxUXF3Ui90MjNoMWdwL2pIeWlXa2YyTUpGanE1cz0@206.1.103.221:17721#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform108.halalkhor.info&path=/platform108#🇨🇱 Join+Telegram:@SolVPN 🇨🇱

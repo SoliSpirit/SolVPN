@@ -49,3 +49,4 @@ vless://025a80fb-233b-4714-b02d-f4384c653d58@103.27.157.120:443?security=reality
 vless://7017a1ca-7a31-463d-832e-5a7261a3dd62@162.19.230.250:443?security=reality&encryption=none&pbk=i1OqphFMJNL_xwV5zES4icJTPBHtSgieOt3FYns9zB0&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.amazon.com&sid=2b#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@de.monkora.org:443?&security=reality&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox&sni=example.org&type=tcp&headerType=none&host=example.org&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?path=/&security=tls&encryption=none&host=pannn1.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://758a691a-45d2-4462-a0e8-991248a6994e@49.13.231.249:33483?path=%2F&security=none&encryption=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

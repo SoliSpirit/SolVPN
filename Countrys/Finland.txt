@@ -6,3 +6,4 @@ vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?security=realit
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@109.120.134.243:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@smart.avenone.ir:1085?security=&encryption=none&headerType=none&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://2690c11f-7258-43fe-aeb9-d90f93a3c317@81.94.148.120:7449?security=reality&encryption=none&pbk=blW-TdkBvKRn4-lkM64Cn2QgfOqjCRYRQ9upE6RPt3c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=c0c41dc21cf7c18e#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?&type=ws&headerType=none&host=is1-ssl.mzstatic.com&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

@@ -123,3 +123,4 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.89.197:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8e8ea5d2-6941-40fb-9efe-f9062b11b2b9@213.171.31.34:5002?&security=tls&fp=android&sni=us.centermass.net&type=ws&headerType=none&path=media.playback.v1.SessionGateway#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.104.144:8081?path=%2Fvless-test&security=none&encryption=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

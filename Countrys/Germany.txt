@@ -54,3 +54,4 @@ vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality
 trojan://UX82473651@pleased-albacore.rooster465.autos:443?allowInsecure=1&sni=pleased-albacore.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=safari&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&sid=c17f1d8951b3bf90&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0a419fe1-068e-422f-911a-4977fa944e08@195.201.9.235:11342?security=reality&encryption=none&pbk=W2swPTQYWu_rfjh2fnyzQ5zg6lK5wKv2Z-mBpVI6_Bg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=6f7b38bd9420c4b8#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?allowInsecure=1&sni=d3-de2.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=ajv#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -1,2 +1,3 @@
 vless://2eceaf2b-a775-5a9c-9990-dad2b3660fb6@62.77.158.1:443?security=reality&type=tcp&sni=online.1c.ru&fp=chrome&flow=xtls-rprx-vision&sid=6a&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&encryption=none#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.180:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
+vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=safari&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&sid=c17f1d8951b3bf90&type=tcp&headerType=none#🇱🇹 Join+Telegram:@SolVPN 🇱🇹

@@ -789,3 +789,4 @@ trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@47.240.80.220:2052?all
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?sni=d3-nl1.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=vlgrpc&fp=edge&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://08aaab35-a42d-4755-a03e-20c18cb1b3e8@45.192.201.140:443?&security=tls&fp=chrome&sni=argo6.5671234.xyz&type=ws&headerType=none&host=argo6.5671234.xyz&path=%2Fe8e2cecb6188f7fb#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#🇧🇷 Join+Telegram:@SolVPN 🇧🇷

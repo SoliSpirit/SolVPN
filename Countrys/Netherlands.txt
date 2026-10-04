@@ -79,3 +79,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.202:443?sni=nl-dedic-mori-2.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6fddf57a-313c-4d4a-8ae1-939b207a1588@s11.shahankhan.ir:8080?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

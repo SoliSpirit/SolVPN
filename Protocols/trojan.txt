@@ -26,6 +26,7 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/us-gllc&host=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@ttww11.bpca2026.top:443?allowInsecure=1&sni=ttww11.bpca2026.top&type=ws&host=ttww11.bpca2026.top&path=/images#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@saas.sin.fan:443?security=tls&sni=jy.hhllfly.kdns.fr&alpn=http/1.1&fp=chrome&type=ws&host=jy.hhllfly.kdns.fr&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://humanity@188.42.145.180:443?allowInsecure=1&sni=www.volumeroot.com&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://UX82473651@pleased-albacore.rooster465.autos:443?allowInsecure=1&sni=pleased-albacore.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

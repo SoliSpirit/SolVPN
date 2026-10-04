@@ -1,1 +1,2 @@
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

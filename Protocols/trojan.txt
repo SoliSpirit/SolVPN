@@ -66,3 +66,4 @@ trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?allowInsecu
 trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accurate-frog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=amazing-peacock.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

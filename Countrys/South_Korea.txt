@@ -17,3 +17,4 @@ vless://58C828CD-3EBA-46F9-B297-16003D7A6E68@kr2-r.link-t7.com:10047?mode=gun&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@43.201.103.218:8443#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=amazing-peacock.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://UX82473651@neutral-quail.rooster465.autos:443?allowInsecure=1&sni=neutral-quail.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

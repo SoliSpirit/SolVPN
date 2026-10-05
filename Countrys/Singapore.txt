@@ -42,7 +42,7 @@ vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.199:443?path=%2F&security
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@saas.sin.fan:443?security=tls&sni=jy.hhllfly.kdns.fr&alpn=http/1.1&fp=chrome&type=ws&host=jy.hhllfly.kdns.fr&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@139.64.235.7:8443?sni=speed.dulacloud.store&type=ws&host=speed.dulacloud.store&path=/dula?Telegram-WangCai2fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1&sni=glowing-marmoset.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@desired-boxer.rooster465.autos:443?allowInsecure=1&sni=desired-boxer.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
@@ -52,3 +52,4 @@ vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?security=none&en
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?&security=tls&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://d18c6897-2849-456a-8c46-d7ecece47c20@185.115.207.141:443?&security=tls&fp=chrome&sni=wzs.echo.net.eu.org&type=ws&headerType=none&host=wzs.echo.net.eu.org&path=%2Fvideo%2FHxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HV1ZNVwcHTQsJSgAJVBQUG0dCQEwWAx4AAg4c#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -120,3 +120,4 @@ vless://b812a4e0-c90a-4864-8ffb-2af71d69d4f4@172.93.122.4:8443?security=reality&
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.178:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://476bdb75-0d9b-49f2-a492-4cd68f594d32@ghosts-spasm.quick-cdn.net:443?&security=tls&fp=chrome&packet-encoding=xudp&alpn=http%2F1.1&sni=ghosts-spasm.quick-cdn.net&type=ws&headerType=none&host=ghosts-spasm.quick-cdn.net&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

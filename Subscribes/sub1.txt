@@ -1,4 +1,5 @@
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
@@ -47,4 +48,3 @@ trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozar
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=qq&sni=deepl.com&sid=f7b2&spx=%2F#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

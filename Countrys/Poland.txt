@@ -20,3 +20,4 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.181:443?sni=pl-dedic-2.fai
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-dedic-2.failspace.top:443?sni=poland-new-dedic-2.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.197:443?sni=poland-new-first-one.failspace.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://d9c7ec1f-5aa3-469a-b860-760c686806b0@70.34.252.154:80?type=ws&security=none&path=/#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

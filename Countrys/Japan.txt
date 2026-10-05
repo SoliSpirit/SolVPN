@@ -53,3 +53,4 @@ trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accur
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTI1Ni1nY206dVdHM25pc3FQd3F2TUVBMQ@150.251.158.144:8388#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=1&sni=prime-corgi.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@cn.uxuan.cfd:443?&security=tls&fp=chrome&sni=digjp.murphyweb.top&type=ws&headerType=none&host=digjp.murphyweb.top&path=%2F9b8cb96f0fdf%2F57654fd6b8b4n2M4bV6cC8xX0zZ1aQ3w%2Fe532fbf9-cc5f-4da4-9bb1-66c16ec49137#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

@@ -54,3 +54,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.
 vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?&security=tls&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://d18c6897-2849-456a-8c46-d7ecece47c20@185.115.207.141:443?&security=tls&fp=chrome&sni=wzs.echo.net.eu.org&type=ws&headerType=none&host=wzs.echo.net.eu.org&path=%2Fvideo%2FHxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HV1ZNVwcHTQsJSgAJVBQUG0dCQEwWAx4AAg4c#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -460,3 +460,4 @@ vless://444623e9-f27d-487c-b7cc-436931967e79@188.130.209.216:443?&security=reali
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://203d434a-2a92-45df-8973-ca80434ecf73@163.245.43.50:443?sni=se-twitch.global-cdn.org&type=grpc&serviceName=content.v1.Feed&fp=chrome&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

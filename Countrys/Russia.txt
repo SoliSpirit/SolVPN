@@ -6,3 +6,4 @@ vless://19513b1b-d29a-4f3e-ba9a-888261e4e048@45.131.212.231:443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ==@194.87.196.13:9011#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@46.17.41.166:10771#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&fp=chrome&fm=ahmadV2ray&host=fbsv6.guardora.pro&sni=fbsv6.guardora.pro&allowInsecure=0&alpn=http/1.1&security=tls&path=/ws&insecure=0&type=ws#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

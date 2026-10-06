@@ -77,3 +77,4 @@ vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@nl-2.srv.dvzh.net:443?security=real
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@nl-new-ded-once.failspace.top:443?sni=nl-new-ded-once.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?allowInsecure=1&sni=grape-test-italy.dynuddns.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://86037609-3790-4901-bd2f-c698092fb1fc@2.27.211.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=po.skfv-mirror.ru&fp=chrome&pbk=9Pg_ecqFPMfzOvJrmxE05FmLUDXbY9Mo1r2MgxFzYEQ&sid=cd57a927f6b72d81&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

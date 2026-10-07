@@ -4,3 +4,4 @@ vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?&security=tls&fp=
 vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Join+Telegram:@SolVPN 🇮🇪

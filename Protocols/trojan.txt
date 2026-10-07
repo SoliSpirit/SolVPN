@@ -1,7 +1,7 @@
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://MiTiVPN@104.21.18.41:443?type=ws&security=tls&path=/cdn=mitivpn&host=linkkon-w.ir&sni=linkkon-w.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=1&sni=moltbot.doctoroyy.net#🇲🇾 Join+Telegram:@SolVPN 🇲🇾
 trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
@@ -57,7 +57,6 @@ trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?allowInsecu
 trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accurate-frog.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=amazing-peacock.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?allowInsecure=1&sni=d3-de2.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=ajv#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
@@ -89,3 +88,6 @@ trojan://mitivpn@199.232.78.160:443?path=%2F---%40MetiVIP---%40MetiVIP%2F---%40M
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?security=tls&sni=grape-test-italy.dynuddns.net#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?security=tls&sni=grape-test-italy.dynuddns.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@46.8.100.93:443?allowInsecure=1&security=tls&sni=nl.zhabulik.ru#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

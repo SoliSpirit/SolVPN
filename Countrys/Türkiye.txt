@@ -4,3 +4,4 @@ vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&e
 vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?security=tls&type=ws&headerType=&path=&host=&sni=&fp=#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://568bcbbc-7a90-4164-8b5d-1c0bbeccfa38@cookie.wookshop.ir:43233?&type=ws&headerType=none&host=cookie.wookshop.ir&path=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://e688f2f5-ad67-4530-a3ad-8ea042171217@78.135.77.214:9090?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OG1MMlFrWkVCbHhXYTNoY3NsR0R3@bale.xv98.ir:5051#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

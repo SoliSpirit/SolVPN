@@ -73,3 +73,5 @@ vless://b8908b7c-8e63-4d0b-a4da-8f47c6c9dd6a@199.232.78.159:443?path=/TELEGRAM_N
 vless://404aa1e8-4935-4919-8b74-60e88b065cf4@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&host=pane2.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@165.231.99.26:8443?sni=file-6a8c51f9.alpheratzz.org&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?security=tls&sni=grape-test-italy.dynuddns.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

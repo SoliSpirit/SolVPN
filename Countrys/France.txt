@@ -29,3 +29,4 @@ vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?sni=fr.setlistin
 vless://db4fb2a7-a31d-46d8-b6d2-76eafe8cfe2a@fr2.vip-get.ru:443?&security=tls&fp=firefox&sni=fr2.vip-get.ru&type=ws&headerType=none&host=fr2.vip-get.ru&path=%2Fapi%2Fdownload#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://XpnTeam-1@199.232.78.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.238:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I&sid=6f76ad09&allowInsecure=1#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?sni=tyxyrytyro-51255165170-direct.araghchy.com&alpn=h2&flow=xtls-rprx-vision&fp=chrome&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

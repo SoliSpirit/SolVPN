@@ -49,3 +49,4 @@ trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.ro
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

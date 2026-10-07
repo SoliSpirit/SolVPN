@@ -443,3 +443,4 @@ vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?encryption=none&fl
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@179.198.49.99:443?security=reality&encryption=none&pbk=iwHKqXfMtE61bupFq0qdpc8_uGwQswGc3JpLvDVB9Wo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pl1.nztvpn.com&sid=088b263ae349cc97#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=%2Frain1226#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@144.126.239.205:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?security=reality&encryption=none&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&headerType=none&fp=firefox&type=tcp&sni=ibm.com&sid=a09ff9f8#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

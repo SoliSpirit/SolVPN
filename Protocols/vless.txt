@@ -245,7 +245,6 @@ vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.44:443?security=reality&e
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?security=reality&encryption=none&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cz1.animeteka.info&sid=232b1b09e45325a4#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@64.176.15.110:2053?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=%2F&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&path=%2Ffp%3Drandomized&security=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -432,3 +431,4 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@147.78.0.186:2053?&security=tls&fp=
 vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@165.231.99.26:8443?sni=file-6a8c51f9.alpheratzz.org&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://XpnTeam-1@199.232.78.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://48572af1-d091-457b-a86e-4a457e99927f@3h-unitedstates3.09vpn.com:8443?encryption=none&security=tls&sni=3h-unitedstates3.09vpn.com&type=ws&path=%2Fvless%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -3,3 +3,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@193.238.154.5:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=cdn.v1.AssetService&allowInsecure=0&sni=assets-es.pleiades.codes#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://55a2940a-ae07-40b4-ab32-4d3e0617731f@es4.h1cloud.net:25047?security=reality&encryption=none&pbk=opG0oNW-PMHi8V4E0101eEqOqPlZVKCuRkF6dcWeqBU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=8b7227d48365dda9#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=29e8dcd2b37aaa7f&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

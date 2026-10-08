@@ -56,3 +56,4 @@ vless://025a80fb-233b-4714-b02d-f4384c653d58@103.27.157.120:443?security=reality
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@159.65.117.197:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M05Cc25CTGFuUGZHNmkzUzJHVEhpbmVzd3I2RWVTSlBiMFBDZU1Rb0dvQT0@47.85.168.157:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2083?sni=141.98.7.193&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

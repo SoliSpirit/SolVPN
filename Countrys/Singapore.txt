@@ -58,3 +58,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.
 vless://9b0025a3-3a36-4915-b4e1-89c5cd65c9cb@support.zoom.us:80?type=ws&host=onhit.shalana.shop&path=/shalana#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.229.58.5:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://c3369c07-f0d2-4a2c-97ab-0d3d47803912@79.108.225.112:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=1KY_jqa2yPLBEBa-3TG77zs4ak2zQLGul4eexxCueyI&type=tcp&headerType=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.169.240.70:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

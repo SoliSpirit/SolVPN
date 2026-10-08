@@ -1,3 +1,1 @@
-vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?security=reality&encryption=none&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cz1.animeteka.info&sid=232b1b09e45325a4#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
-trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?allowInsecure=1&alpn=h2&type=grpc&serviceName=grpcbeast#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.58.46.132:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.sheilabelinda.ndjp.net&type=ws&headerType=none&host=snippet.sheilabelinda.ndjp.net&path=%2Fdanfeng#🇨🇿 Join+Telegram:@SolVPN 🇨🇿

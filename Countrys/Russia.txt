@@ -5,3 +5,5 @@ ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@194.87.68.140:10771#🇷🇺 Join+Te
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@45.152.113.206:443?security=reality&encryption=none&pbk=Thx57ocixT-wpeK_mdnJaluVW6eAwhlMgglxgjxEmhs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=1.ru.oncloudnineservicestreang.com&sid=65557338e1cd5605#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@46.17.42.141:20880#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.45.31:20880#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@46.17.41.166:10771#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ==@194.87.196.13:9011#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

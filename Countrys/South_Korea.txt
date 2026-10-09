@@ -4,7 +4,6 @@ vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjowLCJpZCI6IjQxYTcwODlhLTA0MGItNDUz
 ss://YWVzLTI1Ni1nY206YWM5YzBhN2I@ce1fc2d8.krkt.hkssip.com:49642#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@pretty-rat.rooster465.autos:443?allowInsecure=1&sni=pretty-rat.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@main-fawn.rooster465.autos:443?allowInsecure=1&sni=main-fawn.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
-trojan://UX82473651@balanced-stag.rooster465.autos:443?allowInsecure=1&sni=balanced-stag.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@engaging-toucan.rooster465.autos:443?allowInsecure=1&sni=engaging-toucan.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@kind-stork.rooster465.autos:443?allowInsecure=1&sni=kind-stork.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@noted-cougar.rooster465.autos:443?allowInsecure=1&sni=noted-cougar.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
@@ -13,7 +12,6 @@ trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=ama
 trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@neutral-quail.rooster465.autos:443?allowInsecure=1&sni=neutral-quail.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vmess://eyJhZGQiOiJkb2cta3Iua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDA0IiwicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjcgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.124.117.110:8443#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?security=reality&encryption=none&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3c4041d3#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@43.201.250.101:8443#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

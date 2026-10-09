@@ -52,3 +52,4 @@ trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@jp3.998998.best:443?allowInsecure=
 trojan://UX82473651@live-stallion.rooster465.autos:443?allowInsecure=1&sni=live-stallion.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://UX82473651@stable-python.rooster465.autos:443?allowInsecure=1&sni=stable-python.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJzaC5hdXN0cmFsaWFjYXJlZ3JvdXAuc2l0ZSIsInBvcnQiOiIzMTQxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJzaC5hdXN0cmFsaWFjYXJlZ3JvdXAuc2l0ZSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+trojan://UX82473651@legible-ram.rooster465.autos:443?allowInsecure=1&sni=legible-ram.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

@@ -2,4 +2,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyetee
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&type=tcp&headerType=none#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://69d76969-4c52-40f5-ac1d-303571634362@46.183.16.4:2087?&security=tls&fp=firefox&sni=ro1.b0w.ir&type=ws&headerType=none&path=%2F#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?allowInsecure=0#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
+vless://a889fba5-5472-4022-a6b4-9710157fda2f@ger6.fytpn.com:56789?encryption=none&type=tcp&security=reality&sni=ger6.fytpn.com&fp=chrome&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&flow=xtls-rprx-vision#🇴🇲 Join+Telegram:@SolVPN 🇴🇲

@@ -93,3 +93,10 @@ trojan://UX82473651@musical-mouse.rooster465.autos:443?allowInsecure=1&sni=music
 trojan://UX82473651@rested-seahorse.rooster465.autos:443?allowInsecure=1&sni=rested-seahorse.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@ace-liger.rooster465.autos:443?allowInsecure=1&sni=ace-liger.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@alert-titmouse.rooster465.autos:443?allowInsecure=1&sni=alert-titmouse.rooster465.autos#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://UX82473651@legible-ram.rooster465.autos:443?allowInsecure=1&sni=legible-ram.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1&sni=adapting-basilisk.rooster465.autos#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+trojan://UX82473651@fancy-skink.rooster465.autos:443?allowInsecure=1&sni=fancy-skink.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://UX82473651@fond-mammoth.rooster465.autos:443?allowInsecure=1&sni=fond-mammoth.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://UX82473651@moral-basilisk.rooster465.autos:443?allowInsecure=1&sni=moral-basilisk.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://UX82473651@brave-tomcat.rooster465.autos:443?allowInsecure=1&sni=brave-tomcat.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@r627r8.vatilon.cc:10003?allowInsecure=1&sni=r627r8.vatilon.cc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

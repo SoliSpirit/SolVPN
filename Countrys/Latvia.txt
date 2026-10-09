@@ -1,1 +1,1 @@
-vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@kayoor.hivaphone.ir:2045?encryption=none&security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjFcdWQ4M2NcdWRkZmIiLCJhZGQiOiIxODguMTMwLjE1NC4xNzQiLCJwb3J0IjoyMDgzLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiI3NGMxN2NhZS1iZjhiLTRjZGEtOGNkZC1jZjc5ODNiZjBhNDkiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

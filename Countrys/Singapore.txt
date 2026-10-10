@@ -58,7 +58,6 @@ ss://YWVzLTEyOC1nY206ODU1OTBiZDItODA3Yi00OWI5LWFmMjAtMTEwMWMxOGI5ZWRh@ruot.ayucl
 trojan://UX82473651@fond-mammoth.rooster465.autos:443?allowInsecure=1&sni=fond-mammoth.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@moral-basilisk.rooster465.autos:443?allowInsecure=1&sni=moral-basilisk.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@brave-tomcat.rooster465.autos:443?allowInsecure=1&sni=brave-tomcat.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/us-gllc&host=space.byu.id.yxls.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://MiTiVPN@104.21.18.41:443?type=ws&security=tls&path=/cdn=mitivpn&host=linkkon-w.ir&sni=linkkon-w.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

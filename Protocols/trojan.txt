@@ -89,7 +89,6 @@ trojan://UX82473651@brave-tomcat.rooster465.autos:443?allowInsecure=1&sni=brave-
 trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@r627r8.vatilon.cc:10003?allowInsecure=1&sni=r627r8.vatilon.cc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&type=ws&sni=hhcm.hhxaf.cc.cd&path=/&host=hhcm.hhxaf.cc.cd#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://MiTiVPN@104.21.18.41:443?type=ws&security=tls&path=/cdn=mitivpn&host=linkkon-w.ir&sni=linkkon-w.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@103.15.90.134:49678?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://UX82473651@cuddly-sheepdog.rooster465.autos:443?allowInsecure=1&sni=cuddly-sheepdog.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://UX82473651@joint-ewe.rooster465.autos:443?allowInsecure=1&sni=joint-ewe.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

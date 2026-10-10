@@ -48,3 +48,4 @@ vless://52fa48c9-1c1f-4c24-badb-ad92c18e6f92@cos-cdn-a.alicdn.win:443?&security=
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&type=ws&sni=hhcm.hhxaf.cc.cd&path=/&host=hhcm.hhxaf.cc.cd#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://ac76a374-7447-4dab-bfa9-b7f83a7a7946@152.69.192.144:20802?&type=tcp&headerType=none&path=%2F#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vmess://eyJhZGQiOiJ6ZmQtanB2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOiIwIiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTYxMjEiLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1Iiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

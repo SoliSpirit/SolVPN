@@ -96,3 +96,4 @@ trojan://UX82473651@inspired-hound.rooster465.autos:443?allowInsecure=1&sni=insp
 trojan://UX82473651@intense-wildcat.rooster465.autos:443?allowInsecure=1&sni=intense-wildcat.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=1&sni=allowed-poodle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://UX82473651@evident-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

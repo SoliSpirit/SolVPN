@@ -13,3 +13,4 @@ vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@185.26.48.167:443?&security=tls&fp=
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&type=tcp&headerType=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://9ebf4fda-7395-4800-b42f-b2dda649880a@gw1.edgemedia.lol:13443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://15f434b8-aaec-4306-98c9-dd8f5ef608d4@vpn.cyrionflare.xyz:2087?#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://ec6f8131-7a5d-4117-9627-6fb2b39ae0da@drive.korroh.com:443?&security=tls&fp=chrome&sni=drive.korroh.com&type=ws&headerType=none&host=drive.korroh.com&path=%2Fremote.php%2Fdav%2F89f7661a0011ce46#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

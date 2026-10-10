@@ -364,3 +364,4 @@ vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%
 vless://aec8e5e3-bb81-4b22-8802-0b88c54997b3@xjp111-2.vatilon.cc:10002?sni=xjp111-2.vatilon.cc&fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://025a80fb-233b-4714-b02d-f4384c653d58@103.27.157.120:443?security=reality&encryption=none&pbk=k0883nIGfstbzb8hES-dQ1yPcBwbUbnsyg4w-UA5gkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.amd.com&sid=68aaa5222092bbea#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

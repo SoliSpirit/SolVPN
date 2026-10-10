@@ -96,3 +96,5 @@ trojan://UX82473651@cuddly-sheepdog.rooster465.autos:443?allowInsecure=1&sni=cud
 trojan://UX82473651@joint-ewe.rooster465.autos:443?allowInsecure=1&sni=joint-ewe.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@inspired-hound.rooster465.autos:443?allowInsecure=1&sni=inspired-hound.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://UX82473651@intense-wildcat.rooster465.autos:443?allowInsecure=1&sni=intense-wildcat.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=1&sni=allowed-poodle.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://UX82473651@evident-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

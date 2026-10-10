@@ -54,3 +54,4 @@ vless://e077d2c2-7dc5-4e6e-a44d-79c4e4d8b384@61.18.134.10:443?&security=tls&fp=c
 vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@49.13.64.206:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTEyOC1nY206bDJOaWRaYmNrTXU0UG5JSHNKVFlKZw==@www.asamping.ir:1468#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://UX82473651@cuddly-sheepdog.rooster465.autos:443?allowInsecure=1&sni=cuddly-sheepdog.rooster465.autos#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

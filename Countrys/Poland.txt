@@ -20,3 +20,4 @@ vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?encryption=non
 vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=95.85.253.241#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?sni=pol2.fytpn.com#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://5ac49a12-f275-44b4-b11d-26505f3f268e@177.1.192.81:443?security=reality&sid=85766a81&headerType=none&pbk=JNr60Nnq_sdeAz5jd25bxNDx_c9CeYLu7DRbQH3P5xk&flow=xtls-rprx-vision&fp=chrome&type=tcp&sni=addons.mozilla.org&encryption=none#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

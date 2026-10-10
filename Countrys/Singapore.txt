@@ -62,3 +62,7 @@ trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?security=tls&type
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://MiTiVPN@104.21.18.41:443?type=ws&security=tls&path=/cdn=mitivpn&host=linkkon-w.ir&sni=linkkon-w.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://UX82473651@joint-ewe.rooster465.autos:443?allowInsecure=1&sni=joint-ewe.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://UX82473651@inspired-hound.rooster465.autos:443?allowInsecure=1&sni=inspired-hound.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://UX82473651@intense-wildcat.rooster465.autos:443?allowInsecure=1&sni=intense-wildcat.rooster465.autos#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -17,3 +17,4 @@ vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=/&security=t
 vless://5ac49a12-f275-44b4-b11d-26505f3f268e@177.1.192.81:443?security=reality&sid=85766a81&headerType=none&pbk=JNr60Nnq_sdeAz5jd25bxNDx_c9CeYLu7DRbQH3P5xk&flow=xtls-rprx-vision&fp=chrome&type=tcp&sni=addons.mozilla.org&encryption=none#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?sni=co-pl.speedtec.ru&flow=xtls-rprx-vision&fp=random&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&fp=firefox&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

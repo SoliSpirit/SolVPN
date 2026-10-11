@@ -17,3 +17,4 @@ trojan://UX82473651@inviting-rabbit.rooster465.autos:443?allowInsecure=1&sni=inv
 trojan://UX82473651@pure-kodiak.rooster465.autos:443?allowInsecure=1&sni=pure-kodiak.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://UX82473651@fancy-skink.rooster465.autos:443?allowInsecure=1&sni=fancy-skink.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@52.79.212.191:8443#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://UX82473651@cunning-grub.rooster465.autos:443?security=tls&sni=cunning-grub.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

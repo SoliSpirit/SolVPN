@@ -31,3 +31,4 @@ vless://7q4eiwcseu@7q4eiwcseu-193708596-direct.rahbarii.com:443?sni=7q4eiwcseu-1
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@205.237.105.31:11443?&security=tls&fp=firefox&sni=f4.vimeostream.online&type=ws&headerType=none&host=f4.vimeostream.online&path=%2Fapi%2Fv2%2Fstream%2Fws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.9:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

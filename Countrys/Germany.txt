@@ -59,3 +59,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@161.35.217.79:2087?path=%2F&securit
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?encryption=none&type=tcp&security=reality&sni=www3.donyumvps.tr&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@138.199.233.214:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3302c871-79e8-45a3-8233-d0547ae963ed@cctvhikvision.center:2052?&type=ws&headerType=none&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=qeztrg7u.akscasx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=qeztrg7u.akscasx.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

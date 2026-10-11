@@ -20,3 +20,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTg
 trojan://UX82473651@cunning-grub.rooster465.autos:443?security=tls&sni=cunning-grub.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@15.164.245.92:8443#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+ss://YWVzLTI1Ni1nY206VXNJdjVhS0phYmlxbll0WThJZldkNkZmZ2p6ckpsZlo@43.155.223.71:8388#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

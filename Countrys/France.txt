@@ -33,3 +33,4 @@ vless://c6db98c5-9959-425e-9340-300779fc4e4b@205.237.105.31:11443?&security=tls&
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.9:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://c6db98c5-9959-425e-9340-300779fc4e4b@37.49.230.85:8443?sni=fr5.sodahub.online&alpn=h2&type=grpc&serviceName=fr5grpc&fp=chrome&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://d90087c3-54f5-4283-a13f-615260c8b0c7@95.179.208.12:443?security=reality&encryption=none&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=googleapis.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

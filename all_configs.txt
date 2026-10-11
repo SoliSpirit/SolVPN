@@ -776,3 +776,5 @@ vless://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?encryption=n
 ss://YWVzLTEyOC1nY206MjYwNzAwOGFjODk2YjM0NDNiZTk0MTlkNzNkNTQ0ZDk@66.23.206.124:16619#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+ss://YWVzLTEyOC1nY206NjJkZDc1YmE5NDQ5NDdkNGNhOTgzY2YxNjc5YjM3OTc@173.234.25.90:15240#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@23.81.36.65:443?security=reality&encryption=none&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk.nztvpn.com&sid=0da7e14db353e7d0#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

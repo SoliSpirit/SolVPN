@@ -813,3 +813,4 @@ trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&alpn=http%2F
 trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://d00ef066-1c2b-4af9-8795-7c998572d13f@45.130.125.20:2087?mode=auto&path=%2Fmedia&security=tls&encryption=none&insecure=0&host=de.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.227.64.52:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@80.47.12.94:443?&security=reality&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=random&sni=pl-1-1.unturned-rust-dead.lol&type=tcp&headerType=none&host=pl-1-1.unturned-rust-dead.lol&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

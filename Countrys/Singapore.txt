@@ -62,3 +62,4 @@ trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-mo
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@free-server.techsonic.dev:2096?path=/free-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.255.177.5:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.179.192.171:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

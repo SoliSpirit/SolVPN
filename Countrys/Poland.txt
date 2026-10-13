@@ -16,3 +16,4 @@ vless://1c794e75-bcd4-4a65-9f69-ed0a10f33d60@144.31.101.196:33891?security=reali
 vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@80.47.12.94:443?&security=reality&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=random&sni=pl-1-1.unturned-rust-dead.lol&type=tcp&headerType=none&host=pl-1-1.unturned-rust-dead.lol&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?sni=co-pl.speedtec.ru&flow=xtls-rprx-vision&fp=random&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&security=reality&sid=b97e7d4582b6fa6e&sni=yandex.ru&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+ss://YWVzLTEyOC1nY206ODU1OTBiZDItODA3Yi00OWI5LWFmMjAtMTEwMWMxOGI5ZWRh@ruot.ayucloudservices.nl:35031#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

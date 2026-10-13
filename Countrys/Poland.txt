@@ -17,3 +17,6 @@ vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@80.47.12.94:443?&security=reality&p
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?sni=co-pl.speedtec.ru&flow=xtls-rprx-vision&fp=random&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&security=reality&sid=b97e7d4582b6fa6e&sni=yandex.ru&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://YWVzLTEyOC1nY206ODU1OTBiZDItODA3Yi00OWI5LWFmMjAtMTEwMWMxOGI5ZWRh@ruot.ayucloudservices.nl:35031#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

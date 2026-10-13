@@ -1,1 +1,2 @@
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@213.111.149.58:8443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@213.111.149.58:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇺🇦 Join+Telegram:@SolVPN 🇺🇦

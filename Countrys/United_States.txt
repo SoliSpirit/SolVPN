@@ -112,3 +112,4 @@ vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?se
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=%2Fpai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://157bf3e0-9467-4600-9b76-71323f7ef14e@104.207.132.12:30004?&type=tcp&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b0b406f8-1f30-484c-9fcf-2fdffc715473@172.65.90.53:8880?type=ws&host=round-thunder-8e62.265-833.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -110,3 +110,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.76.54.91:443?allowInsecure=0&sni
 vless://c3db7657-88ce-42a6-b998-1e0364b277ac@193.233.202.250:9443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=usa.edgeses.org&pbk=ELJzJkc4SiCeCn6OF-8V9oeoJqXcD1y9WUntP3It53g&sid=649ab61e575fdbc9&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&type=tcp&packetEncoding=xudp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=21270a66&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=%2Fpai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://157bf3e0-9467-4600-9b76-71323f7ef14e@104.207.132.12:30004?&type=tcp&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

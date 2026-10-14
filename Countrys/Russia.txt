@@ -1,1 +1,2 @@
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&fp=firefox&host=vlessru.duckdns.org&path=/wsru&security=tls&sni=vlessru.duckdns.org&type=ws#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&type=ws&path=%2F&security=tls&sni=wsru1.wba-pn.ru&fp=chrome#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

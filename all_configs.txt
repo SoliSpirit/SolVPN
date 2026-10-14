@@ -834,3 +834,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.golangwikito.cfd&fp=chrome&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&sid=a1037b25dcef6aa7&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://16f78e38-8df9-4658-93e8-e49feababf5b@193.233.130.119:14430?&sni=193.233.130.119&type=ws&headerType=none&host=193.233.130.119&path=%2Fvless#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://dfc3077e-b013-4fcb-a500-df3e210e88b0@193.233.130.118:14430?&sni=193.233.130.118&type=ws&headerType=none&host=193.233.130.118&path=%2Fvless#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -7,3 +7,4 @@ vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reali
 vless://5298d5c5-0633-4989-95c8-68ee13cd507e@93.123.39.84:443?security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=content.v1.Feed&sni=ee2x.global-cdn.org#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a73f0410d728c823&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://30292475-4666-4c26-bcb2-338a0919958b@188.225.38.216:443?sni=lalibobi.online&alpn=h2&type=grpc&serviceName=lalibobi.orbit.v3.Connect&fp=edge&security=tls#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

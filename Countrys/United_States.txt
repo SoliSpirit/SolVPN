@@ -121,3 +121,4 @@ vless://dfc3077e-b013-4fcb-a500-df3e210e88b0@193.233.130.118:14430?&sni=193.233.
 trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

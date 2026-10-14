@@ -91,3 +91,4 @@ trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&fm=tlshello-
 trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?allowInsecure=1&alpn=h2&type=grpc&serviceName=grpcbeast#🇨🇿 Join+Telegram:@SolVPN 🇨🇿
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?security=tls&sni=nimm.mpd.cc.cd&type=ws&path=/0962&Host=nimm.mpd.cc.cd#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&sni=t.me/FuckTheWall#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

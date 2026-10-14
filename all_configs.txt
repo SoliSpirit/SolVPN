@@ -804,3 +804,5 @@ vless://30292475-4666-4c26-bcb2-338a0919958b@188.225.38.216:443?sni=lalibobi.onl
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&sni=t.me/FuckTheWall#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d342d11e-d224-4463-b982-532309285094@cf.130519.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://b0b406f8-1f30-484c-9fcf-2fdffc715473@172.65.90.53:8880?type=ws&host=round-thunder-8e62.265-833.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@45.152.113.206:443?security=reality&encryption=none&pbk=Thx57ocixT-wpeK_mdnJaluVW6eAwhlMgglxgjxEmhs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=1.ru.oncloudnineservicestreang.com&sid=65557338e1cd5605#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -119,3 +119,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vless://16f78e38-8df9-4658-93e8-e49feababf5b@193.233.130.119:14430?&sni=193.233.130.119&type=ws&headerType=none&host=193.233.130.119&path=%2Fvless#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://dfc3077e-b013-4fcb-a500-df3e210e88b0@193.233.130.118:14430?&sni=193.233.130.118&type=ws&headerType=none&host=193.233.130.118&path=%2Fvless#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

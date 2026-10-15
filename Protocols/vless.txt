@@ -512,3 +512,4 @@ vless://c3db7657-88ce-42a6-b998-1e0364b277ac@cdn-ixr.whitenw.net:4510?security=r
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?&security=tls&fp=chrome&sni=nl5.hap-plus.ru&type=ws&headerType=none&host=nl5.hap-plus.ru&path=%2Fapi%2Fv1%2Fevents#🇰🇭 Join+Telegram:@SolVPN 🇰🇭
+vless://da8aa4cc-4f76-4248-a289-41f25713b6e2@tg.juntham.cn:443?&security=tls&fp=chrome&sni=tg.juntham.cn&type=ws&headerType=none&host=tg.juntham.cn&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

@@ -71,3 +71,5 @@ trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?security=tls&s
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&sni=t.me/FuckTheWall#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://Tg3RnK7Xp8B1@64.176.96.237:443?security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

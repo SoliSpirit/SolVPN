@@ -112,3 +112,4 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafe&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://VPNSaint@3.20.126.177:10101?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?allowInsecure=1&host=nat3.xxai.dpdns.org&path=%2Fanyway&security=tls&sni=nat3.xxai.dpdns.org&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

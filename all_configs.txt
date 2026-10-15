@@ -817,3 +817,4 @@ trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&insecure=0&headerType=none&t
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.186.202:443?sni=deinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.185.244:443?sni=demethod.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@87.121.47.183:443?sni=1cdinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://YWVzLTEyOC1nY206MjU5MWE0MmFmNDk4ODc4ZTQ3ZDg4MWNkMWVkMWZhOWQ=@66.23.204.219:10676#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

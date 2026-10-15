@@ -16,3 +16,4 @@ vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xy
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&security=reality&sni=36a466g.fi1.h1clayd.click&fp=random&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&spx=%2F&type=grpc&serviceName=0adb9638509b#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?&sni=45.144.234.157&type=ws&headerType=none&host=45.144.234.157&path=%2Fvless#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@31.76.102.60:443?security=reality&encryption=none&pbk=KHRzAlZ3DEIjxqfixi545KJ4BpTsefHlO8nCZxdtj34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fl1.nztvpn.com&sid=dee20bb2421604f8#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp&headerType=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

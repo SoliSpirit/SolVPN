@@ -52,3 +52,4 @@ vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?&security=tls&
 ss://YWVzLTEyOC1nY206NDliMDdiOTgtNmI3Ni00YzcwLWIwNDYtMzliZTg4ZTc1YWJm@ruot.ayucloudservices.nl:40022#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@188.114.97.6:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=free.nadun.store&type=ws&headerType=none&host=free.nadun.store&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.254.251.49:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

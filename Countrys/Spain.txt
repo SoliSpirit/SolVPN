@@ -12,3 +12,4 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.236.63:443?path=%2F&security
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?&security=tls&fp=unsafe&alpn=http/1.1&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@31.57.190.9:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

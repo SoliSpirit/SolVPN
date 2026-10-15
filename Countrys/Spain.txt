@@ -13,3 +13,5 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?&security=tls&fp=unsafe&alpn=http/1.1&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@31.57.190.9:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://30a2a9a6-6a03-4353-a7fb-63831d64f718@www.zsu.gov.ua:8880?type=ws&host=orange-lab-896e.365-80b.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://121c3728-2b6b-4b69-bac6-170b13658d74@172.65.90.52:8880?encryption=none&security=none&sni=www.zsu.gov.ua&type=ws&host=falling-darkness-95ea.289.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

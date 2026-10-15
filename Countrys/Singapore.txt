@@ -50,3 +50,4 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.
 vless://83383473-0d62-4089-ac4d-d7ecb413504a@nl3.h1cloud.net:25458?security=reality&encryption=none&pbk=EaWx3gBCS5TeKts5FdgKVqJTn5yGAPoomRNzwVeN41M&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=nl4.nztvpn.com&sid=705d9608b0b71387#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?&security=tls&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://YWVzLTEyOC1nY206NDliMDdiOTgtNmI3Ni00YzcwLWIwNDYtMzliZTg4ZTc1YWJm@ruot.ayucloudservices.nl:40022#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@188.114.97.6:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=free.nadun.store&type=ws&headerType=none&host=free.nadun.store&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

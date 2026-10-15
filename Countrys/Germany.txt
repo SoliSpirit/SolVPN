@@ -72,3 +72,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.23.56:443?encryption=none&f
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.186.202:443?sni=deinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.185.244:443?sni=demethod.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@87.121.47.183:443?sni=1cdinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&spx=%2Fozks0ksxmyHue4v&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

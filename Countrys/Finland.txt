@@ -19,3 +19,4 @@ vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encrypt
 vless://090da6a8-69f7-4b49-8af9-a8f8bfb07f17@app-mi-28.spbstudentlife.com:443?security=reality&encryption=none&pbk=VpHiR2qy9ielGf500Cp5S_e9eDR_of2dthqe7bNflRk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets-mi-28.spbstudentlife.com&sid=1fcb15860699f6b1#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.52.69:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?sni=fi.quic.best&alpn=h2%2Ch3&flow=xtls-rprx-vision&fp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQemxjYl9QZVYzdVJnaUMyTk5vTkt3@b2a2.velqixa.ir:39221#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

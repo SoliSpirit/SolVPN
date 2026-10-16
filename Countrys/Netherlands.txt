@@ -107,3 +107,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=realit
 trojan://humanity@188.226.185.55:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://e86a3662-9b31-4d59-bc80-9e8644749b95@91.196.163.140:14430?&sni=91.196.163.140&type=ws&headerType=none&host=91.196.163.140&path=%2Fvless#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@209.38.225.64:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@165.232.81.187:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

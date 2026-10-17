@@ -499,3 +499,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.157.29:443?&security=tls&sn
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?&type=ws&headerType=none&host=platform101.halalkhor.info&path=%2Fplatform101#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?path=%2Fplatform117&security=none&encryption=none&host=platform117.halalkhor.info&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?sni=platform115.halalkhor.info&type=ws&host=platform115.halalkhor.info&path=/platform115#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.31:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://b4cc503a-c352-4775-85ad-fc982086884a@45.137.43.168:14430?&sni=45.137.43.168&type=ws&headerType=none&host=45.137.43.168&path=%2Fvless#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

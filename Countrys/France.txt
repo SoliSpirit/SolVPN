@@ -30,3 +30,4 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=/sg-melbi&se
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2095?&type=ws&headerType=none&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://af827fd0-6381-426f-bc5e-dcd9a7baeaac@46.226.166.208:14430?path=/vless&security=&encryption=none&fp=chrome&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://2bdcf0ac-f84e-471f-98dc-a1807acab1cb@188.114.98.0:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=skycitybox-bidarbash.sbs&type=ws&headerType=none&host=skycitybox-bidarbash.sbs&path=%2Fzoodi#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.31:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

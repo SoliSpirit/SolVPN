@@ -30,3 +30,4 @@ vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?encryption=none&t
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=/Telegram🇨🇳+fp=chrome&security=tls&sni=vp58.cc.cd&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@193.219.99.119:8443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22222?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.104.48:22224?&type=tcp&headerType=none&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

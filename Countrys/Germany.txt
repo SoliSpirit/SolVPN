@@ -65,3 +65,4 @@ vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@178.17.57.33:8444?mode=gun&security
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@49.13.64.206:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?&security=tls&fp=edge&alpn=http%2F1.1&sni=gpt.prem-ai.shop&type=ws&headerType=none&host=gpt.prem-ai.shop&path=%2Fstream%2Fv1%2Fsession%2Fmedia#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://a443d7bf-f506-46ce-b64d-cf8891c0a9f7@185.141.227.223:443?&security=tls&fp=firefox&sni=z1q3pv4g78.rucdncomp.pro&type=ws&headerType=none&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?allowInsecure=1&sni=de7.dedushka.top#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

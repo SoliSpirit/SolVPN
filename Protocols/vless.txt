@@ -457,3 +457,6 @@ vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=%2Fpai50
 vless://6a9443a2-b756-21f8-0e91-5eacf9a86382@uitestytre-production.up.railway.app:443?path=/ws/6a9443a2-b756-21f8-0e91-5eacf9a86382&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uitestytre-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=uitestytre-production.up.railway.app#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?security=reality&type=tcp&packetEncoding=xudp&sni=api.mediapolyana.cc&fp=ios&flow=xtls-rprx-vision&sid=a8&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22222?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?&security=tls&fp=edge&alpn=http%2F1.1&sni=gpt.prem-ai.shop&type=ws&headerType=none&host=gpt.prem-ai.shop&path=%2Fstream%2Fv1%2Fsession%2Fmedia#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.104.48:22224?&type=tcp&headerType=none&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://53373a04-2dd2-472e-af5d-d55fbffa7dbd@206.1.100.148:8443?&security=tls&fp=chrome&sni=game.jafarghasemivip.ir&type=tcp&headerType=none&path=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

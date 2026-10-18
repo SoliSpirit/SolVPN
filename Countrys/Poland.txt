@@ -17,3 +17,4 @@ vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=/&security=t
 vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?security=reality&encryption=none&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.travel#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://5fefb7a2-a045-4409-a383-12bbfb111041@191.44.113.157:443?security=reality&encryption=none&pbk=bBI6MyZl42OYBNDkZ1n75oRsFoLF-ez3HvHwzDJvDic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://b4cc503a-c352-4775-85ad-fc982086884a@45.137.43.168:14430?&sni=45.137.43.168&type=ws&headerType=none&host=45.137.43.168&path=%2Fvless#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

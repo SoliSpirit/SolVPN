@@ -18,3 +18,4 @@ vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?security=re
 vless://5fefb7a2-a045-4409-a383-12bbfb111041@191.44.113.157:443?security=reality&encryption=none&pbk=bBI6MyZl42OYBNDkZ1n75oRsFoLF-ez3HvHwzDJvDic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://b4cc503a-c352-4775-85ad-fc982086884a@45.137.43.168:14430?&sni=45.137.43.168&type=ws&headerType=none&host=45.137.43.168&path=%2Fvless#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?security=reality&type=tcp&packetEncoding=xudp&sni=api.mediapolyana.cc&fp=ios&flow=xtls-rprx-vision&sid=a8&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

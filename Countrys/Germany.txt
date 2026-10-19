@@ -68,3 +68,4 @@ vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?sec
 vless://0be0a2bf-aa20-4e52-aa5a-3d59d56b1582@31.56.18.67:2083?security=reality&encryption=none&pbk=RAsD3YMZiEtRBEQ6hNpsyfVE9ro1M4H2AQ-CKbBjJGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dege.underground.company&sid=7878a3f029e04e23#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d1cafeeb-2861-4d1e-a462-38f16442f5b2@wwww.qarvian.ir:443?&security=tls&fp=chrome&sni=google.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_3.global.ssl.fastly.net.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

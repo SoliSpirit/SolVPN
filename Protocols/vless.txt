@@ -452,3 +452,4 @@ vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@185.14.184.90:2087?path=%2F&securit
 vless://5504eaa8-1395-402f-8e0e-75ecd762e627@uk1-2.998998.best:443?sni=server13.9966338.xyz&type=ws&host=server13.9966338.xyz&path=/resiouhgggggggggg?ed=2560fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@studio.10media.top:443?sni=studio.10media.top&type=grpc&serviceName=studiofeed&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://bfa3aaaf-41d3-4ec4-8453-e9827d7e7b30@www.zsu.gov.ua:8880?type=ws&host=crimson-mode-f8de.432-9e1.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

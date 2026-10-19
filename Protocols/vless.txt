@@ -540,3 +540,4 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56656?encr
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@57.128.181.26:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22222?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22222?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -395,7 +395,7 @@ trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&fm=tlshello-
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@185.26.48.167:443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@159.65.117.197:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2086?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
@@ -796,3 +796,4 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56656?encr
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@57.128.181.26:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22222?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22222?encryption=none&security=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vmess://eyJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYxMTIiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

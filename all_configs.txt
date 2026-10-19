@@ -701,3 +701,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.244:22223?&type=tcp&header
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@109.120.134.243:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://1d0e8e53-6999-4752-ac21-c0c54ff5bc09@172.67.168.158:2087?&security=tls&fp=chrome&sni=vn11vina.210z.dev&type=ws&headerType=none&host=vn11vina.210z.dev&path=%2Fvlessvina#🇻🇳 Join+Telegram:@SolVPN 🇻🇳
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@109.120.138.15:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://humanity@148.253.212.42:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@161.35.192.122:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

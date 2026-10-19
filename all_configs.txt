@@ -395,7 +395,7 @@ trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&fm=tlshello-
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@185.26.48.167:443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@159.65.117.197:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2086?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
@@ -754,3 +754,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.18.254:22222?&type=tcp&heade
 vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=piracy-android.video-streams.org&type=ws&headerType=none&host=piracy-android.video-streams.org&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.85.89.70:81?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/trade?ed=2560fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

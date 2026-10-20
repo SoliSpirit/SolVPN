@@ -719,3 +719,5 @@ vless://0ad58d97-922c-4e85-b820-9d04dab5b8ec@206.1.103.26:443?&type=tcp&headerTy
 vless://121c3728-2b6b-4b69-bac6-170b13658d74@172.65.90.52:8880?encryption=none&security=none&sni=www.zsu.gov.ua&type=ws&host=falling-darkness-95ea.289.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230?security=tls&sni=www.alibaba.com&type=ws&path=/&Host=www.alibaba.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?&type=ws&headerType=none&host=platform102.halalkhor.info&path=%2Fplatform102#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&type=ws&path=%2F&security=tls&sni=wsru1.wba-pn.ru&fp=chrome#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

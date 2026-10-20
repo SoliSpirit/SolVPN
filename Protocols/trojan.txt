@@ -51,3 +51,5 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.dedushka.top#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230?security=tls&sni=www.alibaba.com&type=ws&path=/&Host=www.alibaba.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

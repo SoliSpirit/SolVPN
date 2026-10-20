@@ -475,3 +475,4 @@ vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?path=/cart/docs/ww
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443?security=reality&type=raw&packetEncoding=xudp&sni=ge-s-1.pythonmakemigreat.wiki&fp=chrome&flow=xtls-rprx-vision&sid=2c9a2790ad5900b2&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@147.78.0.186:2053?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

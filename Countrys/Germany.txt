@@ -75,3 +75,4 @@ vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?se
 vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@146.75.59.186:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_a1i.global.ssl.fastly.net.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@wwww.qarvian.ir:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_a11ia.global.ssl.fastly.net.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://ed6c724c-435f-4f83-a781-f57579af320b@shortbig.ir:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=alman.5f2vvtqh5syot.info&type=ws&headerType=none&host=alman.5f2vvtqh5syot.info&path=%2F9d9fdbc18c834cffab4276811501fbae#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

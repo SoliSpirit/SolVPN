@@ -69,3 +69,4 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&alpn
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.dedushka.top#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0ad58d97-922c-4e85-b820-9d04dab5b8ec@206.1.103.26:443?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

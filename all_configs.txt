@@ -544,7 +544,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=
 vless://30a2a9a6-6a03-4353-a7fb-63831d64f718@www.zsu.gov.ua:8880?type=ws&host=orange-lab-896e.365-80b.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafe&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b869a8d0-0733-4346-8d1c-c1230a78651c@45.145.12.148:443?mode=multi&security=reality&encryption=none&pbk=OOI0p2vKjr8xdwcVCzxcd3rAxmMr7XRA0wMk14IXaFM&fp=chrome&type=grpc&serviceName=grpc&sni=max.ru&sid=35debf0dc757d053#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de4.dedushka.top#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@164.90.217.130:443?path=/&security=tls&encryption=none&insecure=0&host=white-forest-2c01.alvlirm222.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=white-forest-2c01.alvlirm222.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=qeztrg7u.akscasx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=qeztrg7u.akscasx.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
@@ -716,3 +715,7 @@ vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.165.174:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 ss://YWVzLTI1Ni1nY206QnpHNE9pZGtMQmlqVDA0WUdJeVZNWEJkOWVTLWNhVmk@Tak.zqpm.ir:8989#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://48572af1-d091-457b-a86e-4a457e99927f@3h-unitedstates3.09vpn.com:8443?encryption=none&security=tls&sni=3h-unitedstates3.09vpn.com&type=ws&path=%2Fvless%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf4.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

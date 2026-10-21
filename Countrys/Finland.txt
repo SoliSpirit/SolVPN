@@ -16,3 +16,4 @@ vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@185.26.48.167:443?&security=tls&fp=
 vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://6e05822a-e9da-4135-a9db-71aa07a944af@144.31.34.146:2096?&security=tls&fp=firefox&alpn=http%2F1.1&sni=fi1.merky.one&type=ws&headerType=none&host=fi1.merky.one&path=%2Fmky-ws-4f19c8a7#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci.amir12.ir:2112?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

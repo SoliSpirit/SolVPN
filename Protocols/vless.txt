@@ -530,3 +530,5 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?typ
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?type=ws&path=/platform107#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=/platform101#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 vless://3302c871-79e8-45a3-8233-d0547ae963ed@cctvhikvision.center:2052?&type=ws&headerType=none&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9e4f675b-d6bf-42d1-be55-389f622783af@185.229.9.160:443?Telegram=@MyVless,@MyVless,@MyVless,@MyVless,@MyVless,@MyVless,@MyVless,@MyVless&security=reality&encryption=none&pbk=4Y0QLEasqtkWqfbrRedWqrZSPTnB14FDfI9q1v5SsHs&fp=chrome&spx=/&type=grpc&sni=smartcaptcha.yandexcloud.net&sid=0afbd1d3#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@108.165.216.7:8443?sni=speed.dulacloud.store&type=ws&host=speed.dulacloud.store&path=/dula?Telegram-WangCai2fp=chromesecurity=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

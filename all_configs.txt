@@ -793,3 +793,7 @@ vless://153900df-5824-4b55-98c4-418c5baea523@wwww.qarvian.ir:443?&security=tls&f
 vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http/1.1&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132?ed#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.44.216:18443#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVFVPT1FUcGRycktsbjcyVVl4d2lv@130.49.189.158:10792#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=login.sakhweb.fyi&fp=chrome&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@195.58.134.26:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=login.mskvibe.fyi&sid=7271129440ade8fa#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjhiOTIzYS00OTE4LTQ2YWQtOTZlNy05Y2Y1NTQzZGRjNGM@107.172.219.230:2096#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

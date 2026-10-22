@@ -461,6 +461,7 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?typ
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=/platform101#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 vless://3302c871-79e8-45a3-8233-d0547ae963ed@cctvhikvision.center:2052?&type=ws&headerType=none&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://9e4f675b-d6bf-42d1-be55-389f622783af@185.229.9.160:443?Telegram=@MyVless,@MyVless,@MyVless,@MyVless,@MyVless,@MyVless,@MyVless,@MyVless&security=reality&encryption=none&pbk=4Y0QLEasqtkWqfbrRedWqrZSPTnB14FDfI9q1v5SsHs&fp=chrome&spx=/&type=grpc&sni=smartcaptcha.yandexcloud.net&sid=0afbd1d3#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@108.165.216.7:8443?sni=speed.dulacloud.store&type=ws&host=speed.dulacloud.store&path=/dula?Telegram-WangCai2fp=chromesecurity=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.85.89.70:81?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/trade?ed=2560fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.88.154:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@85.90.197.156:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇬🇷 Join+Telegram:@SolVPN 🇬🇷
@@ -522,3 +523,6 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.178:443?encryption=none
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?&security=tls&packet-encoding=xudp&sni=cf.cfvip.lol&type=ws&headerType=none&host=cf.cfvip.lol&path=%2Fpyip#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://fffd4cb3-d5e2-4a11-936e-b8da5b240b8d@ct.877774.xyz:443?sni=se-sto.862400.xyz&type=ws&host=se-sto.862400.xyz&path=/announcement?ed=2048fp=random&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.58.21:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?&security=tls&fp=qq&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

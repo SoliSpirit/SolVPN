@@ -72,3 +72,4 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alp
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@79.137.202.86:8443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.144.30.86:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chita.vkusnews.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci.amir12.ir:2112?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

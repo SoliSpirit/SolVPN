@@ -156,3 +156,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjhiOTIzYS00OTE4LTQ2YWQtOTZlNy05Y2Y1NTQzZGR
 ss://YWVzLTEyOC1nY206YTdiZTk2YTk4MzkyZWY0MGRhYjc2OTMzMTdhODFjYzA=@64.42.181.102:12996#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.58.21:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

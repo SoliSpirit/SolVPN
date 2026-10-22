@@ -734,3 +734,4 @@ vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.88.154:8443?&security=tls&f
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@85.90.197.156:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇬🇷 Join+Telegram:@SolVPN 🇬🇷
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=/platform103#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@89.125.139.115:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
+ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -830,3 +830,4 @@ vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIi
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.246.59:22222?encryption=none&security=none&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://f9d2937a-94e4-444a-95df-103faf1dd3fd@95.181.162.170:444?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://153900df-5824-4b55-98c4-418c5baea523@wwww.qarvian.ir:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.144.30.86:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chita.vkusnews.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

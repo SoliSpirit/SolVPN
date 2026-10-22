@@ -783,3 +783,5 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?encryption=none&ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
 vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=login.sakhweb.fyi&sid=7271129440ade8fa#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://153900df-5824-4b55-98c4-418c5baea523@wwww.qarvian.ir:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.29.149.140:41705?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?&type=ws&headerType=none&host=platform101.halalkhor.info&path=%2Fplatform101#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

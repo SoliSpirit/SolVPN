@@ -157,3 +157,6 @@ ss://YWVzLTEyOC1nY206YTdiZTk2YTk4MzkyZWY0MGRhYjc2OTMzMTdhODFjYzA=@64.42.181.102:
 ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.58.21:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?&security=tls&fp=qq&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

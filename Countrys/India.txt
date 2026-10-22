@@ -4,3 +4,4 @@ vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality
 ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&sni=13.140.56.100&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?&sni=5.253.29.254&type=ws&headerType=none&host=5.253.29.254&path=%2Fvless#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?security=reality&encryption=none&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=in1.vkusnews.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

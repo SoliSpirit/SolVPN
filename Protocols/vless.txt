@@ -466,3 +466,5 @@ vless://7967bf59-57e3-4cde-9898-527b0fe60022@108.165.216.7:8443?sni=speed.dulacl
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.85.89.70:81?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/trade?ed=2560fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.88.154:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@85.90.197.156:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇬🇷 Join+Telegram:@SolVPN 🇬🇷
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=/platform103#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@89.125.139.115:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇦🇱 Join+Telegram:@SolVPN 🇦🇱

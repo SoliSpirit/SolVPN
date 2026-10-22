@@ -810,3 +810,5 @@ vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 ss://YWVzLTEyOC1nY206YTdiZTk2YTk4MzkyZWY0MGRhYjc2OTMzMTdhODFjYzA=@64.42.181.102:12996#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://fffd4cb3-d5e2-4a11-936e-b8da5b240b8d@ct.877774.xyz:443?sni=se-sto.862400.xyz&type=ws&host=se-sto.862400.xyz&path=/announcement?ed=2048fp=random&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+trojan://28c4a59d-c2a0-4d6c-ba7d-db6a354990de@tjhg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

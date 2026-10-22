@@ -70,3 +70,4 @@ vless://153900df-5824-4b55-98c4-418c5baea523@wwww.qarvian.ir:443?&security=tls&f
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de12.dedushka.top#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@79.137.202.86:8443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

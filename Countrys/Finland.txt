@@ -12,3 +12,4 @@ vless://6e05822a-e9da-4135-a9db-71aa07a944af@144.31.34.146:2096?&security=tls&fp
 vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci.amir12.ir:2112?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:33477?&type=tcp&headerType=none&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@cdn111.whitenw.net:8449?&security=tls&fp=chrome&sni=foliage.lalibobi.online&type=ws&headerType=none&host=cdn111.whitenw.net&path=%2Fjournal-sync%2Fe8d4c790#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

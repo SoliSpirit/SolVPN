@@ -32,3 +32,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?&type=tcp&header
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22224?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.81:22224?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=/sg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.31:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

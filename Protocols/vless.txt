@@ -521,3 +521,4 @@ vless://d6752c6b-80ae-4a91-b446-bb330f7f8177@94.156.79.93:443?security=reality&e
 vless://ee39fb11-56a3-4ee7-9e7c-35a4235bd30e@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=b27ba098687b#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.178:443?encryption=none&type=ws&security=tls&path=%2Ffp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?&security=tls&packet-encoding=xudp&sni=cf.cfvip.lol&type=ws&headerType=none&host=cf.cfvip.lol&path=%2Fpyip#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://fffd4cb3-d5e2-4a11-936e-b8da5b240b8d@ct.877774.xyz:443?sni=se-sto.862400.xyz&type=ws&host=se-sto.862400.xyz&path=/announcement?ed=2048fp=random&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

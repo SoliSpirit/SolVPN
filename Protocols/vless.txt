@@ -474,3 +474,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?&type=tcp&header
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22224?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.81:22224?&type=tcp&headerType=none&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://153900df-5824-4b55-98c4-418c5baea523@146.75.59.186:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#🇭🇺 Join+Telegram:@SolVPN 🇭🇺

@@ -17,3 +17,4 @@ vless://30e4c878-15ca-4f53-ab32-04c60ecd3f31@172.65.90.52:8880?type=ws&host=blue
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@152.114.195.163:8443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://d342d11e-d224-4463-b982-532309285094@cf.130519.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?alpn=http%2F1.1&encryption=none&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132fp%3Dunsafe&security=tls&sni=lucasjow.us.ci&type=ws#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?path=/cart/docs/www/proxyip=108.160.132.132&security=tls&alpn=http/1.1&encryption=none&fm={#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

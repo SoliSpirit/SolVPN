@@ -46,3 +46,4 @@ vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reali
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@108.165.216.7:8443?sni=speed.dulacloud.store&type=ws&host=speed.dulacloud.store&path=/dula?Telegram-WangCai2fp=chromesecurity=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@13.250.31.67:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

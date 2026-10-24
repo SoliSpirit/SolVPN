@@ -52,3 +52,6 @@ vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@139.84.242.103:443?security=tls&typ
 vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?type=ws&host=vms.lifetime54.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=randomized#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?path=%2FeyJqdW5rIjoiUHVXcXFjYTJGVGI3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=confighaye.mokhaberatebinzon.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=coNFIghayE.moKhaBeraTebInZON.workErS.deV#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@204.168.174.36:8443?sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

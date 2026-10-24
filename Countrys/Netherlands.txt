@@ -94,3 +94,4 @@ vless://a500be68-4ff6-433b-9968-472be69fab14@netherlands02.azotvpn.xyz:443?secur
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?security=reality&encryption=none&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&headerType=none&fp=firefox&type=tcp&sni=ibm.com&sid=a09ff9f8#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@50.7.41.118:17001#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@185.230.44.62:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

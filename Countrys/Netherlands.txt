@@ -90,3 +90,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.233
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&sni=t.me/FuckTheWall#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.227.64.52:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-nl-1.nztpro.com&fp=firefox&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&sid=25f4a40b9fdd9780&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

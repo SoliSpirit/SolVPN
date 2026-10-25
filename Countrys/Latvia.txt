@@ -1,2 +1,1 @@
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
 vless://1ebcb694-875c-4be7-b6a2-d53c8208991b@195.123.208.32:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=757b9e1ef18e60f0&pbk=ICrsmE5hqN7IsDIyHPG2WkDUUFK_VEj9yobLv8zuDwk#🇱🇻 Join+Telegram:@SolVPN 🇱🇻

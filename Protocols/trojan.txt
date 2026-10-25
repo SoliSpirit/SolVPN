@@ -35,3 +35,4 @@ trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?allowInsecure=1#🇺🇸 J
 trojan://ee844c5ef7504bcf@jus134.pacemakere.com:20017?allowInsecure=1&sni=jus134.pacemakere.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

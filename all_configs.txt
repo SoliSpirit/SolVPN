@@ -664,3 +664,4 @@ vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@31.59.217.109:443?sni=h8cbtdld3jxdk
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@150.241.72.161:443?sni=b6i5po18lw.hat.onl&type=grpc&serviceName=live.gpuwxc84nl.chunk-4022.m4s&fp=firefox&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

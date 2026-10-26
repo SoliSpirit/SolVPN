@@ -467,3 +467,4 @@ vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?allowInsecure=0&s
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&type=ws&security=tls&path=/sg-amz&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://92a4056a-38d6-49d0-8bd2-600e55af1e9f@111.88.128.167:8517?sni=r47mp8qsel.j.cloudfront.hls.ttvnw.net&alpn=h2&type=grpc&serviceName=api.v1.StreamService&fp=qq&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=b2efed6d157e7bb0&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

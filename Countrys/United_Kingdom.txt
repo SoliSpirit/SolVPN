@@ -28,3 +28,4 @@ vless://64c05afc-ce81-4ba0-b697-afa04da1427e@195.72.166.251:443?security=reality
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?encryption=none&type=tcp&security=reality&sni=www.forvo.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&allowInsecure=1#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@gb2.murainternet.network:443?security=reality&type=tcp&packetEncoding=xudp&sni=gb2.murainternet.network&fp=chrome&flow=xtls-rprx-vision&sid=fc36b4a584871aa5&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&encryption=none#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@location15.cpanel-host16.ir:56137#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

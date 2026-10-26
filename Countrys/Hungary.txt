@@ -1,1 +1,2 @@
 vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@13.143.191.7:443?sni=edv6f206j8ujw.hat.onl&type=grpc&serviceName=v1.segment.mNoQuDdqMKJm1Jo7.ts&fp=firefox&security=tls#🇭🇺 Join+Telegram:@SolVPN 🇭🇺
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@38.180.109.174:443?allowInsecure=1&sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chrome&security=tls#🇭🇺 Join+Telegram:@SolVPN 🇭🇺

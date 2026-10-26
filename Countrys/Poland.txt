@@ -7,3 +7,4 @@ vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@pl1.himoy.space:443?&security=reality&flow=xtls-rprx-vision&pbk=1D_oMYRytcccH8J2SiM9o0bjmWlDND9CXWLL8LwDvE8&sid=e2201d4d8b942ccc&fp=firefox&sni=pl1.himoy.space&type=tcp&headerType=none&host=pl1.himoy.space&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@2.27.244.55:443?sni=qbak5xqeb.hat.onl&type=grpc&serviceName=media.uxvgqd.v1.PlaybackStream&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?sni=2.26.6.1&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

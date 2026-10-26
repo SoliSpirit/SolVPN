@@ -54,3 +54,4 @@ vless://659ffdfa-47d2-47d7-af40-5afe0907eead@162.55.242.208:2053?security=realit
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de4.pad-sservice.lat:8443?path=/D14E&security=tls&encryption=none&insecure=0&host=de4.pad-service.com&type=ws&allowInsecure=0&sni=de4.pad-sservice.lat#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de10.pad-sservice.lat:8443?path=/DE10W&security=tls&encryption=none&insecure=0&host=de10.pad-service.com&type=ws&allowInsecure=0&sni=de10.pad-sservice.lat#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.22.232.39:443?&security=tls&fp=chrome&sni=vpn47.cc.cd&type=ws&headerType=none&host=vpn47.cc.cd&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

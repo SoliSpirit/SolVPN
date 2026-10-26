@@ -9,3 +9,4 @@ vless://d6752c6b-80ae-4a91-b446-bb330f7f8177@94.156.79.93:443?security=reality&e
 vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?sni=45-149-147-213.sslip.io&alpn=h2&type=grpc&serviceName=kobedin-server1-vless&fp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYW5KNThLZkRGMjFLb01GWjVUWG1n@94.177.145.151:2083#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

@@ -63,3 +63,4 @@ vless://846cedee-2a52-0002-a0b9-11850ead6a8b@nl-central.v8x2b.lol:443?security=r
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@179.254.115.126:8443?sni=de7.pad-sservice.lat&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://75b517db-1f97-4bda-a479-863d988c31a0@64.188.83.188:2083?encryption=none&security=tls&sni=speedtestmark.com&fp=random&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&sni=t.me/FuckTheWall#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

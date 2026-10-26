@@ -9,3 +9,5 @@ vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@2.27.244.55:443?sni=qbak5xqeb.hat.o
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?sni=2.26.6.1&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://480b4042-f713-43d7-b24b-b4064c97f841@tr2.soft10.ir:2053?&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=tr2.soft10.ir&type=ws&headerType=none&host=tr2.soft10.ir&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl2.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=pl2.pad-sservice.lat&type=ws&headerType=none&host=pl2.pad-service.com&path=%2FPL2W#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl1.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=pl1.pad-sservice.lat&type=ws&headerType=none&host=pl1.pad-service.com&path=%2FPL1W#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

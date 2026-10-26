@@ -36,3 +36,4 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encrypt
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

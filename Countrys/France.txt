@@ -24,3 +24,4 @@ vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=%2F%3Fu%3D73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://69da3674-4941-468b-96f0-c17cf5b0a047@179.255.176.28:8443?&security=tls&fp=firefox&sni=fra.yandex-api.store&type=ws&headerType=none&path=%2Fassets#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://29ca503d-e6b8-4509-b666-48133f450857@35.241.172.224:443?&security=tls&fp=random&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

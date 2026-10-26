@@ -104,3 +104,4 @@ vless://7170c66c-3c0b-4cd0-acbb-01774a6b7179@81.163.23.248:443?&security=tls&fp=
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de2.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=de2.pad-sservice.lat&type=ws&headerType=none&host=de2.pad-service.com&path=%2Fde2-1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@85.198.83.46:443?sni=renderer-bridge-1-881.mirra.now&type=grpc&serviceName=VideoRenderer&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?security=reality&type=tcp&packetEncoding=xudp&sni=sw.golangwikito.cfd&fp=chrome&flow=xtls-rprx-vision&sid=a1037b25dcef6aa7&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

@@ -1,1 +1,1 @@
-vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Join+Telegram:@SolVPN 🇮🇱

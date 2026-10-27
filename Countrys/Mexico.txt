@@ -1,1 +1,2 @@
 vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.88.154:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🇲🇽 Join+Telegram:@SolVPN 🇲🇽

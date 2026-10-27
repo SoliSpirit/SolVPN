@@ -509,3 +509,7 @@ vless://735b8344-0b95-464c-b687-1c5616138908@172.67.130.159:2096?path=/3cagtz3&s
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.121.10:2096?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?sni=swz.proxyplankton.ru&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?sni=ir.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.137:443?sni=norw-mori-3.failspace.top&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.42:443?sni=norw-2.failspace.top&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@norw-1.failspace.top:443?sni=norw-1.failspace.top&flow=xtls-rprx-vision&fp=chrome&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴

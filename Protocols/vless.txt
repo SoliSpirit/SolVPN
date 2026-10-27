@@ -451,3 +451,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?&security=tls&fp=
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=firefox&sid=a73f0410d728c823&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#🇻🇳 Join+Telegram:@SolVPN 🇻🇳
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

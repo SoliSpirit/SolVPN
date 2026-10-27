@@ -749,3 +749,17 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.121.10:2096?encryption=none
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
 vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?sni=swz.proxyplankton.ru&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?sni=ir.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.137:443?sni=norw-mori-3.failspace.top&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.42:443?sni=norw-2.failspace.top&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@norw-1.failspace.top:443?sni=norw-1.failspace.top&flow=xtls-rprx-vision&fp=chrome&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?allowInsecure=1&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?allowInsecure=1&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?allowInsecure=1&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://WCwRcLxlKIeyXKHkppTmQIGXeRfIYYmE@45.32.135.70:9213?allowInsecure=1&sni=hotspot-unlimited.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?allowInsecure=1&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://pftneFPgqpHQSUcCDhJqXuqrcHjptQhT@64.23.151.246:7801?allowInsecure=1&sni=hotspot-unlimited.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://mMIywuxBtHHOAwAkkpwiCmBXIlKOysGv@209.38.66.47:6105?allowInsecure=1&sni=hotspot-unlimited.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?allowInsecure=1&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://pCgkPBgBBpKdPLeRyFSgXXjeiQeNiCLm@144.126.223.93:8911?allowInsecure=1&sni=hotspot-unlimited.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

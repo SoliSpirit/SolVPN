@@ -33,3 +33,4 @@ vmess://eyJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJp
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.180.80:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40VPNine1#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+fp%3Dchrome&security=tls&sni=vp58.cc.cd&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=grpc&serviceName=beru-uk&sni=ru3.radiolumens.uk#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

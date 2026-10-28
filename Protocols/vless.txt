@@ -426,3 +426,4 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.42:443?sni=norw-2.failspace
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@norw-1.failspace.top:443?sni=norw-1.failspace.top&flow=xtls-rprx-vision&fp=chrome&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
 vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?security=reality&sni=www.cloudflare.com&fp=firefox&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&sid=cd7e85995ae2afc9&type=tcp&packetEncoding=xudp&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@109.120.138.15:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@147.78.0.186:8443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

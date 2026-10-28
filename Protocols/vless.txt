@@ -481,3 +481,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@88.216.223.37:8443?encryption=none&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.107.155.76:2053?&security=tls&fp=chrome&sni=cdn8848.776676.xyz&type=ws&headerType=none&host=cdn8848.776676.xyz&path=%2Ftv%2Fmember%2Fauth%3Fed%3D2560#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.134.80:2053?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://99fa1d27-b252-4cba-b04d-50c3d0873700@hk013.zestapp778.com:59746?type=tcp&security=tls&fp=chrome&sni=hk013.zestapp778.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

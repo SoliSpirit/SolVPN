@@ -50,3 +50,4 @@ trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?security=tls&sni=sj6.freeguard.org#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://Tg3RnK7Xp8B1@64.176.96.237:443?security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

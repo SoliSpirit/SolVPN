@@ -82,3 +82,4 @@ vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?&security=reality&p
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=swz.proxyplankton.ru&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@161.35.192.122:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

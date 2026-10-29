@@ -481,3 +481,4 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?security
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&type=tcp&packetEncoding=xudp&sni=twitch.tv&fp=firefox&flow=xtls-rprx-vision&sid=16036bbef04d0509&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@185.14.30.98:8443?security=reality&type=tcp&packetEncoding=xudp&sni=twitch.tv&fp=chrome&flow=xtls-rprx-vision&sid=1433a38abea1191c&pbk=Q0dPyF2hFWgxL7hxntJWJammcb6zcRCyA-NOiOFrsAo#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=/vless/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?security=none&type=tcp&packetEncoding=xudp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

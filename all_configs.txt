@@ -748,3 +748,4 @@ vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?&security=tls&fp
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vmess://eyJhZGQiOiI0Ny4xMjkuMTE1Ljk2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZy10cmFuc2l0LTMubmVidWxhY2xvdWQud2luIiwiaWQiOiJkZmE5Zjg3NS0zODA1LTQ5ZDktODYzNi00NmI2ODk5YmUyNGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2V0RGF0YS91cyIsInBvcnQiOiIzMTQxNCIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoic2ctdHJhbnNpdC0zLm5lYnVsYWNsb3VkLndpbiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230?security=tls&sni=www.alibaba.com&type=ws&path=/&Host=www.alibaba.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

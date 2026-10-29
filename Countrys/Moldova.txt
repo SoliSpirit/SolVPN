@@ -1,1 +1,2 @@
 vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@193.36.38.17:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇲🇩 Join+Telegram:@SolVPN 🇲🇩
+vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@rus.play-cat.uk:443?sni=rus.play-cat.uk&type=grpc&serviceName=assets&fp=ios&security=tls#🇲🇩 Join+Telegram:@SolVPN 🇲🇩

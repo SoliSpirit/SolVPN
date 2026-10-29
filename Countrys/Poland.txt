@@ -11,3 +11,4 @@ vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=/&security=t
 vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?flow=xtls-rprx-vision&fp=chrome&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&security=reality&sid=50&sni=cloudflare.com&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

@@ -467,3 +467,5 @@ vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=%2F&security
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&type=ws&path=%2F&security=tls&sni=wsru1.wba-pn.ru&fp=chrome#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?&security=tls&fp=chrome&alpn=http%2F1.1&sni=206.1.101.85&type=ws&headerType=none&path=%2F#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@213.226.71.38:2053?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@57.128.181.26:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

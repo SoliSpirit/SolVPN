@@ -149,3 +149,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.55:443?allowInsecure=1&e
 vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?&security=tls&fp=chrome&sni=kclx.eu.org&type=ws&headerType=none&host=kclx.eu.org&path=%2F154.16.10.34-8080#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.33.59:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?allowInsecure=1&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&headerType=none&type=tcp&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

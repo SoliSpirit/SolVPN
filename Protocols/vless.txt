@@ -459,3 +459,4 @@ vless://d98b67d4-024a-4bba-91e2-e6ebece6df11@38.76.180.144:1443?&fp=chrome&sni=3
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?&security=tls&fp=chrome&sni=n04.jinggai.online&type=ws&headerType=none&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vless://85656e50-ee8d-4266-8b48-b99833c090dd@146.75.57.238:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=usaaaaboijji.global.ssl.fastly.net&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://3e3396ce-d6ec-42ee-b854-1dca9fcb2749@38.76.180.144:443?&security=tls&fp=chrome&sni=www.microsoft.com&type=ws&headerType=none&host=www.microsoft.com&path=%2Fd4f1a9b2-ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://0ca340c0-5e43-46b0-8690-31f92a78a198@dl.hessabb.ir:2051?type=ws&path=%2Fdownload&host=dl.hessabb.ir&security=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

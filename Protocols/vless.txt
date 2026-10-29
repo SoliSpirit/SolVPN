@@ -454,3 +454,4 @@ vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.21.33.59:443?&security=tls&fp=u
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ca001.zestapp778.com:32355?sni=ca001.zestapp778.com&fp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=/Telegram🇨🇳+fp=chrome&security=tls&sni=vp58.cc.cd&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

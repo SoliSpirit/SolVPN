@@ -2,3 +2,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.137:443?sni=norw-mori-3.failspace.top&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.42:443?sni=norw-2.failspace.top&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@norw-1.failspace.top:443?sni=norw-1.failspace.top&flow=xtls-rprx-vision&fp=chrome&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
+vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYyOTEiLCJwcyI6Ilx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmNCBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

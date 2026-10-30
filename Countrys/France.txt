@@ -30,3 +30,4 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=%2Fsg-amz&secu
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://d312d7fb-f1b0-4a92-adef-771d9bf24a87@creator.morteza1388m1122.ir:8443?sni=CREATOR.morteza1388m1122.ir&fp=chrome&security=tls#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&ech=AF%2F%2BDQBbAAAgACCtCCV2%2BT2TCcNWgmmXvltmj5tzoKlieBzbAPbBAF0eIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAx3Lmdlb2dhbWUuaXIAAA%3D%3D&type=tcp&allowInsecure=0&sni=w.geogame.ir#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

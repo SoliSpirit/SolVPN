@@ -68,3 +68,4 @@ trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&al
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.unlockyourfuturefindyourperfectcareer.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

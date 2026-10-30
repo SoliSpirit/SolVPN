@@ -33,3 +33,4 @@ vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@144.31.215.196:443?security=reality
 vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1real2.greewebservices.ir:1240?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0ca340c0-5e43-46b0-8690-31f92a78a198@dl.hessabb.ir:2051?type=ws&path=%2Fdownload&host=dl.hessabb.ir&security=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@193.148.253.194:25362?security=reality&encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&headerType=none&fp=chrome&type=tcp&sni=www.chip.de&sid=23732d14a527990d#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

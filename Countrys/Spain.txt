@@ -9,3 +9,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecur
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reality&type=tcp&packetEncoding=xudp&sni=play.googleapis.com&fp=chrome&sid=974f7f8f&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

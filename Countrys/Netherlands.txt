@@ -91,3 +91,4 @@ vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?security=re
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@185.14.30.98:8443?security=reality&type=tcp&packetEncoding=xudp&sni=twitch.tv&fp=chrome&flow=xtls-rprx-vision&sid=1433a38abea1191c&pbk=Q0dPyF2hFWgxL7hxntJWJammcb6zcRCyA-NOiOFrsAo#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=/vless/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://bafacd98-136a-4530-838d-4e5c51838dac@167.71.65.205:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=juzi8186.qea.ccwu.cc&path=%2Ftravel%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

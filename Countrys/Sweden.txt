@@ -6,3 +6,4 @@ vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@193.233.252.100:443?sni=swe.qik-fin
 vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?&sni=193.188.21.253&type=ws&headerType=none&host=193.188.21.253&path=%2Fvless#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://6ddd64ac-972b-4809-8399-9ada51b64837@94.249.195.81:43000?&security=reality&flow=xtls-rprx-vision&pbk=pR4VpawT5rTi2LKtKvRtAiaW5p1ZGRNiao6_5TAkawI&sid=c6552fdd&fp=chrome&type=tcp&headerType=none&path=%2F#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@msk2.rvpn.app:8388#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@s12.bsh-net.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&sid=51079f144d661484&sni=s12.bsh-net.ru#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

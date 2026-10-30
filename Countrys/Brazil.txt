@@ -1,1 +1,2 @@
 vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromesecurity=tls#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#🇧🇷 Join+Telegram:@SolVPN 🇧🇷

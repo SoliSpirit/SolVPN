@@ -96,3 +96,4 @@ vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.20:443?encryption=none&s
 trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@185.230.44.62:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@188.42.145.180:443?allowInsecure=1&sni=www.volumeroot.com&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&fm={#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

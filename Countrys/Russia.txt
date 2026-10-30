@@ -8,3 +8,4 @@ ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@195.58.49.167:1
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&type=ws&path=%2F&security=tls&sni=wsru1.wba-pn.ru&fp=chrome#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=swz.proxyplankton.ru#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.155.121:18443#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.sun6-21.userapi.com&fp=firefox&flow=xtls-rprx-vision&sid=3199b70105c62ce0&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

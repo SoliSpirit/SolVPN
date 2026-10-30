@@ -103,3 +103,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@198.211.121.165:443?encryption=none
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?type=tcp&security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&sni=wordpress.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?security=reality&encryption=none&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&headerType=none&fp=firefox&type=tcp&sni=ibm.com&sid=a09ff9f8#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://930d11dc-0c6f-9e1a-4d57-b8473c715465@173.249.208.27:443?security=tls&type=ws&path=%2Fws%2F930d11dc-0c6f-9e1a-4d57-b8473c715465&host=ahbpanel-4134.shiprr.dev&packetEncoding=xudp&sni=ahbpanel-4134.shiprr.dev&fp=chrome&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5@189.74.114.119:443?sni=api.mediaklenov.cc&type=grpc&serviceName=3e99d50d5740985d&fp=safari&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

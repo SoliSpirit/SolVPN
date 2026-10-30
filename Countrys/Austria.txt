@@ -1,2 +1,3 @@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@94.228.162.222:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=vena.solomon-planet.ru&fp=chrome&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&allowInsecure=1#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@tau1.freerunet.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=tau1.freerunet.online&fp=chrome&flow=xtls-rprx-vision&sid=4a7b1c8d&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&encryption=none#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

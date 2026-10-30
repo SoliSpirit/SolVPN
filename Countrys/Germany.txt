@@ -37,3 +37,5 @@ vless://36fb6650-8a50-42b5-9f66-06538806f32c@193.148.253.194:25362?security=real
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@161.35.217.79:2087?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://a443d7bf-f506-46ce-b64d-cf8891c0a9f7@185.141.227.223:443?&security=tls&fp=firefox&sni=z1q3pv4g78.rucdncomp.pro&type=ws&headerType=none&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://50414e45-4c5f-5a45-5553-565221666bd1@172.64.95.237:443?encryption=none&security=tls&sni=mczrh5e3u5ps.shoameny.workers.dev&fp=unsafe&type=ws&host=mczrh5e3u5ps.shoameny.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F565221666bd1%2Floc-5#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0c45be70-e001-41e5-b39d-39351fe4a2d7@91.107.147.12:46605?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

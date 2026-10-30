@@ -97,3 +97,4 @@ trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&f
 trojan://humanity@185.230.44.62:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@188.42.145.180:443?allowInsecure=1&sni=www.volumeroot.com&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&fm={#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://b68bd590-010d-402c-9ffe-68a8ebbacebe@2.27.21.15:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=envs.net&fp=firefox&pbk=kGd24lfAZGfG38A65J6ghGNEKeUKqAB6TDR1G09pHEI&sid=91079323f5151c91#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

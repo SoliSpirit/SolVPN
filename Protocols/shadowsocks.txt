@@ -130,3 +130,4 @@ ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@8.211.196.252:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@msk2.rvpn.app:8388#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

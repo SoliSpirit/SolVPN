@@ -471,3 +471,4 @@ vless://9c6bc1b2-910a-4321-9793-c8276e065aa1@138.68.104.9:30161?sni=www.bing.com
 vless://4f735420-0179-45d7-ba4e-ed66d1bf3a89@www.visa.com.hk:443?sni=it-mil.862400.xyz&type=ws&host=it-mil.862400.xyz&path=/announcement?ed=2048fp=random&security=tls#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://4970c1cd-13e1-498a-920a-61d07be2fa65@107.189.7.176:32752?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&sid=d758a643034ad90e&pbk=pfFcQxKv4EPhCDUoZMCmTjj4FK7HHQg_me-In3bOejA#🇱🇺 Join+Telegram:@SolVPN 🇱🇺
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🇮🇩 Join+Telegram:@SolVPN 🇮🇩

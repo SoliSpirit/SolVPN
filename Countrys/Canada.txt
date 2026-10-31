@@ -54,3 +54,4 @@ vless://13bf9403-22d1-4221-939b-f6606c423139@66.163.113.238:443?encryption=none&
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?&security=tls&packet-encoding=xudp&sni=cf.cfvip.lol&type=ws&headerType=none&host=cf.cfvip.lol&path=%2Fpyip#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?type=ws&host=vms.lifetime54.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@198.41.219.221:443?&security=tls&fp=chrome&sni=2026071608.yzq.de5.net&type=ws&headerType=none&host=2026071608.yzq.de5.net&path=%2F%3Fed%3D2048#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

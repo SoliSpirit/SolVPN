@@ -752,3 +752,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?sni=ru3.radiolumens.uk&alpn=h2%2Chttp/1.1&type=grpc&serviceName=beru-uk&fp=chrome&security=tls#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://6f34a071-9a87-001e-b01a-4b5a5c95e552@144.31.129.174:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=s3-fi-1.rucdn777.com&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=20ed7ee26095771b&fp=firefox#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://9c6bc1b2-910a-4321-9793-c8276e065aa1@138.68.104.9:30161?sni=www.bing.com&alpn=http/1.1&fp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://4f735420-0179-45d7-ba4e-ed66d1bf3a89@www.visa.com.hk:443?sni=it-mil.862400.xyz&type=ws&host=it-mil.862400.xyz&path=/announcement?ed=2048fp=random&security=tls#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

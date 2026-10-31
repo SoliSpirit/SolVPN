@@ -82,3 +82,6 @@ trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?type=tcp&security=tls&fp=chrome&sni=ca001.zestapp778.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.211:443?security=tls&sni=api.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://humanity@209.38.225.64:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

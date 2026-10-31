@@ -465,3 +465,4 @@ vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=realit
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=finlandlanzarotte.live&fp=qq&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&flow=xtls-rprx-vision#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8f763a7f-4cda-4db1-90e3-9aeae0860dc0@business.lesotorg-kirov.ru:443?&security=tls&fp=android&sni=business.lesotorg-kirov.ru&type=ws&headerType=none&host=business.lesotorg-kirov.ru&path=%2Fchws#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://d342d11e-d224-4463-b982-532309285094@143.198.76.78:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

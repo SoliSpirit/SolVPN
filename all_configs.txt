@@ -767,3 +767,5 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#🇵🇭 Join+Telegram:@SolVPN 🇵🇭
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+fp%3Dchrome&security=tls&sni=vp58.cc.cd&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

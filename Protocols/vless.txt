@@ -474,3 +474,5 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=/sg-melbi&se
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🇮🇩 Join+Telegram:@SolVPN 🇮🇩
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+fp%3Dchrome&security=tls&sni=vp58.cc.cd&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://13bf9403-22d1-4221-939b-f6606c423139@138.16.140.168:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steamcommunity.com&fp=edge&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&sid=5c56a4cfea5866c0#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://f9d2937a-94e4-444a-95df-103faf1dd3fd@95.181.162.170:444?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#🇮🇹 Join+Telegram:@SolVPN 🇮🇹

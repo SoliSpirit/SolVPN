@@ -18,7 +18,6 @@ vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?allowInsecure=0&type
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=randomized#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
@@ -31,10 +30,9 @@ vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reali
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@free-server.techsonic.dev:2096?path=/free-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?security=reality&sni=www.cloudflare.com&fp=firefox&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&sid=cd7e85995ae2afc9&type=tcp&packetEncoding=xudp&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?security=tls&type=tcp&packetEncoding=xudp&sni=sg003.zestapp778.com&fp=chrome#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -154,3 +154,4 @@ vless://975fc322-6e38-434b-a53c-d39fed49b9a9@47.251.108.158:443?security=reality
 vless://d342d11e-d224-4463-b982-532309285094@143.198.76.78:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?security=tls&sni=sj6.freeguard.org#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?type=ws&security=tls&host=fast.145779.xyz&path=%2Fws-tesla&sni=fast.145779.xyz&fp=chrome&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

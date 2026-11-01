@@ -51,3 +51,4 @@ vless://e3aa3d22-a95e-407b-aacc-d855b90a5d70@179.253.179.109:63053?&security=tls
 vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.39.251:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&security=reality&sni=nl-modx-prime.storagedirectguide.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b15f187e-9b34-437c-8243-8651a8ada76c@172.67.110.179:443?path=%2Fstream%2FDEVCOP%2F8651a8ada76c%2Floc-1&security=tls&encryption=none&insecure=0&host=tepar-k4j9.jounet.workers.dev&type=ws&allowInsecure=0&sni=tepar-k4j9.jounet.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://75b517db-1f97-4bda-a479-863d988c31a0@64.188.83.188:2083?encryption=none&security=tls&sni=speedtestmark.com&fp=random&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?sni=t.me/FuckTheWall#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -15,3 +15,4 @@ vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?&security=tls&fp
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://e258977b-e413-4718-a3af-02d75492c349@94.125.102.52:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

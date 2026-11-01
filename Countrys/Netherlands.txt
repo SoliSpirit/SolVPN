@@ -114,3 +114,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@
 trojan://humanity@148.253.212.42:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://58037ab8-a8e2-4927-a8b1-f909f9fdb64c@89.105.218.106:2083?&security=tls&fp=ios&sni=speedtestmark.com&type=ws&headerType=none&path=%2Fvless-ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?security=reality&type=tcp&packetEncoding=xudp&sni=fr.golangwikito.cfd&fp=firefox&flow=xtls-rprx-vision&sid=e6d589857d1cec5e&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

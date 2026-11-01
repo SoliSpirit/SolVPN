@@ -9,3 +9,4 @@ vless://d6752c6b-80ae-4a91-b446-bb330f7f8177@94.156.79.93:443?security=reality&e
 vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://9c6bc1b2-910a-4321-9793-c8276e065aa1@138.68.104.9:30161?sni=www.bing.com&alpn=http/1.1&fp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://a356fa77-7199-417a-80dd-0c0925789161@hw5.roghanmo.com:465?&security=tls&fp=chrome&alpn=http%2F1.1&sni=hw5.roghanmo.com.&type=ws&headerType=none&host=hw5.roghanmo.com&path=%2F#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

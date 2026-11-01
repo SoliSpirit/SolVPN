@@ -58,3 +58,5 @@ trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?type=tcp&security=tls&fp=ch
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&sni=api.connectingpeoplewithgreatjobs.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&path=/lib/tag/mfp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

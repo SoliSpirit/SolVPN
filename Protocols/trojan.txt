@@ -102,3 +102,11 @@ trojan://humanity@185.230.44.62:443?path=%2Fassignment&security=tls&fm=tlshello-
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?sni=t.me/FuckTheWall#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://humanity@148.253.212.42:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:47786?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:15589?allowInsecure=1&sni=cm.g.doubleclick.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://va3E77I9fZCnCVcGKkxBCfz5@186.241.105.213:443?allowInsecure=0&sni=vpn.liumr.top#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:41184?allowInsecure=1&sni=cm.g.doubleclick.net#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+trojan://778f5385b4254495@hik160.pacemakere.com:20014?allowInsecure=1&sni=hik160.pacemakere.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:35929?allowInsecure=1&sni=cm.g.doubleclick.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:38994?allowInsecure=1&sni=cm.g.doubleclick.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

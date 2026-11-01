@@ -177,3 +177,7 @@ vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:44
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?encryption=none&type=ws&security=tls&path=/fp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.160:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.33.59:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@us3.shtil.io:443?sni=us3.shtil.io&fp=firefox&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://va3E77I9fZCnCVcGKkxBCfz5@186.241.105.213:443?allowInsecure=0&sni=vpn.liumr.top#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:35929?allowInsecure=1&sni=cm.g.doubleclick.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:38994?allowInsecure=1&sni=cm.g.doubleclick.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

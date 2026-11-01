@@ -28,3 +28,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.39.190.143:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@46.8.226.197:8443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=hk010.zestapp778.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://778f5385b4254495@hik160.pacemakere.com:20014?allowInsecure=1&sni=hik160.pacemakere.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

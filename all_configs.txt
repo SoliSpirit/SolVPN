@@ -822,3 +822,5 @@ trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?allowIn
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:35929?allowInsecure=1&sni=cm.g.doubleclick.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:38994?allowInsecure=1&sni=cm.g.doubleclick.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@146.235.199.164:443?&security=tls&fp=chrome&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=/danfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&sid=38d72071&type=tcp&headerType=none#🇵🇪 Join+Telegram:@SolVPN 🇵🇪

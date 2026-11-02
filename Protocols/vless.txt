@@ -500,3 +500,4 @@ vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?security=tls&typ
 vless://35c9f200-7520-4005-b78e-f8a2fb9f68f7@45.91.202.32:8444?&security=tls&fp=chrome&alpn=http%2F1.1&sni=nl15.meshbeat.online&type=ws&headerType=none&host=nl15.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2F02585a2d89%2Ftelemetry#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@32.199.151.91:80?&type=tcp&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?security=reality&encryption=none&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=2e82d7ac#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@191.217.245.227:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl.lenvex.cc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

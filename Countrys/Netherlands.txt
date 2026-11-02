@@ -107,3 +107,4 @@ trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1
 vless://58037ab8-a8e2-4927-a8b1-f909f9fdb64c@89.105.218.106:2083?&security=tls&fp=ios&sni=speedtestmark.com&type=ws&headerType=none&path=%2Fvless-ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?security=reality&type=tcp&packetEncoding=xudp&sni=fr.golangwikito.cfd&fp=firefox&flow=xtls-rprx-vision&sid=e6d589857d1cec5e&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@77.220.213.244:8444?security=tls&type=ws&path=%2Fapi%2Fv1%2Fdevices%2Fd63ac7ea89%2Ftelemetry&host=nl11.meshbeat.online&packetEncoding=xudp&sni=nl11.meshbeat.online&fp=firefox#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

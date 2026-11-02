@@ -181,3 +181,4 @@ vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=realit
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?allowInsecure=1&sni=us001.zestapp778.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

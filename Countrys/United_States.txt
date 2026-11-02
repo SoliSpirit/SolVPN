@@ -179,3 +179,5 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2095?&type=ws&headerTy
 vless://80fdddb8-3eb8-41ad-9916-fbb42c442e6e@141.193.154.234:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&sid=1835&pbk=dN2EhTLZsQ1RsO4rCdoIBIi7mFtmqsC2iekPft3MPnY#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?allowInsecure=1&sni=us001.zestapp778.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

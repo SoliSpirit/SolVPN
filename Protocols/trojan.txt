@@ -98,3 +98,4 @@ trojan://778f5385b4254495@hik160.pacemakere.com:20014?allowInsecure=1&sni=hik160
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:35929?allowInsecure=1&sni=cm.g.doubleclick.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:38994?allowInsecure=1&sni=cm.g.doubleclick.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

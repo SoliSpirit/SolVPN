@@ -192,3 +192,4 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=%2F%3FTELEGRA
 vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=unsafe&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@32.199.151.91:80?&type=tcp&headerType=none&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@103.152.113.60:443?&security=tls&fp=chrome&sni=mkvmh.alnm.a7e.hh.vavava.kdns.fr&type=ws&headerType=none&host=mkvmh.alnm.a7e.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWlJ5NFEzUUgwalVHZktGbDJqRENa@138.197.89.234:28960#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

@@ -40,3 +40,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06
 vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network:20065?encryption=none&security=tls&type=tcp&sni=875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network&flow=xtls-rprx-vision#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%3D45.155.102.207%3Fu%3Df37bdce86d&security=tls&encryption=none&insecure=0&host=nova-mango-spark-7b1c.nova-ef15e0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=nova-mango-spark-7b1c.nova-ef15e0.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://7e5b1e82-73db-429a-93b2-7839a0bf4dc0@45.88.12.110:2083?&security=tls&fp=chrome&alpn=http%2F1.1&sni=mol.ultimagamest.com&type=ws&headerType=none&path=%2Fvless-ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

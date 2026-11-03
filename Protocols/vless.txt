@@ -427,3 +427,4 @@ vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@198.41.219.221:443?&security=tls&fp
 vless://70756c73-0000-4000-8000-650000000000@47.251.95.178:443?security=tls&type=ws&path=%2Fpulse&host=parsa-panel-u48we.wotic15356.workers.dev&packetEncoding=xudp&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://7e5b1e82-73db-429a-93b2-7839a0bf4dc0@45.88.12.110:2083?&security=tls&fp=chrome&alpn=http%2F1.1&sni=mol.ultimagamest.com&type=ws&headerType=none&path=%2Fvless-ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://48572af1-d091-457b-a86e-4a457e99927f@3h-unitedstates3.09vpn.com:8443?encryption=none&security=tls&sni=3h-unitedstates3.09vpn.com&type=ws&path=%2Fvless%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

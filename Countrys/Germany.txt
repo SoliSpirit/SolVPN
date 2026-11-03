@@ -42,3 +42,4 @@ vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7e5b1e82-73db-429a-93b2-7839a0bf4dc0@45.88.12.110:2083?&security=tls&fp=chrome&alpn=http%2F1.1&sni=mol.ultimagamest.com&type=ws&headerType=none&path=%2Fvless-ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.6:443?security=reality&type=tcp&packetEncoding=xudp&sni=c9.qwyak.ru&fp=firefox&flow=xtls-rprx-vision&sid=3cf8d11aa0415d29&pbk=A0QL_j-ReX7AotEj1w8qX9rHRgN2WycTZ43gUvuvZ00&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

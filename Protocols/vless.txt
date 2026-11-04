@@ -441,3 +441,4 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?security
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.165.174:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@89.169.47.96:443?sni=renderer-bridge-2-129.mirra.now&type=grpc&serviceName=VideoRenderer&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://XpnTeam-2@140.248.186.45:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&encryption=none#🇵🇪 Join+Telegram:@SolVPN 🇵🇪

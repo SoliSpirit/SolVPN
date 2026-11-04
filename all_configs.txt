@@ -712,3 +712,7 @@ vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@wwww.qarvian.ir:443?&security=tls&f
 vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193?security=reality&encryption=none&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e8daed2d#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQ3Zwcy0xOTktMTY4LTEzNi0xOTMtYmFrODQ0Mw@49.51.39.148:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@wwww.qarvian.ir:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.111.38.72:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.29:19999#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.36:19999#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

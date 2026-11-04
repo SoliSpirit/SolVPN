@@ -86,3 +86,5 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@5.35.32.96:443?path=%2F&security=tl
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@198.211.121.165:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ==@dns24.m3hrzd.ir:8044#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@nl198391278291.izzzyvpn.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl198391278291.izzzyvpn.space&fp=firefox&pbk=ScuWSKQxJg4QKv3FUj39wy8ZsZlnu1WFPhMWxbpTFFk&sid=b996df2f36a9ae6b&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

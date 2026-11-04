@@ -705,3 +705,4 @@ trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?securit
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@89.169.47.96:443?sni=renderer-bridge-2-129.mirra.now&type=grpc&serviceName=VideoRenderer&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://XpnTeam-2@140.248.186.45:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&encryption=none#🇵🇪 Join+Telegram:@SolVPN 🇵🇪

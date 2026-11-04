@@ -1,3 +1,4 @@
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&fp=firefox&host=vlessru.duckdns.org&path=/wsru&security=tls&sni=vlessru.duckdns.org&type=ws#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://40c4274f-3e4f-4c7b-ae5c-d87645a6e899@217.19.122.156:443?encryption=none&security=tls&sni=vzvt1tpiml.rucdncomp.pro&insecure=0&allowInsecure=0&type=ws&host=vzvt1tpiml.rucdncomp.pro&path=%2Fservice%2Ftelemetry%2Fe6dc0bd08cb1%2F#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns27.m3hrzd.ir:1355#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

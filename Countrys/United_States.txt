@@ -169,3 +169,5 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?sec
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.211:443?security=tls&sni=api.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.67.217.240:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=fx3h2kf8xn.fx6hsv0.ccwu.cc&security=tls&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc&fp=unsafe#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@167.82.64.64:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://afed9510-8648-49c6-9fbd-c2d4d8bdd417@146.75.59.186:443?&security=tls&fp=chrome&sni=community.fastly.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

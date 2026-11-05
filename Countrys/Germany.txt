@@ -37,3 +37,4 @@ vless://a34a5f3e-e9fa-40a6-f3af-2984adbd701b@178.104.118.247:2087?security=none&
 vless://b15f187e-9b34-437c-8243-8651a8ada76c@188.114.97.62:443?path=%2Fstream%2FDEVCOP%2F8651a8ada76c%2Floc-1&security=tls&encryption=none&insecure=0&host=tepar-k4j9.jounet.workers.dev&type=ws&allowInsecure=0&sni=tepar-k4j9.jounet.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@89.169.47.96:443?sni=renderer-bridge-2-129.mirra.now&type=grpc&serviceName=VideoRenderer&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://b15f187e-9b34-437c-8243-8651a8ada76c@172.67.110.179:443?path=%2Fstream%2FDEVCOP%2F8651a8ada76c%2Floc-1&security=tls&encryption=none&insecure=0&host=tepar-k4j9.jounet.workers.dev&type=ws&allowInsecure=0&sni=tepar-k4j9.jounet.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

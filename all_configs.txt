@@ -620,3 +620,6 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp
 vless://e4d1298a-1f21-42e2-a53e-1b22c0645c48@free.vkehi.store:443?sni=zoom.com&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#🇱🇰 Join+Telegram:@SolVPN 🇱🇰
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&fp=chrome&security=tls&sni=kr002.zestapp778.com&type=tcp#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?allowInsecure=1&sni=ph001.zestapp778.com#🇵🇭 Join+Telegram:@SolVPN 🇵🇭
+vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?security=reality&encryption=none&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nordea.fi#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@45.141.202.69:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=files.porsche.com&sid=1a2b3c4d#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

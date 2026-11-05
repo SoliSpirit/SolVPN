@@ -148,3 +148,4 @@ trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?security=tls&sni=
 vless://413a66e9-b05b-4ae6-a9eb-6d28204a28f4@138.68.53.88:443?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://72881b3f-76f7-4cae-912d-e95e602a5ca4@wwww.qarvian.ir:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@103.152.113.60:443?&security=tls&fp=chrome&sni=mkvmh.alnm.a7e.hh.vavava.kdns.fr&type=ws&headerType=none&host=mkvmh.alnm.a7e.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjhiOTIzYS00OTE4LTQ2YWQtOTZlNy05Y2Y1NTQzZGRjNGM@107.172.219.230:2096#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

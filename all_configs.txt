@@ -585,3 +585,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://413a66e9-b05b-4ae6-a9eb-6d28204a28f4@138.68.53.88:443?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@193.36.38.17:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇲🇩 Join+Telegram:@SolVPN 🇲🇩
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
+vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@91.185.83.44:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=nguyxejonb.rucdncomp.pro&type=ws&headerType=none&host=nguyxejonb.rucdncomp.pro&path=%2Fservice%2Ftelemetry%2F0294da469190%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

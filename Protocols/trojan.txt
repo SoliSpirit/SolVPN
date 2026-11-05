@@ -12,7 +12,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?allowInsecure=0&sni=w
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?allowInsecure=1&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?allowInsecure=1&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nextjobopportunityandclaimyouridealrole.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -20,6 +19,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.unlockyourfuturefindyourperfectcareer.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.unlockyourfuturefindyourperfectcareer.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.unlockyourfuturefindyourperfectcareer.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -29,7 +29,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?allowInsecure=1&sni
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&headerType=none&type=tcp&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.unlockyourfuturefindyourperfectcareer.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -43,7 +42,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&sni=api.connectingpeoplewithgreatjobs.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.19:443?security=tls&sni=learn.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
@@ -52,19 +50,19 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=ww
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&fp=chrome&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=indyourperfectremotetechjobfromthecomfortofhome.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?type=tcp&security=tls&fp=chrome&sni=ca001.zestapp778.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?security=tls&sni=43.167.186.78#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.211:443?security=tls&sni=api.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?security=tls&sni=connect-se.mimowhat.online#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?security=tls&sni=sj6.freeguard.org#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

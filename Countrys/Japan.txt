@@ -16,3 +16,4 @@ vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&ty
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?security=tls&sni=43.167.186.78#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@207.148.115.152:443?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome&encryption=none#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@207.148.115.152:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chrome&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

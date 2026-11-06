@@ -45,3 +45,4 @@ vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&h
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&path=%2Ffp%3Drandomized&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.243.143:443?fp=firefox&security=tls&sni=sg003.zestapp778.com&type=tcp#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

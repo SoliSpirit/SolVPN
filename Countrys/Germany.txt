@@ -33,3 +33,4 @@ vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none
 vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.11.46.cdn-one.org:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=31.76.11.46.cdn-one.org&type=ws&headerType=none&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://7b102311-43fd-4e8f-877e-8090623c101d@94.159.101.36:443?allowInsecure=1&sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram🇨🇳 @VPNine1fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://Tg3RnK7Xp8B1@45.32.157.84:443?security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

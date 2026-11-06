@@ -618,3 +618,6 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@138.199.55.243:19999#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.121.43.231:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.88.63.99:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.88.62.203:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@95.142.32.42:8444?security=tls&type=ws&path=%2Fapi%2Fv1%2Fdevices%2F86f81c4330%2Ftelemetry&host=nl18.meshbeat.online&packetEncoding=xudp&alpn=http%2F1.1&sni=nl18.meshbeat.online&fp=firefox#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

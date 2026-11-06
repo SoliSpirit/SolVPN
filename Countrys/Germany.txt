@@ -41,3 +41,4 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@5.230.216.85:443?security=reality&type=tcp&packetEncoding=xudp&sni=files.porsche.com&fp=chrome&flow=xtls-rprx-vision&sid=1a2b3c4d&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.3:19999#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

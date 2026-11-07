@@ -55,3 +55,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=ww
 trojan://5t6i121em5lkmsmk@216.128.185.90:46977?security=tls&fp=firefox&sni=ca001.zestapp778.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://ce440dcf-e570-4a50-af37-bf588ee8a988@172.67.141.182:443?security=tls&type=ws&path=%2Fvl%2FKSPdmco70dfoXFS292o2Nv6yPt%3Fed%3D2560%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&host=6qwoom7kdrcoan3ui4ra5dy.pages.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=6qwoom7kdrcoan3ui4ra5dy.pages.dev&fp=unsafe&encryption=none#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@104.21.70.21:8080?encryption=none&security=none&sni=xstack.mahanfixe.workers.dev&type=ws&host=xstack.mahanfixe.workers.dev&path=%2Fxiron#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime28.workers.dev&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

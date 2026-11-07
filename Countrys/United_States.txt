@@ -178,3 +178,4 @@ vmess://eyJhZGQiOiJkb2ctdXMua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 vless://2739258b-a278-4bed-bc5d-f88830824dce@23.95.115.116:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=plwyjJZIVDt1OtwDAxfcLjDsR7dseVCe9Ia3HceIKEg&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://ca4cb252-3fcb-4937-9d08-c39683e46e42@136.0.197.99:49520?security=reality&type=tcp&packetEncoding=xudp&sni=www.ebay.com&fp=chrome&flow=xtls-rprx-vision&pbk=c4S7RKiXGJElV2F5_cPCUc_NDZzjpcPHTEs-OwO6A2c&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.134:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTEyOC1nY206NGU1MDEzMzhhNmMwM2Q3NjI2ZjJmYTBlMDllZDY2ZDY@66.23.203.19:19690#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

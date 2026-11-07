@@ -3,3 +3,4 @@ vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&sni=95.174.68.
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?allowInsecure=1&sni=hk.catxstar.com#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk.catxstar.com#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

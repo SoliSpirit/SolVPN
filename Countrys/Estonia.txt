@@ -1,2 +1,3 @@
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mirror-50.topp-con.xyz&fp=chrome&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&type=tcp&headerType=none#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?security=reality&type=tcp&packetEncoding=xudp&sni=ee2.japancase.site&fp=chrome&flow=xtls-rprx-vision&sid=41ae8e266bc3346f&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&encryption=none#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

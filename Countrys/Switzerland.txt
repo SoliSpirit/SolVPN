@@ -4,3 +4,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?#🇨🇭 Join+Telegr
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?security=reality&type=tcp&packetEncoding=xudp&sni=perevodchiki.su&fp=chrome&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

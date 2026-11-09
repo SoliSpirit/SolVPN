@@ -39,3 +39,6 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@109.120.138.15:2053?encryption=none
 vless://5ec50dc8-fba8-42ad-b427-e51193bc5c2a@146.75.57.238:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=looaloooibamoooijji.global.ssl.fastly.net.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.132:8080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=music.3apes.online&fp=qq&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=qeztrg7u.akscasx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=qeztrg7u.akscasx.workers.dev#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@5.45.111.195:443?&security=tls&fp=chrome&sni=shephe.dpdns.org&type=ws&headerType=none&host=shephe.dpdns.org&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -68,3 +68,4 @@ vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?sni=img.me
 vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?sni=edge.mediacorphub.org&type=grpc&serviceName=hub.v1.ObjectService&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://1653818d-532e-46be-b825-384107fb7c3a@images.mediacorphub.org:443?sni=images.mediacorphub.org&alpn=h2&type=grpc&serviceName=stats.v2.StreamService&fp=ios&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?sni=api.mediacorphub.org&type=grpc&serviceName=gw.v2.PushService&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl4.japancase.site&fp=ios&flow=xtls-rprx-vision&sid=9f05c35b73b47d53&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

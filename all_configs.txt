@@ -634,3 +634,8 @@ vless://218fd696-e3a2-4c33-b397-a5f13a82969e@216.227.161.95:7443?encryption=none
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
+vless://95f85937-7b95-45c4-8d69-95da6a978569@80.47.13.182:443?sni=dl.megadrishto.com&type=grpc&serviceName=stats.v2.StreamService&fp=firefox&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://1653818d-532e-46be-b825-384107fb7c3a@fetch.mediacorphub.org:443?sni=fetch.mediacorphub.org&alpn=h2&type=grpc&serviceName=api.v1.FeedService&fp=ios&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?sni=img.mediacorphub.org&alpn=h2&type=grpc&serviceName=home.v2.MetricsService&fp=edge&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?sni=edge.mediacorphub.org&type=grpc&serviceName=hub.v1.ObjectService&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://1653818d-532e-46be-b825-384107fb7c3a@images.mediacorphub.org:443?sni=images.mediacorphub.org&alpn=h2&type=grpc&serviceName=stats.v2.StreamService&fp=ios&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

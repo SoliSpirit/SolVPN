@@ -2,3 +2,4 @@ vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&
 vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:18443#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 ss://YWVzLTEyOC1nY206ODcyMmRlNTZiNmMwYjNmNmE0ZDAxY2Y5MWMwN2U2YWE=@38.60.223.125:13108#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@92.243.66.79:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-mow.probe.geomyip.com&fp=chrome&pbk=siD4oj2gdtLLEphV6fUXb8ueIc2WHVn7msOUhNGPf2o&sid=8d03c10b6a874a9c&type=tcp&headerType=none#🇷🇺 Join+Telegram:@SolVPN 🇷🇺

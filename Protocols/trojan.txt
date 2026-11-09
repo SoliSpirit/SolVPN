@@ -73,3 +73,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure
 trojan://6cddea99-9b18-4d42-8638-131bd9f5374f@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net&insecure=1#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.unlockyourfuturefindyourperfectcareer.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.unlockyourfuturefindyourperfectcareer.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

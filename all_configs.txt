@@ -606,3 +606,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insec
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@207.148.115.152:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080fp%3Dchrome&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://abd3678b-f654-404c-adc7-1355865197e1@vmess.a-amr79.workers.dev:8880?allowInsecure=0&type=ws&host=vless.a-amr79.workers.dev&path=/eyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F&security=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://YWVzLTEyOC1nY206MmYwYzdlMzctMjUzNC00OGRjLTk2MTUtZDg1YWU4MDBjNDFm@mm.good2026.com:12961#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://5ec50dc8-fba8-42ad-b427-e51193bc5c2a@146.75.57.238:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=looaloooibamoooijji.global.ssl.fastly.net.&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://affb10d4-3835-4b1f-b5a3-3481489911b6@172.93.186.31:443?&security=tls&fp=chrome&sni=cat.ilovezhenjiu.top&type=ws&headerType=none&host=cat.ilovezhenjiu.top&path=%2Fcgciws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

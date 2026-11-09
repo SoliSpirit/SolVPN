@@ -1,1 +1,2 @@
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@180.149.37.38:8443?&security=tls&fp=chrome&sni=josni.hoyes.cloudns.ch&type=ws&headerType=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi%2F#🇭🇺 Join+Telegram:@SolVPN 🇭🇺
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#🇭🇺 Join+Telegram:@SolVPN 🇭🇺

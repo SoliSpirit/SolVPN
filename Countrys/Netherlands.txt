@@ -67,3 +67,4 @@ vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?sni=api.mediacor
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl4.japancase.site&fp=ios&flow=xtls-rprx-vision&sid=9f05c35b73b47d53&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWE41Tmx6allKRVFHOG9mTUh3bHpF@77.221.155.75:12576#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?sni=indyourperfectremotetechjobfromthecomfortofhome.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aGxxQlVBSnY1ak9mUndOU1piYnBh@185.223.93.28:42564#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

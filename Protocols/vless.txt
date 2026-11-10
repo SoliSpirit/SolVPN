@@ -358,3 +358,4 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?&security=tls&fp=firefox&sni=82.152.132.74&type=ws&headerType=none&host=82.152.132.74&path=%2Fassets%2Fsync-8f3a71#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.30.76.197:44988?security=reality&encryption=none&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=bb82c8#🇻🇳 Join+Telegram:@SolVPN 🇻🇳
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

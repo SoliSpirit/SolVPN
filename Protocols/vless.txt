@@ -354,3 +354,4 @@ vless://9efd3f19-c7cb-4fa9-8d66-0598043597dc@23.227.38.99:443?&security=tls&fp=s
 vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd4.466688.xyz:443?sni=edge-4cb23bf6.pages.dev&type=ws&host=edge-4cb23bf6.pages.dev&path=/@https://t.me/QiangLieTuiJian?ed=2048fp=chromefp=chrome&security=tls#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?sni=edge-lt.lindenpixel.com&type=grpc&serviceName=grpc&fp=edge&security=tls#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&path=%2Ffp%3Drandomized&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🇮🇩 Join+Telegram:@SolVPN 🇮🇩

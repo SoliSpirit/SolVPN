@@ -715,3 +715,6 @@ vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIi
 vless://52030136-eee3-4675-baae-a50f17b2bb8b@212.69.86.159:8447?mode=gun&security=reality&encryption=none&pbk=Pe1-DgXHoB_IGysYKHHhjppQD88mHkzYkqISdSXQxT4&fp=chrome&type=grpc&serviceName=grpc&sni=github.com&sid=732ef4f5320b5e19#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc@146.70.90.196:17454#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@192.71.27.237:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@45.32.230.60:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@38.58.108.84:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@germany1.xorsand.eu:10105?security=reality&type=tcp&packetEncoding=xudp&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&sid=12e321badd07906e&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

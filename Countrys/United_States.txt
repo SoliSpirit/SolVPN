@@ -206,3 +206,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?allowInsecure=1&sni
 trojan://a75243d0f5c2e31bd6c8c118b4f6442f81ad@176.122.173.224:443?allowInsecure=1&sni=www.cloudflare.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@45.32.230.60:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@38.58.108.84:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

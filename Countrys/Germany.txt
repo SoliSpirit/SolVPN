@@ -45,3 +45,4 @@ vmess://eyJhZGQiOiIxNjIuMTkuMjA0LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@germ.onlineai.pro:14443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=germ.onlineai.pro&type=ws&headerType=none&host=germ.onlineai.pro&path=%2Fapi%2Fgenerate#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Wk1OVEdwUGwzOEFTbGJJMUVLT0JK@135.220.178.46:46303#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4b50270b-5caf-4c34-b3da-17b4525604a6@188.225.37.175:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=cryptoventura.online&type=ws&headerType=none&host=cryptoventura.online&path=%2Fapi%2Fde3%2Flive#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?sni=cadrin.wtf&type=grpc&serviceName=cache.sync.v1&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

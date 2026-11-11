@@ -1,1 +1,2 @@
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@94.72.140.210:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@131.123.43.103:443?security=reality&type=tcp&packetEncoding=xudp&sni=bg2.gacvpn.site&fp=firefox&flow=xtls-rprx-vision&sid=1f8bab7ad81089f2&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg#🇧🇬 Join+Telegram:@SolVPN 🇧🇬

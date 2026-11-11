@@ -67,3 +67,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?sni=indyourperfectr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aGxxQlVBSnY1ak9mUndOU1piYnBh@185.223.93.28:42564#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://90157e25-cee1-4217-921e-91f300bc1a24@89.105.218.153:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=golos.mail.ru&sid=428ef87fd47a3a32#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?pcs=8f40a40d49c7e830e78111a9846f43f322ba049cee043259c108f28a66c16b2a&security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

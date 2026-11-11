@@ -49,3 +49,4 @@ vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?sni=cadrin.wtf&ty
 vless://855c7aaa-e7d6-463e-971e-d36032744428@159.195.207.238:49313?encryption=none&security=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://c136a12c-4260-48a7-a1e6-fbda83a11045@centurylink.es:8443?security=tls&type=ws&path=%2F&host=free.sahanwickramasinghe.me&packetEncoding=xudp&sni=free.sahanwickramasinghe.me&fp=chrome#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?allowInsecure=0&sni=2.26.6.1&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@144.31.157.41:443?security=reality&type=tcp&packetEncoding=xudp&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&sid=8f3c6e2a1b5d4f09&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

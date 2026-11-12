@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.110:990#🇳🇪 Join+Telegram:@SolVPN 🇳🇪
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50889?security=reality&encryption=none&pbk=nRsOy4cUKjMIi5k8HtdfY9qnrm8fMe031yi56zMtzSg&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=api.adidas.com&sid=2eae70bfca3776cc#🇳🇪 Join+Telegram:@SolVPN 🇳🇪

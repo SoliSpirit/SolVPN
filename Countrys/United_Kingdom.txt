@@ -20,3 +20,4 @@ vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=ukoijji.global.ssl.fastly.net&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://408c814e-f70a-4d16-b3b3-8182bb70211d@34.39.80.57:50818?&security=tls&fp=chrome&sni=yingguo.rymaker.cn&type=ws&headerType=none&path=%2FGunService#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://8faf6e38-0531-4d63-91f0-2aba5b9ff864@1.sdwan.realm-sync.com:5457?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swcdn.apple.com&fp=chrome&pbk=8Ct9wBZLha-ePZMWbSau9ViKgbwlCgEsbGMjNnoVDzw&sid=9da3779ceafd&type=tcp&headerType=none#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

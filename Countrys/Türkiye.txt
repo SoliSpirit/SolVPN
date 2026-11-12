@@ -3,3 +3,4 @@ vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&e
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?allowInsecure=1&sni=hk.catxstar.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&type=tcp&headerType=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20027?allowInsecure=1&sni=hk.catxstar.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

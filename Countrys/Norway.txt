@@ -1,3 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@194.5.98.105:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@91.190.155.173:2083?allowInsecure=0&sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chrome&security=tls#🇳🇴 Join+Telegram:@SolVPN 🇳🇴

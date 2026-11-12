@@ -1,7 +1,6 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&host=vms.lifetime50.workers.dev&path=#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.177:80?type=ws&host=icy-darkness-8ff1.farzambia12mo.workers.dev&path=/eyJqdW5rIjoibHFUM0pwRHZXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19?ed=2560#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
@@ -265,3 +264,4 @@ vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality
 vless://f59fdac3-5842-449b-8c8d-d5ebcdbf1768@141.227.160.61:8443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?type=ws&security=tls&host=fast.145779.xyz&path=%2Fws-tesla&sni=fast.145779.xyz&fp=chrome&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://95f85937-7b95-45c4-8d69-95da6a978569@vps2.nemnogogo.com:443?sni=vps2.nemnogogo.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&fp=ios&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@91.250.248.151:443?&security=tls&fp=chrome&sni=josni.hoyes.cloudns.ch&type=ws&headerType=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi%2F#🇬🇷 Join+Telegram:@SolVPN 🇬🇷

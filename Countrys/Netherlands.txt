@@ -70,3 +70,4 @@ vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?sni=de.oncloudv
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@50.7.178.197:8443?sni=fr2.gacvpn.site&type=grpc&serviceName=connect-fr&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://510a4a35-54ac-41fa-a972-8d010995c8f7@206.166.251.70:52901?security=reality&encryption=none&pbk=Wllsn04C4xvPzega8LO2P4t-2wsV_YIdDCYO5w_NrSQ&headerType=none&fp=firefox&spx=%2FscOQJVHfs5D0jGg&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=8770eaf663#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TWZlbjJiU3BVWXlQM0dqWEhQX2txTEExOUw5cjFjag@153.56.229.84:8090#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk10.gacvpn.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl3-edge.gacvpn.site&fp=firefox&pbk=Caj4X3VjnHfdRQzWLmjFCiG_CGw0scYYni6UxVfBs38&sid=db6a4219fb&type=tcp&headerType=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

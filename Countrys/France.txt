@@ -20,3 +20,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06
 vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?security=reality&type=tcp&packetEncoding=none&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=a44ff7d2e80213c2&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:8443?security=reality&encryption=none&pbk=Q16CVq-OP6cc2ugbaT1PTYYW_AErYPDDJ2JJBK-tqn0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=a1.awsstatic.com&sid=a9d34f4dfe461f5d#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpieVg0LURWMEM0MlBMRlRXUWhNVEFRNjNtWjhxckRSQg@dns24.m3hrzd.ir:1352#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

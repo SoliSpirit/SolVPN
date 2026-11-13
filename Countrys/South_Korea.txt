@@ -13,3 +13,4 @@ vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50135?security=reality
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5455?security=reality&encryption=none&pbk=57RM7KBz_R-RMNj9BbOXK8yYz0e8Mjv7iA8FvKGbnXU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.adidas.com&sid=bb32911d6c#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@43.200.6.1:8443#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@3.39.252.190:8443#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

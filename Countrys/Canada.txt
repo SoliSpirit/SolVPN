@@ -52,3 +52,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&host=vms
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@yx.l110.us.ci:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://1de37726-744b-46e1-9101-c926b3402e82@104.17.72.206:80?type=ws&host=v2.v2configlab.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

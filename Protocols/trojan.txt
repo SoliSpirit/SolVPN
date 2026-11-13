@@ -17,7 +17,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?#🇺🇸 Join+Tel
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#🇨🇱 Join+Telegram:@SolVPN 🇨🇱
-trojan://123456@104.18.35.86:2096?allowInsecure=1&sni=321dfbc6.uir-9i6.pages.dev&type=ws&host=321dfbc6.uir-9i6.pages.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#🇦🇪 Join+Telegram:@SolVPN 🇦🇪
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk.catxstar.com#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

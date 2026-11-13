@@ -9,3 +9,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.52.69:443?&security=tls&sni=
 vless://5f07a2a1-82a5-494d-847b-b882e6903192@free.for.member.iiproxy.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=free.for.member.iiproxy.com#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮

@@ -48,3 +48,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.
 vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?allowInsecure=0&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiRVF4cEpmc1Y2SFUzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@135.125.191.9:8443?path=%2Fproxyip%3D45.155.102.207%3Fu%3Df37bdce86d&security=tls&encryption=none&insecure=0&host=nova-mango-spark-7b1c.nova-ef15e0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=nova-mango-spark-7b1c.nova-ef15e0.workers.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&host=vms.lifetime50.workers.dev&path=#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

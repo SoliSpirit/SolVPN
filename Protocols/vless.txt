@@ -304,3 +304,4 @@ vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&se
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?type=ws&host=vms.lifetime54.workers.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@5.253.30.226:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@217.142.254.144:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

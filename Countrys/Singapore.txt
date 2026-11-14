@@ -40,3 +40,4 @@ vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&s
 vless://aed8656b-6479-4c04-9437-c7e16aa52a06@104.21.46.80:80?type=ws&host=jolly-base-0bce.hamedpop2.workers.dev&path=/eyJqdW5rIjoidXlXRjN1SVB6MllockoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?type=ws&host=leecher56.matinheydri.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

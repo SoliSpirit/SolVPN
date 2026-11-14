@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206amZXb1NWQ1ZZWFJtTkJmQw==@64.177.66.60:8388#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@192.71.27.237:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇮🇱 Join+Telegram:@SolVPN 🇮🇱

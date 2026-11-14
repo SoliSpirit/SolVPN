@@ -4,5 +4,4 @@ vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?security=reality&
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?allowInsecure=1&sni=hk.catxstar.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&type=tcp&headerType=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20027?allowInsecure=1&sni=hk.catxstar.com#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TWZlbjJiU3BVWXlQM0dqWEhQX2txTEExOUw5cjFjag@153.56.229.84:545#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?security=reality&type=tcp&packetEncoding=xudp&sni=ty.galactichub.online&fp=chrome&flow=xtls-rprx-vision&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&encryption=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷

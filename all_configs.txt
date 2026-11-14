@@ -654,3 +654,4 @@ vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.120:443?security=tls&typ
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@192.71.27.237:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://c1208c5a-2350-0003-affd-fc41b4319286@decdn-28.nome-rkp.net:443?security=tls&type=ws&path=%2Fmedia%2Fws%2F&host=decdn-28.nome-rkp.net&packetEncoding=xudp&sni=decdn-28.nome-rkp.net&fp=chrome&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@20.215.66.17:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

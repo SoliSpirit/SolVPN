@@ -48,3 +48,4 @@ vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&ho
 vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.38.215:443?&security=tls&fp=random&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@121.127.33.130:443?security=tls&sni=likejennie.pages.dev&fp=chrome&type=ws&host=likejennie.pages.dev&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

@@ -12,3 +12,4 @@ vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@68.221.177.135:2083?security=realit
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@yx.l110.us.ci:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 ss://YWVzLTEyOC1nY206Y2FjOTZjMjY5MmQ4NWJjMmRjZWVjMzc4Y2VhNmM4M2Y=@108.181.71.165:10840#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=0dfc23fe80778c00&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&encryption=none#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

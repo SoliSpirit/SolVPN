@@ -501,3 +501,6 @@ vmess://eyJhZGQiOiIxNzIuMTExLjM2LjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIs
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime28.workers.dev&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.171.57.116:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@8.211.196.252:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJVUzAzMjAxMy5zc2dyZWVuLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTg5NjhhNmMtMmRlZi00YmZiLWIyMGEtOGNiYzRiYWVkOTc4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJob3N0IjoiVVMwMzIwMTMuc3NncmVlbi5vcmciLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

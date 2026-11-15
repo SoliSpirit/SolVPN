@@ -55,3 +55,4 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.166.243:443?path=%2F&securi
 trojan://Tg3RnK7Xp8B1@45.32.157.84:443?security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@150.251.143.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=4935e4t.de25.h1clayd.click&fp=chrome&flow=xtls-rprx-vision&sid=6976d670818644cc&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://8a1a991a-f206-447a-adaf-37a57c133418@ir2.cryptojakiro.com:443?&security=tls&fp=chrome&sni=ir2.cryptojakiro.com&type=ws&headerType=none&host=ir2.cryptojakiro.com&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

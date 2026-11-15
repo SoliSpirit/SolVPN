@@ -270,3 +270,4 @@ vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?&security=tls&fp=
 vless://8a1a991a-f206-447a-adaf-37a57c133418@ir2.cryptojakiro.com:443?&security=tls&fp=chrome&sni=ir2.cryptojakiro.com&type=ws&headerType=none&host=ir2.cryptojakiro.com&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?&security=tls&fp=qq&alpn=http%2F1.1%2Ch2&sni=hvtlr-ru-47sb.fade.mom&type=tcp&headerType=none&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://7b3150b4-7581-0001-8131-6f94fe3fd206@84.54.57.122:443?&security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud&type=tcp&headerType=none&path=%2F#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?security=reality&encryption=none&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3c4041d3#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

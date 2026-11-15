@@ -60,3 +60,4 @@ vmess://eyJhZGQiOiIxNzYuNjUuMTUxLjE3NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?&type=ws&headerType=none&host=soft-shadow-1e33.xicav73335.workers.dev&path=%2Fws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@9.163.235.73:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://8de76932-518a-4ac8-ac92-be6b1f17ddd8@nl.alpheratzz.org:8443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=api-v1-6ac7858f.vmagnum.win&type=tcp&headerType=none&host=nl.alpheratzz.org&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

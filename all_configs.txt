@@ -523,3 +523,4 @@ vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality
 trojan://Tg3RnK7Xp8B1@45.32.157.84:443?security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206QU1vazQwRmZhTStJa3dyZTE2cHNCcFZrNkpIeHNRWnc@209.248.57.105:8388#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@150.251.143.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=4935e4t.de25.h1clayd.click&fp=chrome&flow=xtls-rprx-vision&sid=6976d670818644cc&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

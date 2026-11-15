@@ -267,3 +267,6 @@ vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@150.251.143.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=4935e4t.de25.h1clayd.click&fp=chrome&flow=xtls-rprx-vision&sid=6976d670818644cc&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://399049fd-9cd6-4425-8114-6ea2f5040fe4@195.133.88.165:2096?&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=velvet-ridge.justext.space&type=tcp&headerType=none&path=%2F#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=ukoijji.global.ssl.fastly.net&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://8a1a991a-f206-447a-adaf-37a57c133418@ir2.cryptojakiro.com:443?&security=tls&fp=chrome&sni=ir2.cryptojakiro.com&type=ws&headerType=none&host=ir2.cryptojakiro.com&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?&security=tls&fp=qq&alpn=http%2F1.1%2Ch2&sni=hvtlr-ru-47sb.fade.mom&type=tcp&headerType=none&path=%2F#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://7b3150b4-7581-0001-8131-6f94fe3fd206@84.54.57.122:443?&security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud&type=tcp&headerType=none&path=%2F#🇨🇭 Join+Telegram:@SolVPN 🇨🇭

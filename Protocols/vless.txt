@@ -215,3 +215,5 @@ vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=real
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://cdb7fa1d-6e7a-467c-da9c-da363c7bf779@panel.apexkey.store:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=68&pbk=DEFJSLdILrvauMpwtpvFZddadpt3rNtv03Dui2EkmRk#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://c1208c5a-2350-0003-affd-fc41b4319286@decdn-28.nome-rkp.net:443?security=tls&type=ws&path=%2Fmedia%2Fws%2F&host=decdn-28.nome-rkp.net&packetEncoding=xudp&sni=decdn-28.nome-rkp.net&fp=chrome&encryption=none#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F&security=none&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

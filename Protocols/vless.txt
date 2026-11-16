@@ -230,3 +230,4 @@ vless://12d32e9b-d41f-4677-aa51-83e21d2837f2@freev2.cloudflare.182682.xyz:443?sn
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🇸🇦 Join+Telegram:@SolVPN 🇸🇦
 vless://97e0ea78-67ae-4984-8a14-a7d1a51e58de@199.232.78.160:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8e40cd7b-ce15-4887-8fe2-0af534a941a2@sajed.kdns.fr:443?&type=ws&headerType=none&host=sajed.kdns.fr&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

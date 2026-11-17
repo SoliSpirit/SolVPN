@@ -301,3 +301,4 @@ vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?security=reality&t
 vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?allowInsecure=0&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiRVF4cEpmc1Y2SFUzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#🇴🇲 Join+Telegram:@SolVPN 🇴🇲
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@z1q3pv4g78.rucdncomp.pro:443?encryption=none&security=tls&sni=z1q3pv4g78.rucdncomp.pro&fp=random&alpn=http%2F1.1&type=ws&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

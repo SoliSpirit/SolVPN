@@ -130,3 +130,5 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=cnmfa
 vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?security=reality&type=tcp&packetEncoding=xudp&sni=ty.galactichub.online&fp=chrome&flow=xtls-rprx-vision&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&encryption=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3619ae0e-bd3a-458c-bb0a-c0479019d9ec@178.130.46.226:443?sni=serv1.fishtohome.ru&flow=xtls-rprx-vision&fp=firefox&security=tls#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@185.253.7.22:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=clover.filnex.baby&type=ws&headerType=none&host=clover.filnex.baby&path=%2Fapi%2Fde6%2Fstream#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://d801d4d9-111a-46e8-91fc-e2fb39ef2d22@382218.xyz:443?&security=tls&fp=chrome&sni=382218.xyz&type=ws&headerType=none&host=382218.xyz&path=%2Fws#🇲🇾 Join+Telegram:@SolVPN 🇲🇾

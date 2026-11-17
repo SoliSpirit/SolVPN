@@ -55,3 +55,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vless://97e0ea78-67ae-4984-8a14-a7d1a51e58de@199.232.78.160:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8e40cd7b-ce15-4887-8fe2-0af534a941a2@sajed.kdns.fr:443?&type=ws&headerType=none&host=sajed.kdns.fr&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.22.17.129:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

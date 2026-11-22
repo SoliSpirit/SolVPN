@@ -43,3 +43,4 @@ vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?security=none&
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&encryption=none#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://e3a1c7f2-9b4d-4e8a-a6c5-1f2d3b4a5e6f@13.211.155.89:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=www.microsoft.com&type=ws&headerType=none&path=%2F7b9977b2af9da85fa86adc065c362efe#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&host=13.140.56.100&path=/vless#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

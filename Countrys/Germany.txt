@@ -1,5 +1,2 @@
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@5.83.129.236:443?encryption=none&security=tls&sni=host-de-upscale.cdn.cachefleet.com&fp=chrome&type=grpc&authority=&serviceName=a9w9wmko0k2od14hv8v&mode=gun#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@185.253.7.22:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=clover.filnex.baby&type=ws&headerType=none&host=clover.filnex.baby&path=%2Fapi%2Fde6%2Fstream#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@z1q3pv4g78.rucdncomp.pro:443?encryption=none&security=tls&sni=z1q3pv4g78.rucdncomp.pro&fp=random&alpn=http%2F1.1&type=ws&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@47.254.167.157:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RFcwd1cwRFdnUmFBcjF1UVQ3VCtndldrQW14TzlrWGl6TlRHOWZDRlZMbz0=@92.5.156.71:59924#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -1,3 +1,4 @@
 vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@104.26.13.31:8080?sni=ip.sb&type=ws&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0=@168.138.177.98:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&sni=bgsg1.hikigo.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@kozel.cc.cd:443?&security=tls&fp=chrome&sni=kozel.cc.cd&type=ws&headerType=none&host=kozel.cc.cd&path=%2F118.151.222.66%3D17317#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

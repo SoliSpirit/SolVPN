@@ -16,3 +16,5 @@ vless://51a6ab93-e805-4b8b-89d1-d3ab85a118ce@54.36.102.152:2083?type=ws&path=/vl
 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?sni=146.19.254.171&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?sni=xssite.webredirect.org&type=grpc&serviceName=grpc-ru&fp=random&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@kozel.cc.cd:443?&security=tls&fp=chrome&sni=kozel.cc.cd&type=ws&headerType=none&host=kozel.cc.cd&path=%2F118.151.222.66%3D17317#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?security=reality&encryption=none&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3c4041d3#🇰🇷 Join+Telegram:@SolVPN 🇰🇷

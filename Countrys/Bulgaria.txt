@@ -1,1 +1,1 @@
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?sni=bg2.oncloudvpn.com&alpn=h2&type=grpc&serviceName=grpc&fp=edge&security=tls#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
+vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site&type=tcp&headerType=none&path=%2F#🇧🇬 Join+Telegram:@SolVPN 🇧🇬

@@ -5,3 +5,4 @@ ss://YWVzLTI1Ni1nY206NW1LalhBR3JsaUlBbFl3V0RlRnprQ0VNSWdRZEZRTGU=@48.103.218.77:
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@a2dgus.supertoolify.com:443?allowInsecure=1&sni=a2dgus.supertoolify.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?&security=tls&fp=chrome&sni=shazam.wbciran.com&type=ws&headerType=none&host=shazam.wbciran.com&path=%2FusiHjIz#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://a52ac672-0f5f-4070-b8fd-6b5685fc8004@199.7.140.201:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&pbk=LRAkgKlj5BPtVAGEIZfO5LvDZ5Eg91X0CBKIYhBC1jE&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

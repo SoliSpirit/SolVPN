@@ -1,1 +1,1 @@
-vless://3619ae0e-bd3a-458c-bb0a-c0479019d9ec@178.130.46.226:443?sni=serv1.fishtohome.ru&flow=xtls-rprx-vision&fp=firefox&security=tls#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mirror-50.topp-con.xyz&fp=chrome&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&type=tcp&headerType=none#🇪🇪 Join+Telegram:@SolVPN 🇪🇪

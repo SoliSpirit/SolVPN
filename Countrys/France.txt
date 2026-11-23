@@ -1,1 +1,1 @@
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=%2Fvless&host=138.124.70.41&packetEncoding=xudp&sni=138.124.70.41&encryption=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://51a6ab93-e805-4b8b-89d1-d3ab85a118ce@54.36.102.152:2083?type=ws&path=/vless-kulo#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

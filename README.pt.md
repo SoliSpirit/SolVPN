@@ -1,10 +1,10 @@
-# 🌐 SolVPN - Free V2Ray Configs
+# 🌐 SolVPN — Configurações gratuitas de V2Ray
 
-🔥 Fast, stable and secure connections
+🔥 Conexões rápidas, estáveis e seguras
 
 ---
 
-## 📡 Subscription Links
+## 📡 Links de assinatura
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ Protocols
+## ⚙️ Protocolos
 
 - VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
 - VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
@@ -30,54 +30,57 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries Configs
+## 🌍 Configurações por país
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
 ---
 
-## ✨ Features
+## ✨ Recursos
 
-- ✔️ Free & premium-like configs
-- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
-- ✔️ High speed optimized servers
-- ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
-- ✔️ One-click subscription support
-
----
-
-## 🚀 How to Use
-
-1. Open your V2Ray client (V2Box recommended)
-2. Go to Subscriptions
-3. Paste any link
-4. Click Update / Refresh
-5. Connect and enjoy
+- ✔️ Configurações gratuitas com recursos semelhantes aos de serviços pagos
+- ✔️ Suporte a vários protocolos: VLESS, VMess, Shadowsocks e Trojan
+- ✔️ Servidores otimizados para conexões de alta velocidade
+- ✔️ Listas atualizadas regularmente
+- ✔️ Importação fácil no V2Box, v2rayNG e Shadowrocket
+- ✔️ Adição de assinaturas com um só toque
 
 ---
 
-## ❓ FAQ
+## 🚀 Como se conectar
 
-**Q: Is it free?**  
-A: Yes, completely free.
-
-**Q: Does it work on all apps?**  
-A: Yes, V2Box, V2RayNG, Shadowrocket supported.
-
-**Q: Why some links are slow?**  
-A: Servers vary by region and load.
+1. Abra um aplicativo compatível com V2Ray. Recomendamos o V2Box.
+2. Acesse a seção de assinaturas.
+3. Copie um dos links de assinatura acima e cole-o nessa seção.
+4. Toque em “Atualizar” para carregar a lista de servidores.
+5. Escolha um servidor e conecte-se.
 
 ---
 
-## ⚠️ Disclaimer
+## ❓ Perguntas frequentes
 
-- Publicly collected configs  
-- Performance may vary  
-- Use responsibly  
+**As configurações são gratuitas?**
+
+Sim, todas as configurações da lista são gratuitas.
+
+**Quais aplicativos aceitam essas assinaturas?**
+
+Você pode usá-las no V2Box, v2rayNG e Shadowrocket.
+
+**Por que alguns servidores são lentos?**
+
+A velocidade depende da localização do servidor e da carga que ele está atendendo.
 
 ---
 
-## 🌐 Languages
+## ⚠️ Avisos
+
+- As configurações foram coletadas de fontes públicas.
+- O desempenho pode variar de um servidor para outro.
+- Use esses serviços com responsabilidade.
+
+---
+
+## 🌐 Idiomas
 
 [English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | Português | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | [Українська](README.uk.md)

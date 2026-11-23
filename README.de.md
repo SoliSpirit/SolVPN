@@ -1,10 +1,10 @@
-# 🌐 SolVPN - Free V2Ray Configs
+# 🌐 SolVPN — Kostenlose V2Ray-Konfigurationen
 
-🔥 Fast, stable and secure connections
+🔥 Schnelle, stabile und sichere Verbindungen
 
 ---
 
-## 📡 Subscription Links
+## 📡 Abonnement-Links
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ Protocols
+## ⚙️ Protokolle
 
 - VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
 - VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
@@ -30,54 +30,57 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries Configs
+## 🌍 Konfigurationen nach Land
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
 ---
 
-## ✨ Features
+## ✨ Funktionen
 
-- ✔️ Free & premium-like configs
-- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
-- ✔️ High speed optimized servers
-- ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
-- ✔️ One-click subscription support
-
----
-
-## 🚀 How to Use
-
-1. Open your V2Ray client (V2Box recommended)
-2. Go to Subscriptions
-3. Paste any link
-4. Click Update / Refresh
-5. Connect and enjoy
+- ✔️ Kostenlose Konfigurationen mit Funktionen, die mit denen kostenpflichtiger Dienste vergleichbar sind
+- ✔️ Unterstützung für mehrere Protokolle: VLESS, VMess, Shadowsocks und Trojan
+- ✔️ Für hohe Übertragungsgeschwindigkeiten optimierte Server
+- ✔️ Regelmäßig aktualisierte Listen
+- ✔️ Einfacher Import in V2Box, v2rayNG und Shadowrocket
+- ✔️ Abonnements mit einem Klick hinzufügen
 
 ---
 
-## ❓ FAQ
+## 🚀 So stellst du eine Verbindung her
 
-**Q: Is it free?**  
-A: Yes, completely free.
-
-**Q: Does it work on all apps?**  
-A: Yes, V2Box, V2RayNG, Shadowrocket supported.
-
-**Q: Why some links are slow?**  
-A: Servers vary by region and load.
+1. Öffne einen V2Ray-kompatiblen Client. Wir empfehlen V2Box.
+2. Wechsle zum Bereich „Abonnements“.
+3. Kopiere einen der obigen Abonnement-Links und füge ihn dort ein.
+4. Wähle „Aktualisieren“, um die Serverliste zu laden.
+5. Wähle einen Server aus und stelle die Verbindung her.
 
 ---
 
-## ⚠️ Disclaimer
+## ❓ Häufige Fragen
 
-- Publicly collected configs  
-- Performance may vary  
-- Use responsibly  
+**Sind die Konfigurationen kostenlos?**
+
+Ja, alle Konfigurationen in dieser Liste sind kostenlos.
+
+**Welche Apps unterstützen diese Abonnements?**
+
+Du kannst sie mit V2Box, v2rayNG und Shadowrocket verwenden.
+
+**Warum sind manche Server langsam?**
+
+Die Geschwindigkeit hängt vom Standort des Servers und seiner Auslastung ab.
 
 ---
 
-## 🌐 Languages
+## ⚠️ Hinweise zur Nutzung
+
+- Die Konfigurationen stammen aus öffentlich zugänglichen Quellen.
+- Die Verbindungsqualität kann je nach Server variieren.
+- Nutze die Dienste verantwortungsvoll.
+
+---
+
+## 🌐 Sprachen
 
 [English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Français](README.fr.md) | Deutsch | [Italiano](README.it.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | [Українська](README.uk.md)

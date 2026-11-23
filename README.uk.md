@@ -1,10 +1,10 @@
-# 🌐 SolVPN - Free V2Ray Configs
+# 🌐 SolVPN — безкоштовні конфігурації V2Ray
 
-🔥 Fast, stable and secure connections
+🔥 Швидке, стабільне та безпечне з’єднання
 
 ---
 
-## 📡 Subscription Links
+## 📡 Посилання на підписки
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ Protocols
+## ⚙️ Протоколи
 
 - VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
 - VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
@@ -30,54 +30,57 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries Configs
+## 🌍 Конфігурації за країнами
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
 ---
 
-## ✨ Features
+## ✨ Можливості
 
-- ✔️ Free & premium-like configs
-- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
-- ✔️ High speed optimized servers
-- ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
-- ✔️ One-click subscription support
-
----
-
-## 🚀 How to Use
-
-1. Open your V2Ray client (V2Box recommended)
-2. Go to Subscriptions
-3. Paste any link
-4. Click Update / Refresh
-5. Connect and enjoy
+- ✔️ Безкоштовні конфігурації з можливостями, подібними до платних сервісів
+- ✔️ Підтримка кількох протоколів: VLESS, VMess, Shadowsocks і Trojan
+- ✔️ Сервери, оптимізовані для високошвидкісного з’єднання
+- ✔️ Регулярні оновлення списків серверів
+- ✔️ Простий імпорт у V2Box, v2rayNG і Shadowrocket
+- ✔️ Додавання підписки одним натисканням
 
 ---
 
-## ❓ FAQ
+## 🚀 Як підключитися
 
-**Q: Is it free?**  
-A: Yes, completely free.
-
-**Q: Does it work on all apps?**  
-A: Yes, V2Box, V2RayNG, Shadowrocket supported.
-
-**Q: Why some links are slow?**  
-A: Servers vary by region and load.
+1. Відкрийте застосунок, сумісний із V2Ray. Рекомендуємо V2Box.
+2. Перейдіть до розділу «Підписки».
+3. Скопіюйте одне з посилань на підписки вище та вставте його в поле адреси.
+4. Натисніть «Оновити», щоб завантажити список серверів.
+5. Виберіть сервер і підключіться.
 
 ---
 
-## ⚠️ Disclaimer
+## ❓ Поширені запитання
 
-- Publicly collected configs  
-- Performance may vary  
-- Use responsibly  
+**Ці конфігурації безкоштовні?**
+
+Так, усі конфігурації в списку безкоштовні.
+
+**Які застосунки підтримують ці підписки?**
+
+Ними можна користуватися у V2Box, v2rayNG і Shadowrocket.
+
+**Чому деякі сервери працюють повільно?**
+
+Швидкість залежить від розташування сервера та його навантаження.
 
 ---
 
-## 🌐 Languages
+## ⚠️ Примітки щодо використання
+
+- Конфігурації зібрано з відкритих джерел.
+- Якість з’єднання може відрізнятися залежно від сервера.
+- Користуйтеся цими сервісами відповідально.
+
+---
+
+## 🌐 Мови
 
 [English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | Українська

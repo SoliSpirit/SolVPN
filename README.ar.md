@@ -1,10 +1,10 @@
-# 🌐 SolVPN - Free V2Ray Configs
+# 🌐 SolVPN — إعدادات V2Ray مجانية
 
-🔥 Fast, stable and secure connections
+🔥 اتصالات سريعة ومستقرة وآمنة
 
 ---
 
-## 📡 Subscription Links
+## 📡 روابط الاشتراك
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ Protocols
+## ⚙️ البروتوكولات
 
 - VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
 - VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
@@ -30,54 +30,57 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries Configs
+## 🌍 الإعدادات حسب البلد
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
 ---
 
-## ✨ Features
+## ✨ المزايا
 
-- ✔️ Free & premium-like configs
-- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
-- ✔️ High speed optimized servers
-- ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
-- ✔️ One-click subscription support
-
----
-
-## 🚀 How to Use
-
-1. Open your V2Ray client (V2Box recommended)
-2. Go to Subscriptions
-3. Paste any link
-4. Click Update / Refresh
-5. Connect and enjoy
+- ✔️ إعدادات مجانية بمزايا مماثلة للخدمات المدفوعة
+- ✔️ دعم عدة بروتوكولات: VLESS وVMess وShadowsocks وTrojan
+- ✔️ خوادم مهيّأة للاتصال بسرعات عالية
+- ✔️ تحديثات منتظمة للقوائم
+- ✔️ سهولة استيراد الإعدادات في V2Box وv2rayNG وShadowrocket
+- ✔️ إمكانية إضافة الاشتراك بنقرة واحدة
 
 ---
 
-## ❓ FAQ
+## 🚀 طريقة الاستخدام
 
-**Q: Is it free?**  
-A: Yes, completely free.
-
-**Q: Does it work on all apps?**  
-A: Yes, V2Box, V2RayNG, Shadowrocket supported.
-
-**Q: Why some links are slow?**  
-A: Servers vary by region and load.
+1. افتح تطبيقًا متوافقًا مع V2Ray. نوصي باستخدام V2Box.
+2. انتقل إلى قسم «الاشتراكات».
+3. انسخ أحد روابط الاشتراك أعلاه والصقه في هذا القسم.
+4. اضغط على «تحديث» لتحميل قائمة الخوادم.
+5. اختر خادمًا واتصل به.
 
 ---
 
-## ⚠️ Disclaimer
+## ❓ الأسئلة الشائعة
 
-- Publicly collected configs  
-- Performance may vary  
-- Use responsibly  
+**هل استخدام هذه الإعدادات مجاني؟**
+
+نعم، جميع الإعدادات المتاحة هنا مجانية.
+
+**ما التطبيقات المتوافقة مع هذه الاشتراكات؟**
+
+يمكنك استخدامها مع V2Box وv2rayNG وShadowrocket.
+
+**لماذا يكون الاتصال بطيئًا مع بعض الخوادم؟**
+
+تختلف السرعة باختلاف موقع الخادم والضغط عليه.
 
 ---
 
-## 🌐 Languages
+## ⚠️ ملاحظات حول الاستخدام
+
+- جُمعت هذه الإعدادات من مصادر عامة.
+- قد يختلف الأداء من خادم إلى آخر.
+- استخدم هذه الخدمات بمسؤولية.
+
+---
+
+## 🌐 اللغات
 
 [English](README.md) | [فارسی](README.fa.md) | العربية | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | [Українська](README.uk.md)

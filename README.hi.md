@@ -1,10 +1,10 @@
-# 🌐 SolVPN - Free V2Ray Configs
+# 🌐 SolVPN — मुफ़्त V2Ray कॉन्फ़िगरेशन
 
-🔥 Fast, stable and secure connections
+🔥 तेज़, स्थिर और सुरक्षित कनेक्शन
 
 ---
 
-## 📡 Subscription Links
+## 📡 सब्सक्रिप्शन लिंक
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ Protocols
+## ⚙️ समर्थित प्रोटोकॉल
 
 - VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
 - VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
@@ -30,54 +30,57 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries Configs
+## 🌍 देश के अनुसार कॉन्फ़िगरेशन
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
 ---
 
-## ✨ Features
+## ✨ ख़ासियतें
 
-- ✔️ Free & premium-like configs
-- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
-- ✔️ High speed optimized servers
-- ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
-- ✔️ One-click subscription support
-
----
-
-## 🚀 How to Use
-
-1. Open your V2Ray client (V2Box recommended)
-2. Go to Subscriptions
-3. Paste any link
-4. Click Update / Refresh
-5. Connect and enjoy
+- ✔️ मुफ़्त कॉन्फ़िगरेशन जिनमें सशुल्क सेवाओं जैसी सुविधाएँ मिलती हैं
+- ✔️ VLESS, VMess, Shadowsocks और Trojan सहित कई प्रोटोकॉल का समर्थन
+- ✔️ तेज़ कनेक्शन के लिए अनुकूलित सर्वर
+- ✔️ सर्वर सूचियों के नियमित अपडेट
+- ✔️ V2Box, v2rayNG और Shadowrocket में आसानी से इम्पोर्ट करने की सुविधा
+- ✔️ एक टैप में सब्सक्रिप्शन जोड़ने की सुविधा
 
 ---
 
-## ❓ FAQ
+## 🚀 कैसे इस्तेमाल करें
 
-**Q: Is it free?**  
-A: Yes, completely free.
-
-**Q: Does it work on all apps?**  
-A: Yes, V2Box, V2RayNG, Shadowrocket supported.
-
-**Q: Why some links are slow?**  
-A: Servers vary by region and load.
+1. V2Ray के साथ काम करने वाला ऐप खोलें। हमारी सलाह है कि आप V2Box इस्तेमाल करें।
+2. सब्सक्रिप्शन वाले सेक्शन में जाएँ।
+3. ऊपर दिए गए सब्सक्रिप्शन लिंक में से कोई एक कॉपी करें और वहाँ पेस्ट करें।
+4. सर्वर सूची लोड करने के लिए अपडेट या रीफ़्रेश पर टैप करें।
+5. कोई सर्वर चुनें और कनेक्ट करें।
 
 ---
 
-## ⚠️ Disclaimer
+## ❓ अक्सर पूछे जाने वाले सवाल
 
-- Publicly collected configs  
-- Performance may vary  
-- Use responsibly  
+**क्या इन कॉन्फ़िगरेशन का इस्तेमाल मुफ़्त है?**
+
+हाँ, सूची के सभी कॉन्फ़िगरेशन मुफ़्त हैं।
+
+**ये सब्सक्रिप्शन किन ऐप्स में काम करते हैं?**
+
+आप इन्हें V2Box, v2rayNG या Shadowrocket के साथ इस्तेमाल कर सकते हैं।
+
+**कुछ सर्वर धीमे क्यों होते हैं?**
+
+गति सर्वर के स्थान और उस पर पड़ रहे लोड पर निर्भर करती है।
 
 ---
 
-## 🌐 Languages
+## ⚠️ इस्तेमाल से जुड़ी बातें
+
+- ये कॉन्फ़िगरेशन सार्वजनिक स्रोतों से इकट्ठा किए गए हैं।
+- कनेक्शन की गुणवत्ता हर सर्वर पर अलग हो सकती है।
+- इन सेवाओं का इस्तेमाल ज़िम्मेदारी से करें।
+
+---
+
+## 🌐 भाषाएँ
 
 [English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | हिन्दी | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | [Українська](README.uk.md)

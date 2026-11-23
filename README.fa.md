@@ -1,10 +1,10 @@
-# 🌐 SolVPN - کانفیگ‌های رایگان V2Ray
+# 🌐 SolVPN — کانفیگ‌های رایگان V2Ray
 
 🔥 اتصال سریع، پایدار و امن
 
 ---
 
-## 📡 Subscription Links
+## 📡 لینک‌های اشتراک
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ Protocols
+## ⚙️ پروتکل‌ها
 
 - VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
 - VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
@@ -30,54 +30,57 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries Configs
+## 🌍 کانفیگ‌ها به تفکیک کشور
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
 ---
 
-## ✨ Features
+## ✨ ویژگی‌ها
 
-- ✔️ Free & premium-like configs
-- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
-- ✔️ High speed optimized servers
-- ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
-- ✔️ One-click subscription support
-
----
-
-## 🚀 How to Use
-
-1. Open your V2Ray client (V2Box recommended)
-2. Go to Subscriptions
-3. Paste any link
-4. Click Update / Refresh
-5. Connect and enjoy
+- ✔️ کانفیگ‌های رایگان با امکاناتی مشابه سرویس‌های پولی
+- ✔️ پشتیبانی از چند پروتکل: VLESS، VMess، Shadowsocks و Trojan
+- ✔️ سرورهای بهینه‌شده برای اتصال پرسرعت
+- ✔️ به‌روزرسانی منظم فهرست‌ها
+- ✔️ وارد کردن آسان کانفیگ‌ها در V2Box، v2rayNG و Shadowrocket
+- ✔️ افزودن اشتراک با یک کلیک
 
 ---
 
-## ❓ FAQ
+## 🚀 راهنمای اتصال
 
-**Q: Is it free?**  
-A: Yes, completely free.
-
-**Q: Does it work on all apps?**  
-A: Yes, V2Box, V2RayNG, Shadowrocket supported.
-
-**Q: Why some links are slow?**  
-A: Servers vary by region and load.
+1. برنامهٔ سازگار با V2Ray را باز کنید. پیشنهاد ما V2Box است.
+2. به بخش «اشتراک‌ها» بروید.
+3. یکی از لینک‌های اشتراک بالا را کپی کنید و در این بخش بچسبانید.
+4. روی «به‌روزرسانی» بزنید تا فهرست سرورها دریافت شود.
+5. یک سرور انتخاب کنید و وصل شوید.
 
 ---
 
-## ⚠️ Disclaimer
+## ❓ پرسش‌های متداول
 
-- Publicly collected configs  
-- Performance may vary  
-- Use responsibly  
+**آیا استفاده از این کانفیگ‌ها رایگان است؟**
+
+بله، همهٔ کانفیگ‌های این فهرست رایگان‌اند.
+
+**چه برنامه‌هایی از این اشتراک‌ها پشتیبانی می‌کنند؟**
+
+می‌توانید از V2Box، v2rayNG یا Shadowrocket استفاده کنید.
+
+**چرا سرعت بعضی از سرورها پایین است؟**
+
+سرعت اتصال به موقعیت سرور و میزان ترافیک آن بستگی دارد.
 
 ---
 
-## 🌐 Languages
+## ⚠️ نکات استفاده
+
+- این کانفیگ‌ها از منابع عمومی گردآوری شده‌اند.
+- کیفیت اتصال ممکن است از سروری به سرور دیگر متفاوت باشد.
+- از این سرویس‌ها مسئولانه استفاده کنید.
+
+---
+
+## 🌐 زبان‌ها
 
 [English](README.md) | فارسی | [العربية](README.ar.md) | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | [Українська](README.uk.md)

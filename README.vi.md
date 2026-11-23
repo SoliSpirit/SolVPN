@@ -1,10 +1,10 @@
-# 🌐 SolVPN - Free V2Ray Configs
+# 🌐 SolVPN — Cấu hình V2Ray miễn phí
 
-🔥 Fast, stable and secure connections
+🔥 Kết nối nhanh, ổn định và an toàn
 
 ---
 
-## 📡 Subscription Links
+## 📡 Liên kết đăng ký
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ Protocols
+## ⚙️ Giao thức
 
 - VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
 - VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
@@ -30,54 +30,57 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries Configs
+## 🌍 Cấu hình theo quốc gia
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
 ---
 
-## ✨ Features
+## ✨ Tính năng
 
-- ✔️ Free & premium-like configs
-- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
-- ✔️ High speed optimized servers
-- ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
-- ✔️ One-click subscription support
-
----
-
-## 🚀 How to Use
-
-1. Open your V2Ray client (V2Box recommended)
-2. Go to Subscriptions
-3. Paste any link
-4. Click Update / Refresh
-5. Connect and enjoy
+- ✔️ Cấu hình miễn phí với các tính năng tương tự dịch vụ trả phí
+- ✔️ Hỗ trợ nhiều giao thức: VLESS, VMess, Shadowsocks và Trojan
+- ✔️ Máy chủ được tối ưu cho kết nối tốc độ cao
+- ✔️ Danh sách máy chủ được cập nhật thường xuyên
+- ✔️ Dễ dàng nhập cấu hình vào V2Box, v2rayNG và Shadowrocket
+- ✔️ Thêm đăng ký chỉ bằng một lần chạm
 
 ---
 
-## ❓ FAQ
+## 🚀 Cách kết nối
 
-**Q: Is it free?**  
-A: Yes, completely free.
-
-**Q: Does it work on all apps?**  
-A: Yes, V2Box, V2RayNG, Shadowrocket supported.
-
-**Q: Why some links are slow?**  
-A: Servers vary by region and load.
+1. Mở ứng dụng tương thích với V2Ray. Chúng tôi khuyên dùng V2Box.
+2. Mở mục đăng ký (Subscriptions).
+3. Sao chép một trong các liên kết đăng ký ở trên và dán vào ô địa chỉ.
+4. Nhấn Cập nhật hoặc Làm mới để tải danh sách máy chủ.
+5. Chọn một máy chủ rồi nhấn Kết nối.
 
 ---
 
-## ⚠️ Disclaimer
+## ❓ Câu hỏi thường gặp
 
-- Publicly collected configs  
-- Performance may vary  
-- Use responsibly  
+**Các cấu hình này có miễn phí không?**
+
+Có, tất cả cấu hình trong danh sách đều miễn phí.
+
+**Ứng dụng nào hỗ trợ các liên kết đăng ký này?**
+
+Bạn có thể dùng V2Box, v2rayNG hoặc Shadowrocket.
+
+**Vì sao kết nối đến một số máy chủ lại chậm?**
+
+Tốc độ phụ thuộc vào vị trí và mức tải của máy chủ.
 
 ---
 
-## 🌐 Languages
+## ⚠️ Lưu ý khi sử dụng
+
+- Các cấu hình được thu thập từ những nguồn công khai.
+- Chất lượng kết nối có thể khác nhau giữa các máy chủ.
+- Hãy sử dụng dịch vụ một cách có trách nhiệm.
+
+---
+
+## 🌐 Ngôn ngữ
 
 [English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | Tiếng Việt | [Polski](README.pl.md) | [Українська](README.uk.md)

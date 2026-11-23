@@ -5,3 +5,5 @@ vless://d8b42cd5-b149-4356-9e61-444444444444@87.82.59.60:837?&type=tcp&headerTyp
 vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@185.125.50.21:2053?sni=185.125.50.21&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.77.142.19:443?&security=tls&fp=firefox&sni=calendarbaseline.lucheeebezlimitnoekino.stream&type=ws&headerType=none&path=%2Fmedia%2Fws%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?&security=tls&fp=edge&alpn=http%2F1.1&sni=claywick.elvano.website&type=ws&headerType=none&host=cabinet.filnex.baby&path=%2Fapi%2Fde7%2Fstream#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

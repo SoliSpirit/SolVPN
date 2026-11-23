@@ -10,3 +10,4 @@ vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?&security=t
 vless://d8b42cd5-b149-4356-9e61-444444444444@87.82.59.60:837?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://9000a7f3-df2a-49a8-ae56-3e7777bd32f7@109.248.17.252:443?sni=v4.clequinix.globalinetforallalwaysandneverbanyoubelieveme.com&type=grpc&serviceName=v4-clequinix-globalinetforallalwaysandneverbanyoubelieveme-com&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@inlay.merlano.monster:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@172.67.197.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=o685y.save-node.com&type=ws&headerType=none&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

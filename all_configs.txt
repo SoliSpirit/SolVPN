@@ -64,3 +64,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?sni=cdn.indyourperf
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@xvxn1hkzf.mateflora.com:443?allowInsecure=1&sni=xvxn1hkzf.mateflora.com#🇻🇳 Join+Telegram:@SolVPN 🇻🇳
 vless://9000a7f3-df2a-49a8-ae56-3e7777bd32f7@109.248.17.252:443?sni=v4.clequinix.globalinetforallalwaysandneverbanyoubelieveme.com&type=grpc&serviceName=v4-clequinix-globalinetforallalwaysandneverbanyoubelieveme-com&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@nb1hk.hikigo.com:443?allowInsecure=1&sni=nb1hk.hikigo.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@inlay.merlano.monster:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://8b1b59c8-8802-0002-a636-ffe786275594@91.219.23.76:443?&security=tls&fp=firefox&sni=cataloguebroker.comparecarprices.org&type=ws&headerType=none&path=%2Fmedia%2Fws%2F#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?&security=tls&fp=firefox&sni=neplay603.gangtype.com&type=ws&headerType=none&host=neplay603.gangtype.com&path=%2Fstream%2Fupdates%2Fa66d7902#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

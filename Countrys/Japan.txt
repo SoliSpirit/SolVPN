@@ -1,1 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=firefox&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

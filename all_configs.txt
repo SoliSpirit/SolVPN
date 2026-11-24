@@ -130,3 +130,4 @@ vless://a8e5585a-6020-4649-a364-c1ebf3a40548@193.111.248.54:443?&security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@3.38.213.49:8443#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.212.45.108:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MUtSV1lvTk9CVTFPWFYrZExDaGlSYWdlU1A5dUlSWTJ3c0pQaWVSQzdrWT0@129.146.200.42:50356#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

@@ -4,3 +4,4 @@ trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@kozel.cc.cd:443?&security=tls&fp=chrome&sni=kozel.cc.cd&type=ws&headerType=none&host=kozel.cc.cd&path=%2F118.151.222.66%3D17317#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://bcdb425f-80bc-4ec8-92a5-8edf53639c01@207.148.124.12:8443?sni=www.bing.com&fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?sni=freeceshi6.frii.site&type=ws&host=freeceshi6.frii.site&path=/proxyip=ProxyIP.JP.CMLiussss.netfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
+vless://4fddfe0e-fddc-4032-b4c8-09c6d811fed0@152.53.1.170:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=node-au.neverlock.uk&type=tcp&headerType=none&path=%2F#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

@@ -20,3 +20,4 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?secur
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@yx.l110.us.ci:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@94.183.167.172:443?sni=s8k4.scan-cdn.com&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://90711def-edd4-42da-ba1d-b2046b86b50a@free-server.techsonic.dev:443?sni=tech-sonic.webex.com&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?sni=185.200.199.122&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

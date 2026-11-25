@@ -40,3 +40,4 @@ trojan://d7563108-615c-4338-a7bd-77f359869a4a@ddrr1.tube-cat.com:28478?allowInse
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@ddrr2.tube-cat.com:59188?allowInsecure=1&sni=r.tw3.cat.bilibili.com#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@94.183.167.172:443?sni=s8k4.scan-cdn.com&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://90711def-edd4-42da-ba1d-b2046b86b50a@free-server.techsonic.dev:443?sni=tech-sonic.webex.com&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?sni=185.200.199.122&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

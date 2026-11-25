@@ -34,3 +34,5 @@ vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8444?&security=tls&fp
 vless://366449c5-ac1e-4314-8142-27a6b1c8c0fb@172.66.213.98:443?&security=tls&fp=chrome&sni=us5-cdn.xyn.lgbt&type=ws&headerType=none&host=us5-cdn.xyn.lgbt&path=%2Fyn-lax-fb366a66e8526ebc4a311464#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8463?&security=tls&fp=firefox&sni=share.plumstatic.com&type=ws&headerType=none&path=%2Fws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://366449c5-ac1e-4314-8142-27a6b1c8c0fb@172.64.146.181:443?&security=tls&fp=chrome&sni=sg2-cdn.rip.lgbt&type=ws&headerType=none&host=sg2-cdn.rip.lgbt&path=%2Fyn-3ba202c6491c#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

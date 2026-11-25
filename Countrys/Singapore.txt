@@ -1,9 +1,6 @@
-vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@104.26.13.31:8080?sni=ip.sb&type=ws&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0=@168.138.177.98:56927#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&sni=bgsg1.hikigo.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@kozel.cc.cd:443?&security=tls&fp=chrome&sni=kozel.cc.cd&type=ws&headerType=none&host=kozel.cc.cd&path=%2F118.151.222.66%3D17317#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://bcdb425f-80bc-4ec8-92a5-8edf53639c01@207.148.124.12:8443?sni=www.bing.com&fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?sni=freeceshi6.frii.site&type=ws&host=freeceshi6.frii.site&path=/proxyip=ProxyIP.JP.CMLiussss.netfp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.212.45.108:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@104.26.13.31:8080?sni=ip.sb&type=ws&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.18.35.86:2083?sni=vlsovip.1d.mom&type=ws&host=vlsovip.1d.mom&path=/fp=unsafefp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@kozel.cc.cd:443?sni=kozel.cc.cd&type=ws&host=kozel.cc.cd&path=/118.151.222.66=17317fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

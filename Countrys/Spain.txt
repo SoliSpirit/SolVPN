@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.71.167:19999#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.139.242:19999#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
+vless://989d58b8-d2ea-4d28-b5ff-0f3cd078f2cf@www.gov.se:8080?sni=www.gov.se&type=ws&host=sdf23g-billowing-moon-348e.mzm468gc.workers.dev&path=/#🇪🇸 Join+Telegram:@SolVPN 🇪🇸

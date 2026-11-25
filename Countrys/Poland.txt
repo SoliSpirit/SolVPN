@@ -1,1 +1,1 @@
-vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@d58daft.plp1.h1cloud.net:443?security=reality&type=tcp&packetEncoding=xudp&sni=d58daft.plp1.h1cloud.net&fp=chrome&sid=a91531ad58c8611c&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@94.183.167.172:443?sni=s8k4.scan-cdn.com&fp=chrome&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱

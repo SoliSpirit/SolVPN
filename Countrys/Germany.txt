@@ -4,3 +4,4 @@ vless://ebdfaf99-41d8-4e48-8196-d54510ffb556@45.129.242.56:443?encryption=none&f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@195.110.15.216:31652?&type=tcp&headerType=none&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@35.178.82.244:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://90711def-edd4-42da-ba1d-b2046b86b50a@free-server.techsonic.dev:443?sni=tech-sonic.webex.com&fp=chrome&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

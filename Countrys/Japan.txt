@@ -1,3 +1,4 @@
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?security=tls&sni=nu3rb.supertoolify.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8463?&security=tls&fp=firefox&sni=share.plumstatic.com&type=ws&headerType=none&path=%2Fws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

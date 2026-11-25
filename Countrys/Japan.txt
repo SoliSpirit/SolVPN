@@ -2,3 +2,4 @@ vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reali
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?security=tls&sni=nu3rb.supertoolify.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8463?&security=tls&fp=firefox&sni=share.plumstatic.com&type=ws&headerType=none&path=%2Fws#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vmess://eyJhZGQiOiJkb2ctanAua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDE3IiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

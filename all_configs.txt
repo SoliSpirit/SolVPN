@@ -86,3 +86,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443?#🇳🇱 Join+Tele
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@108.181.121.170:443#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://3af3f8f0-569f-4dd3-be99-2ef4bfe7867c@185.134.203.106:443?security=reality&type=tcp&packetEncoding=xudp&sni=api.vk.me&fp=chrome&flow=xtls-rprx-vision&sid=db04ce8bdb8900f1&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&encryption=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.212.197.116:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://1fd2e2d1-96f5-2056-19fd-b375b1a9d851@xray-b8ct4r2f-sahdon-hosaindoost.cloady.io:443?&security=tls&fp=chrome&sni=xray-b8ct4r2f-sahdon-hosaindoost.cloady.io&type=ws&headerType=none&host=xray-b8ct4r2f-sahdon-hosaindoost.cloady.io&path=%2Fffad70ffdfc3bcda#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.#🇦🇹 Join+Telegram:@SolVPN 🇦🇹

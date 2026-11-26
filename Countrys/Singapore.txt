@@ -11,3 +11,5 @@ vless://076799f8-d922-4bf1-805d-e758e6eb925f@free.server.darknetlk.com:443?sni=a
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.212.197.116:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@47.129.155.154:8443#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime59.workers.dev&packetEncoding=xudp&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?security=reality&type=tcp&packetEncoding=xudp&sni=video.yandex.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

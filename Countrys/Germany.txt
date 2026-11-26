@@ -8,3 +8,5 @@ vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@woodgrain.filnex.baby:443?&security
 vless://adcaa148-7c66-4282-a81a-99ec8afa029d@82.118.19.153:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=670ed9f350bd8ee0&pbk=Tiuy8om5Lk0pWL95-8LaFFTwH0vbURVMoOkaW9xGaiE#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b432a23a-acff-425c-bf69-70480cd6ed09@188.225.33.67:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=e2.cdnwh.icu&type=ws&headerType=none&host=e2.cdnwh.icu&path=%2Fstream%2Fsegment%2F3078a41dd7eb%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?sni=courses.iloverussia2026.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -111,3 +111,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://2377a148-5e9b-431f-93f4-a1bbaa3dabe9@h3.1free.us.ci:443?&security=tls&fp=chrome&sni=h3.1free.us.ci&type=ws&headerType=none&host=h3.1free.us.ci&path=%2F57252d2116d6439f#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision&fp=safari&security=tls#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&sni=blog.unlockyourfuturefindyourperfectcareer.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?sni=courses.iloverussia2026.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

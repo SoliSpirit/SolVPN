@@ -39,3 +39,4 @@ vless://c6b0a7f0-4a4e-47aa-975a-35988278ab85@ipfast.kingmna.com:443?&security=tl
 vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?sni=138.124.70.41&type=ws&host=138.124.70.41&path=/vless#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@147.93.171.8:8443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=147-93-171-8.sslip.io&type=ws&headerType=none&host=147-93-171-8.sslip.io&path=%2Fvpn-live#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
 vless://eee8ae65-bc48-438f-a606-a96f10bfb3b8@188.114.98.0:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=x.m-90.xyz&type=ws&headerType=none&host=x.m-90.xyz&path=t.me%2FTEAMNETGRATISCOL#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&host=95.174.68.188&path=/vless#🇦🇪 Join+Telegram:@SolVPN 🇦🇪

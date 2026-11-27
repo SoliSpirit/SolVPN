@@ -106,3 +106,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?#🇨🇦 Join+Tel
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjciLCJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsInBvcnQiOjgwMCwiaWQiOiJhOTE1YjFkNi1jZjI4LTRkYzgtZTRiNC1lMDljNDhjMzdlYzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://0ca80064-0265-44ec-aaec-a8f7d799f293@wryly-messiest.video-streams.org:443?&security=tls&fp=chrome&sni=wryly-messiest.video-streams.org&type=ws&headerType=none&host=wryly-messiest.video-streams.org&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

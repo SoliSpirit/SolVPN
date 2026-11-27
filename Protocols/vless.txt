@@ -23,3 +23,4 @@ vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@156.229.167.109:8443?security=reali
 vless://989d58b8-d2ea-4d28-b5ff-0f3cd078f2cf@www.gov.se:8080?sni=www.gov.se&type=ws&host=sdf23g-billowing-moon-348e.mzm468gc.workers.dev&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:2052?type=ws&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=/Telegram-XV2ry2?ed=2048#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

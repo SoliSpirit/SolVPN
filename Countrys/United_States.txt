@@ -20,3 +20,4 @@ vmess://eyJhZGQiOiIzOC4xMjguNjYuMjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwi
 vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@156.229.167.109:8443?security=reality&type=tcp&packetEncoding=xudp&sni=github.githubassets.com&fp=chrome&sid=4ad2e4e660550e43&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?allowInsecure=1&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?allowInsecure=1&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?allowInsecure=0&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

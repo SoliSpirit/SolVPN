@@ -107,3 +107,5 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.150:8443?sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?allowInsecure=0&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?sni=jp.reddotcorp.org&fp=firefox&security=tls#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.245.40.193:5555#🇯🇵 Join+Telegram:@SolVPN 🇯🇵

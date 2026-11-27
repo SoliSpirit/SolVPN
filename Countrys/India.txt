@@ -1,1 +1,1 @@
-vless://84d4b268-0a82-4c9d-9517-03ea78e8d505@162.159.237.112:443?&security=tls&fp=chrome&sni=3xui.995677.xyz&type=ws&headerType=none&host=3xui.995677.xyz&path=%2Fvless%2F84d4b268-0a82-4c9d-9517-03ea78e8d505#🇮🇳 Join+Telegram:@SolVPN 🇮🇳
+vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@147.93.171.8:8443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=147-93-171-8.sslip.io&type=ws&headerType=none&host=147-93-171-8.sslip.io&path=%2Fvpn-live#🇮🇳 Join+Telegram:@SolVPN 🇮🇳

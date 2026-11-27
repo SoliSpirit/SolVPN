@@ -1,3 +1,5 @@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.109.228.110:19999#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://c6b0a7f0-4a4e-47aa-975a-35988278ab85@ipfast.kingmna.com:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=fraboijji.global.ssl.fastly.net.&path=%2F#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?sni=138.124.70.41&type=ws&host=138.124.70.41&path=/vless#🇫🇷 Join+Telegram:@SolVPN 🇫🇷

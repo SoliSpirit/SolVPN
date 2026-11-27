@@ -34,3 +34,4 @@ vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=/vless/&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0ca80064-0265-44ec-aaec-a8f7d799f293@wryly-messiest.video-streams.org:443?&security=tls&fp=chrome&sni=wryly-messiest.video-streams.org&type=ws&headerType=none&host=wryly-messiest.video-streams.org&path=%2Fws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://7ff1e7e1-2b5a-4e53-ae77-1516f9eb7754@51.194.118.38:443?sni=a1259.ve8nzuk.com&type=grpc&serviceName=50a5f706c8ea4433838a207d435fbf031b008a9a&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

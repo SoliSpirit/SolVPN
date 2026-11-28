@@ -37,3 +37,5 @@ vmess://eyJhZGQiOiIxNzIuMTExLjM4LjI0NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIs
 vless://989d58b8-d2ea-4d28-b5ff-0f3cd078f2cf@www.gov.se:8080?sni=www.gov.se&type=ws&host=sdf23g-billowing-moon-348e.mzm468gc.workers.dev&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.40.57.134:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?&security=tls&fp=firefox&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.48:443?&security=tls&sni=uub01.gg9901.uk&type=ws&headerType=none&host=uub01.gg9901.uk&path=%2Fimages#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@uuafe56.cf.877774.xyz:443?&security=tls&sni=uua01.gg9901.uk&type=ws&headerType=none&host=uua01.gg9901.uk&path=%2Fimages#🇺🇸 Join+Telegram:@SolVPN 🇺🇸

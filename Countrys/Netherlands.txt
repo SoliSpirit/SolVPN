@@ -8,3 +8,4 @@ vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=/vless/&sec
 vless://7ff1e7e1-2b5a-4e53-ae77-1516f9eb7754@51.194.118.38:443?sni=a1259.ve8nzuk.com&type=grpc&serviceName=50a5f706c8ea4433838a207d435fbf031b008a9a&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://9afdc92d-4e88-4787-8d75-c95f7685d294@free-server.techsonic.dev:443?sni=aka.ms&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://7aa77858-f235-000c-9434-7ab060848b17@85.8.201.186:443?sni=cdn.mornismp.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱

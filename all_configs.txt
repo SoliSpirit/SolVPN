@@ -128,3 +128,4 @@ vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@jllp.cf.877774.xyz:443?&security=tl
 vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@er5we.cf.877774.xyz:443?&security=tls&sni=era01.gg9901.uk&type=ws&headerType=none&host=era01.gg9901.uk&path=%2Fimages#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.48:443?&security=tls&sni=uub01.gg9901.uk&type=ws&headerType=none&host=uub01.gg9901.uk&path=%2Fimages#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@uuafe56.cf.877774.xyz:443?&security=tls&sni=uua01.gg9901.uk&type=ws&headerType=none&host=uua01.gg9901.uk&path=%2Fimages#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://0c492b73-98de-4ad2-bbe9-eb25661d17ac@149.104.5.141:443?sni=byyzz.pages.dev&type=ws&host=byyzz.pages.dev&path=/?proxyip=proxyip.oracle.cmliussss.netfp=chrome&security=tls#🇨🇳 Join+Telegram:@SolVPN 🇨🇳

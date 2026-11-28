@@ -1,3 +1,2 @@
-vless://9f749472-c636-4c5a-af51-7f8feefaac81@ws.dhafhdtjdti.site:2053?&security=tls&fp=chrome&sni=ws.dhafhdtjdti.site&type=ws&headerType=none&host=ws.dhafhdtjdti.site&path=%2F#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪

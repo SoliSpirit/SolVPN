@@ -1,1 +1,3 @@
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.150:8443?sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUiLCJhZGQiOiIxODUuMjEyLjE0OS43IiwicG9ydCI6NTIwODAsImlkIjoiZWMzYzhiOTctZjMwOC00ZmVlLWFhMTYtOTVlMmM3NTk1YWNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8zeCIsImhvc3QiOiJkb3duLWNkbi5kaW5ndGFsay5jb20iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

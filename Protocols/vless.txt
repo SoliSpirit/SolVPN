@@ -57,3 +57,4 @@ vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@uuafe56.cf.877774.xyz:443?&security
 vless://0c492b73-98de-4ad2-bbe9-eb25661d17ac@149.104.5.141:443?sni=byyzz.pages.dev&type=ws&host=byyzz.pages.dev&path=/?proxyip=proxyip.oracle.cmliussss.netfp=chrome&security=tls#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.171:443?&security=tls&sni=eeeccc.ttttlefjljl.xyz&type=ws&headerType=none&host=eeeccc.ttttlefjljl.xyz&path=%2Fimages#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://8be20011-59b1-4118-91ed-83e8e6b662cd@202.166.187.132:443?encryption=none&security=tls&type=ws&host=f.yoptybla.ru&path=%2F&sni=f.yoptybla.ru&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬

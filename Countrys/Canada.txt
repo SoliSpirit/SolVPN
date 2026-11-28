@@ -4,3 +4,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?#🇨🇦 Join+Tel
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?sni=freeceshi6.frii.site&type=ws&host=freeceshi6.frii.site&path=/proxyip=ProxyIP.JP.CMLiussss.netfp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://97514cec-cf70-42b1-9743-3f89122adc8e@104.16.244.34:2053?sni=cffq.pages.dev&type=ws&host=cffq.pages.dev&path=/?ed=2560fp=chrome&security=tls#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Join+Telegram:@SolVPN 🇨🇦

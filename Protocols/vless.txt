@@ -49,3 +49,4 @@ vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?&type=ws&headerType=none&host=95.128.71.79&path=%2Fvless#🇧🇾 Join+Telegram:@SolVPN 🇧🇾
 vless://97514cec-cf70-42b1-9743-3f89122adc8e@104.16.244.34:2053?sni=cffq.pages.dev&type=ws&host=cffq.pages.dev&path=/?ed=2560fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?&security=tls&fp=firefox&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://a61ce788-6cfe-4bbe-9f81-155ea8fa8e16@82.152.18.32:443?sni=diyichongdi.us.ci&security=tls#🇬🇧 Join+Telegram:@SolVPN 🇬🇧

@@ -115,3 +115,9 @@ trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#🇲🇾 Join+Telegr
 vless://7aa77858-f235-000c-9434-7ab060848b17@85.8.201.186:443?sni=cdn.mornismp.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?&type=ws&headerType=none&host=95.128.71.79&path=%2Fvless#🇧🇾 Join+Telegram:@SolVPN 🇧🇾
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.40.57.134:19999#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://97514cec-cf70-42b1-9743-3f89122adc8e@104.16.244.34:2053?sni=cffq.pages.dev&type=ws&host=cffq.pages.dev&path=/?ed=2560fp=chrome&security=tls#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://12012@47.242.93.89:12012?allowInsecure=1&sni=ali-hk.b-gfw.cfd#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?&security=tls&fp=firefox&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJJci53YnpvLmlyIiwicG9ydCI6MjA4MCwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiYjdlM2U4YWYtZDFjYS00NWRhLWE5NWYtOGI5YWQ3NzM5OGIxIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.135.5.220:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

@@ -5,3 +5,5 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?#🇩🇪 Join+Tele
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@57.129.83.85:19999#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@185.125.50.21:2053?sni=185.125.50.21&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJJci53YnpvLmlyIiwicG9ydCI6MjA4MCwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiYjdlM2U4YWYtZDFjYS00NWRhLWE5NWYtOGI5YWQ3NzM5OGIxIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.135.5.220:443#🇩🇪 Join+Telegram:@SolVPN 🇩🇪

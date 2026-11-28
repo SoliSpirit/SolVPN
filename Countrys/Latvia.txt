@@ -1,1 +1,2 @@
 ss://YWVzLTEyOC1nY206RUUyVldlS29oSXdUeDZIR09vMVgycDFqak5BVWZSV1M@109.248.148.141:11471#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
